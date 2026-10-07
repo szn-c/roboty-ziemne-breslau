@@ -1,4 +1,6 @@
-# Fakty z usuniętych dokumentów (NIEZWERYFIKOWANE – sprawdź w pierwszej kolejności)
+# Fakty z usuniętych dokumentów
+
+> **Sprawdzone 7.10.2026 (wieczór)** – wynik w `prace/WERYFIKACJA_raport.md`. Poprawki: zestawienie F ma **11 próbek (7 glin)** – pominięto otwór 39 (poza działką); poziomy z rzutów PW potwierdzone tekstem dla wszystkich 8 budynków; pogrubienia d.k. −4,34 mają wymiar 4,40 × 3,40 m (143 szt.). Uwag ogólnych PW (obraz) nie oglądano ponownie; chudy beton 10 cm potwierdza przekrój B-B 2C.
 
 Wyciągnięte przy weryfikacji optymalizacji repo. Dotyczą wprost dna wykopu, ilości wykopu i oceny gruntu.
 

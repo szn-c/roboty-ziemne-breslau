@@ -33,4 +33,5 @@ Plik jest wektorowy – nie renderuj go dużym zoomem (użyj `renderuj_pdf.py`).
 | mapy 1, 2, 3, 4.2–4.8 | nie | treść w kartach otworów, przekrojach 6.x i tekście; mapa 4.3 (nasyp) mogłaby rozstrzygnąć sprzeczność 20/23 – rozstrzyga karta otworu |
 | `7 CPTU`, `C`, `D`, `E` (analizy) | nie (opcjonalnie) | tekst w ekstraktach |
 | `A decyzja PRG`, `B licencje`, `G chemia wody` | nie (poza zakresem) | – |
-| poprzednia wersja PZT (17,5 MB, **wektorowa**) | tylko jeśli strefy z rastra okażą się niewystarczające | w historii gita; wektory pozwalają wyciągnąć strefy po kolorach wypełnień |
+| poprzednia wersja PZT (17,5 MB, **wektorowa**) | **TAK** – sesja 7.10 (wieczór): na niej sprawdzono obrysy hal i granicę (pliki `*_checked` są pomniejszone o 0,37%), posłuży do stref | odzysk: `git show 851b25a:"dokumentacja/04_projekt_zagospodarowania_i_architektura/6. PZT.pdf" > prace/_odzyskane/PZT_wektorowy.pdf` (robi to sam `prace/weryfikacja/pzt_wektor_hale.py`) |
+| mapa 4.3 (nasypy) | sprawdzona tekstowo – etykiety nasypu przy otworach 5, 17, 20 | `git show 851b25a:"…/4.3 Mapa gruntów antropogenicznych.pdf"` |

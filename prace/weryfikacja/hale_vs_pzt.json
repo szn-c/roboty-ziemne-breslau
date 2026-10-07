@@ -1,0 +1,108 @@
+{
+ "1": {
+  "dE": 0.42,
+  "dN": -0.22,
+  "odsuniecie": -0.1,
+  "udzial": 0.267,
+  "udzial_bez_przesuniecia": 0.076,
+  "boki": [
+   0.22,
+   0.42,
+   0.15,
+   0.22
+  ]
+ },
+ "2": {
+  "dE": 0.2,
+  "dN": -0.18,
+  "odsuniecie": -0.1,
+  "udzial": 0.246,
+  "udzial_bez_przesuniecia": 0.023,
+  "boki": [
+   0.23,
+   0.0,
+   0.33,
+   0.29,
+   0.3,
+   0.13
+  ]
+ },
+ "3": {
+  "dE": 0.3,
+  "dN": -0.54,
+  "odsuniecie": -0.12,
+  "udzial": 0.284,
+  "udzial_bez_przesuniecia": 0.0,
+  "boki": [
+   0.0,
+   0.25,
+   0.45,
+   0.39
+  ]
+ },
+ "4": {
+  "dE": -0.3,
+  "dN": -1.38,
+  "odsuniecie": 0.98,
+  "udzial": 0.282,
+  "udzial_bez_przesuniecia": 0.001,
+  "boki": [
+   0.0,
+   0.2,
+   0.32,
+   0.51
+  ]
+ },
+ "5": {
+  "dE": 0.0,
+  "dN": -0.76,
+  "odsuniecie": -0.1,
+  "udzial": 0.264,
+  "udzial_bez_przesuniecia": 0.004,
+  "boki": [
+   0.38,
+   0.22,
+   0.16,
+   0.3
+  ]
+ },
+ "6": {
+  "dE": 0.52,
+  "dN": -0.52,
+  "odsuniecie": -0.1,
+  "udzial": 0.258,
+  "udzial_bez_przesuniecia": 0.0,
+  "boki": [
+   0.14,
+   0.32,
+   0.46,
+   0.14
+  ]
+ },
+ "7": {
+  "dE": 0.3,
+  "dN": -0.9,
+  "odsuniecie": -0.1,
+  "udzial": 0.243,
+  "udzial_bez_przesuniecia": 0.014,
+  "boki": [
+   0.14,
+   0.24,
+   0.41,
+   0.21
+  ]
+ },
+ "8": {
+  "dE": 1.0,
+  "dN": -0.8,
+  "odsuniecie": 0.1,
+  "udzial": 0.234,
+  "udzial_bez_przesuniecia": 0.0,
+  "boki": [
+   0.43,
+   0.0,
+   0.36,
+   0.28
+  ]
+ }
+}
