@@ -2,20 +2,25 @@
 
 Zasada: **nie trzymamy w sesji niepotrzebnych dużych plików**. Teksty wszystkich dokumentów (także usuniętych) są w `prace/ekstrakty_tekstu/` – czytaj najpierw je.
 Usunięte pliki **nie zniknęły**: leżą w historii gita. Odzyskasz je tylko gdy naprawdę potrzebne:
-`git show 851b25a:"dokumentacja/04_projekt_zagospodarowania_i_architektura/PW_4B-K-01_Rzut fundamentów.pdf" > /tmp_nie_uzywac/plik.pdf` (zapisz w katalogu roboczym, nie w `/tmp`; plik wektorowy, nie renderuj go dużym zoomem).
+Odzysk (w katalogu repo, wynik zapisz w katalogu roboczym, np. `prace/_odzyskane/`, nie w `/tmp`):
+```
+mkdir -p prace/_odzyskane
+git show 851b25a:"dokumentacja/04_projekt_zagospodarowania_i_architektura/PW_4B-K-01_Rzut fundamentów.pdf" > "prace/_odzyskane/PW_4B.pdf"
+```
+Plik jest wektorowy – nie renderuj go dużym zoomem (użyj `renderuj_pdf.py`). Katalog `prace/_odzyskane/` jest w `.gitignore`.
 
 ## Dokumenty w repo (do czytania)
 | Dokument | Rola | Tekst | Uwagi |
 |---|---|---|---|
-| `01.../DGI Wrocław Wojszyce.doc` | **dokumentacja geologiczno-inżynierska (priorytet 1)** | tak | DOC, tekst przez `wyciagnij_tekst_dokumentow.py` |
-| `01.../4.1 Mapa sytuacyjno-wysokościowa.pdf` | lokalizacja otworów, raster 1:1000 | prawie brak | 3070 px osadzonego obrazu – tylko wycinki |
-| `01.../5.1 - 5.28 Karty otworów geol-inż.pdf` | **profile 28 otworów (dane pierwotne)** | tak | |
-| `01.../8 Tabela parametrów geologiczno-inżynierskich.pdf` | parametry warstw (ρ, φ, c, M…) | tak | |
-| `01.../zał. 6 przekroje.../6.1…6.12` | przekroje geologiczno-inżynierskie | tak | wektorowe |
-| `02.../3. PROJEKT GEOTECHNICZNY…pdf` | projekt geotechniczny (pomocniczo) | tak | |
+| `dokumentacja/01_geologiczno_inzynierska/DGI Wrocław Wojszyce.doc` | **dokumentacja geologiczno-inżynierska (priorytet 1)** | tak | DOC, tekst przez `wyciagnij_tekst_dokumentow.py` |
+| `dokumentacja/01_geologiczno_inzynierska/załączniki graficzne/4.1 Mapa sytuacyjno-wysokościowa.pdf` | lokalizacja otworów, raster 1:1000 | prawie brak | 3070 px osadzonego obrazu – tylko wycinki |
+| `dokumentacja/01_geologiczno_inzynierska/załączniki graficzne/5.1 - 5.28 Karty otworów geol-inż.pdf` | **profile 28 otworów (dane pierwotne)** | tak | |
+| `dokumentacja/01_geologiczno_inzynierska/załączniki graficzne/8 Tabela parametrów geologiczno-inżynierskich.pdf` | parametry warstw (ρ, φ, c, M…) | tak | |
+| `dokumentacja/01_geologiczno_inzynierska/załączniki graficzne/zał. 6 przekroje geologiczno - inżynierskie/6.1…6.12` | przekroje geologiczno-inżynierskie | tak | wektorowe |
+| `dokumentacja/02_projekt_geotechniczny/3. PROJEKT GEOTECHNICZNY Lutoslawskiego 250410.pdf` | projekt geotechniczny (pomocniczo) | tak | |
 | `03.../2. OPINIA GEOTECHNICZA…pdf` | opinia geotechniczna (pomocniczo) | tak | 206 obrazów osadzonych (do 4605 px) – nie renderować wprost |
-| `04.../6. PZT.pdf` | PZT „wyniesienie" 1:250: rzędne, Bilans terenu | tak (39 637 zn.) | **spłaszczony do rastra** (jeden obraz 8503×5181 px, zero wektorów) |
-| `04.../8. Przekroje terenowe z naniesionym średnim poziomem wody gruntowej.pdf` | rzędne i poziom wody | tak | wektorowy, strona 4252×1684 pt |
+| `dokumentacja/04_projekt_zagospodarowania_i_architektura/6. PZT.pdf` | PZT „wyniesienie" 1:250: rzędne, Bilans terenu | tak (39 637 zn.) | **spłaszczony do rastra** (jeden obraz 8503×5181 px, zero wektorów) |
+| `dokumentacja/04_projekt_zagospodarowania_i_architektura/8. Przekroje terenowe z naniesionym średnim poziomem wody gruntowej.pdf` | rzędne i poziom wody | tak | wektorowy, strona 4252×1684 pt |
 | `prace/dane_wejsciowe_uzytkownika/*_checked.txt` i `siatka_10m_dz190_checked.dxf` | **obrysy użytkownika (obowiązujące)** | – | patrz README tego folderu |
 
 ## Usunięte przez użytkownika – decyzja i uwagi z weryfikacji

@@ -77,4 +77,4 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 | M2 | Kontrola metodą siatki 10 m zgadza się z rastrem 0,5 m | różnica −0,12% | powtórzyć dla nowych założeń |
 
 ## Część 3. Czego nie liczyć ponownie
-Nie trzeba powtarzać analizy skali (3,7%), modelu terenu ani odtwarzania geometrii z PDF, jeśli weryfikacja (T2) wyjdzie zgodnie. Silnik rastra (`oblicz_bilans.py`, `eg_model.py`) można wykorzystać po dostosowaniu do nowych założeń stref.
+Nie trzeba powtarzać analizy skali (3,7% – dotyczy już nieaktualnego szkicu) ani modelu terenu, jeśli weryfikacja (T2) wyjdzie zgodnie. Geometrii z PDF nie odtwarzamy: obowiązują pliki `*_checked` użytkownika. Silnik rastra (`oblicz_bilans.py`, `eg_model.py`) można wykorzystać po dostosowaniu do nowych założeń stref.
