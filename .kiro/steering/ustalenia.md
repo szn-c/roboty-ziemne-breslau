@@ -89,6 +89,13 @@ Jeśli rzędna podbudowy wychodzi poniżej powierzchni po zdjęciu humusu, nie k
   Teksty dokumentów: `prace/obliczenia_v1/_skrypt/wyciagnij_tekst_dokumentow.py`.
 - Silnik obliczeń rastra 0,5 m (teren, humus, skład gruntu): `prace/obliczenia_v1/_skrypt/oblicz_bilans.py` (do przeróbki pod nowe założenia).
 
+### 6a. Obrazy – twardy limit 2000 px (wcześniej zablokował sesję)
+Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mieć **≤ 2000 px** na każdym boku, inaczej sesja blokuje się na stałe (błąd „image dimensions exceed max allowed size for many-image requests"). Szczegóły i tabela dokumentów: `prace/OBRAZY_LIMIT_2000PX.md`.
+- **Najpierw tekst** (`prace/ekstrakty_tekstu/`, dane wektorowe PDF). Obraz tylko gdy nie ma innej drogi.
+- **Obrazy renderuj tylko** `prace/obliczenia_v1/_skrypt/renderuj_pdf.py` (max 1500 px, wycinki/kafelki). Nigdy `Matrix(2,2)` na dużych stronach (PZT ma 4252 pt szerokości).
+- Przed wczytaniem obrazu: `python renderuj_pdf.py --sprawdz plik.png`. Nie wczytuj obrazów > 1500 px; nie więcej niż ok. 15 obrazów na sesję.
+- **Zapisuj postęp do repo** po każdym etapie w `prace/POSTEP.md`. Gdy sesja się zablokuje: nowa sesja, kontynuacja od tego pliku.
+
 ## 7. Co już wiadomo (NIEZWERYFIKOWANE – sprawdź w pkt 3)
 - Układ: PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH (dokumentacja geol.-inż. to podaje). W CAD X = E (6 433 xxx), Y = N (5 658 xxx).
 - Rzut zabezpieczenia wykopu (PDF wektorowy) ma siatkę krzyży co 50 m; odczytano z niego ściankę (pole 20 661,7 m², obwód 563,5 m), 8 obrysów hal (razem 11 927,1 m²) i granicę działki (25 611 m² wobec oficjalnych 25 290,00 m²).

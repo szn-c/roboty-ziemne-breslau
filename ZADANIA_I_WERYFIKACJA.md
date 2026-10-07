@@ -7,7 +7,7 @@ Zasady: `USTALENIA.md` (to samo co `.kiro/steering/ustalenia.md`).
 
 | Krok | Co zrobić | Wynik (plik) | Gotowe, gdy |
 |---|---|---|---|
-| T0 | Przeczytaj `USTALENIA.md`, obejrzyj strukturę repo, zainstaluj biblioteki. **Znajdź wszystkie dokumenty w repo** (mogą leżeć poza `dokumentacja/`) i zapisz ścieżki. Uruchom `wyciagnij_tekst_dokumentow.py` dla nowych dokumentów. | `prace/MAPA_DOKUMENTOW.md` | wiesz, gdzie jest każdy dokument (w tym mapa do celów projektowych) |
+| T0 | Przeczytaj `USTALENIA.md`, obejrzyj strukturę repo, zainstaluj biblioteki. **Znajdź wszystkie dokumenty w repo** (mogą leżeć poza `dokumentacja/`) i zapisz ścieżki. Uruchom `wyciagnij_tekst_dokumentow.py` dla nowych dokumentów. **Przeczytaj `prace/OBRAZY_LIMIT_2000PX.md`** (limit obrazów!). Zakładaj `prace/POSTEP.md`. | `prace/MAPA_DOKUMENTOW.md` | wiesz, gdzie jest każdy dokument (w tym mapa do celów projektowych) |
 | T1 | Przeczytaj dokumentację **w kolejności priorytetu** (geologiczno-inżynierska, projekt geotechniczny, opinia). Wypisz: warstwy i ich opis, zalecenia robót ziemnych, zwierciadło wody i wahania, odwodnienie, skarpy, przydatność gruntów do nasypów, gęstości, ewentualne spulchnienie. | `prace/ekstrakt_dokumentacji.md` (z numerami stron) | każdy parametr ma źródło |
 | T2 | **Weryfikacja ustaleń** (Część 2). | `prace/WERYFIKACJA_raport.md` | każda pozycja: ZGODNE / NIEZGODNE / BRAK DANYCH + dowód |
 | T3 | Zgłoś użytkownikowi niezgodności i pytania otwarte (`USTALENIA.md` pkt 8). Poczekaj na odpowiedzi. | – | decyzje zapisane w `USTALENIA.md` |
