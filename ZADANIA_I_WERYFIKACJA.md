@@ -27,16 +27,16 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
 | U1 | PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH | dokumentacja geol.-inż. tak podaje | przeczytać w dokumentacji i w rzędnych fundamentów |
-| U2 | Układ współrzędnych i położenie obrysów jest zgodne z siatką projektanta (krzyże co 50 m; napisy 6433700 i 5659050) | w poprzednich sesjach: 20 krzyży, skala 1:1270,5, odchyłka 1,4 cm – z rzutu zabezpieczenia, **którego już nie ma w repo** | sprawdzić na rzutach fundamentów `PW_*`, PZT i w DWG użytkownika (krzyże 50 m w moim DXF są tylko okrągłymi E/N – to nie dowód) |
+| U2 | Układ współrzędnych i położenie obrysów jest zgodne (PL-2000/6, wysokości PL-KRON86-NH) | dokumentacja geol.-inż. podaje układ; obrysy `*_checked` użytkownika zgadzają się z odczytem z rysunku projektanta (hale 1, 3–8: pola +0,2–0,4%, środki do ok. 1 m) | sprawdzić zgodność obrysów z siatką/współrzędnymi na PZT i na przekrojach terenowych oraz z otworami (4.1) |
 | U3 | PZT w skali 1:250, obrót ok. 7,37° względem układu | zgodność z rzutem zabezpieczenia na 649 wspólnych rzędnych (śr. różnica 0,05/0,14 m) | porównać z dokumentacją z rzędnymi |
 | U4 | Mapa 4.1 (raster 1:1000) jest zgodna z PZT co do położenia otworów i granicy | nie sprawdzano | nałożyć otwory z tabeli współrzędnych na mapę i granicę |
 
 ### Obrysy i granice
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
-| G1 | **Obrysy 8 hal** (zewnętrzne): pola 1524,4 / 1092,2 / 1523,4 / 1605,8 / 1524,5 / 1523,3 / 1525,0 / 1608,6 m² (`dane/geometria_G.json`) | odczytane z usuniętego PDF; DWG użytkownika ma **stary szkic** hal (1429,13 / 1024,67 / 1507,53 m²) – nie używać | **porównać z rzutami fundamentów `PW_*-K-01`** (folder 04): położenie, wymiary, czy to zewnętrzna krawędź ściany/płyty |
-| G2 | **Ścianka wykopu**: wielokąt 11 wierzchołków, pole 20 661,7 m², obwód 563,5 m (na rysunku było ok. 565 mb) | tylko w `geometria_G.json` i w moim DXF (źródłowy PDF usunięty); DWG użytkownika ma **starą ściankę** 19 244,63 m² – nie używać | porównać z obrysami fundamentów i przekrojami terenowymi; sprawdzić odległości hala–ścianka (0,78–8,9 m; hala 1: 0,78 m, czyli mniej niż 1,0 m przestrzeni roboczej). Jeśli użytkownik ma poprawną ściankę w DXF – użyć jej |
-| G3 | **Granica działki** 1/90: oficjalnie 25 290,00 m² | dwa kandydaci: (a) z DWG użytkownika (warstwa `A-granica inwest.`, 17 wierzchołków, 25 105,44 m², −0,73%) i (b) z rysunku projektanta (25 611 m², +1,27%); różnica powierzchni 627 m², krawędzie do 4,7 m (SE), średnia odległość wierzchołków 0,94 m | zdecydować po porównaniu z **MDCP** (skan bez tekstu – oglądać wycinkami, patrz `prace/OBRAZY_LIMIT_2000PX.md`); wierzchołki (a): `prace/dane_wejsciowe_uzytkownika/wierzcholki_granica_inwest_z_DWG_uzytkownika.txt` |
+| G1 | **Obrysy 8 hal** (`wierzcholki_polilinii_hala1-8_checked.txt`): pola 1528,37 / 1212,39 / 1528,36 / 1612,25 / 1528,38 / 1528,38 / 1528,38 / 1612,17 m²; razem 12 078,68 m² | hala 2 (6 wierzchołków) potwierdzona przez użytkownika jako poprawna; rzuty fundamentów usunięte (obrysy naniesione na DXF) | porównać z PZT; rozbieżność z odczytem z rysunku projektanta tylko przy hali 2 (+11%), reszta +0,2–0,4% |
+| G2 | **Ścianka wykopu** (`..._wykop_checked.txt`): 11 wierzchołków, polilinia **otwarta**; pole po sztucznym domknięciu 20 266,12 m², obwód 562,89 m | użytkownik: odcinek zamykający nie istnieje i przecina jedną halę (to nie błąd); rysunek projektanta dawał 20 661,7 m² | ustalić, jak definiujemy granicę wykopu w miejscu otwarcia ścianki (zamknięcie przez obrys hali?) i sprawdzić odległości hala–ścianka (hala 1 blisko ścianki) |
+| G3 | **Granica działki** (`..._granica_działki_checked.txt`): 17 wierzchołków, 25 105,56 m² (oficjalnie 25 290,00 m², −0,73%) | użytkownik naniósł ją z MDCP na DXF; wcześniejszy odczyt z rysunku projektanta: 25 611 m² | zaakceptować plik użytkownika; różnica 184 m² do pola oficjalnego wynika z dokładności odczytu |
 | G4 | Dotychczasowy szkic użytkownika jest o 3,7% za mały | skala 1,0371, odchyłka 0,13 m | tylko informacja; nie używać szkicu |
 | G5 | 17 otworów leży w obrębie działki 1/90 (2, 3, 5, 7, 9–12, 14–18, 20, 21, 23, 24) | wybór z mapy 4.1; dokumentacja ma otwory 2–40 | sprawdzić każdy otwór względem granicy 1/90; otwory 25–40 prawdopodobnie na 1/97 |
 
@@ -45,8 +45,8 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 |---|---|---|---|
 | R1 | ±0,00 = 126,00 m npm | z PZT i przekroju | potwierdzić w dokumentacji z rzędnymi |
 | R2 | Posadzka garażu 122,57 (−3,43); korytka −3,51 | z przekroju B-B i opisów na rzucie | potwierdzić; sprawdzić, czy wszystkie hale mają ten sam poziom i czy są miejsca głębsze (−3,60?) |
-| R3 | **Dno wykopu 121,97** = 122,57 − płyta 0,50 (użytkownik) − chudy beton 0,10 | płyta 0,50 m podana przez użytkownika; chudy beton 10 cm był tylko na przekroju B-B, którego już nie ma w repo | sprawdzić grubość płyty i warstw w dokumentacji konstrukcji i w projekcie geotechnicznym; czy jest podsypka; posadzkę 122,57 potwierdzają PZT i PZT garaże |
-| R4 | **Teren istniejący** (model): średnio 124,66 m npm w obrysie ścianki | czarne rzędne pomiarowe z PZT + otwory; zgodność rzędnych otworów z PZT: śr. różnica +0,017 m, odch. std. 0,062 m (n = 16) | porównać z **mapą do celów projektowych**, mapą 4.1 i nową dokumentacją z rzędnymi; sprawdzić datę pomiaru |
+| R3 | **Dno wykopu** | v1: 121,97 (= 122,57 − 0,50 − 0,10). Rzuty fundamentów: d.k. płyty −4,04 (**121,96**), podbeton C8/10 ≥ 10 cm pod fundamentami → ok. **121,86**; posadzka −3,43 leży na nadbetonie ok. 11 cm nad płytą; elementy głębsze do −6,00 (120,00) | uzgodnić z użytkownikiem dno wykopu (121,86 czy 121,97); zmapować elementy głębsze (powierzchnie i głębokości) z przekrojów A-A…I-I na rzutach (odzyskać PW_* z gita, patrz `prace/MAPA_DOKUMENTOW.md`) |
+| R4 | **Teren istniejący** (model): średnio 124,66 m npm w obrysie ścianki | czarne rzędne pomiarowe z tekstu PZT (239) + otwory; zgodność rzędnych otworów z PZT: śr. +0,017 m, odch. std. 0,062 m (n = 16); rzędne w warstwach DXF użytkownika to stare wstępne (z 17 otworów) – nie MDCP | porównać z przekrojami terenowymi (8.) i otworami; MDCP usunięty – nie ma niezależnego źródła poza PZT |
 | R5 | Teren istniejący – **siatka 10 m z rzutu zabezpieczenia** jest zawyżona o 0,08–0,11 m i ma literówki (np. 126,2) | tak wynikało z porównania | potwierdzić albo odrzucić; nie używać wprost |
 | R6 | **Teren projektowany**: ok. 125,98 przy narożnikach budynków; 125,40–125,98 (śr. 125,77) między halami; 124,40–125,96 (śr. 125,52) poza ścianką; przekrój: 125,89 | z napisów na PZT, 90 punktów | wziąć pełne rzędne projektowe z nowej dokumentacji (podział na strefy) |
 | R7 | Rzędne otworów H (zaokrąglone do 0,1 m) | z tabeli DGI | porównać z mapą 4.1, PZT i rzędnymi |
@@ -60,7 +60,10 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 | D4 | Zwierciadło wody: użyto „ustabilizowanego" (0,9–3,7 m p.p.t.) | badania 15–31.07.2025 (okres suchy); dokumentacja: wahania co najmniej ±0,5 m, woda w wkładkach piasku, swobodna i naporowa, „nie zawsze możliwy pomiar" | ustalić poziom miarodajny do odwodnienia i do oceny wilgotności gruntu |
 | D5 | Grubość gleby: 0,40–0,80 m w 17 otworach | dokumentacja podaje maksimum 0,90 m (prawdopodobnie inny otwór) | sprawdzić wszystkie otwory |
 | D6 | Przydatność gruntów do nasypów | nie ustalono | wyciągnąć kryteria z dokumentacji i projektu/opinii geotechnicznej |
-| D7 | Współczynniki spulchnienia (humus 1,25; nasyp 1,25; glina 1,30; piasek 1,15) i gęstości (1,5 / 1,8 / 2,1 / 1,9 t/m³) | typowe wartości, nie z dokumentu | zastąpić wartościami z dokumentacji (tabela parametrów, załącznik 8) |
+| D7 | Współczynniki spulchnienia (humus 1,25; nasyp 1,25; glina 1,30; piasek 1,15) i gęstości | v1: typowe wartości (glina 2,1 t/m³); badania lab. (F): ρ glin 2,18–2,35 g/cm³, piaski wn 14,6–21,0% | zastąpić wartościami z tabeli parametrów (zał. 8), badań F i projektu geotechnicznego; spulchnienie z projektu/opinii lub zapytać użytkownika |
+
+| R8 | Szczelne zabezpieczenie wykopu po obwodzie z korkiem jet-grouting (uwagi na rzutach fundamentów) | w uwagach ogólnych rzutów PW_*, nie w tekście PDF | uwzględnić przy założeniach o odwodnieniu i wykopie; potwierdzić w projekcie geotechnicznym i opinii |
+| D8 | Przydatność glin do wbudowania | badania F: 6 próbek glin twardoplastycznych (IL 0,01–0,08), wn tylko 0–2 pp powyżej Wp; założenie v1 „gliny pod wodą = mokre, nieprzydatne" nieudowodnione | oprzeć klasyfikację na dokumentacji (Wopt/Proctor, kryteria dla nasypów w projekcie geotechnicznym) |
 
 ### Powierzchnie zagospodarowania (PZT, „Bilans terenu")
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
@@ -70,7 +73,7 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 ### Metoda
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
-| M1 | Geometrię i rzędne z PDF można odtworzyć skryptem | w v1 wszystko identyczne; **teraz brak rzutu zabezpieczenia w repo**, więc geometrii nie da się odtworzyć (działa tylko część z rzędnymi z PZT) | uruchomić `wyciagnij_dane_z_pdf.py` (rzędne z PZT) |
+| M1 | Rzędne z PZT można odtworzyć skryptem | `wyciagnij_dane_z_pdf.py`: 239 rzędnych terenu i 90 projektowych identyczne jak wcześniej (nowy PZT ma nienaruszoną warstwę tekstową); geometrii z PDF już nie odtwarza (rzutu zabezpieczenia nie ma) | uruchomić skrypt |
 | M2 | Kontrola metodą siatki 10 m zgadza się z rastrem 0,5 m | różnica −0,12% | powtórzyć dla nowych założeń |
 
 ## Część 3. Czego nie liczyć ponownie

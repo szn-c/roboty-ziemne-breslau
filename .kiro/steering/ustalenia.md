@@ -20,27 +20,26 @@ humus, nasyp niekontrolowany i grunt rodzimy: ile zebrać, ile na odkład (ponow
 Wynik w **arkuszu Excel**, w **dwóch wariantach** (A i B), po polsku.
 
 ## 3. OBOWIĄZKOWA KOLEJNOŚĆ PRACY
-1. Przeczytaj ten plik i `ZADANIA_I_WERYFIKACJA.md`.
-2. **Zapoznaj się z dokumentacją** przed jakimikolwiek obliczeniami. Pliki PDF wgrał użytkownik bezpośrednio do repo. Zwykle leżą w `dokumentacja/`, ale mogą być gdzie indziej:
-   znajdź je po nazwie i treści, a ścieżki zapisz w `prace/MAPA_DOKUMENTOW.md`. Kolejność czytania:
-   1. **dokumentacja geologiczno-inżynierska** (`01_geologiczno_inzynierska/`) – **największy priorytet**;
-   2. projekt geotechniczny (`02_projekt_geotechniczny/`) – pomocniczo;
-   3. opinia geotechniczna (`03_opinia_geotechniczna/`) – pomocniczo;
-   4. dokumentacja z rzędnymi i obrysami fundamentów (`05_rzedne_i_obrysy_fundamentow/`);
-   5. **mapa do celów projektowych** (w repo) – źródło geodezyjne dla **granicy działki** i rzędnych terenu istniejącego;
-   6. PZT, PZT garaże, przekroje terenowe z poziomem wody gruntowej i **rzuty fundamentów `PW_*-K-01`** (folder `04_...`, w nich obrysy fundamentów). Rzutu zabezpieczenia wykopu (PDF) i przekroju B-B **nie ma już w repo** (decyzja użytkownika: zbędne).
+1. Przeczytaj ten plik, `prace/MAPA_DOKUMENTOW.md`, `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`, `prace/OBRAZY_LIMIT_2000PX.md` i `ZADANIA_I_WERYFIKACJA.md`.
+2. **Zapoznaj się z dokumentacją** przed jakimikolwiek obliczeniami (czytaj najpierw teksty z `prace/ekstrakty_tekstu/`). Kolejność:
+   1. **dokumentacja geologiczno-inżynierska** (`dokumentacja/01_geologiczno_inzynierska/`) – **największy priorytet**;
+   2. projekt geotechniczny (`02_...`) – pomocniczo;
+   3. opinia geotechniczna (`03_...`) – pomocniczo;
+   4. PZT i przekroje terenowe z poziomem wody gruntowej (`04_...`);
+   5. obrysy użytkownika `*_checked` (`prace/dane_wejsciowe_uzytkownika/`) – obowiązująca geometria hal, ścianki i granicy.
+   Użytkownik **świadomie usunął z repo duże pliki** (MDCP, PZT garaże, rzuty fundamentów, mapy 4.2–4.8, analizy laboratoryjne, CPTU): wszystko naniósł na DXF i woli **uzupełniać brakujące dane w obliczeniach**, niż zapychać sesję plikami. Gdy czegoś brakuje: (a) sprawdź ekstrakty i `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`, (b) odzyskaj plik z historii gita (komenda w `prace/MAPA_DOKUMENTOW.md`; nie renderuj go dużym zoomem), (c) dopiero potem zapytaj użytkownika.
 3. **Zweryfikuj wszystkie dotychczasowe ustalenia** w oparciu o dokumentację z repo (lista w `ZADANIA_I_WERYFIKACJA.md`, w tym: **rzędne, mapa, lokalizacja obrysów hal garażowych i ścianek wykopu**).
    Wynik zapisz w `prace/WERYFIKACJA_raport.md`. Niezgodności zgłoś użytkownikowi **przed** obliczeniami.
 4. Dopiero potem obliczenia i arkusz.
 
-Hierarchia źródeł przy sprzeczności: dokumentacja geologiczno-inżynierska > projekt geotechniczny > opinia geotechniczna > rysunki projektu (PZT, rzuty) > dotychczasowe obliczenia (`prace/obliczenia_v1`). Granicę działki i rzędne terenu istniejącego porównuj z mapą do celów projektowych.
-Dane z poprzednich sesji (również te z plików `prace/obliczenia_v1`) traktuj jako **niezweryfikowane**, dopóki nie sprawdzisz ich w dokumentacji.
+Hierarchia źródeł przy sprzeczności: dokumentacja geologiczno-inżynierska > projekt geotechniczny > opinia geotechniczna > rysunki projektu (PZT, przekroje terenowe, fundamenty) > obrysy użytkownika (geometria) > dotychczasowe obliczenia (`prace/obliczenia_v1`).
+Dane z poprzednich sesji (również z `prace/obliczenia_v1`) traktuj jako **niezweryfikowane**, dopóki nie sprawdzisz ich w dokumentacji.
 
 ## 4. Założenia bilansu
 ### 4.1 Warianty wykopu (oba liczyć obok siebie)
 - **Wariant A** – wykop pod halami: obrys hali + przestrzeń robocza (dotąd 1,0 m), dalej skarpa (dotąd 1:1,5), wszystko w obrębie ścianki. Wartości przestrzeni roboczej i skarp sprawdź w dokumentacji/projekcie geotechnicznym.
 - **Wariant B** – cały obszar w ściance wykopany do dna, ściany pionowe.
-- Dno wykopu dotąd: **121,97 m npm** = posadzka 122,57 (±0,00 = 126,00; −3,43) − płyta 0,50 − chudy beton 0,10. **Do weryfikacji** z dokumentacją konstrukcji i rzędnymi.
+- Dno wykopu: v1 przyjmowało **121,97 m npm** (= posadzka 122,57 − płyta 0,50 − chudy beton 0,10). Rzuty fundamentów sugerują **ok. 121,86** (dolna krawędź płyty 121,96 minus podbeton C8/10 min. 10 cm); są też lokalne elementy głębsze, do 120,00. Szczegóły: `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. **Do weryfikacji i uzgodnienia z użytkownikiem.**
 
 ### 4.2 Pas poza ścianką
 Pas działki poza ścianką jest **odhumusowany, bez wykopów** (nie obniżamy gruntu rodzimego) i **podnoszony do rzędnej projektowej** (wbudowanie wg stref, pkt 4.4).
@@ -96,19 +95,23 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 
 ## 7. Co już wiadomo (NIEZWERYFIKOWANE – sprawdź w pkt 3)
 - Układ: PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH (dokumentacja geol.-inż. to podaje). W CAD X = E (6 433 xxx), Y = N (5 658 xxx).
-- Geometria ścianki, hal i granicy została odczytana w poprzednich sesjach z rzutu zabezpieczenia wykopu (PDF wektorowy z siatką krzyży co 50 m; **tego PDF nie ma już w repo**) i zapisana w `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` (ścianka: pole 20 661,7 m², obwód 563,5 m; 8 obrysów hal razem 11 927,1 m²; granica z rysunku 25 611 m² wobec oficjalnych 25 290,00 m²). Poprawny DXF z tymi obrysami: `prace/obliczenia_v1/04_gstarcad_siatka/obrysy_projektanta_i_siatka_dz190.dxf`.
-- **Podkład użytkownika** `prace/dane_wejsciowe_uzytkownika/podklad_uzytkownika_SZKIC_v0.dwg` to **DWG** (mimo wcześniejszego rozszerzenia .dxf; ezdxf go nie czyta – użyj `prace/obliczenia_v1/_skrypt/odczyt_dwg/`, odczyt gotowy w `..._odczyt.json`). Jego warstwy `OBRYS_HAL` i `7_SCIANKA_ORIENTACYJNA` zawierają **pierwszy szkic użytkownika, o 3,7% za mały** (hale 1 429,13 / 1 024,67 / 1 507,53 m²; ścianka 19 244,63 m²) – **NIE używać**. Warstwa `A-granica inwest.` (17 wierzchołków, otwarta polilinia, 25 105,44 m² wobec 25 290,00 m²) to granica działki narysowana przez użytkownika – **kandydat** do granicy (do porównania z MDCP).
-- Teren istniejący: średnio 124,66 m npm w obrysie ścianki (pomiar z PZT + otwory). Siatka 10 m z rzutu zabezpieczenia jest zawyżona o ok. 0,1 m i ma literówki – nie używać wprost.
+- **Obrysy obowiązujące (od użytkownika, poprawione):** w `prace/dane_wejsciowe_uzytkownika/`: `wierzcholki_polilinii_hala1-8_checked.txt` (8 hal; hala 2 ma 6 wierzchołków i jest poprawna), `wierzcholki_polilinii_wykop_checked.txt` (ścianka wykopu, 11 wierzchołków, polilinia **otwarta**: odcinek zamykający nie istnieje w rzeczywistości i przecina jedną halę – wystawanie hali poza tak zamkniętą linię jest OK), `wierzcholki_polilinii_granica_działki_checked.txt` (17 wierzchołków, 25 105,56 m² wobec oficjalnych 25 290,00 m²) i `siatka_10m_dz190_checked.dxf` (ważne warstwy: `HALE_GARAZOWE`, `A-granica inwest.`, `7_SCIANKA_ORIENTACYJNA` – w niej 11-wierzchołkowy wykop i 3-wierzchołkowa pozostałość starego szkicu; pozostałe warstwy to stara siatka wstępna – nie używać).
+- Pola z tych plików: ścianka 20 266,12 m², obwód 562,89 m; hale razem 12 078,68 m². Dla porównania odczyt z rysunku projektanta (v1, PDF usunięty): `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` – hale 1, 3–8 zgodne z obrysami użytkownika w granicach +0,2–0,4% pola, ścianka 20 661,7 m².
+- Pierwszy szkic użytkownika (hale i ścianka o 3,7% za małe) jest nieaktualny.
+- Teren istniejący: średnio 124,66 m npm w obrysie ścianki (v1: czarne rzędne pomiarowe z PZT + otwory). Nowy `6. PZT.pdf` jest **spłaszczony do rastra** (jeden obraz 8503×5181 px, zero wektorów), ale **warstwa tekstowa jest nienaruszona**: 239 rzędnych terenu i 90 projektowych wychodzi identycznie jak z wersji wektorowej (`wyciagnij_dane_z_pdf.py`). Strefy (zieleń, nawierzchnie) trzeba wziąć z rastra (ok. 4,4 cm na piksel) albo odzyskać wektorowy PZT z historii gita (wypełnienia kolorami).
+- Wnioski z usuniętych rzutów fundamentów i badań laboratoryjnych: `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md` (dno wykopu ok. 121,86, elementy do 120,00, szczelna ścianka z korkiem jet-grouting, gliny twardoplastyczne o IL 0,01–0,08, ρ 2,18–2,35).
 - Poprzednie wyniki (inne założenia, nieaktualne): humus ok. 15,4 tys. m³, grunt z wykopu 29,3 tys. m³ (A) i 42,0 tys. m³ (B).
 
 ## 8. Decyzje użytkownika (wszystkie dotychczasowe pytania rozstrzygnięte)
 1. Zieleń na gruncie = tylko „zieleń na gruncie rodzimym" (6 443,06 m²). Geokrata na parkingach = zasady jak dla nawierzchni utwardzonych.
 2. Zieleń na stropie garażu (oraz geokrata na stropie i dachy) = jak hale: cały wykop z tego obszaru na wywóz, dowożony dedykowany substrat.
 3. Poza ścianką teren jest podnoszony do rzędnej projektowej (bez wykopów).
-4. Granicę działki odczytaj z **mapy do celów projektowych** (jest w repo). Jeśli się nie da, użytkownik doda wierzchołki ręcznie z Geoportalu do `prace/dane_wejsciowe_uzytkownika/wierzcholki_granica_dzialki.txt` (E i N, tabulator).
+4. Granica działki: 17 wierzchołków z `wierzcholki_polilinii_granica_działki_checked.txt` (użytkownik naniósł ją z mapy do celów projektowych na DXF).
 5. Tony z dokładnością 0,000.
 6. Zapas humusu 10% zostaje.
 7. Ogrody deszczowe (253,00 m²): poza opracowaniem, dedykowany substrat jak na halach (w bilansie jak hale, bez gruntu z odkładu).
-8. Rzut zabezpieczenia wykopu (PDF) i przekrój B-B budynku 2C są zbędne i usunięte z repo. Zastępują je: podkład użytkownika (DWG, ale uwaga na stary szkic – pkt 7) oraz rysunek „Przekroje terenowe z naniesionym średnim poziomem wody gruntowej". Grubość chudego betonu (10 cm) pochodziła z przekroju B-B – potwierdź w dokumentacji (projekt geotechniczny wspomina o chudym betonie).
+8. Rzut zabezpieczenia wykopu (PDF) i przekrój B-B budynku 2C są zbędne i usunięte z repo. Zastępują je pliki `*_checked` oraz rysunek „Przekroje terenowe z naniesionym średnim poziomem wody gruntowej" (wrócił do repo). Podbeton C8/10 min. 10 cm potwierdzają rzuty fundamentów (zob. pkt 7).
 
 **Otwarte:** brak. Jeśli dokumentacja wykaże niejasność, zapytaj użytkownika.
+9. Użytkownik usunął z repo MDCP, PZT garaże, rzuty fundamentów PW_*, mapy 1–4.8 (poza 4.1), CPTU i analizy laboratoryjne, bo wszystko naniósł na DXF. **Weryfikacja (sesja z 7.10) wykazała wyjątki:** rzuty fundamentów (poziomy płyty i głębsze elementy) i zestawienie F (wilgotność, IL, gęstość) niosą dane, których nie ma w DXF – ich wyciąg jest w `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. Rzędne terenu z MDCP nie trafiły do DXF (rzędne w DXF to stare wstępne).
+10. Hala 2 (6 wierzchołków) jest poprawna. Ścianka jest obrysem otwartym; hala przecięta linią zamykającą nie jest błędem.

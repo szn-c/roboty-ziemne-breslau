@@ -1,5 +1,4 @@
-# 06 – Zabezpieczenie wykopu
+# Folder pusty
 
-Rzutu zabezpieczenia wykopu (PDF) **nie ma już w repo** – użytkownik uznał go za zbędny (zastępuje go podkład DWG, patrz `prace/dane_wejsciowe_uzytkownika/README.md`).
-Geometria ścianki odczytana z tego rysunku w poprzednich sesjach: `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` i DXF `prace/obliczenia_v1/04_gstarcad_siatka/obrysy_projektanta_i_siatka_dz190.dxf`.
-Uwaga: ścianka w DWG użytkownika to stary szkic o 3,7% za mały (19 244,63 m² zamiast 20 661,7 m²).
+Dokumenty z tego zakresu użytkownik usunął z repo, bo naniósł ich treść na DXF (obrysy: `prace/dane_wejsciowe_uzytkownika/`).
+Co z nich warto wiedzieć i jak je odzyskać z historii gita: `prace/MAPA_DOKUMENTOW.md`, `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`.
