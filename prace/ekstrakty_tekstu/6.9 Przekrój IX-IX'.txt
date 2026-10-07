@@ -1,0 +1,223 @@
+
+===== STRONA 1 =====
+Przekrój geologiczno-inżynierski IX - IX’
+Zał. 6.9
+1: 1000
+100
+20
+23
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+S
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+NE
+21
+24
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+grunty niespoiste warstwy I
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty spoiste warstwy IV
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+4.0
+sączenia wód podziemnych
+0
+5
+10
+15
+20
+25
+30
+0.20
+0.70
+1.10
+1.70
+2.70
+3.20
+3.60
+4.00
+4.40
+4.70
+10.00
+Gł. 10.0
+20
+124.60
+nN
+Gb
+Ps//Pg
+Gp
+Pd+Ż
+Gp+Ż
+Gp
+Pd
+Gp
+Ps
+Gpz+Ż
+szg
+pzw/tpl
+szg
+pzw
+szg
+pzw
+szg
+pzw
+2.70
+3.6
+4.4
+IIb
+0.80
+2.80
+3.50
+4.40
+5.50
+10.00
+Gł. 10.0
+Gb
+Gp
+Gp//Pd
+Gp+Ż
+Gpz+Pd
+Gp+Ż
+21
+124.80
+3.00
+4.50
+tpl
+pzw/tpl
+pzw/tpl
+pzw/tpl
+pzw/tpl
+IVd
+0
+5
+10
+15
+20
+25
+CPTU-21
+0.80
+1.70
+2.40
+2.80
+5.00
+6.00
+10.00
+Gb
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+Gp+Ż
+Gp+Ż
+szg
+tpl/pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+23
+124.50
+1.00
+5.0
+Gł. 10.0
+IVd
+IVc
+IIb
+0.70
+1.50
+2.80
+3.30
+3.70
+4.60
+5.00
+7.50
+9.50
+10.00
+Gł. 10.0
+24
+124.40
+Gb
+Gp
+Gp//Pg
+Gp
+Gp//Ps
+Gp+Ż
+Ps
+Gpz//Ps
+P//Pd
+Ps
+3.70
+3.70
+4.6
+pzw
+pzw/tpl
+pzw
+tpl
+pzw/tpl
+szg
+pzw
+szg
+pzw/tpl
+IVd
+0
+5
+10
+15
+20
+25
+30
+32.550
+CPTU-24
+N|SW
+Ia
+Ia
+IIb
+IIb
+IIb
+IVb
+IVd
+IVc
+IVd
+IVd
+próba do badań laboratoryjnych

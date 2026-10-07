@@ -1,4 +1,5 @@
 # 06 – Zabezpieczenie wykopu
 
-Rzut proponowanego zabezpieczenia wykopu (PDF wgrany przez użytkownika do repo): **PDF wektorowy** (A4, ok. 977 tys. obiektów) z siatką współrzędnych 50 m; ścianka szczelna lub berlińska wyciągana, ok. 565 mb (niebieska linia przerywana).
-Z niego odtwarza się ściankę, obrysy hal i granicę działki: `prace/obliczenia_v1/_skrypt/wyciagnij_dane_z_pdf.py` (PDF-y wyszukuje po treści w całym repo).
+Rzutu zabezpieczenia wykopu (PDF) **nie ma już w repo** – użytkownik uznał go za zbędny (zastępuje go podkład DWG, patrz `prace/dane_wejsciowe_uzytkownika/README.md`).
+Geometria ścianki odczytana z tego rysunku w poprzednich sesjach: `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` i DXF `prace/obliczenia_v1/04_gstarcad_siatka/obrysy_projektanta_i_siatka_dz190.dxf`.
+Uwaga: ścianka w DWG użytkownika to stary szkic o 3,7% za mały (19 244,63 m² zamiast 20 661,7 m²).

@@ -1,0 +1,322 @@
+
+===== STRONA 1 =====
+CPTU-25
+36
+25
+23
+14
+11
+2
+3
+Przekrój geologiczno-inżynierski III - III’
+1: 1000
+100
+Zał. 6.3
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+Gł. 10.0
+36
+124.60
+WNW
+ESE
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+grunty niespoiste warstwy I
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty niespoiste warstwy III
+grunty spoiste warstwy IV
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+4.0
+sączenia wód podziemnych
+0
+5
+10
+15
+20
+25
+30
+0.90
+1.30
+1.50
+2.00
+2.50
+3.00
+5.00
+5.70
+6.40
+9.00
+10.00
+Gb
+Gp+Ż
+Pp
+Pd
+Gp//Pd
+Gp
+Gp+Ż
+Ps
+Gp+Ż
+Ps
+Gp+Ż
+1.30
+5.0
+6.4
+tpl
+szg
+pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+0.60
+1.50
+1.70
+3.20
+4.00
+6.00
+7.00
+10.00
+Gł. 10.0
+Gb
+Gp+Ż
+Pd
+Gp
+Gp+Ż
+Gpz
+Ps
+Gp+Ż
+tpl
+szg
+pzw/tpl
+pzw
+szg
+pzw/tpl
+pzw/tpl
+25
+124.40
+6.0
+7.00
+0.80
+1.70
+2.40
+2.80
+5.00
+6.00
+10.00
+Gb
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+Gp+Ż
+Gp+Ż
+szg
+tpl/pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+23
+124.50
+1.00
+5.0
+Gł. 10.0
+0.80
+1.50
+2.00
+2.70
+3.00
+3.50
+3.70
+5.50
+5.70
+10.00
+Gł. 10.0
+14
+124.30
+0.90
+2.7
+3.5
+5.5
+Gb
+Ps
+Ps//Gp
+Gp+Ż
+Pr+Ż
+Gp+Ż
+Pr
+Gp+Ż
+Ps
+Gp+Ż
+szg
+tpl/pl
+szg
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+szg
+0.70
+1.50
+2.50
+3.00
+9.00
+10.00
+Gł. 10.0
+11
+124.40
+Gb
+Gp
+Pr+Ż
+Gp+Ż
+Po
+Gp+Ż
+tpl
+szg
+szg
+pzw
+pzw/tpl
+1.20
+1.5
+3.0
+0.70
+2.00
+2.80
+3.10
+4.30
+6.50
+7.50
+10.00
+Gł. 10.0
+Gb
+Gp
+Pd
+Gp
+Pr+Ż
+Gp+Ż
+Gp+Ż
+Gp+Ż
+2
+124.70
+1.20
+2.0
+3.1
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+tpl
+pzw/tpl
+0.60
+1.30
+1.60
+2.00
+2.80
+3.20
+6.70
+8.50
+10.00
+Gł. 10.0
+3
+124.80
+Gb
+Gp
+Pg
+Pd
+Gp//Pd
+Gp
+Gp // Pg
+Gp//Ps
+Gp
+pzw
+tpl
+szg
+tpl
+pzw
+pzw
+pzw
+pzw
+2.00
+1.50
+2.80
+7.00
+IVd
+IVd
+IVd
+IVd
+IVd
+IVd
+IVd
+IIIa
+IVc
+IVc
+IVc
+IVc
+IVc
+IVc
+IVa
+IVb
+Ia
+Ia
+IIb
+IIb
+IIb
+IIb
+IIb
+IIb
+0
+2
+4
+6
+8
+10
+12
+14
+15.580
+16.320
+próba do badań laboratoryjnych

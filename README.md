@@ -35,7 +35,9 @@ archiwum/                         stary pakiet Civil 3D (nieaktualny)
 ## Stan prac
 - Wersja 1 obliczeń (`prace/obliczenia_v1/`) powstała przy **innych założeniach** (jeden wariant, bez podziału na strefy, zaokrąglenia do 100 m³). Wyniki tej wersji są **nieaktualne**. Zachowano skrypty, które można wykorzystać: odtwarzanie geometrii z PDF, model terenu, silnik rastra.
 - Nowe założenia (dwa warianty A i B, strefy hale / zieleń / nawierzchnie, grunty przydatne i nieprzydatne, decyzja o dowozie po stronie użytkownika, dokładność 0,00 m² i 0,000 m³): patrz `USTALENIA.md`.
-- Dokumenty (PDF) użytkownik wgrał bezpośrednio do repo; nowa sesja ma je znaleźć i opisać w `prace/MAPA_DOKUMENTOW.md`.
+- Dokumenty (PDF) użytkownik wgrał bezpośrednio do repo; nowa sesja ma je znaleźć i opisać w `prace/MAPA_DOKUMENTOW.md`. Teksty są w `prace/ekstrakty_tekstu/`.
+- **Limit obrazów 2000 px zablokował jedną sesję** – przeczytaj `prace/OBRAZY_LIMIT_2000PX.md`. Postęp prac: `prace/POSTEP.md`.
+- Podkład użytkownika to DWG ze starym szkicem hal i ścianki (o 3,7% za małe) – patrz `prace/dane_wejsciowe_uzytkownika/README.md`.
 
 ## Narzędzia
 - `prace/obliczenia_v1/_skrypt/wyciagnij_dane_z_pdf.py` – geometria (ścianka, hale, granica) i rzędne z PDF, w układzie PL-2000.

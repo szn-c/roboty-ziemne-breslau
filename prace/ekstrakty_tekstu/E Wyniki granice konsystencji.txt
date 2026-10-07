@@ -1,0 +1,1025 @@
+
+===== STRONA 1 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+3
+3
+P25110149
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+4,00
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+28
+26
+24
+22
+20
+18
+16
+14
+Wilgotność pasty gruntowej [%]
+31
+30
+29
+28
+27
+26
+25
+24
+23
+22
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+11,19
+Wskaźnik plastyczności Ip, % = 
+16
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+27
+10
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,05
+0,95
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+38,81
+128,45
+119,37
+11,27
+11,19
+1,48
+39,51
+141,76
+131,54
+11,11
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+29,03
+34,07
+33,60
+10,28
+10,30
+0,30
+28,20
+33,76
+33,24
+10,32
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+15,5
+27,25
+49,45
+45,11
+24,30
+17,6
+28,29
+48,23
+44,10
+26,12
+20,6
+28,20
+44,07
+40,68
+27,16
+22,4
+27,22
+42,40
+39,11
+27,67
+25,9
+27,35
+44,05
+40,32
+28,76
+Załącznik E
+
+===== STRONA 2 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+3
+3
+P25110144
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+9,00
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+14
+Wilgotność pasty gruntowej [%]
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+12,92
+Wskaźnik plastyczności Ip, % = 
+22
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+33
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,08
+0,92
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+40,27
+120,67
+111,43
+12,98
+12,92
+1,01
+39,36
+122,85
+113,34
+12,85
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+26,40
+29,49
+29,17
+11,55
+11,15
+7,10
+26,00
+28,78
+28,51
+10,76
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+15,0
+27,08
+43,75
+39,80
+31,05
+18,2
+30,97
+52,11
+47,02
+31,71
+19,8
+29,67
+48,88
+44,12
+32,94
+21,1
+32,14
+49,75
+45,23
+34,53
+24,5
+30,10
+49,32
+44,30
+35,35
+
+===== STRONA 3 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+18
+18
+P25110147
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+9,50
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+14
+Wilgotność pasty gruntowej [%]
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+11,18
+Wskaźnik plastyczności Ip, % = 
+25
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+36
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,01
+0,99
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+42,07
+129,89
+121,05
+11,19
+11,18
+0,18
+36,21
+147,66
+136,46
+11,17
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+27,35
+31,60
+31,19
+10,68
+10,93
+4,70
+27,91
+31,09
+30,77
+11,19
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+15,0
+27,03
+43,14
+39,09
+33,58
+17,3
+26,71
+40,83
+37,16
+35,12
+19,7
+29,62
+44,97
+40,97
+35,24
+21,2
+28,46
+43,02
+39,14
+36,33
+25,2
+27,23
+44,87
+40,08
+37,28
+
+===== STRONA 4 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+21
+21
+P25110145
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+5,50
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+Wilgotność pasty gruntowej [%]
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+11,50
+Wskaźnik plastyczności Ip, % = 
+20
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+32
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,01
+0,99
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+38,11
+137,98
+127,63
+11,56
+11,50
+1,13
+41,07
+138,35
+128,37
+11,43
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+26,69
+30,26
+29,91
+10,87
+11,38
+9,00
+31,33
+35,47
+35,03
+11,89
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+16,6
+32,14
+50,95
+46,55
+30,53
+18,1
+27,91
+48,36
+43,52
+31,01
+20,1
+27,83
+47,66
+42,81
+32,38
+22,7
+26,44
+52,84
+46,34
+32,66
+24,9
+26,98
+50,15
+44,31
+33,70
+
+===== STRONA 5 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+24
+24
+P25110148
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+4,30
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+14
+Wilgotność pasty gruntowej [%]
+42
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+11,14
+Wskaźnik plastyczności Ip, % = 
+24
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+35
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,01
+0,99
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+38,74
+116,15
+108,39
+11,14
+11,14
+0,00
+42,21
+115,83
+108,45
+11,14
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+27,23
+30,08
+29,79
+11,33
+11,00
+6,00
+27,85
+30,34
+30,10
+10,67
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+15,0
+26,69
+44,04
+39,79
+32,44
+17,8
+28,38
+45,66
+41,29
+33,85
+20,2
+27,10
+44,17
+39,75
+34,94
+21,3
+32,71
+48,74
+44,48
+36,19
+25,1
+28,11
+46,66
+41,52
+38,33
+
+===== STRONA 6 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+25
+25
+P25110150
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+3,50
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+14
+Wilgotność pasty gruntowej [%]
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+11,83
+Wskaźnik plastyczności Ip, % = 
+25
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+35
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,04
+0,96
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+44,16
+112,47
+105,24
+11,84
+11,83
+0,10
+40,11
+118,22
+109,96
+11,83
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+30,97
+34,57
+34,22
+10,77
+10,84
+1,40
+32,14
+36,00
+35,62
+10,92
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+15,0
+29,15
+42,39
+39,09
+33,20
+16,0
+26,09
+46,11
+41,08
+33,56
+17,1
+28,19
+47,93
+42,87
+34,47
+20,5
+29,61
+48,01
+43,13
+36,09
+24,6
+28,66
+47,37
+42,30
+37,17
+
+===== STRONA 7 =====
+Oznaczenie granicy plastyczności oraz granicy płynności gruntu metodą
+penetrometru stożkowego zgodnie z normą PN-EN ISO 17892-12:2018-08
+karta badania:
+temat:
+data rozpoczęcia badań:
+data zakończenia badań:
+otwór badawczy:
+głębokość pobrania, m:
+39
+39
+P25110146
+Wrocław, ul. Lutosławskiego
+22-07-2025
+25-07-2025
+4,00
+GEO-MI Pracownia Geologiczna 
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+nazwa próbki wg lab.:
+nazwa próbki wg klienta:
+twardoplastyczna
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Głębokość zanurzenia stożka [mm]
+26
+24
+22
+20
+18
+16
+Wilgotność pasty gruntowej [%]
+41
+40
+39
+38
+37
+36
+35
+34
+33
+32
+31
+30
+29
+28
+Wilgotność naturalna wn, % = 
+Stan gruntu: 
+12,29
+Wskaźnik plastyczności Ip, % = 
+22
+Granica płynności wL, % = 
+Granica plastyczności wp, % = 
+34
+11
+Stopień plastyczności IL = 
+Wskaźnik konsystencji IC = 
+0,04
+0,96
+Wykonał:
+Sprawdził:
+Autoryzował:
+Wykres zależności głębokości zanurzenia stożka penetrometru od wilgotności pasty gruntowej
+Wykonano programem "GeoLab"
+Wilgotność początkowa
+Granica plastyczności
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wn [%]
+błąd [%]
+44,46
+163,87
+150,86
+12,23
+12,29
+0,96
+43,21
+145,22
+134,01
+12,35
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+wśr = wp [%]
+błąd [%]
+27,83
+32,99
+32,47
+11,21
+11,33
+2,20
+26,28
+30,17
+29,77
+11,46
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+0,00
+Głębokość zanurzenia
+stożka [mm]
+Granica płynności oznaczana metodą penetrometru stożkowego
+mc [g]
+m1 [g]
+m2 [g]
+w [%]
+16,1
+28,71
+50,76
+45,64
+30,24
+17,6
+27,78
+51,74
+46,07
+31,00
+20,1
+27,83
+43,02
+39,10
+34,78
+23,0
+30,10
+42,08
+38,90
+36,14
+24,2
+25,43
+39,91
+35,97
+37,38

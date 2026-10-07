@@ -1,0 +1,227 @@
+
+===== STRONA 1 =====
+Przekrój geologiczno-inżynierski VIII - VIII’
+Zał. 6.8
+1: 1000
+100
+29
+26
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+S
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+NW
+27
+NE|SE
+25
+N|SW
+0.50
+1.50
+2.20
+3.30
+3.50
+5.00
+6.50
+7.00
+10.00
+Gł. 10.0
+Gb
+Gp//Pd
+Pd
+Gp
+Gp+Ż
+Pd//G
+Gp+Ż
+Ps+Ż//Gp
+Gp+Ż//Ps
+29
+124.70
+tpl
+szg
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+tpl
+1.10
+1.5
+3.5
+6.5
+Ia
+Ia
+IVc
+CPTU-27
+0.60
+1.60
+2.20
+2.70
+3.80
+5.00
+7.20
+10.00
+Gł. 10.0
+Gb
+Gp
+Pg
+Gp
+Ps
+Gpz
+Ps+Gp
+tpl
+tpl/pl
+pzw
+szg
+pzw
+bzg
+Gp
+tpl/pl
+27
+124.70
+3.60
+3.8
+IVc
+IVb
+IIb
+IIc
+0
+10
+20
+30
+40
+50
+CPTU-25
+0.60
+1.50
+1.70
+3.20
+4.00
+6.00
+7.00
+10.00
+Gł. 10.0
+Gb
+Gp+Ż
+Pd
+Gp
+Gp+Ż
+Gpz
+Ps
+Gp+Ż
+tpl
+szg
+pzw/tpl
+pzw
+szg
+pzw/tpl
+pzw/tpl
+25
+124.40
+6.0
+7.00
+IVd
+0
+2
+4
+6
+8
+10
+12
+14
+15.580
+16.320
+0.80
+1.00
+1.40
+3.00
+3.20
+6.30
+6.70
+10.00
+Gł. 10.0
+26
+124.60
+1.30
+3.0
+6.3
+Gb
+Pd
+Gp
+Ps
+Gp+Ż
+Pd
+Gp+Ż
+szg
+pzw/tpl
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+Gp
+IVd
+IIb
+Ia
+IVd
+IVd
+IVd
+IVc
+Ia
+IIb
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+grunty niespoiste warstwy I
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty spoiste warstwy IV
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+4.0
+sączenia wód podziemnych
+0
+5
+10
+15
+20
+25
+30
+próba do badań laboratoryjnych

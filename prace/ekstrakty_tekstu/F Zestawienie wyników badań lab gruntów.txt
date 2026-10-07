@@ -1,0 +1,309 @@
+
+===== STRONA 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________________________________________________________________________________________________________ 
+GEO-MI Pracownia Geologiczna Sp. z o.o.                                                 
+ 
+ 
+ 
+ 
+                                                                        e-mail: biuro@geo-mi.pl 
+ul. Grażyny 16 lok. 14                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         www.geo-mi.pl 
+93-309 Łódź 
+ 
+                    
+   
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+      
+         tel. 515 590 677 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Łódź, 25.07.2025r. 
+ 
+ 
+Zestawienie wyników badań próbek gruntów  
+Temat: Wrocław, ul. Lutosławskiego. 
+ Tabela nr 1. Zestawienie wyników badań laboratoryjnych . 
+Lp Numer 
+otworu 
+Głębokość 
+Nazwa 
+próbki wg. 
+laboratorium 
+Wilgotność 
+naturalna 
+Granica 
+plastyczności
+Granica 
+płynności
+Wskaźnik 
+plastyczności 
+Stopień 
+plastyczności
+Gęstość 
+objętościowa
+Opis makroskopowy 
+[m] 
+Wn [%] 
+Wp [%] 
+WL [%] 
+Ip 
+IL 
+ρ [
+𝒈
+𝒄𝒎𝟑] 
+ 
+1 
+3 
+1,60 
+P25110143 
+18,53 
+ 
+ 
+ 
+ 
+ 
+Pd, brąz., m,  
+fSa, brąz., m,  
+2 
+3 
+4,00 
+P25110149 
+11,19 
+10 
+27 
+16 
+0,05 
+2,34 
+Gp + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+3 
+3 
+9,00 
+P25110144 
+12,92 
+11 
+33 
+22 
+0,08 
+2,35 
+Gpz + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+4 
+18 
+7,70 
+P25110141 
+1914 
+ 
+ 
+ 
+ 
+ 
+Pd + Ż, szary, m,  
+grfSa, szary, m,  
+5 
+18 
+9,50 
+P25110147 
+11,18 
+11 
+36 
+25 
+0,01 
+2,26 
+Gpz + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+6 
+20 
+2,20 
+P25110140 
+21,03 
+ 
+ 
+ 
+ 
+ 
+Pd + Ż, brąz., m,  
+grfSa, brąz., m,  
+7 
+21 
+5,50 
+P25110145 
+11,50 
+11 
+32 
+20 
+0,01 
+2,31 
+Gpz + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+8 
+24 
+4,30 
+P25110148 
+11,14 
+11 
+35 
+24 
+0,01 
+2,18 
+Gpz + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+9 
+25 
+3,50 
+P25110150 
+11,83 
+11 
+35 
+25 
+0,04 
+2,31 
+Gpz + Ż, c.szary, mw, tpl,  
+grsasiCl, c.szary, mw, tpl,  
+10 
+27 
+2,30 
+P25110142 
+14,56 
+ 
+ 
+ 
+ 
+ 
+Ps + Ż, brąz., w,  
+grmSa, brąz., w,  
+Załącznik F
+
+===== STRONA 2 =====
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________________________________________________________________________________________________________ 
+GEO-MI Pracownia Geologiczna Sp. z o.o.                                                 
+ 
+ 
+ 
+ 
+                                                                        e-mail: biuro@geo-mi.pl 
+ul. Grażyny 16 lok. 14                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         www.geo-mi.pl 
+93-309 Łódź 
+ 
+                    
+   
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+      
+         tel. 515 590 677 
+ 
+ 
+Lp Numer 
+otworu 
+Głębokość 
+Nazwa 
+próbki wg. 
+laboratorium 
+Wilgotność 
+naturalna 
+Granica 
+plastyczności
+Granica 
+płynności
+Wskaźnik 
+plastyczności 
+Stopień 
+plastyczności
+Gęstość 
+objętościowa
+Opis makroskopowy 
+[m] 
+Wn [%] 
+Wp [%] 
+WL [%] 
+Ip 
+IL 
+ρ [
+𝒈
+𝒄𝒎𝟑] 
+ 
+11 
+39 
+4,00 
+P25110146 
+12,29 
+11 
+34 
+22 
+0,04 
+2,25 
+Gpz + Ż, c.szara, mw, tpl,  
+grsasiCl, c.szara, mw, tpl,  
+Badania wykonała i zestawiła:  
+Anna Cieślak - Sadło 
