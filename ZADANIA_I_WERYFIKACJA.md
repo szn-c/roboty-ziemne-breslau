@@ -7,7 +7,7 @@ Zasady: `USTALENIA.md` (to samo co `.kiro/steering/ustalenia.md`).
 
 | Krok | Co zrobić | Wynik (plik) | Gotowe, gdy |
 |---|---|---|---|
-| T0 | Przeczytaj `USTALENIA.md`, obejrzyj strukturę repo, zainstaluj biblioteki. **Znajdź wszystkie dokumenty w repo** (mogą leżeć poza `dokumentacja/`) i zapisz ścieżki. Uruchom `wyciagnij_tekst_dokumentow.py` dla nowych dokumentów. | `prace/MAPA_DOKUMENTOW.md` | wiesz, gdzie jest każdy dokument (w tym mapa do celów projektowych) |
+| T0 | Przeczytaj `USTALENIA.md`, obejrzyj strukturę repo, zainstaluj biblioteki. **Znajdź wszystkie dokumenty w repo** (mogą leżeć poza `dokumentacja/`) i zapisz ścieżki. Uruchom `wyciagnij_tekst_dokumentow.py` dla nowych dokumentów. **Przeczytaj `prace/OBRAZY_LIMIT_2000PX.md`** (limit obrazów!). Zakładaj `prace/POSTEP.md`. | `prace/MAPA_DOKUMENTOW.md` | wiesz, gdzie jest każdy dokument (w tym mapa do celów projektowych) |
 | T1 | Przeczytaj dokumentację **w kolejności priorytetu** (geologiczno-inżynierska, projekt geotechniczny, opinia). Wypisz: warstwy i ich opis, zalecenia robót ziemnych, zwierciadło wody i wahania, odwodnienie, skarpy, przydatność gruntów do nasypów, gęstości, ewentualne spulchnienie. | `prace/ekstrakt_dokumentacji.md` (z numerami stron) | każdy parametr ma źródło |
 | T2 | **Weryfikacja ustaleń** (Część 2). | `prace/WERYFIKACJA_raport.md` | każda pozycja: ZGODNE / NIEZGODNE / BRAK DANYCH + dowód |
 | T3 | Zgłoś użytkownikowi niezgodności i pytania otwarte (`USTALENIA.md` pkt 8). Poczekaj na odpowiedzi. | – | decyzje zapisane w `USTALENIA.md` |
@@ -27,16 +27,16 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
 | U1 | PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH | dokumentacja geol.-inż. tak podaje | przeczytać w dokumentacji i w rzędnych fundamentów |
-| U2 | Siatka krzyży co 50 m na rzucie zabezpieczenia; napisy 6433700 (E) i 5659050 (N) przy jednym krzyżu | 20 krzyży, skala 1:1270,5, odchyłka 1,4 cm | porównać z siatką/współrzędnymi w nowej dokumentacji z rzędnymi i obrysami |
+| U2 | Układ współrzędnych i położenie obrysów jest zgodne z siatką projektanta (krzyże co 50 m; napisy 6433700 i 5659050) | w poprzednich sesjach: 20 krzyży, skala 1:1270,5, odchyłka 1,4 cm – z rzutu zabezpieczenia, **którego już nie ma w repo** | sprawdzić na rzutach fundamentów `PW_*`, PZT i w DWG użytkownika (krzyże 50 m w moim DXF są tylko okrągłymi E/N – to nie dowód) |
 | U3 | PZT w skali 1:250, obrót ok. 7,37° względem układu | zgodność z rzutem zabezpieczenia na 649 wspólnych rzędnych (śr. różnica 0,05/0,14 m) | porównać z dokumentacją z rzędnymi |
 | U4 | Mapa 4.1 (raster 1:1000) jest zgodna z PZT co do położenia otworów i granicy | nie sprawdzano | nałożyć otwory z tabeli współrzędnych na mapę i granicę |
 
 ### Obrysy i granice
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
-| G1 | **Obrysy 8 hal** (zewnętrzne, z rzutu zabezpieczenia): pola 1524,4 / 1092,2 / 1523,4 / 1605,8 / 1524,5 / 1523,3 / 1525,0 / 1608,6 m² | odtwarzalne z PDF (`wyciagnij_dane_z_pdf.py`) | **porównać z obrysami fundamentów** z nowej dokumentacji: położenie, wymiary, czy to zewnętrzna krawędź ściany/płyty |
-| G2 | **Ścianka wykopu**: wielokąt 11 wierzchołków, pole 20 661,7 m², obwód 563,5 m (na rysunku ok. 565 mb) | łańcuch kresek niebieskiej linii; luka zamknięcia łańcucha 8,6 m (wierzchołki uzupełniono przecięciem prostych) | porównać z projektem zabezpieczenia; sprawdzić odległości hala–ścianka (0,78–8,9 m; hala 1 ma 0,78 m, czyli mniej niż 1,0 m przestrzeni roboczej) |
-| G3 | **Granica działki** 1/90: oficjalnie 25 290,00 m² | z rysunku 25 611 m² (+1,27%); wierzchołki do odczytu z mapy do celów projektowych | odczytać wierzchołki z **mapy do celów projektowych** (jest w repo); jeśli się nie da, użytkownik doda je ręcznie z Geoportalu; porównać z 25 290,00 m² |
+| G1 | **Obrysy 8 hal** (zewnętrzne): pola 1524,4 / 1092,2 / 1523,4 / 1605,8 / 1524,5 / 1523,3 / 1525,0 / 1608,6 m² (`dane/geometria_G.json`) | odczytane z usuniętego PDF; DWG użytkownika ma **stary szkic** hal (1429,13 / 1024,67 / 1507,53 m²) – nie używać | **porównać z rzutami fundamentów `PW_*-K-01`** (folder 04): położenie, wymiary, czy to zewnętrzna krawędź ściany/płyty |
+| G2 | **Ścianka wykopu**: wielokąt 11 wierzchołków, pole 20 661,7 m², obwód 563,5 m (na rysunku było ok. 565 mb) | tylko w `geometria_G.json` i w moim DXF (źródłowy PDF usunięty); DWG użytkownika ma **starą ściankę** 19 244,63 m² – nie używać | porównać z obrysami fundamentów i przekrojami terenowymi; sprawdzić odległości hala–ścianka (0,78–8,9 m; hala 1: 0,78 m, czyli mniej niż 1,0 m przestrzeni roboczej). Jeśli użytkownik ma poprawną ściankę w DXF – użyć jej |
+| G3 | **Granica działki** 1/90: oficjalnie 25 290,00 m² | dwa kandydaci: (a) z DWG użytkownika (warstwa `A-granica inwest.`, 17 wierzchołków, 25 105,44 m², −0,73%) i (b) z rysunku projektanta (25 611 m², +1,27%); różnica powierzchni 627 m², krawędzie do 4,7 m (SE), średnia odległość wierzchołków 0,94 m | zdecydować po porównaniu z **MDCP** (skan bez tekstu – oglądać wycinkami, patrz `prace/OBRAZY_LIMIT_2000PX.md`); wierzchołki (a): `prace/dane_wejsciowe_uzytkownika/wierzcholki_granica_inwest_z_DWG_uzytkownika.txt` |
 | G4 | Dotychczasowy szkic użytkownika jest o 3,7% za mały | skala 1,0371, odchyłka 0,13 m | tylko informacja; nie używać szkicu |
 | G5 | 17 otworów leży w obrębie działki 1/90 (2, 3, 5, 7, 9–12, 14–18, 20, 21, 23, 24) | wybór z mapy 4.1; dokumentacja ma otwory 2–40 | sprawdzić każdy otwór względem granicy 1/90; otwory 25–40 prawdopodobnie na 1/97 |
 
@@ -45,7 +45,7 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 |---|---|---|---|
 | R1 | ±0,00 = 126,00 m npm | z PZT i przekroju | potwierdzić w dokumentacji z rzędnymi |
 | R2 | Posadzka garażu 122,57 (−3,43); korytka −3,51 | z przekroju B-B i opisów na rzucie | potwierdzić; sprawdzić, czy wszystkie hale mają ten sam poziom i czy są miejsca głębsze (−3,60?) |
-| R3 | **Dno wykopu 121,97** = 122,57 − płyta 0,50 (użytkownik) − chudy beton 0,10 (przekrój) | płyta 0,50 m podana przez użytkownika, nie z dokumentu | sprawdzić grubość płyty i warstw w dokumentacji konstrukcji; czy jest podsypka |
+| R3 | **Dno wykopu 121,97** = 122,57 − płyta 0,50 (użytkownik) − chudy beton 0,10 | płyta 0,50 m podana przez użytkownika; chudy beton 10 cm był tylko na przekroju B-B, którego już nie ma w repo | sprawdzić grubość płyty i warstw w dokumentacji konstrukcji i w projekcie geotechnicznym; czy jest podsypka; posadzkę 122,57 potwierdzają PZT i PZT garaże |
 | R4 | **Teren istniejący** (model): średnio 124,66 m npm w obrysie ścianki | czarne rzędne pomiarowe z PZT + otwory; zgodność rzędnych otworów z PZT: śr. różnica +0,017 m, odch. std. 0,062 m (n = 16) | porównać z **mapą do celów projektowych**, mapą 4.1 i nową dokumentacją z rzędnymi; sprawdzić datę pomiaru |
 | R5 | Teren istniejący – **siatka 10 m z rzutu zabezpieczenia** jest zawyżona o 0,08–0,11 m i ma literówki (np. 126,2) | tak wynikało z porównania | potwierdzić albo odrzucić; nie używać wprost |
 | R6 | **Teren projektowany**: ok. 125,98 przy narożnikach budynków; 125,40–125,98 (śr. 125,77) między halami; 124,40–125,96 (śr. 125,52) poza ścianką; przekrój: 125,89 | z napisów na PZT, 90 punktów | wziąć pełne rzędne projektowe z nowej dokumentacji (podział na strefy) |
@@ -70,7 +70,7 @@ Kolumna „Dotychczas" to **tylko wiedza z poprzednich sesji, niezweryfikowana**
 ### Metoda
 | Nr | Ustalenie | Dotychczas | Jak sprawdzić |
 |---|---|---|---|
-| M1 | Geometria i rzędne odtwarzają się z PDF jednym skryptem | wszystkie pola i środki hal identyczne z danymi wersji 1 | uruchomić `wyciagnij_dane_z_pdf.py` i porównać |
+| M1 | Geometrię i rzędne z PDF można odtworzyć skryptem | w v1 wszystko identyczne; **teraz brak rzutu zabezpieczenia w repo**, więc geometrii nie da się odtworzyć (działa tylko część z rzędnymi z PZT) | uruchomić `wyciagnij_dane_z_pdf.py` (rzędne z PZT) |
 | M2 | Kontrola metodą siatki 10 m zgadza się z rastrem 0,5 m | różnica −0,12% | powtórzyć dla nowych założeń |
 
 ## Część 3. Czego nie liczyć ponownie

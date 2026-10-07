@@ -1,0 +1,7 @@
+{
+  "name": "odczyt-dwg",
+  "private": true,
+  "type": "module",
+  "description": "Odczyt plikow DWG bez AutoCAD/GstarCAD (LibreDWG skompilowany do WebAssembly)",
+  "dependencies": { "@mlightcad/libredwg-web": "0.7.15" }
+}

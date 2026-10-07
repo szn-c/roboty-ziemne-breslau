@@ -1,0 +1,159 @@
+
+===== STRONA 1 =====
+Przekrój geologiczno-inżynierski IV - IV’
+1: 1000
+100
+Zał. 6.4
+24
+12
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+WNW
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+ESE
+0.70
+1.50
+2.80
+3.30
+3.70
+4.60
+5.00
+7.50
+9.50
+10.00
+Gł. 10.0
+24
+124.40
+Gb
+Gp
+Gp//Pg
+Gp
+Gp//Ps
+Gp+Ż
+Ps
+Gpz//Ps
+P//Pd
+Ps
+3.70
+3.70
+4.6
+pzw
+pzw/tpl
+pzw
+tpl
+pzw/tpl
+szg
+pzw
+szg
+pzw/tpl
+0.60
+1.50
+2.00
+2.70
+4.70
+6.50
+7.50
+10.00
+Gł. 10.0
+Gb+k
+Gp+Ż
+Gp//Pg
+Pr+Ż
+Gp+Ż
+Ps
+//
+Gp+Ż
+Gp+Ż
+Ps
+12
+124.50
+tpl
+szg
+pzw/tpl
+pzw
+pzw/tpl
+szg/zg
+tpl
+1.30
+2.0
+4.7
+7.5
+IVd
+IVd
+IVd
+IVd
+IIb
+IIb
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty spoiste warstwy IV
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+4.0
+sączenia wód podziemnych
+0
+5
+10
+15
+20
+25
+30
+0
+5
+10
+15
+20
+25
+30
+32.550
+0
+5
+10
+15
+20
+25
+26.920
+CPTU-24
+CPTU-12
+próba do badań laboratoryjnych

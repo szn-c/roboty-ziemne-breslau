@@ -1,0 +1,2750 @@
+
+===== STRONA 1 =====
+ 
+ 
+ 
+ 
+ 
+OPINIA GEOTECHNICZNA 
+I DOKUMENTACJA BADAŃ PODŁOŻA GRUNTOWEGO  
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych  
+(w tym część budynków z usługami o powierzchni do 700 m2) z garażami 
+podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb 
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej  
+we Wrocławiu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                      Inwestor:                       
+SIM Wrocław sp. z o.o. 
+ul. Fabryczna 10 
+53-609 Wrocław 
+ 
+ 
+ 
+ 
+Opracowali: 
+ 
+ 
+                                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Kielce, kwiecień 2025 r. 
+ 
+
+===== STRONA 2 =====
+ 
+2
+Spis treści : 
+1. WSTĘP ................................................................................................................................... 3 
+2. POŁOŻENIE I  MORFOLOGIA  TERENU ......................................................................... 3 
+3. DOKUMENTACJA BADAŃ PODŁOŻA GRUNTOWEGO .............................................. 4 
+4. OPINIA GEOTECHNICZNA ................................................................................................ 6 
+5. WARUNKI WODNE ............................................................................................................. 6 
+6. WNIOSKI I ZALECENIA ..................................................................................................... 7 
+7. 
+MATERIAŁY WYKORZYSTANE W OPRACOWANIU ............................................... 7 
+ 
+ 
+ 
+Spis załączników: 
+Zał. 1 
+Mapa 
+topograficzna 
+z 
+lokalizacją 
+wykonanych 
+badań 
+geotechnicznych w skali 1:10 000 
+Zał. 2 
+Mapa dokumentacyjna z lokalizacją otworów geotechnicznych 
+w skali 1:1000 
+Zał. 3.1 – 3.7 
+Karty otworów geotechnicznych 
+Zał. 4.1 – 4.5 
+Przekroje geotechniczne  
+Zał. 5 
+Zestawienie wyników badań laboratoryjnych 
+Zał. 6 
+Tabela parametrów fizyko-mechanicznych gruntów 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== STRONA 3 =====
+ 
+3
+1. WSTĘP 
+ 
+Wykonane prace mają na celu określenie warunków gruntowo – wodnych terenu dla 
+potrzeb inwestycji pn.: Budowa zespołu budynków mieszkalnych wielorodzinnych  
+(w tym część budynków z usługami o powierzchni do 700 m2) z garażami podziemnymi  
+i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb Wojszyce, w rejonie ul. 
+Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu. 
+Opinię i dokumentację wykonano w oparciu o przepisy PN-EN-1997-2 Eurokod 7 
+Projektowanie geotechniczne część 1 i 2, oraz norm już wycofanych użytych dla potrzeb 
+korelacji: PN-81/B-03020 „Posadowienie bezpośrednie budowli. Obliczenia statyczne  
+i projektowanie”. Wykorzystano również mapy przedmiotowe i literaturę fachową. 
+ Podstawą prawną wykonania opinii i dokumentacji jest Rozporządzenie Ministra 
+Transportu, Budownictwa i Gospodarki Morskiej z dnia 25 kwietnia 2012 r. w sprawie 
+ustalania geotechnicznych warunków posadowienia obiektów budowlanych (Dz. U. 2012, 
+poz. 463). 
+Zakres prac terenowych (ilość, lokalizacja i głębokość otworów geotechnicznych) 
+został uzgodniony ze Zleceniodawcą. Kategoria geotechniczna jest ustalana w zależności od 
+rodzaju i konstrukcji obiektu budowlanego, jak również stopnia złożoności podłoża. W 
+związku z tym, zgodnie z obowiązującym Rozporządzeniem Ministra Transportu, 
+Budownictwa i Gospodarki Morskiej w sprawie ustalania geotechnicznych warunków 
+posadawiania obiektów budowlanych z dnia 27 kwietnia 2012 r. (Dz. U. 2012, poz. 463), dla 
+powyższej inwestycji proponuje się przyjęcie II kategorii geotechnicznej. Zgodnie z ww. 
+rozporządzeniem ostateczną kategorię geotechniczną określi Projektant. Warunki gruntowe 
+bezpośredniego podłoża określone zostały jako złożone. 
+Dla potrzeb dokumentacji wykonano w terenie 7 otworów badawczych (nr 1 – 7) do 
+głębokości 10,0 m w celu rozpoznania warunków gruntowo – wodnych. Opracowanie 
+sporządzono 
+na 
+podstawie 
+wykonanych 
+wierceń, 
+badań 
+laboratoryjnych  
+i jakościowego określenia parametrów wiodących gruntów. Przy opracowywaniu niniejszej 
+opinii i dokumentacji wykorzystano również mapy i literaturę geologiczną, polskie normy 
+oraz branżowe przepisy prawne. 
+Prace terenowe wykonała brygada PGF GEOSERVICE Agnieszka Śpiewak z/s 
+w Kielcach pod stałym dozorem geologa M. Przeniosło w lutym 2025 r. W trakcie 
+wykonywania otworów prowadzono badania makroskopowe gruntów z określeniem ich 
+konsystencji oraz obserwacje hydrogeologiczne. Następnie wyrobiska zlikwidowano 
+urobkiem z zachowaniem naturalnej kolejności ich pierwotnego zalegania. 
+Ogólną lokalizację terenu badań naniesiono na mapę topograficzną (załącznik nr 1). 
+ 
+2. POŁOŻENIE I  MORFOLOGIA  TERENU  
+Teren badań zlokalizowany jest w Wrocławiu przy w rejonie ul. Lutosławskiego, 
+Buforowej i Asfaltowej na działce o numerze ewidencyjnym 1/90. 
+Według fizycznogeograficznej regionalizacji Polski teren badań położony jest  
+w granicach Równiny Wrocławskiej (318.53) - mezoregionu wchodzącego w skład Niziny 
+Śląskiej. Rozpościera się pomiędzy Pradoliną Wrocławską a Przedgórzem Sudeckim. Pod 
+względem geologicznym jest to obszar bloku przed sudeckiego, monokliny śląsko-
+krakowskiej i monokliny przed sudeckiej, pokryty osadami plejstoceńskimi i holoceńskimi - 
+iłami, piaskami, żwirami, glinami oraz lessami. 
+Rzędne niwelacyjne miejsc wykonanych otworów wahają się w granicach rzędnych 
+wysokościowych 124,6 – 125,6m n.p.m. 
+Najbliższym ciekiem wodnym jest struga Brochówka mająca swoje koryto ok. 1,1 km 
+na wschód od obszaru badań. Zgodnie z mapą opracowaną przez Państwowy Instytut 
+
+===== STRONA 4 =====
+ 
+4
+Geologiczny (dostępna na http://www.pgi.gov.pl/) przedmiotowy teren leży ok. 0,4 km na 
+północny wschód od obszaru zagrożonego podtopieniami od wód gruntowych.  
+ 
+Ogólną lokalizację terenu badań ilustruje mapa topograficzna w skali 1:10 000 – 
+załącznik nr 1, a szczegółowe usytuowanie przedstawia mapa dokumentacyjna w skali 
+1:1000 – załącznik nr 2.  
+ 
+3. DOKUMENTACJA BADAŃ PODŁOŻA GRUNTOWEGO  
+ 
+Wierceniami do głębokości 10,0 m p.p.t. zbadano jedynie stropową partię podłoża 
+gruntowego. Reprezentowane jest przez utwory: 
+• holoceńskie – grunty antropogeniczne (Qhn), grunty próchniczne (Qhh),  
+• plejstocen – grunty wodnolodowcowe (Qpfg), gliny zwałowe (Qpg). 
+W skład holocenu wchodzą: 
+Grunty antropogeniczne (Qhn) – stwierdzono w dwóch punktach od poziomu terenu. 
+Reprezentowane są przez nasypy niekontrolowane a ich miąższość wynosi 0,2 – 0,3 m. 
+Grunty próchniczne (Qhh) – odnotowane zostały w każdym punkcie rozpoznawczym na 
+głębokości 0,0 – 0,3 m p. p. t., spąg przewiercono na 0,3 – 1,1 m p. p. t. Reprezentowane są 
+przez glebę.  
+ 
+W skład plejstocenu wchodzą: 
+Osady wodnolodowcowe (Qpfg) – stwierdzone zostały w każdym punkcie na głębokości 0,5 
+– 9,4 m p. p. t. Spąg przewiercono w 6 otworach na głębokości 5,3 – 9,7 m p. p. t. 
+Reprezentowane są przez piaski drobne, piaski średnie, piaski grube i pospółki gliniaste. 
+Ich geneza związana jest z akumulacyjną działalnością wód roztopowych na przedpolu  
+i w obrębie lądolodu. 
+Gliny zwałowe (Qpg) – występują w każdym z wykonanych otworów badawczych na 
+głębokości 0,3 – 5,7 m p. p. t. Spąg przewiercono jedynie w punkcie nr 6 na głębokości 3,5 m 
+p. p. t. Reprezentowane są przez pyły piaszczyste, gliny, gliny piaszczyste, gliny pylaste i 
+gliny pylaste zwięzłe. Ich geneza związana jest z akumulacyjną działalnością lądolodu. 
+ 
+  
+Utwory wyżej wymienione podzielono na warstwy geotechniczne przyjmując jako 
+podstawę podziału wydzielenia geologiczne, litologię oraz cechy fizyczno-mechaniczne 
+gruntów. Dla warstw geotechnicznych podano charakterystyczne wartości parametrów 
+geotechnicznych określone na podstawie badań laboratoryjnych, badań polowych oraz 
+lokalnych zależności korelacyjnych między parametrami fizycznymi i mechanicznymi. Jako 
+cechę wyróżniającą dla gruntów spoistych przyjęto stopień plastyczności – IL a dla gruntów 
+niespoistych przyjęto stopień zagęszczenia - ID. Charakterystyczne wartości parametrów 
+geotechnicznych wydzielonych warstw geotechnicznych zestawiono w tabeli stanowiącej 
+załącznik nr 6. Do nazewnictwa gruntów zastosowano dwie normy: PN-81/B-03020 oraz 
+PN-EN ISO 14688-2. Parametrów geotechnicznych nie określono dla utworów 
+antropogenicznych ze względu na ich anizotropowość tj. zmienność parametrów 
+geotechnicznych.   
+ 
+Nasypy oraz gleba – warstwa przypowierzchniowa o miąższości do 1,1 m. Nasypom i glebie 
+nie przypisuje się parametrów. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+===== STRONA 5 =====
+ 
+5
+Warstwa IB – obejmuje średnio zagęszczone piaski pylaste i piaski drobne (ID=0,50).  
+Parametry warstwy zestawiono poniżej:  
+• 
+stan zagęszczenia:  0,50 
+• 
+wilgotność naturalna: 6 (mało wilgotny) - 24 (nawodniony) %                
+• 
+gęstość objętościowa: 1,65 (mało wilgotny) – 1,90 (nawodniony) [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:   30,4o  
+• 
+moduł pierwotnego odkształcenia E0: 46,2 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 62,0 MPa 
+ 
+Warstwa II – obejmuje średnio zagęszczone piaski średnie (ID=0,50). Parametry warstwy 
+zestawiono poniżej:  
+• 
+stan zagęszczenia:  0,50 
+• 
+wilgotność naturalna: 5 (mało wilgotny) - 22 (nawodniony) %                
+• 
+gęstość objętościowa: 1,70 (mało wilgotny) – 2,00 (nawodniony) [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:   33,0o  
+• 
+moduł pierwotnego odkształcenia E0: 80,0 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 95,0 MPa 
+ 
+Warstwa III – obejmuje średnio zagęszczone pospółki (ID=0,50). Parametry warstwy 
+zestawiono poniżej:  
+• 
+stan zagęszczenia:  0,50 
+• 
+wilgotność naturalna: 4 (mało wilgotny) - 18 (nawodniony) %                
+• 
+gęstość objętościowa: 1,75 (mało wilgotny) – 2,05 (nawodniony) [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:   38,5o  
+• 
+moduł pierwotnego odkształcenia E0: 137,5 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 153,0 MPa 
+ 
+Warstwa IVa – obejmuje gliny piaszczyste w stanie plastycznym (IL=0,30), wg konsolidacji 
+grupa C.  Parametry warstwy zestawiono poniżej:  
+• 
+stopień plastyczności: 0,30 
+• 
+wilgotność naturalna: 17 %                
+• 
+gęstość objętościowa: 2,10  [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:   13,2o  
+• 
+spójność: 13,3 kPa 
+• 
+moduł pierwotnego odkształcenia E0: 16,5 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 23,6 MPa 
+ 
+Warstwa IVb – obejmuje gliny pylaste i gliny piaszczyste w stanie twardoplastycznym na 
+plastyczny o przyjętej charakterystycznej wartości stopnia plastyczności IL
+ = 0,25, wg 
+konsolidacji grupa C. Parametry warstwy zestawiono poniżej:  
+• 
+stopień plastyczności: 0,25 
+• 
+wilgotność naturalna: 17 - 25 %                
+• 
+gęstość objętościowa: 2,0 – 2,1   [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:  14,0o  
+• 
+spójność: 15,0 kPa 
+• 
+moduł pierwotnego odkształcenia E0: 18,4 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 26,3 MPa 
+ 
+ 
+ 
+ 
+
+===== STRONA 6 =====
+ 
+6
+Warstwa IVc – obejmuje gliny, gliny piaszczyste, gliny pylaste zwięzła, pyły piaszczyste 
+oraz pospółki gliniaste stanie twardoplastycznym. Przyjęto średni stopień plastyczności 
+IL=0,15, wg konsolidacji grupa C. Parametry warstwy zestawiono poniżej:  
+• 
+stopień plastyczności: 0,15 
+• 
+wilgotność naturalna: 9 - 22 %                
+• 
+gęstość objętościowa: 2,0 – 2,2   [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:  15,6o  
+• 
+spójność: 19,3 kPa 
+• 
+moduł pierwotnego odkształcenia E0: 23,0 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 33,0 MPa 
+ 
+ 
+ Warstwa IVd – obejmuje gliny piaszczyste oraz pyły piaszczyste w stanie półzwartym i 
+półzwartym na twardoplastyczny (IL=0,05), wg konsolidacji grupa C. Parametry warstwy 
+zestawiono poniżej:  
+• 
+stopień plastyczności:  0,00 
+• 
+wilgotność naturalna: 12-18 %                
+• 
+gęstość objętościowa: 2,10 – 2,20 [tm-3 ]             
+• 
+kąt tarcia wewnętrznego:   17,2o  
+• 
+spójność: 25,6 kPa 
+• 
+moduł pierwotnego odkształcenia E0: 30,0 MPa 
+• 
+edometryczny moduł ściśliwości pierwotnej M0: 42,2 MPa 
+ 
+Wartości charakterystyczne parametrów geotechnicznych warstw zawarto w tabeli w 
+załączniku nr 6. 
+ 
+ 
+4. OPINIA GEOTECHNICZNA 
+Opisane grunty warstw geotechnicznych nr IB, II, III oraz warstw IVC i IVB 
+posiadają korzystne wartości parametrów geotechnicznych i będą stanowiły dobre podłoże 
+robót fundamentowych. Grunty warstw IVA i IVB posiadają obniżone wartości parametrów 
+geotechnicznych ze względu na swój plastyczny stan występowania. Glebie oraz nasypom nie 
+przypisuje się parametrów.  Obraz budowy podłoża ilustrują karty (załącznik nr 4)  
+i przekroje geotechniczne (załącznik nr 5), a wartości charakterystyczne parametrów 
+gruntów omawianych warstw zebrano w tabeli na załączniku nr 6. 
+ 
+5. WARUNKI WODNE 
+ 
+ 
+W podłożu badanego terenu, w czasie prowadzenia wierceń (luty 2025 r.) prowadzono 
+obserwacje hydrogeologiczne. Do głębokości rozpoznania stwierdzono występowanie wód 
+gruntowych o zwierciadle swobodnym jak i pod naporem ciśnienia hydrostatycznego.  
+Wody o zwierciadle swobodnym stwierdzono w punktach nr 6 i nr 13 na głębokości  
+0,7 – 1,2 m ppt. Wody pod naporem ciśnienia hydrostatycznego stwierdzono w otworach nr 1, 
+nr 4, nr 6, nr 8, nr 19 i nr 22 na głębokości 2,0 – 9,4 m ppt, a ustabilizowało się na                   
+0,7 – 1,7 m ppt.  W punktach nr 1 i nr 8 odnotowano również sączenia na głębokości  
+1,8 – 2,5 m p. p. t. 
+W okresie intensywnych i długotrwałych opadów atmosferycznych oraz roztopów, na 
+stropie osadów spoistych mogą pojawić się sączenia o różnej intensywności, a istniejące 
+mogą przybrać na sile. 
+
+===== STRONA 7 =====
+ 
+7
+Amplitudę sezonowych wahań zwierciadła wód gruntowych ocenia się przynajmniej 
+na ± 0,5 m w skali roku – ze względu na bliskość obszarów zagrożonych występowaniem 
+podtopień. 
+Wyniki pomiarów hydrogeologicznych zawierają karty otworów geotechnicznych 
+(załącznik nr 4) i przekroje geotechniczne  (załącznik nr 5). 
+ 
+6. WNIOSKI I ZALECENIA 
+ 
+1.   Grunty warstw geotechnicznych nr IB, II, III oraz warstw IVC i IVB posiadają 
+korzystne wartości parametrów geotechnicznych i będą stanowiły dobre podłoże robót 
+fundamentowych. Grunty warstw IVA i IVB posiadają obniżone wartości parametrów 
+geotechnicznych ze względu na swój plastyczny stan występowania. Glebie oraz 
+nasypom nie przypisuje się parametrów. 
+2.   W trakcie wykonywania prac terenowych do głębokości rozpoznania stwierdzono 
+występowanie wód gruntowych o zwierciadle swobodnym jak i pod naporem oraz 
+jako sączenia. Wodę gruntową nawiercono od głębokości 0,7 m ppt. W okresie 
+intensywnych i długotrwałych opadów atmosferycznych oraz roztopów, na stropie 
+osadów spoistych mogą pojawić się sączenia o różnej intensywności, a istniejące 
+mogą przybrać na sile.  
+3. Projektowany obiekt zalicza się do II kategorii geotechnicznej. Warunki gruntowe 
+bezpośredniego podłoża określone zostały jako złożone.  
+4. Zgodnie z Rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki 
+Morskiej z dnia 25 kwietnia 2012 r. w sprawie ustalania geotechnicznych warunków 
+posadowienia obiektów budowlanych, w przypadku posadowienia obiektów II 
+kategorii geotechnicznej w złożonych warunkach gruntowo-wodnych konieczne jest 
+sporządzenie projektu robót geologicznych i dokumentacji geologiczno-inżynierskiej. 
+5. Ostateczne decyzje dot. rodzaju, metody i sposobu posadowienia inwestycji podejmie 
+Projektant we współpracy z Inwestorem. 
+6. Głębokość przemarzania gruntu w rejonie Wrocławia wynosi 0,8 m ppt (PN-81/B-
+03020). 
+ 
+7. MATERIAŁY WYKORZYSTANE W OPRACOWANIU 
+ 
+Przepisy prawne 
+[1]. Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 
+25 kwietnia 2012 r. w sprawie ustalania geotechnicznych warunków posadowienia 
+obiektów budowlanych (Dz. U. 2012, poz. 463). 
+[2]. Rozporządzenie Ministra Środowiska z dnia 30 października 2017 r. w sprawie 
+korzystania z informacji geologicznej za wynagrodzeniem (Dz.U. 2017, poz. 2075). 
+Normy państwowe i branżowe 
+[4]. PN-81/B-03020. Grunty budowlane. Posadowienie bezpośrednie budowli. 
+Obliczenia statyczne i projektowanie. – norma wycofana. 
+[5]. PN-EN 1997-2 Eurokod 7 Projektowanie geotechniczne. Część 1 Zasady ogólne. 
+
+===== STRONA 8 =====
+ 
+8
+[6]. PN-EN 1997-2 Eurokod 7 Projektowanie geotechniczne. Część 2 Rozpoznanie  
+i badanie podłoża gruntowego. 
+[7]. 
+PN-EN 
+ISO 
+14688-1:2018-5. 
+Badania 
+geotechniczne 
+- 
+Oznaczanie  
+i klasyfikowanie gruntów - Część 1: Oznaczanie i opis. 
+[8]. 
+PN-EN 
+ISO 
+14688-2:2018-5 
+Badania 
+geotechniczne 
+- 
+Oznaczanie  
+i klasyfikowanie gruntów - Część 2: Zasady klasyfikowania  
+[9], 
+PKN-CEN 
+ISO/TS 
+17892-12:2009 
+Badania 
+geotechniczne 
+- 
+Badania 
+laboratoryjne gruntów - Część 12: Oznaczanie granic Atterberga.  
+[10]. PN-EN ISO 22475-1:2006. Rozpoznanie i badania geotechniczne - Pobieranie 
+próbek metodą wiercenia i odkrywek oraz pomiary wód gruntowych - Część 1: 
+Techniczne zasady wykonania. 
+[11]. PN-B-06050:1999. Geotechnika. Roboty ziemne. Wymagania ogólne.  
+Literatura 
+[12]. Kondracki J., Geografia regionalna Polski, Warszawa 2001 r. 
+ 
+ 
+ 
+
+===== STRONA 9 =====
+Obszar badań
+Objaśnienia:
+Załącznik nr 1
+Inwestor:
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+MAPA TOPOGRAFICZNA
+Kwiecień 2025
+Data:
+mgr inż.
+Agnieszka
+Śpiewak
+Skala:
+1: 10 000
+Opracował:
+OPINIA GEOTECHNICZNA
+I DOKUMENTACJA BADAŃ PODŁOŻA GRUNTOWEGO
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z
+usługami o powierzchni do 700 m2) 
+z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb Wojszyce, w
+rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu
+
+===== STRONA 10 =====
+'
+V
+I
+-
+V
+I
+IV - IV'
+III - III'
+III - III'
+'
+V
+-
+V
+'
+V
+-
+V
+'
+V
+-
+V
+'II
+-
+II
+'I
+-
+I
+'I
+-
+I
+'I
+-
+I
+ 13 / 10,0 
+-----------
+125.5
+ 22 / 10,0 
+-----------
+124.6
+ 19 / 10,0 
+-----------
+125.6
+ 1 / 10,0 
+-----------
+125
+ 4 / 10,0 
+-----------
+124.9
+ 6 / 10,0 
+-----------
+125
+ 8 / 10,0 
+-----------
+124.8
+Załącznik nr 2
+Inwestor:
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+MAPA DOKUMENTACYJNA
+Kwiecień 2025
+Data:
+mgr inż.
+Agnieszka
+Śpiewak
+Skala:
+1: 1000
+Opracował:
+OPINIA GEOTECHNICZNA
+I DOKUMENTACJA BADAŃ PODŁOŻA GRUNTOWEGO
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z
+usługami o powierzchni do 700 m2) 
+z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb Wojszyce, w
+rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu
+linia i nr poglądowego przekroju geologicznego
+nr otworu / głebokość m p. p. t.
+---------------------------------------
+rzędna niwelacyjna m n. p. m.
+Objaśnienia:
+
+===== STRONA 11 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 1
+Zał.Nr: 3.1
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 125.00 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.40
+2.50
+9.40
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.70
+2.00
+2.50
+3.00
+9.40
+9.70
+10.00
+Gb
+Gp+Ż
+Gp//Pg
+Gp+Ż
+Ps
+Gp+Ż
+Or
+grsaCl
+saClsasi/sacl
+grsaCl
+MSa
+grsaCl
+IVc
+IVb
+IVc
+IVd
+II
+IVd
+w
+nw
+w
+tpl
+pzw/tpl
+szg
+pzw/tpl
+gleba 
+glina piaszczysta z 
+domieszką żwiru, j. brązowa 
+glina piaszczysta z 
+wkładkami piasku 
+glinaistego, j. brązowa 
+glina piaszczysta z 
+domieszką żwiru, brązowa 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+piasek średni, szary 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+
+===== STRONA 12 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 4
+Zał.Nr: 3.2
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 124.90 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.10
+2.00
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.80
+2.00
+2.80
+3.30
+4.10
+5.00
+7.50
+8.00
+10.00
+Gb+k
+Gp
+Ps
+Gp+Ż
+Gp+Ż//Ps
+Gp+Ż
+Gp+Ż//Ps
+Pog
+Gp+Ż
+coOr
+saCl
+MSa
+grsaCl
+grsaClmsa
+grsaCl
+grsaClmsa 
+clGr/Sa
+grsaCl
+IVc
+II
+IVc
+IVb
+IVd
+III
+IVd
+w
+nw
+w
+m
+w
+tpl
+szg
+tpl
+tpl/pl
+tpl
+pzw/tpl
+szg
+tpl
+gleba z kamieniami 
+glina piaszczysta j. szaro 
+- brązowa 
+piasek średni, j. brązowy 
+glina piaszczysta z 
+domieszką żwiru, brązowa 
+glina piaszczysta z 
+domieszką żwiru i z 
+wkładkami piasku średniego, 
+c. szara 
+glina piaszczysta z 
+domieszką żwiru c. szara 
+glina piaszczysta z 
+domieszką żwiru i z 
+wkładkami piasku średniego, 
+c. szara 
+pospółka gliniasta, c. szra 
+glina piaszczysta, c. szara 
+
+===== STRONA 13 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 6
+Zał.Nr: 3.3
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 125.00 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+0.70
+1.50
+3.50
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.30
+0.60
+0.80
+1.50
+2.00
+3.50
+5.00
+8.40
+9.20
+10.00
+Gb+k
+Gp
+Pd
+Gp/Pg
+Pd//Gp
+Gp+Ż
+Pd
+Pd//Gp+Ż
+coOr
+saCl
+FSa
+saSi/saCl/saCl
+FSasacl
+grsaCl
+FSa
+FSasacl
+IVa
+Ib
+IVb
+Ib
+IVd
+Ib
+w
+nw
+w
+nw
+w
+nw
+-
+pl
+szg
+tpl/pl
+szg
+pzw/tpl
+szg
+gleba z domieszką głazików, 
+c. brązowa 
+glina piaszczysta, brązowa 
+piasek drobny, brązowy 
+glina piaszczysta na 
+pograniczu piasku 
+gliniastego, j. szaro - 
+brazowa 
+piasek drobny z wkładkami 
+gliny piaszczystej 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+piasek drobny j. brązowy 
+piasek drobny c. szary 
+piasek drobny zagliniony, 
+c. szary 
+piasek drobny z wkładkami 
+gliny piaszczystej, c. 
+szary 
+
+===== STRONA 14 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 8
+Zał.Nr: 3.4
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 124.80 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.00
+1.80
+3.50
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.20
+0.70
+1.60
+2.20
+3.50
+4.50
+5.20
+5.60
+6.00
+10.00
+NN
+Gb
+Gp+Ż
+Gp//Ps
+Gp
+Ps
+Ps+Ż
+Ps/Pg+Ż
+Gp+Ż
+Gp+Ż//Ps
+Mg
+Or
+grsaCl
+saClmsa
+saCl
+MSa
+grMSa
+grsaSi/Cl/saCl/MSa
+grsaCl
+grsaClmsa
+IVc
+IVa
+IVc
+II
+IVc
+w
+nw
+w
+-
+tpl
+pl
+tpl
+szg
+pzw/tpl
+nasyp (glina z 
+kamieniami+gruz) 
+gleba c. brązowa 
+glina piaszczysta z 
+domieszką żwiru, j. szaro - 
+brązowy 
+glina piaszczysta z 
+wkładkami piasku średniego, 
+szaro - brązowa 
+glina piaszczysta, brązowa 
+piasek średni, j. brązowy 
+piasek średni z domieszką 
+żwiru, szary 
+piasek średni na pograniczu 
+piasku gliniastego z 
+domieszką żwiru, szary 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+glina piaszczysta z 
+domieszką żwiru z wkładkami 
+piasku średniego, c. szara 
+
+===== STRONA 15 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 13
+Zał.Nr: 3.5
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 125.50 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.20
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.50
+1.00
+3.50
+5.70
+10.00
+Gb
+Pd+Ż
+Ps+Ż
+Pd
+Gp+Ż
+Or
+grFSa
+grMSa
+FSa
+grsaCl
+Ib
+II
+Ib
+IVd
+w
+w/nw
+nw
+w
+-
+szg
+pzw/tpl
+gleba c. brązowa 
+piasek drobny z domieszką 
+żwiru j. brązowy 
+piasek średni z domieszką 
+żwiru j. brązowy 
+piasek drobny szar 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+
+===== STRONA 16 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 19
+Zał.Nr: 3.6
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 125.60 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.70
+3.50
+5.00
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.30
+1.10
+1.50
+2.70
+3.50
+3.80
+5.00
+5.30
+10.00
+Nn
+Gb
+Gp
+Pr
+Gp+Ż
+Ps
+Gp+Ż
+Mg
+Or
+saCl
+CSa
+grsaCl
+MSa
+grsaCl
+IVc
+IVa
+IVc
+II
+IVd
+II
+IVd
+w
+nw
+w
+nw
+w
+-
+tpl
+pl
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+nasyp (glina+gruz+kamienie) 
+szaro - brązowy 
+gleba c. brązowa 
+glina piaszczysta, szaro - 
+brązowa 
+glina piaszczysta, szaro - 
+brązowa 
+glina piaszczysta, brązowa 
+piasek gruby, brązowy 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+piasek średni j. szaro - 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+
+===== STRONA 17 =====
+KARTA OTWORU
+GEOTECHNICZNEGO
+Profil numer 22
+Zał.Nr: 3.7
+Miejscowość: Wrocław
+Gmina: Wrocław (gmina miejska)
+Powiat: m. Wrocław
+Województwo: dolnośląskie
+Obiekt: budynki
+Zleceniodawca: SIM Wrocław Sp. z o. o.
+Wiercenie: GEOSERVICE Agnieszka Śpiewak
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 124.60 m n.p.m.
+Skala 1 : 50
+Data wiercenia: 2025-02-26
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Wiercenie
+Głębokość
+ 
+zwierciadła
+ 
+wody [m p.p.t]
+Stratygrafia
+Skala [m]
+Profil
+Przelot [m]
+Opis Litologiczny
+Symbol gruntu
+SYMBOL_ISO
+Warstwa
+ 
+geotechniczna
+Wilgotność
+Stan gruntu
+ID
+IL
+1.10
+2.80
+5.40
+Holocen
+CZWARTORZĘD
+Plejstocen
+10.0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0
+0.70
+1.60
+2.10
+2.80
+3.10
+5.40
+6.50
+10.00
+Gb
+Gp
+Gp+Ż
+Pr+Ż//Gp
+Gp+Ż
+Ps+Ż
+Gp+Ż
+Or
+saCl
+grsaCl
+grCSasacl
+grsaCl
+grMSa
+grsaCl
+IVc
+IVa
+IVc
+II
+IVd
+II
+IVd
+w
+nw
+w
+nw
+w
+tpl
+pl
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+gleba c. brązowa 
+glina piaszczysta szaro - 
+brązowa 
+glina piaszczysta szaro - 
+brązowa 
+glina piaszczysta z 
+domieszką zwiru, brązowa 
+piasek gruby z domieszką 
+żwiru z wkładkami gliny 
+piaszczystej, brązowy 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+piasek średni z domieszką 
+żwiru 
+glina piaszczysta z 
+domieszką żwiru, c. szara 
+
+===== STRONA 18 =====
+gleba
+nasyp niekontrolowany
+glina piaszczysta
+piasek drobny
+piasek średni
+piasek gruby
+m n.p.m.
+Skala
+1:
+1000
+100
+19
+154.2m
+6
+m n.p.m.
+1.7
+3.5
+5.0
+0.7
+0.7
+1.5
+3.5
+19
+125.60
+ 
+10.0
+6
+125.00
+ 
+10.0
+IVC
+IVC
+IVA
+IVA
+IVB
+IVD
+IVD
+IVD
+IB
+IB
+IB
+II
+II
+Qhn
+Qhh
+Qpg
+Qpg
+Qpfg
+Qpfg
+Qpfg
+Qpfg
+GEOSERVICE Agnieszka Śpiewak
+ul.. J. N. Jeziorańskiego 119/37, 25-432 Kielce
+Zał.Nr
+4.1
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+53-609 Wrocław
+Opinia Geotechniczna i Dokumentacja Badań Podłoża Gruntowego
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych
+na dz. o nr ew. 1/90 obręb Wojszyce we Wrocławiu
+Przekrój geotechniczny
+nr I - I'
+Skala
+1: 1000
+100
+Data
+Nazwisko
+Podpis
+Opracował
+04.2025
+A. Śpiewak
+0.0
+Nn
+0.3
+Gb
+1.1
+Gp
+1.5
+Gp
+2.7
+Gp
+3.5
+Pr
+3.8
+Gp+Ż
+5.0
+Ps
+5.3
+Gp+Ż
+0.0
+Gb+k
+0.3
+Gp
+0.6
+Pd
+0.8
+Gp/Pg
+1.5
+Pd//Gp
+2.0
+Gp+Ż
+3.5
+Pd
+5.0
+Pd
+8.4
+Pd
+9.2
+Pd//Gp+Ż
+Rysunek wykonano programem "GeoStar"
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+===== STRONA 19 =====
+gleba
+glina piaszczysta
+piasek drobny
+piasek średni
+m n.p.m.
+Skala
+1:
+1000
+100
+13
+80.4m
+1
+m n.p.m.
+1.2
+1.2
+1.4
+9.4
+13
+125.50
+ 
+10.0
+1
+125.00
+ 
+10.0
+IB
+IB
+II
+II
+IVD
+IVC
+IVC
+IVB
+Qhh
+Qpfg
+Qpg
+Qpg
+GEOSERVICE Agnieszka Śpiewak
+ul.. J. N. Jeziorańskiego 119/37, 25-432 Kielce
+Zał.Nr
+4.2
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+53-609 Wrocław
+Opinia Geotechniczna i Dokumentacja Badań Podłoża Gruntowego
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych
+na dz. o nr ew. 1/90 obręb Wojszyce we Wrocławiu
+Przekrój geotechniczny
+nr II - II'
+Skala
+1: 1000
+100
+Data
+Nazwisko
+Podpis
+Opracował
+04.2025
+A. Śpiewak
+0.0
+Gb
+0.5
+Pd+Ż
+1.0
+Ps+Ż
+3.5
+Pd
+5.7
+Gp+Ż
+0.0
+Gb
+0.7
+Gp+Ż
+2.0
+Gp//Pg
+2.5
+Gp+Ż
+3.0
+Gp+Ż
+9.4
+Ps
+9.7
+Gp+Ż
+2.5
+Rysunek wykonano programem "GeoStar"
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+===== STRONA 20 =====
+gleba
+nasyp niekontrolowany
+glina piaszczysta
+piasek drobny
+piasek średni
+piasek gruby
+m n.p.m.
+Skala
+1:
+1000
+100
+19
+75.2m
+22
+63.9m
+13
+m n.p.m.
+1.7
+3.5
+5.0
+1.1
+2.8
+5.4
+1.2
+1.2
+19
+125.60
+ 
+10.0
+22
+124.60
+ 
+10.0
+13
+125.50
+ 
+10.0
+IB
+IB
+II
+II
+II
+II
+IVD
+IVD
+IVD
+IVD
+IVC
+IVC
+IVC
+IVA
+Qhn
+Qhh
+Qhh
+Qpfg
+Qpfg
+Qpfg
+Qpfg
+Qpg
+Qpg
+Qpg
+IVA
+GEOSERVICE Agnieszka Śpiewak
+ul.. J. N. Jeziorańskiego 119/37, 25-432 Kielce
+Zał.Nr
+4.3
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+53-609 Wrocław
+Opinia Geotechniczna i Dokumentacja Badań Podłoża Gruntowego
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych
+na dz. o nr ew. 1/90 obręb Wojszyce we Wrocławiu
+Przekrój geotechniczny
+nr III - III'
+Skala
+1: 1000
+100
+Data
+Nazwisko
+Podpis
+Opracował
+04.2025
+A. Śpiewak
+0.0
+Nn
+0.3
+Gb
+1.1
+Gp
+1.5
+Gp
+2.7
+Gp
+3.5
+Pr
+3.8
+Gp+Ż
+5.0
+Ps
+5.3
+Gp+Ż
+0.0
+Gb
+0.7
+Gp
+1.6
+Gp
+2.1
+Gp+Ż
+2.8
+Pr+Ż//Gp
+3.1
+Gp+Ż
+5.4
+Ps+Ż
+6.5
+Gp+Ż
+0.0
+Gb
+0.5
+Pd+Ż
+1.0
+Ps+Ż
+3.5
+Pd
+5.7
+Gp+Ż
+Rysunek wykonano programem "GeoStar"
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+===== STRONA 21 =====
+gleba
+glina piaszczysta
+pospółka gliniasta
+piasek drobny
+piasek średni
+m n.p.m.
+Skala
+1:
+1000
+100
+6
+61.3m
+4
+78.7m
+1
+m n.p.m.
+0.7
+0.7
+1.5
+3.5
+1.1
+2.0
+1.4
+9.4
+6
+125.00
+ 
+10.0
+4
+124.90
+ 
+10.0
+1
+125.00
+ 
+10.0
+IB
+IB
+IB
+II
+II
+II
+III
+III
+IVA
+IVB
+IVB
+IVB
+IVB
+IVC
+IVC
+IVC
+IVC
+IVD
+IVD
+IVD
+IVD
+Qhh
+Qhh
+Qpg
+Qpg
+Qpg
+Qpg
+Qpfg
+Qpfg
+GEOSERVICE Agnieszka Śpiewak
+ul.. J. N. Jeziorańskiego 119/37, 25-432 Kielce
+Zał.Nr
+4.4
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+53-609 Wrocław
+Opinia Geotechniczna i Dokumentacja Badań Podłoża Gruntowego
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych
+na dz. o nr ew. 1/90 obręb Wojszyce we Wrocławiu
+Przekrój geotechniczny
+nr IV - IV'
+Skala
+1: 1000
+100
+Data
+Nazwisko
+Podpis
+Opracował
+04.2025
+A. Śpiewak
+0.0
+Gb+k
+0.3
+Gp
+0.6
+Pd
+0.8
+Gp/Pg
+1.5
+Pd//Gp
+2.0
+Gp+Ż
+3.5
+Pd
+5.0
+Pd
+8.4
+Pd
+9.2
+Pd//Gp+Ż
+0.0
+Gb+k
+0.8
+Gp
+2.0
+Ps
+2.8
+Gp+Ż
+3.3
+Gp+Ż//Ps
+4.1
+Gp+Ż
+5.0
+Gp+Ż//Ps
+7.5
+Pog
+8.0
+Gp+Ż
+0.0
+Gb
+0.7
+Gp+Ż
+2.0
+Gp//Pg
+2.5
+Gp+Ż
+3.0
+Gp+Ż
+9.4
+Ps
+9.7
+Gp+Ż
+2.5
+Rysunek wykonano programem "GeoStar"
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+===== STRONA 22 =====
+gleba
+nasyp niekontrolowany
+glina piaszczysta
+piasek drobny
+piasek średni
+m n.p.m.
+Skala
+1:
+1000
+100
+13
+111.4m
+8
+81.2m
+6
+m n.p.m.
+1.2
+1.2
+1.0
+3.5
+0.7
+0.7
+1.5
+3.5
+13
+125.50
+ 
+10.0
+8
+124.80
+ 
+10.0
+6
+125.00
+ 
+10.0
+IB
+IB
+IB
+IB
+IB
+II
+II
+IVD
+IVD
+IVC
+IVC
+IVC
+IVC
+IVC
+IVC
+IVA
+IVA
+IVA
+IVB
+Qhh
+Qhh
+Qhn
+Qhn
+Qpfg
+Qpfg
+Qpfg
+Qpg
+Qpg
+Qpg
+Qpg
+Qpg
+GEOSERVICE Agnieszka Śpiewak
+ul.. J. N. Jeziorańskiego 119/37, 25-432 Kielce
+Zał.Nr
+4.5
+SIM Wrocław sp. z o.o.
+ul. Fabryczna 10, 53-609 Wrocław
+53-609 Wrocław
+Opinia Geotechniczna i Dokumentacja Badań Podłoża Gruntowego
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych
+na dz. o nr ew. 1/90 obręb Wojszyce we Wrocławiu
+Przekrój geotechniczny
+nr V - V'
+Skala
+1: 1000
+100
+Data
+Nazwisko
+Podpis
+Opracował
+04.2025
+A. Śpiewak
+0.0
+Gb
+0.5
+Pd+Ż
+1.0
+Ps+Ż
+3.5
+Pd
+5.7
+Gp+Ż
+0.0
+NN
+0.2
+Gb
+0.7
+Gp+Ż
+1.6
+Gp//Ps
+2.2
+Gp
+3.5
+Ps
+4.5
+Ps+Ż
+5.2
+Ps/Pg+Ż
+5.6
+Gp+Ż
+6.0
+Gp+Ż//Ps
+1.8
+0.0
+Gb+k
+0.3
+Gp
+0.6
+Pd
+0.8
+Gp/Pg
+1.5
+Pd//Gp
+2.0
+Gp+Ż
+3.5
+Pd
+5.0
+Pd
+8.4
+Pd
+9.2
+Pd//Gp+Ż
+Rysunek wykonano programem "GeoStar"
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+
+===== STRONA 23 =====
+Załącznik nr 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Zestawienie wyników badań 
+laboratoryjnych 
+
+===== STRONA 24 =====
+Wilgotność naturalna wn
+Oznaczenie próbki:
+mmt=
+53,48
+g
+otw.
+13
+mst=
+49,74
+g
+Głębokość:
+mt=
+18,72
+g
+wn=
+12,06
+%
+Badanie: Sebastian Przybyłowicz
+Sprawdził: Dr inż. Wiktor Przybyłowicz upr.VI-0321
+Granica plastyczności wp
+LABORATORIUM (tel.: 533 663 500):
+mmt=
+g
+USŁUGI NAUKOWO TECHNICZNE FRONT DR INŻ. WIKOTR PRZYBYŁOWICZ
+mst=
+g
+wiktor.przybylowicz@wp.pl, t. 603 71 22 49
+mt=
+g
+wp=
+11,20
+%
+Granica płynności wL - wyniki badań:
+Próba 
+1
+Próba 
+2
+Próba 
+3
+Próba 
+4
+Próba 
+5
+Próba 
+6
+mmt=
+16,43
+g
+mmt=
+15,64
+g
+mmt=
+15,56
+g
+mmt=
+16,10
+g
+mmt=
+17,60
+g
+mmt=
+g
+mst=
+14,96
+g
+mst=
+14,05
+g
+mst=
+14,05
+g
+mst=
+14,74
+g
+mst=
+15,96
+g
+mst=
+g
+mt=
+9,77
+g
+mt=
+8,35
+g
+mt=
+8,51
+g
+mt=
+9,51
+g
+mt=
+9,69
+g
+mt=
+g
+w1=
+28,32
+%
+w2=
+27,89
+%
+w2=
+27,26
+%
+w4=
+26,00
+%
+w5=
+26,16
+%
+w6=
+%
+Udary=
+24
+Udary=
+20
+Udary=
+18
+Udary=
+30
+Udary=
+28
+Udary=
+Uderzenia N
+wi [%]
+24
+28,32
+20
+27,89
+18
+27,26
+30
+26,00
+28
+26,16
+Granica płynności - wynik:
+wL=
+26,48
+%
+odczyt z wykresu
+wL=
+dokladnie wg wzoru
+Wskaźnik plastyczność Ip=
+15,28
+%
+Stopień plastyczności IL=
+0,06
+Temat:
+Wrocław
+Wyniki badań laboratoryjnych wL wg Casagrandea, wp, Ip, IL
+Zał. 
+Wrocław
+5,8-6,0m.
+Data:13.03.2025r.
+y = -0,1391x + 30,466
+25,50
+26,00
+26,50
+27,00
+27,50
+28,00
+28,50
+5
+10
+15
+20
+25
+30
+35
+Wilgotność wi [%]
+Uderzenia N
+wi [%]
+Liniowa (wi [%])
+
+===== STRONA 25 =====
+Oznaczenie próbki: 
+Otwór 13
+gł 4,5-5,0
+PROTOKÓŁ Z BADANIA
+12.03.2025
+SKŁAD GRANULOMETRYCZNY PRÓBY GRUNTU
+Próba na mokro
+Zamawiający: 
+Wyniki badania:
+Wykonawca badania: 
+Wymiar
+Pozostałość
+Pozostałość
+Zawartość
+Uwagi
+Zawartość
+Usługi NaukowoTechniczne Front Dr inż.. Wiktor Przybyłowicz
+oczka sita
+na sicie
+na sicie, a
+ziarn
+ziarn
+wiktor.przybylowicz@wp.p, t. 603 71 22 49, Kielce
+tj. średnica
+mi [g]
+dla pyłów
+o średnicy
+o średnicy
+Badał:
+Zatwierdził:
+ziarn
+plus ilość
+większej
+mniejszej
+Sebastian Przybyłowicz
+Dr inż. Wiktor Przybyłowicz
+dz
+na denku
+niż dz
+niż dz
+Geolog-geotechnik, członek P.Komitetu Geotechniki
+[mm]
+[g]
+[%]
+[%]
+[%]
+Uprawnienia geo. Ministra OŚ nr. VI-0321 bez ograniczeń
+63
+0,00
+0,0
+0,0
+100,0
+WYNIKI BADANIA:
+31,5
+0,00
+0,0
+0,0
+100,0
+Barwa:
+16
+0,00
+0,0
+0,0
+100,0
+Petrografia: 
+8
+0,00
+0,0
+0,0
+100,0
+Współczynnik filtracji k=0,0036 d20
+2,3 [m/s]=
+2,851E-05 USBSC
+4
+0,14
+0,1
+0,1
+99,9
+[m/dobę]
+2,463
+2
+0,84
+0,4
+0,4
+99,6
+Wskaźnik krzywizyny Cc=d30
+2/(d10*d60)=
+1,7
+PN-EN-ISO 14688-2:2006
+1
+1,76
+0,8
+1,2
+98,8
+Punkt piaskowy (zawartość 0,063 do 2,0)=
+88,6%
+0,5
+5,90
+2,6
+3,8
+96,2
+Wskaźnik różnoziarnistosci U=Cu=d60/d10=
+4,00
+PN-86/B-02480/PN-EN
+0,25
+77,12
+33,8
+37,5
+62,5
+fp[%]=
+11,0
+fż[%]=
+0,4
+0,125
+93,59
+41,0
+78,5
+21,5
+fp[%]=
+88,6
+FRAKCJE
+0,063
+24,05
+10,5
+89,0
+11,0
+0,001
+1,74
+11,0
+100,0
+pozostalość 
+na denku
+0,0
+C u
+C c
+Razem:
+205,14
+100,0
+0 do 5
+1 do 4
+d10
+0,06
+d20
+0,122
+d30=
+0,155
+5 do 15
+d60=
+0,24
+>15
+masa próby wilogtnej:
+wilgotność [w ułamku]
+masa próby suchej
+mw=
+281,32
+wn=
+0,23144
+ms=
+228,45
+brązowo-szara po wysuszeniu szara z czarnymi ziarnami
+piasek
+Wrocław
+doskonała
+Kryteria oceny zagęszczalności
+Zagęszczalność
+Wskaźnik krzywizny
+słaba
+dobry wskaźnik
+średnia
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość ziarn (cząstek) o średnicy mniejszej niż dz [%]
+Średnica zastępcza ziarna (cząstki) dz [mm]
+Pyłowa
+FRAKCJE
+Iłowa
+Piaskowa
+Ka
+m.
+Żwirowa
+Pyłowa
+FRAKCJE
+Iłowa
+Piaskowa
+Ka
+m.
+Żwirowa
+
+===== STRONA 26 =====
+Tabela nr 1
+ 
+TABELA PARAMETRÓW GEOTECHNICZNYCH NA PODSTAWIE NORMY PN-81/B-03020 
+(NAZEWNICTWO GRUNTÓW DODATKOWO WG NORMY PN-EN ISO 14688-2) 
+Nr warstwy 
+geotechnicznej 
+Rodzaj gruntu 
+Symbol gruntu 
+Stan gruntu 
+Średni stopień 
+zagęszczenia ID 
+Średni stopień 
+plastyczności IL 
+Wilgotność naturalna 
+Wn(n) [%] 
+Gęstość objętościowa 
+P(n) [t฀m-3] 
+Kąt tarcia wewnętrznego 
+฀(n) [o] 
+Kohezja Cu(n) [kPa] 
+Moduł pierwotnego 
+odkształcenia Eo(n)  
+[MPa] 
+Edometryczny moduł 
+ściśliwości pierwotnej 
+Mo(n) [MPa] 
+Grupa konsolidacji 
+wg PN-
+86/B-
+02480 
+wg PN-
+EN ISO 
+14688-2 
+ 
+nasypy niekontrolowane 
+gleba 
+nN 
+Gb 
+Mg 
+H 
+Warstwę (bez nadanego numeru) stanowi przypowierzchniowa warstwa gleby lub lokalnie nasypów niekontrolowanych (mieszaniny gliny oraz gleby). Nie 
+przypisano warstwie parametrów geotechnicznych.   
+- 
+Ib 
+piasek pylasty 
+piasek drobny 
+Pπ 
+Pd 
+siSa 
+FSa 
+szg 
+0,50 
+- 
+6mw 
+16w 
+24nw 
+1,65mw 
+1,75w 
+1,90nw 
+30,4 
+- 
+46,2 
+62,0 
+II 
+piasek średni 
+piasek gruby 
+Ps 
+MSa 
+CSa 
+szg 
+0,50 
+- 
+5mw 
+14w 
+22nw 
+1,70mw 
+1,85w 
+2,00nw 
+33,0 
+- 
+80,0 
+95,0 
+III 
+pospółka 
+Po 
+grSa 
+szg 
+0,50 
+- 
+4mw 
+12w 
+18nw 
+1,75mw 
+1,90w 
+2,05nw 
+38,5 
+- 
+137,5 
+153,0 
+IVa 
+glina piaszczysta 
+Gp 
+saclSi 
+pl 
+- 
+0,30 
+17 
+2,10 
+13,2 
+13,3 
+16,5 
+23,6 
+C 
+IVb 
+glina piaszczysta 
+glina pylasta 
+Gp 
+Gπ 
+saclSi 
+siCl 
+tpl/pl 
+- 
+0,25 
+17-25 
+2,00-2,10 
+14,0 
+15,0 
+18,4 
+26,3 
+IVc 
+glina 
+glina piaszczysta 
+glina pylasta zwięzła 
+pył piaszczysty 
+pospółka gliniasta 
+G 
+Gp 
+Gπz 
+Πp 
+Pog 
+sasiCl 
+saclSi 
+saSi 
+clgrSa 
+tpl 
+- 
+0,15 
+0,15-0,17 
+9-22 
+13,21-13,85 
+2,00-2,20 
+15,6 
+19,3 
+23,0 
+33,0 
+IVd 
+glina piaszczysta 
+pył piaszczysty 
+Gp 
+Πp 
+saclSi 
+saSi 
+pzw/tpl 
+pzw 
+- 
+0,05 
+0,03-0,06 
+12-18 
+12,06-12,76 
+2,10-2,20 
+17,2 
+25,6 
+30,0 
+42,2 
+฀ 
+do obliczania wartości parametrów geotechnicznych przyjmować należy współczynnik materiałowy ϒm=1±0,10 
+฀ 
+do obliczeń należy przyjąć wartość bardziej niekorzystną 
+฀ 
+n) – wartość normowa parametrów wg normy PN-81/B-03020 
+฀ 
+ln – luźny [ID<0,33], szg – średnio zagęszczony [ID=0,33-0,67] 
+฀ 
+pl – plastyczny [IL=0,25-0,50], tpl – twardoplastyczny [IL=0,00-0,25], pzw - półzwarty [IL≤0,00] 
+฀ 
+mw – mało wilgotny, w – wilgotny, nw – nawodniony 
+฀ 
+ 
+0,15 – wynik uzyskany z badań laboratoryjnych 

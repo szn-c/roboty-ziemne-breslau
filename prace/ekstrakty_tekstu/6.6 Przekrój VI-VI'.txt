@@ -1,0 +1,148 @@
+
+===== STRONA 1 =====
+Przekrój geologiczno-inżynierski VI- VI'
+1: 1000
+100
+Zał. 4.6
+CPTU-41
+39
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+NNW
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+SSE
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+0
+5
+10
+15
+20
+25
+30
+Gb
+Gp
+Gp
+Gp
+Gp
+Gp
+Gp
+Gp
+Ps
+Pp
+Pp
+0.60
+1.30
+2.60
+3.00
+4.10
+4.85
+5.60
+6.00
+7.70
+8.05
+10.00
+CPTU-41
+125.00
+Gł. 10.0
+pzw/tpl
+tpl
+pzw/tpl
+pzw
+tpl
+zg
+szg
+pzw/tpl
+szg
+pzw/tpl
+CPTU-41
+Gł. 10.0
+39
+124.80
+0.70
+1.30
+2.00
+4.60
+5.00
+9.00
+10.00
+Gb
+Pd
+Gp//Pd
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+1.50
+2.0
+5.0
+szg
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+IVd
+IVc
+IIb
+IIb
+0
+5
+10
+15
+20
+25
+30
+Ia
+Ia
+Ib
+IVc
+IVd
+IVd
+IVd
+grunty niespoiste warstwy I
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty spoiste warstwy IV
+próba do badań laboratoryjnych

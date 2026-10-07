@@ -6,7 +6,9 @@ Powstały przy założeniach innych niż obecne (`USTALENIA.md`): jeden wariant 
 ## Do wykorzystania (po weryfikacji)
 | Plik | Co robi |
 |---|---|
-| `_skrypt/wyciagnij_dane_z_pdf.py` | odtwarza geometrię (ścianka, 8 hal, granica działki) i rzędne z PDF (PDF-y wyszukuje po treści w całym repo); porównuje z `_skrypt/dane/` |
+| `_skrypt/wyciagnij_dane_z_pdf.py` | odtwarza rzędne z PZT; geometrię z rzutu zabezpieczenia tylko jeśli ten PDF jest w repo (teraz go nie ma) |
+| `_skrypt/odczyt_dwg/` | czyta pliki DWG bez AutoCAD (LibreDWG w WebAssembly; wymaga Node: `env -u NODE_OPTIONS npm install`) |
+| `_skrypt/renderuj_pdf.py` | bezpieczne renderowanie PDF do PNG (max 1500 px) |
 | `_skrypt/wyciagnij_tekst_dokumentow.py` | tekst z PDF, DOC, DOCX |
 | `_skrypt/eg_model.py` | model terenu istniejącego (pomiar z PZT + otwory + siatka 10 m po korekcie) |
 | `_skrypt/oblicz_bilans.py` | silnik rastra 0,5 m: grubość humusu/nasypu z otworów, skład gruntu, warianty A/B |

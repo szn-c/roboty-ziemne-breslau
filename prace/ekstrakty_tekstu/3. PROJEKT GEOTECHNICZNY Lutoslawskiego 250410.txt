@@ -1,0 +1,632 @@
+
+===== STRONA 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projekt Geotechniczny 
+ 
+dla potrzeb budowy zespołu budynków mieszkalnych 
+wielorodzinnych (w tym część budynków z usługami…) z garażami 
+podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 
+obręb Wojszyce, w rejonie ul. Lutosławskiego, Buforowej 
+i Asfaltowej we Wrocławiu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Opracowanie: 
+mgr inż. Bogumił Lipiecki 
+ 
+ 
+certyfikat geotechniczny 0229 
++48 502 826 361 
+ 
+ 
+ 
+ 
+ 
+Warszawa, kwiecień 2025 
+ 
+
+===== STRONA 2 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+ 
+ 
+ 
+Spis treści 
+1. 
+Wstęp ......................................................................................................................................... 3 
+2. 
+Cel i zakres projektu geotechnicznego ...................................................................................... 3 
+3. 
+Podstawa opracowania .............................................................................................................. 4 
+4. 
+Charakterystyka projektowanej inwestycji ............................................................................... 5 
+5. 
+Warunki gruntowo-wodne (model geotechniczny) ................................................................... 5 
+6. 
+Parametry podłoża ..................................................................................................................... 6 
+7. 
+Obliczenia .................................................................................................................................. 7 
+7.1. 
+Założenia ............................................................................................................................... 8 
+7.2. 
+Ustawienia obliczeń .............................................................................................................. 9 
+7.3. 
+Przydatność terenu dla przewidywanej inwestycji i zalecenia wykonawcze ........................ 9 
+8. 
+Zalecenia dla robót ziemnych .................................................................................................. 12 
+9. 
+Zestawienie informacji zgodnie z wymaganiami Rozporządzenia Ministra Transportu, 
+Budownictwa i Gospodarki Morskiej z dnia 25 kwietnia 2012 r. w sprawie ustalania 
+geotechnicznych warunków posadowienia obiektów budowlanych (Dz. U. 2012 nr 0 poz. 463) . 13 
+Załącznik 1 – Certyfikat .................................................................................................................. 15 
+ 
+
+===== STRONA 3 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+3 
+ 
+1. Wstęp 
+Niniejszy projekt geotechniczny przygotowano dla potrzeb projektu obiektu mieszkalno-
+usługowego, z kondygnacją podziemną we Wrocławiu (k. Jagodna), wraz z zagospodarowaniem 
+terenu oraz niezbędną infrastrukturą. 
+Przedmiotowy projekt przygotowano na podstawie danych przedstawionych przez Inwestora 
+w postaci Opinii geotechnicznej (patrz [7] w 3). 
+W związku ze wstępnym etapem projektowym inwestycji, przyjęte założenia należy potraktować 
+jako wyjściowe do dalszych prac projektowych. Po podjęciu decyzji w zakresie sposobu i 
+poziomu posadowienia obiektu, technologii wykonania wykopów fundamentowych, faz realizacji, 
+na etapie projektu budowlanego, opracowanie zaleca się zrewidować oraz przeprowadzić 
+obliczenia odpowiednich stanów granicznych.  
+Na dalszych etapach projektowania sugeruje się zaktualizowanie projektu geotechnicznego dla 
+odzwierciedlenia faktycznego stanu projektowanego. 
+Elementem niniejszego projektu jest dyskusja właściwych stanów granicznych zgodnie 
+z wytycznymi technicznymi podanymi w punkcie 7 poniżej oraz danych i współczynników dla 
+projektu posadowienia.  
+Niniejszy projekt geotechniczny nie jest projektem konstrukcyjnym posadowienia obiektów 
+w rozumieniu prawa budowlanego. 
+2. Cel i zakres projektu geotechnicznego 
+Celem projektu geotechnicznego jest określenie wzajemnego oddziaływania podłoża gruntowego 
+i projektowanych obiektów budowlanych z uwzględnieniem założeń do projektu budowlanego 
+i danych z dokumentacji badań podłoża gruntowego dla potrzeb przedmiotowej inwestycji. 
+W przypadkach szczególnych, do uzupełnienia opracowania, równolegle do formułowania założeń 
+w projekcie budowlanym, zakres opracowywanych danych można uzupełnić o dodatkowe 
+informacje z zakresu hydrogeologicznego, sejsmicznego, oceny wrażliwości otoczenia, 
+środowiskowego itp. 
+Zgodnie z [5] w projekcie geotechnicznym przeprowadza się dyskusję z zakresu: 
+a. Prognozy zmian właściwości podłoża gruntowego w czasie; 
+b. Określenia obliczeniowych parametrów geotechnicznych; 
+c. Określenia częściowych współczynników bezpieczeństwa do obliczeń geotechnicznych; 
+d. Określenia oddziaływań od gruntu; 
+e. Przyjęcia modelu obliczeniowego podłoża gruntowego, a w prostych przypadkach 
+projektowego przekroju geotechnicznego; 
+
+===== STRONA 4 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+4 
+ 
+f. Obliczenia nośności i osiadania podłoża gruntowego oraz ogólnej stateczności; 
+g. Ustalenia danych niezbędnych do zaprojektowania fundamentów; 
+h. Specyfikacji badań niezbędnych do zapewnienia wymaganej jakości robót ziemnych 
+i specjalistycznych robót geotechnicznych; 
+i. Określenia szkodliwości oddziaływań wód gruntowych na obiekt budowlany i sposobów 
+przeciwdziałania tym zagrożeniom, 
+j. Określenia zakresu niezbędnego monitorowania, obiektów sąsiadujących i otaczającego 
+gruntu, niezbędnego do rozpoznania zagrożeń mogących wystąpić w trakcie robót 
+budowlanych lub w ich wyniku oraz w czasie użytkowania obiektu budowlanego. 
+W projekcie budowlanym proponuje się przeprowadzenie analizy wrażliwości rozwiązania 
+posadowienia projektowanego obiektu z punktu widzenia różnej wielkości obciążeń na podłoże 
+i co za tym idzie, jego reakcji i osiadań. Zakresy reakcji wstępnie można przyjąć powierzchniowo 
+homogeniczne, kolejno uszczegóławiając obliczenia w kierunku pełniejszego odwzorowania 
+rodzaju i pracy fundamentu obiektu. Na etapie projektowym projektant projektu budowlanego 
+określi docelowe wartości reakcji odpowiadające szczegółom rozwiązań projektowych. 
+W przypadku podłoża uwarstwionego, dla zapewnienia równomiernych warunków pracy 
+konstrukcji sugeruje się, aby zakresy wielkości naprężeń przekazywane na grunt regulować 
+rozmiarem fundamentu korelując różnice osiadań pomiędzy różnymi sekcjami fundamentu. 
+Wartości dopuszczalnych różnic osiadań sugeruje się określić w odniesieniu do funkcji, rozmiaru 
+obiektu oraz szczegółowych wytycznych Inwestora lub podmiotu eksploatującego/najemcy 
+obiektu. Na etapie wymiarowania fundamentu, niewielkie różnice w nośności podłoża, a co za 
+tym idzie nierównomierne oddziaływanie na fundament, lokalnie można niwelować poprzez 
+zmianę stopnia zbrojenia. Zabieg ten należy prowadzić z uwzględnieniem możliwej jego 
+skuteczności i aspektu ekonomicznego. 
+W innym przypadku zaleca się doprowadzenie podłoża gruntowego do jednorodnych wartości 
+nośności, poprzez zabiegi techniczne wzmocnienia, wymiany, dogęszczenia itp.  
+3. Podstawa opracowania 
+Przedmiotowy projekt geotechniczny przygotowano na podstawie następujących dokumentów 
+formalnych i technicznych: 
+[1] 
+Ustawa z dnia 7 lipca 1994 r. – Prawo budowlane (Dz. U. 2019, poz. 1186)  
+[2] 
+Ustawa z dnia 9 czerwca 2011 r. – Prawo geologiczne i górnicze (Dz. U. 2011, Nr 
+163, poz. 981)  
+[3] 
+PN-EN 1997-1: Eurokod 7 Projektowanie geotechniczne – Część 1: Zasady ogólne 
+[4] 
+PN-EN 1997-2: Eurokod 7 Projektowanie geotechniczne – Część 2: Rozpoznanie 
+i badanie podłoża gruntowego. 
+
+===== STRONA 5 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+5 
+ 
+[5] 
+Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej z dnia 
+25 kwietnia 2012 r. w sprawie ustalania geotechnicznych warunków posadowienia 
+obiektów budowlanych (Dz. U. 2012 Nr 0 poz. 463) 
+[6] 
+PN-81/03020 
+Posadowienie 
+bezpośrednie 
+budowli. 
+Obliczenia 
+statyczne 
+i projektowanie. 
+[7] 
+„OPINIA GEOTECHNICZNA ORAZ DOKUMENTACJA BADAŃ PODŁOŻA 
+GRUNTOWEGO 
+dla 
+potrzeb 
+budowy 
+zespołu 
+budynków 
+mieszkalnych 
+wielorodzinnych (w tym część budynków z usługami o powierzchni do 700 m2) 
+z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb 
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu; 
+Śpiewak; Kielce, kwiecień 2025” 
+[8] 
+PN-EN 206-1:2003 Beton, Część 1: Wymagania, właściwości, produkcja i zgodność. 
+[9] 
+Rozporządzenie Ministra Środowiska z dnia 1go września 2016 w sprawie sposobu 
+prowadzenia oceny zanieczyszczenia powierzchni ziemi (Dz. U. z 2016r, poz. 672, 
+831, 903 i 1250). 
+[10] 
+Craig R.F “Craig’s Soil Mechanics Seventh Edition Solutions Manual” 
+[11] 
+Terzaghi, K., Peck, R. “Soil Mechanics in Engineering Practice. 2nd Edition”, John 
+Wiley, New York, 1967 
+[12] 
+Lunne T, Robertson P.K., Powell J. “Cone Penetration Testing in Geotechnical 
+Practice” New York, 1997 
+[13] 
+Wiłun Z., Zarys geotechniki, Wydawnictwo Komunikacji i Łączności, Warszawa, 
+2001 
+[14] 
+„Principles of Foundation Engineering by Braja M. Das” 
+4. Charakterystyka projektowanej inwestycji 
+Projektowana inwestycja będzie obejmowała obiekty budowlane i obiekty małej architektury, sieci 
+i elementy komunikacyjne. Ostateczne rozmiary obiektów, w tym poziom posadowienia 
+i obciążenia konstrukcyjne zostaną określone na kolejnym etapie projektu. W szczególności, 
+planuje się budowę zespołu wielokondygnacyjnych budynków mieszkalnych na wspólnej płycie 
+fundamentowej, pod kondygnacją podziemną. Proponowana koncepcja znajduje swoje 
+odzwierciedlenie w sposobie zabudowy obszarów przyległych. Obiekty te posadowione są 
+w technologii „białej wanny”.  
+5. Warunki gruntowo-wodne (model geotechniczny) 
+Na podstawie [4] jako dane wyjściowe do projektowania należy przyjąć warunki gruntowe 
+zobrazowane profilami geotechnicznymi przedstawionymi w [7]. Dla potrzeb projektu, po analizie 
+przekrojów geotechnicznych należy zdefiniować modele podłoża gruntowego. Podłoże obejmuje 
+mieszaninę warstw gruntów spoistych i niespoistych, o różnym stanie zagęszczenia, a także 
+lokalnie miąższe nasypy niebudowlane nie nadające się dla potrzeb posadowienia.  
+Układ podłoża gruntowego w [6] rozpoznano do głębokości ok. 10 m p.p.t.  
+
+===== STRONA 6 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+6 
+ 
+W przypadku konieczności podjęcia decyzji o zmianie sposobu posadowienia względem założeń 
+wyjściowych potrzebnych do zaplanowania zakresu [7], lub stwierdzeniu znacznej propagacji 
+naprężeń (wykraczających poza granicę rozpoznania), sugeruje się wykonanie badań 
+uzupełniających dla spełnienia wymagań [3] i [4]. 
+Poziom pierwszego zwierciadła wody gruntowej trudno określić jako poziom ciągły. Centralny 
+przekrój geologiczno-inżynierski (patrz [7]) wskazuje jednak na pofałdowaną, ciągłą i 
+nawodnioną warstwę niespoistą piasków. Ustabilizowane zwierciadło wody swobodne/lokalnie 
+napięte oznaczono na głębokości 1,5-2,0 m p.p.t. Na tej głębokości występują także pierwsze 
+sączenia w warstwach glin zwałowych i soczewkach piasków. Sączeń należy się także spodziewać 
+na głębokościach poniżej 1,5 m p.p.t. Woda gruntowa może pojawiać się lokalnie w soczewkach 
+gruntów piaszczystych, głównie jako zawieszona, oraz infiltracyjna z opadów atmosferycznych. 
+Sytuację tę należy wziąć pod uwagę planując przejściowe etapy budowy, wykopy i ich 
+zabezpieczenia. 
+6. Parametry podłoża 
+Dla zdefiniowania reakcji i nośności podłoża, do obliczeń sugeruje się przyjęcie parametrów 
+gruntowych w ślad za [7] wraz z właściwą kombinacją współczynników częściowych 
+przedstawionych w punkcie 7.2. W Tabeli 1 przedstawiono zbiorcze zestawienie parametrów. 
+W razie konieczności (np. ze względu na możliwy poziom reakcji pod fundamentem, 
+skomplikowanie geometryczne i rozmiary obiektu) dla uzupełnienia danych geotechnicznych 
+można wykonać dodatkowe badania parametrów in-situ (sondowania statyczne CPT, dynamiczne 
+SPT tzw. „DPSH”), zwiększenie głębokości rozpoznania (patrz [3] i [4]), i badania laboratoryjne 
+wytrzymałości i odkształcalności. Pozwoli to na potwierdzenie założeń projektowych, spełnienie 
+wymogów formalnych EC7, ewentualną optymalizację posadowienia lub wyeliminowanie 
+możliwego ryzyka dla szacowania osiadań różnicowych i wymiarowania fundamentu. Decyzję 
+o ewentualnych badaniach dodatkowych można podjąć na każdym kolejnym etapie projektu w 
+celu np. uzupełnienia danych lub potwierdzenia założeń. 
+
+===== STRONA 7 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+7 
+ 
+Tabela 1 Charakterystyczne parametry gruntowe podane w [7] 
+ 
+Zgodnie z normą wartości obliczeniowe parametrów geotechnicznych należy ocenić bezpośrednio 
+albo wyprowadzić za pomocą wzoru:  
+M
+k
+d
+X
+X
+γ/
+=
+ 
+gdzie:  
+Xd – wartość obliczeniowa parametru geotechnicznego, 
+Xk – wartość charakterystyczna parametru geotechnicznego, 
+γM – współczynnik częściowy do parametru geotechnicznego. 
+
+===== STRONA 8 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+8 
+ 
+7. Obliczenia 
+7.1. Założenia 
+Z punktu widzenia geotechnicznych warunków posadowienia, dla analizowanego przypadku 
+konieczne jest przeprowadzenie stosownych obliczeń elementów posadowienia. 
+Wszystkie obiekty małej architektury, (o ile wystąpią: kanalizacja, studzienki techniczne, 
+ogrodzenia itp.) posadowione zostaną bezpośrednio przy uwzględnieniu wyników obliczeń 
+statycznych konstrukcji głównego obiektu budowlanego, z założeniem, że należy posadowić je na 
+gruncie naturalnym lub ulepszonym. 
+W projekcie geotechnicznym założono, iż: 
+a) Obliczenia sił osiowych w słupach, w ścianach zewnętrznych, tarczach, szybach itp. będą 
+przeprowadzone na etapie wymiarowania tych elementów w projekcie budowlanym.  
+b) Na podstawie zestawienia przypadków obliczeniowych wyznaczone zostaną przypadki 
+krytyczne, zaś dla nich będą obliczone reakcje i osiadanie podłoża. 
+c) Tymczasowe zabezpieczenia wykopów fundamentowych, będą przedmiotem odrębnych 
+opracowań. Zakłada się, że tymczasowe zabezpieczenie wykopu będzie dostosowane do 
+warunków wodno-gruntowych i realizowane przy pomocy np. skarp o bezpiecznym 
+nachyleniu lub innych rozwiązań typu, wykop otwarty do głębokości występowania wody 
+gruntowej, zaś niżej rozparcie ścianką szczelną, ścianką berlińską, ścianą szczelinową itp. 
+d) W obliczeniach należy uwzględnić, ponad siły normalne, wszystkie inne siły 
+konstrukcyjne. 
+e) Na etapie przygotowania projektu konstrukcyjnego zaleca się wykonać obliczenia 
+modelowe dla całego obszaru posadowienia, dla potwierdzenia spełnienia stanów 
+granicznych SGN i SGU, w tym sprawdzenia osiadań całkowitych i różnicowych. 
+f) Na etapie przygotowania podłoża fundamentowego zaleca się takie dobranie technologii 
+posadowienia, aby spełniony był jeden z dwóch warunków: 
+a. Zróżnicowanie nacisków jednostkowych na podłoże dla wyrównania osiadań 
+pomiędzy profilami gruntowymi o różnej nośności. 
+b. Ujednolicenie warunków podłoża (wzmocnienie, wymiana, posadowienie głębokie 
+na mikropalach) dla zrównania parametrów nośności podłoża pomiędzy różnymi 
+profilami gruntowymi (opcja sugerowana). 
+W obliczeniach osiadania należy uwzględnić odprężenie gruntu w dnie wykopu fundamentowego. 
+
+===== STRONA 9 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+9 
+ 
+7.2. Ustawienia obliczeń 
+Tabela 2 Sugerowane współczynniki częściowe 
+Obliczenia wpływu obciążeń sejsmicznych: 
+Standard 
+Metodyka obliczeń: 
+obliczenia według EN 1997 
+Podejście obliczeniowe: 
+2 - redukcja oddziaływań i oporów 
+Współczynniki częściowe do oddziaływań (A) 
+Trwała sytuacja obliczeniowa 
+ 
+ 
+Niekorzystne 
+Korzystne 
+Oddziaływania stałe: 
+γG = 1,35 
+[–] 
+1,00 
+[–] 
+Oddziaływania zmienne: 
+γQ = 1,50 
+[–] 
+0,00 
+[–] 
+Obciążenie hydrostatyczne: 
+γw = 1,35 
+[–] 
+ 
+ 
+Współczynniki częściowe do oporów lub nośności (R) 
+Trwała sytuacja obliczeniowa 
+Współczynnik redukcji odporu na powierzchni poślizgu: 
+γRs = 1,10 [–] 
+Obliczenie parcia czynnego: 
+Coulomb  
+Obliczenie parcia biernego: 
+Caquot-Kerisel 
+Obliczenia wpływu obciążeń sejsmicznych: 
+Mononobe-Okabe 
+Uwzględnij redukcję modułu reakcji podłoża dla obudowy wykopu 
+Metodyka obliczeń: 
+Współczynniki bezpieczeństwa 
+ 
+Sytuacja obliczeniowa: trwała lub tymczasowa, zależnie od analizowanego stanu granicznego. 
+Niezależnie od możliwości wystąpienia wody gruntowej w obrębie projektowanego posadowienia 
+rodzaj przyjętego betonu powinien odpowiadać założonej w projekcie budowlanym klasie 
+wodoszczelności oraz odporności na środowisko gruntowe, wykazujące słabe własności korozyjne 
+wobec stali (wg PN-72/C-04609 Wstępna jakościowa ocena korozyjnego działania zimnych wód 
+naturalnych na przewody z żeliwa, stali zwykłej lub ocynkowanej).  
+7.3. Przydatność 
+terenu 
+dla 
+przewidywanej 
+inwestycji 
+i 
+zalecenia 
+wykonawcze 
+Na podstawie wyników badań geotechnicznych i oceny warunków lokalizacyjnych, w świetle 
+założeń projektowych proponowanego obiektu stwierdza się, iż opisywany teren jest przydatny do 
+przeprowadzenia inwestycji, pod warunkiem potwierdzenia warunków gruntowych, uważnego, 
+zgodnego z technologią i wymaganiami projektu budowlanego wykonania fundamentów obiektu, 
+odpowiedniego wzmocnienia gruntu (jeśli konieczne) i zaprojektowania tymczasowych etapów 
+budowy z uwzględnieniem zabudowy sąsiadującej, w tym wykonania rozparć tymczasowych 
+wykopów fundamentowych i innych zabezpieczeń dla ograniczenia wpływu na otoczenie.  
+W trakcie budowy, ze względu na obecność w otoczeniu projektowanych obiektów wrażliwych 
+elementów infrastruktury podziemnej oraz obiektów budowlanych w ewentualnej strefie wpływu 
+wykopów, monitoring winien obejmować działania obserwacyjne powierzchni robót ziemnych, 
+terenów przyległych itp. Monitoring geodezyjny można wprowadzić na wyraźne polecenie 
+projektanta lub nadzoru budowlanego w uzasadnionych przypadkach. 
+
+===== STRONA 10 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+10 
+ 
+Biorąc pod uwagę sączenia wody gruntowej lub wody zawieszone, względem poziomu 
+najgłębszego wykopu fundamentowego, zasilanie profilu gruntowego i zasilanie projektowanych 
+wykopów fundamentowych może wystąpić okresowo, w tym również zasilanie od strony warstwy 
+piaszczystej o pełnej saturacji (patrz wspomniany wyżej przekrój centralny [7]). Dodatkowo 
+należy pamiętać o wodzie infiltrującej w czasie deszczu. W sezonie deszczowym należy unikać 
+utrzymywania wykopu fundamentowego bez realizacji części fundamentowej. 
+Na etapie budowy, w trakcie prowadzenia wykopów, należy przewidzieć odpowiednie 
+odwodnienie powierzchniowe dołu fundamentowego. W razie konieczności wykonania 
+odwodnienia powierzchniowego wodę należy zbierać do rząpi a następnie odpompowywać poza 
+obręb 
+wykopu, 
+stosując 
+ochronę 
+przed 
+spływem 
+powierzchniowym 
+do 
+wykopu. 
+W razie konieczności bardziej intensywnego odwodnienia wykopu fundamentowego, można 
+je realizować przy pomocy dużych studni lub igłofiltrów tak, aby lej depresji swoim zasięgiem nie 
+wychodził poza granicę działki. 
+Dla zabezpieczenia dna wykopu przed wyparciem, lub ograniczenia dopływu wody do wykopu 
+w przypadku ograniczonych możliwości odcięcia dopływu przez obudowę, możliwe jest 
+zastosowanie lokalnego korka uszczelniającego w technologii np. Jet-grouting.  
+Na czas budowy (dotyczące szczególnie części podziemnej) zakłada się, że będą zastosowane 
+środki mające na celu zabezpieczenie wykopu przed napływem bocznym wód gruntowych, 
+np. ścianka szczelna z grodzic stalowy po obwodzie wykopu, które będą wyjmowane po 
+zakończeniu robót (nie przewiduje się zastosowania trwałego odwodnienia). Grodzice te zostaną 
+zagłębione do maksymalnej głębokości około 8,0 m poniżej poziomu istniejącego terenu, a 
+dokładna głębokość zostanie określona w dalszym etapie inwestycyjnym. Zadaniem grodzic 
+stalowych będzie odcięcie napływu wód gruntowych do wykopu fundamentowego, a odwodnienie 
+wykopu (odpompowanie wód gruntowych) zostanie zrealizowane za pomocą studni 
+drenarskich/odwodnieniowych we wnętrzu wykopu, z odprowadzeniem wody np. do kanalizacji 
+deszczowej, po uzgodnieniu z Zarządcą sieci (patrz pkt. 8). 
+Główne ryzyka związane z inwestycją są następujące: 
+1) Konieczność wymiany/ulepszenia gruntów antropogenicznych, występujących lokalnie.  
+2) Konieczność prowadzenia odwodnienia w trakcie wykonywania dołów fundamentowych 
+i konieczność zabezpieczenia przed zawilgoceniem powierzchni dołów. 
+3) Ewentualny wpływ na obiekty sąsiadujące, drogi i infrastrukturę podziemną, poprzez 
+zmianę stanu naprężenia w sąsiedztwie ich posadowienia, o ile prace fundamentowe będą 
+prowadzone w pobliżu istniejącej infrastruktury.  
+4) Konieczność ochrony odkrytych powierzchni dołów fundamentowych przed wpływem 
+wody opadowej. 
+5) Konieczność klasyfikacji i unieszkodliwiania gruntu z wykopów zgodnie z zapisami [9]. 
+Elementami sugerowanymi do szczegółowego rozpatrzenia w trakcie przygotowania projektu 
+budowlanego są: 
+
+===== STRONA 11 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+11 
+ 
+a) Zasięg i ochrona projektowanego wykopu fundamentowego – zależnie od ostatecznego 
+kształtu i głębokości wykopu. 
+b) Monitoring geodezyjny konstrukcji obiektu, dla wykluczenia istnienia nadmiernych 
+osiadań. 
+c) Wydanie zaleceń dotyczących weryfikacji rodzaju i stanu gruntu poniżej poziomu 
+posadowienia obiektu dla wykluczenia występowania gruntów plastycznych bezpośrednio 
+pod fundamentami, gruntów nienośnych i nasypów antropogenicznych lub zapadowych 
+oraz zabezpieczenie procedury działania w przypadku stwierdzenia takiej sytuacji.  
+Nie stwierdzono występowania czynników możliwego negatywnego oddziaływania ośrodka 
+gruntowego na konstrukcję budynku.  
+
+===== STRONA 12 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+12 
+ 
+8. Zalecenia dla robót ziemnych 
+W przypadku braku kolizji poziomu wody gruntowej z poziomem posadowienia budynku wykopy 
+mogą być wykonywane jako otwarte z zachowaniem bezpiecznych nachyleń skarp. W takich 
+przypadkach nie musi być wykonywane odwodnienie budowalne, poza ujęciem wód 
+napływowych do wykopu (o ile wystąpią) do rząpi oraz oprowadzenie ich poza obręb wykopu 
+z rozsączaniem na powierzchni działki inwestycyjnej. W przypadku wystąpienia wspomnianej 
+kolizji, sugeruje się wykonanie projektu odwodnienia budowlanego. Projekt odwodnienia, o ile 
+nie jest wymagany przez lokalny urząd administracji budowlanej, można wykonać na każdym 
+etapie realizacji inwestycji, jeśli wystąpi taka potrzeba.  
+W przypadku zaprojektowania tzw. odcięcia wód gruntowych przed napływem do wykopu (np. 
+ścianką szczelną stalową) odprowadzenie wody gruntowej z wykopu będzie polegało głównie na 
+usunięciu przecieków przez zamki ścianki lub sączeń z wyeksponowanych warstw gruntu, w tym 
+występujących w dnie. 
+Jeśli stwierdzono występowanie gruntów typu organicznego lub nienośnego (np. plastyczny grunt 
+spoisty), grunty należy je wzmocnić lub wymienić na grunt niespoisty, nośny, zagęszczalny, lub 
+chudy beton tudzież piasek stabilizowany cementem do głębokości zalecanej przez projektanta 
+posadowienia.  
+Podłoże najgłębszego wykopu należy odebrać geotechnicznie, tj. potwierdzić zgodność warunków 
+z założeniami projektowymi (rodzaj i stan gruntu). W przypadku konieczności wykonywania 
+dalszych robót ziemnych w wykopie (wymiana, zagęszczanie) warstwy nasypu odebrać przy 
+pomocy np. badania płytą sztywną VSS 300 mm, przy założeniu minimalnego modułu wtórnego 
+E2>40 MPa i polowego badania wskaźnika zagęszczenia Is>0,97, lub zamiennie płytą dynamiczną 
+skorelowaną z płytą VSS. 
+Grunt z ukopu można wykorzystać do makroniwelacji terenu działki lub unieszkodliwić jako 
+odpad, zgodnie z wytycznymi Ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. 2013 
+poz. 21). 
+Zasypy niebudowlane można wykonać przy wykorzystaniu gruntu rodzimego z ukopu. Zasyp 
+należy wykonywać warstwami o maksymalnej miąższości 300 mm i zagęścić do wartości 
+wskaźnika zagęszczenia IS>0,95. 
+
+===== STRONA 13 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+13 
+ 
+9. Zestawienie informacji zgodnie z wymaganiami Rozporządzenia Ministra 
+Transportu, Budownictwa i Gospodarki Morskiej z dnia 25 kwietnia 2012 r. 
+w sprawie ustalania geotechnicznych warunków posadowienia obiektów 
+budowlanych (Dz. U. 2012 nr 0 poz. 463) 
+ 
+I. 
+Prognoza zmian właściwości podłoża gruntowego w czasie 
+Na podstawie wyników obliczeń przewidywanych sytuacji projektowych oraz w świetle 
+przyjętego modelu geologicznego (patrz punkt 5) rozwiązania projektowe winny zapewnić, 
+aby poza osiadaniem wywołanym spodziewanym obciążeniem od konstrukcji, poza 
+konsolidacją nie wystąpiły znaczące zmiany właściwości podłoża w czasie, wywołane 
+przez projektowane obiekty. Sposoby podejścia projektowego do zróżnicowanych 
+warunków posadowienia obecnych na przedmiotowej działce opisano w punkcie 7.1. 
+II. 
+Określenie obliczeniowych parametrów geotechnicznych 
+Dla potrzeb obliczeń stanów granicznych zgodnie z [1] jako wartości charakterystyczne 
+parametrów gruntowych zasugerowano parametry określone w [7].  
+III. 
+Określenie 
+częściowych 
+współczynników 
+bezpieczeństwa 
+do 
+obliczeń 
+geotechnicznych; 
+Zgodnie z wytycznymi [3] wskazano współczynniki częściowe dla redukcji oddziaływań 
+i oporów – podejście 2. Wartości współczynników podano w punkcie 7.2 powyżej 
+(ustawienia obliczeń). 
+IV. 
+Określenie oddziaływań od gruntu; 
+Nie przewiduje się negatywnych oddziaływań od gruntu w lokalizacji projektu. 
+V. 
+Przyjęcie modelu obliczeniowego podłoża gruntowego, a w prostych przypadkach 
+projektowego przekroju geotechnicznego 
+Na podstawie [3] w przedmiotowym projekcie geotechnicznym jako dane wyjściowe do 
+projektowania przyjęto warunki gruntowe zobrazowane profilami geotechnicznymi 
+przedstawionymi w [7].  
+VI. 
+Obliczenie nośności i osiadania podłoża gruntowego oraz ogólnej stateczności 
+Obliczenia nośności i osiadania podłoża gruntowego oraz stateczności ogólnej 
+proponowanego obiektu zaleca się przeprowadzić przy użyciu metody komputerowej, za 
+pomocą specjalistycznego programu, np. GEO5, lub podobnego. 
+VII. 
+Ustalenie danych niezbędnych do zaprojektowania fundamentów 
+
+===== STRONA 14 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+14 
+ 
+Dane krytyczne (nośność, osiadanie, stateczność) należy wyznaczyć na podstawie analizy 
+porównawczej warunków gruntowych i przewidywanych obciążeń oraz geometrii obiektu.  
+VIII. 
+Specyfikacja badań niezbędnych do zapewnienia wymaganej jakości robót ziemnych 
+i specjalistycznych robót geotechnicznych 
+Specyfikację badań niezbędnych do zapewnienia wymaganej jakości robót ziemnych 
+i ewentualnych specjalistycznych robót geotechnicznych przedstawiono w punkcie 9 – 
+Zalecenia dla robót ziemnych. 
+IX. 
+Określenie szkodliwości oddziaływań wód gruntowych na obiekt budowlany 
+i sposobów przeciwdziałania tym zagrożeniom. 
+Niezależnie od możliwości wystąpienia wody gruntowej w obrębie projektowanego 
+posadowienia rodzaj przyjętego betonu powinien odpowiadać założonej w projekcie 
+budowlanym klasie wodoszczelności oraz odporności na środowisko gruntowe.  
+ 
+X. 
+Określenie 
+zakresu 
+niezbędnego 
+monitorowania, 
+obiektów 
+sąsiadujących 
+i otaczającego gruntu, niezbędnego do rozpoznania zagrożeń mogących wystąpić 
+w trakcie robót budowlanych lub w ich wyniku oraz w czasie użytkowania obiektu 
+budowlanego. 
+Zalecenia dla monitoringu obiektu przedstawiono w punkcie 7.3 
+
+===== STRONA 15 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+15 
+ 
+Załącznik 1 – Certyfikat 
+
+===== STRONA 16 =====
+Projekt Geotechniczny 
+dla potrzeb budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami…) 
+ z garażami podziemnymi i niezbędną infrastrukturą na działce nr ewid. 1/90 obręb  
+Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu 
+ 
+16 
+ 
+ 

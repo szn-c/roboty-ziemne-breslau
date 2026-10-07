@@ -244,10 +244,13 @@ def rzedne_pzt(pdf_path):
 
 def zapisz(wyj, g, eg_pzt, fg_pzt):
     os.makedirs(wyj, exist_ok=True)
-    PAR = Polygon(g["dzialka"])
-    json.dump(dict(scianka=g["scianka"], hale={str(k): v for k, v in g["hale"].items()}, dzialka=g["dzialka"],
-                   opis="Uklad PL-2000 strefa 6 (E,N). Zrodlo: wektorowy rzut zabezpieczenia wykopu (siatka wspolrzednych projektanta, krzyze co 50 m)."),
-              open(os.path.join(wyj, "geometria_G.json"), "w"), indent=1)
+    if g is not None:
+        PAR = Polygon(g["dzialka"])
+        json.dump(dict(scianka=g["scianka"], hale={str(k): v for k, v in g["hale"].items()}, dzialka=g["dzialka"],
+                       opis="Uklad PL-2000 strefa 6 (E,N). Zrodlo: wektorowy rzut zabezpieczenia wykopu (siatka wspolrzednych projektanta, krzyze co 50 m)."),
+                  open(os.path.join(wyj, "geometria_G.json"), "w"), indent=1)
+    else:   # brak rzutu zabezpieczenia w repo: granica do flagi 'w_dzialce' z zapisanych danych wersji 1
+        PAR = Polygon(json.load(open(HERE / "dane" / "geometria_G.json"))["dzialka"])
 
     def csv_(nazwa, pts):
         with open(os.path.join(wyj, nazwa), "w", newline="") as f:
@@ -255,7 +258,8 @@ def zapisz(wyj, g, eg_pzt, fg_pzt):
             w.writerow(["E", "N", "z", "w_dzialce"])
             for E, N, z in pts:
                 w.writerow([round(E, 2), round(N, 2), z, int(PAR.contains(Point(E, N)))])
-    csv_("eg_siatka10m_z_rzutu_zabezpieczenia.csv", g["siatka"])
+    if g is not None:
+        csv_("eg_siatka10m_z_rzutu_zabezpieczenia.csv", g["siatka"])
     csv_("eg_pomiar_PZT_czarne.csv", eg_pzt)
     csv_("fg_projekt_PZT.csv", fg_pzt)
 
@@ -264,9 +268,18 @@ def porownaj(wyj, ref):
     if not os.path.isdir(ref):
         print("brak katalogu referencyjnego", ref)
         return
+    print("\nPOROWNANIE Z DANYMI UZYTYMI W WERSJI 1 (dane/):")
+    if not os.path.exists(os.path.join(wyj, "geometria_G.json")):
+        print("  (geometria pominieta - brak rzutu zabezpieczenia w repo; porownuje tylko rzedne z PZT)")
+        for nazwa in ("eg_pomiar_PZT_czarne.csv", "fg_projekt_PZT.csv"):
+            ra = list(csv.DictReader(open(os.path.join(wyj, nazwa))))
+            rb = list(csv.DictReader(open(os.path.join(ref, nazwa))))
+            za = set((float(r["z"]), round(float(r["E"])), round(float(r["N"]))) for r in ra)
+            zb = set((float(r["z"]), round(float(r["E"])), round(float(r["N"]))) for r in rb)
+            print("  %-45s wierszy %d vs %d ; identycznych (z, E, N +-1 m): %d" % (nazwa, len(ra), len(rb), len(za & zb)))
+        return
     a = json.load(open(os.path.join(wyj, "geometria_G.json")))
     b = json.load(open(os.path.join(ref, "geometria_G.json")))
-    print("\nPOROWNANIE Z DANYMI UZYTYMI W WERSJI 1 (dane/):")
     pa, pb = Polygon(a["scianka"]), Polygon(b["scianka"])
     print("  scianka: pole %.1f vs %.1f m2 ; obwod %.1f vs %.1f m" % (pa.area, pb.area, pa.length, pb.length))
     for k in map(str, range(1, 9)):
@@ -288,13 +301,17 @@ if __name__ == "__main__":
     ap.add_argument("--zabezp", default=str(PDF_ZABEZP) if PDF_ZABEZP else None, help="PDF rzutu zabezpieczenia wykopu (domyslnie wyszukiwany po tresci)")
     ap.add_argument("--pzt", default=str(PDF_PZT) if PDF_PZT else None, help="PDF PZT (domyslnie wyszukiwany po tresci)")
     a = ap.parse_args()
-    if not a.zabezp or not a.pzt:
-        sys.exit("Nie znaleziono PDF rzutu zabezpieczenia wykopu i/lub PZT w repo. Podaj sciezki: --zabezp ... --pzt ...")
-    print("Rzut zabezpieczenia:", a.zabezp)
+    if not a.pzt:
+        sys.exit("Nie znaleziono PDF PZT w repo (szukam tekstu 'BILANS TERENU OPRACOWANIA'). Podaj sciezke: --pzt ...")
     print("PZT:", a.pzt)
-    g = geometria(a.zabezp)
-    r = g["rama"]
-    print("Siatka 50 m: krzyzy %d, skala %.5f pt/m (1:%.1f), rms %.3f pt = %.3f m" % (r.n_krzyzy, r.s, 72 / 0.0254 / r.s, r.rms_pt, r.rms_pt / r.s))
+    g = None
+    if a.zabezp:
+        print("Rzut zabezpieczenia:", a.zabezp)
+        g = geometria(a.zabezp)
+        r = g["rama"]
+        print("Siatka 50 m: krzyzy %d, skala %.5f pt/m (1:%.1f), rms %.3f pt = %.3f m" % (r.n_krzyzy, r.s, 72 / 0.0254 / r.s, r.rms_pt, r.rms_pt / r.s))
+    else:
+        print("UWAGA: rzutu zabezpieczenia wykopu nie ma w repo (decyzja uzytkownika: zbedny) - geometria (scianka, hale, granica) NIE jest odtwarzana. Obowiazuje zapis w dane/geometria_G.json.")
     eg, fg = rzedne_pzt(a.pzt)
     zapisz(a.wyjscie, g, eg, fg)
     print("zapisano w", a.wyjscie)

@@ -1,0 +1,3243 @@
+
+===== STRONA 1 =====
+1
+125.9
+125.7
+125.7
+124.9
+125.5
+124.7
+125.4
+124.6
+124.5
+124.4
+125.4
+125.9
+125.0
+126.3
+124.4
+124.4
+124.9
+124.9
+124.8
+124.7
+124.7
+124.6
+124.8
+124.8
+124.5
+124.6
+124.6
+124.8
+124.8
+124.9
+124.8
+124.9
+125.0
+124.8
+124.9
+125.0
+124.8
+125.0
+125.2
+125.0
+125.1
+125.0
+125.0
+124.8
+124.9
+124.9
+124.9
+124.8
+125.2
+124.9
+124.7
+124.6
+124.7
+124.5
+124.5
+124.6
+124.5
+124.3
+124.3
+124.3
+124.3
+124.2
+124.2
+124.4
+124.5
+124.5
+124.4
+124.6
+124.5
+124.5
+124.7
+124.8
+125.0
+124.5
+124.6
+124.5
+125.2
+124.4
+124.5
+124.4
+124.3
+124.3
+124.4
+124.5
+125.9
+125.7
+125.7
+125.6
+126.1
+125.8
+125.5
+125.1
+125.8
+125.9
+125.5
+125.7
+125.0
+125.0
+126.1
+126.0
+126.0
+125.4
+125.8
+125.3
+126.0
+125.5
+125.5
+125.9
+126.2
+125.6
+125.3
+125.2
+126.0
+125.2
+125.9
+126.
+125.
+125.4
+126.0
+125.8
+125.1
+125.8
+125.2
+125.8
+125.1
+125.3
+125.7
+125.2
+125.8
+125.7
+125.5
+125.9
+125.9
+125.6
+125.9
+126.1
+125.5
+125.4
+126.0
+125.5
+126.1
+125.5
+126.0
+125.5
+126.0
+125.4
+126.0
+6
+125.8
+125.4
+124.5
+125.5
+125.7
+124.5
+125.9
+124.6
+124.7
+126.0
+124.9
+126.1
+124.8
+126.0
+124.8
+125.4
+125.3
+124.3
+124.2
+125.2
+125.2
+124.1
+124.4
+125.2
+125.2
+124.6
+124.5
+124.4
+125.5
+124.3
+125.5
+125.5
+124.4
+125.6
+125.6
+125.7
+124.6
+124.8
+124.8
+125.7
+125.8
+125.1
+125.9
+125.9
+126.1
+126.2
+126.3
+125.0
+125.0
+124.7
+125.3
+125.3
+124.6
+124.4
+proj.s
+proj.w
+proj.
+proj.k
+proj.e
+proj.e
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.t
+proj.t
+proj.t
+proj.k
+proj.k
+proj.k
+proj.k
+proj.k
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj.
+proj
+proj.k
+proj.k
+proj.k
+proj.k
+proj.k
+proj.KT
+proj.KT
+proj.KT
+proj.KT
+proj.KT
+proj.KT
+proj.KTproj.KT
+proj.KT
+proj.t
+proj.KT
+proj.KT
+proj.KT
+proj.KT
+proj.t
+proj.e
+proj.e
+proj.KT
+proj.KT
+proj.KT
+proj.t
+proj.KT
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.e
+proj.k
+proj.e
+proj.e
+proj.e
+proj.e
+1/88
+eS
+j.pb.
+j.mb.
+ch.kb.
+ch.kb.
+ch.kb.
+r
+pb.
+p
+pb.
+kd160
+124.92
+125.95
+125.97
+125.98
+125.97
+125.05
+124.96
+kd160
+121.76
+123.26
+r
+r
+r
+r
+r
+126.08
+126.08
+ch.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+j.kb.
+j.mb.
+j.mb.
+j.mb.
+ch.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+pb.
+pb.
+pb.
+pb.
+j.pb.
+ch.kb.
+tA
+j.mb.
+pb.
+pb.
+j.gr.
+125.82
+125.60
+126.23
+126.29
+126.44
+126.27
+126.42
+126.27
+126.42
+126.36
+126.34
+126.48
+125.14
+125.11
+125.66
+125.63
+125.48
+125.36
+125.33
+125.26
+125.19
+125.10
+125.15
+125.08
+125.18
+125.22
+125.28
+125.38
+124.40
+124.54
+124.73
+124.59
+125.74
+125.66
+125.58
+125.56
+125.47
+125.62
+125.55
+125.60
+125.70
+125.09
+125.93
+125.99
+125.99
+125.90
+125.96
+125.90
+126.00
+126.00
+125.93
+125.86
+125.04
+124.88
+125.86
+125.92
+125.91
+125.82
+125.87
+125.81
+125.92
+125.92
+125.86
+125.80
+124.85
+124.71
+125.71
+125.77
+125.76
+125.66
+125.72
+125.66
+125.75
+125.76
+125.70
+125.58
+125.66
+125.65
+125.55
+125.61
+125.56
+125.64
+125.63
+125.59
+124.59
+124.44
+124.45
+124.37
+124.48
+124.32
+125.50
+125.43
+125.36
+125.34
+125.25
+125.34
+125.26
+125.35
+125.38
+125.44
+126.03
+126.02
+126.04
+126.02
+126.12
+126.04
+125.95
+12
+126.10
+126.04
+126.03
+125.98
+126.05
+126.14
+126.06
+126.04
+125.91
+126.00
+125
+126.18
+126.05
+123.68
+121.72
+eN
+eN
+125.42
+123.74
+125.46
+123.68
+125.44
+124.27
+125.47
+124.30
+w
+w
+7/5
+2/5
+1/6
+124.6
+126.4
+B
+B
+B
+m
+m
+4
+4
+5
+5
+-1
+-1
+sm
+j.kb.
+j.kb.
+j.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+kb.
+kd160
+ks470
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd200
+kd160
+kd160
+kd160
+kd160
+kd160
+kd1000
+cn50 cn50
+cn50cn50
+eN
+eN
+eN
+eN
+eN
+eN
+t
+t
+t
+t
+t
+123.17
+125.16
+123.79
+125.60
+123.90
+125.60
+123.50
+125.61
+124.70
+126.12
+124.52
+126.12
+124.79
+126.14
+123.84
+125.54
+124.17
+125.20
+123.87
+125.94
+123.25
+126.73
+k
+k
+k
+k
+k
+k
+k
+k
+124.8
+125.0
+125.5
+ee
+124.8
+125.0
+124.8
+125.65
+124.75
+125.47
+124.55
+eN
+eN
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+c
+k
+c
+c
+c
+1/76
+1/5
+1/75
+m
+1/90
+1/91
+2/4
+2/6
+m
+1/72
+dr
+RIR
+dr
+RI
+R
+RII
+R
+dr
+B
+dr
+dr
+B
+cn65
+cn65
+cn65
+cn65
+cn65
+cn65
+125.05
+125.05
+125.58
+124.08
+124.08
+123.95
+123.95
+124.41
+124.41
+124.22
+124.22
+124.50
+124.50
+c
+c
+cn50
+cn50
+cn80
+cn80
+cn40
+cn40
+125.38
+125.33
+123.44
+125.48
+125.48
+124.08
+124.08
+124.02
+124.02
+123.95
+123.95
+c
+cn50
+c
+cn50
+c
+5
+6
+eN
+125.31
+125.18
+-1
+-1
+j.gr.
+ch.kb.
+ch.kb.
+ch.kb.
+ch.kb.
+kb.
+kb.
+wo90
+wo90
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd300
+kd800
+kd800
+kd1000
+kd1000
+kd1000
+kd800
+kd1000
+kd1000
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+t
+t
+125.53
+124.51
+125.52
+124.65
+125.73
+124.83
+125.48
+124.54
+124.8
+124.8
+125.0
+124.6
+124.7
+125.65
+124.41
+125.23
+123.09
+125.31
+123.86
+125.23
+123.06
+125.20
+124.08
+125.42
+123.13
+125.34
+123.05
+123.09
+123.06
+123.06
+123.05
+123.13
+k
+k
+k
+k
+eN
+eN
+e
+eN
+eS
+eS
+eN
+eS
+eS
+eS
+124.7
+124.5
+124.4
+124.7
+124.3
+124.8
+125.1
+124.9
+124.9
+e
+e
+125.1
+124.6
+4
+5
+sm
+t
+t
+eN
+eN
+t
+e
+e
+e
+125.4
+eN
+124.1
+124.0
+124.2
+124.0
+124.0
+123.9
+124.6
+e
+123.8
+kd300
+kd300
+eN
+eN
+eN
+eN
+eN
+t
+126.21
+125.36
+125.2
+125.6
+126.10
+123.92
+k
+e
+t
+ch.kb.
+ch.kb.
+kb.
+kb.
+kb.
+kb.
+kb.
+wo315
+wo315
+124.26
+122.40
+126.03
+121.50
+124.70
+122.70
+125.12
+123.37
+125.14
+123.40
+124.38
+122.57
+125.05
+123.08
+125.05
+123.27
+125.13
+123.30
+125.13
+123.30
+125.16
+121.63
+125.32
+123.45
+125.47
+121.73
+125.31
+123.45
+124.34
+122.50
+125.50
+121.76
+125.37
+123.50
+125.41
+124.89
+125.41
+124.89
+124.31
+122.48
+125.59
+122.88
+125.59
+122.88
+125.73
+119.65
+124.65
+122.88
+125.90
+119.77
+125.83
+123.92
+125.83
+123.90
+125.85
+122.04
+125.42
+119.11
+125.60
+121.90
+125.33
+123.48
+125.26
+123.52
+125.39
+123.74
+125.38
+123.74
+125.51
+123.75
+126.04
+125.89
+124.67 124.78
+126.08
+125.95
+125.55
+124.27
+125.42
+125.43
+125.54
+124.36
+124.39
+125.50
+125.50
+w
+w
+w
+wo315
+w
+k
+k
+k
+k
+k
+k
+k
+k
+k
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+kd160
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+eN
+e
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+125.38
+124.38
+125.41
+124.41
+125.33
+124.33
+125.48
+124.48
+125.44
+124.24
+125.65
+124.65
+125.64
+124.64
+125.92
+124.90
+126.12
+125.12
+126.20
+125.20
+124.6
+124.6
+124.5
+124.7
+124.5
+124.8
+124.8
+124.8
+125.1
+125.3
+125.4
+125.4
+125.1
+124.8
+124.8
+124.4
+124.6
+125.2
+124.7
+125.3
+124.6
+124.6
+124.8
+125.1
+ks150
+60
+126.04
+123.01
+123.01
+119.85
+120.09
+k
+-1
+ch.kb.
+kb.
+kb.
+kb.
+kb.
+kd110
+kd110
+kd160
+kd160
+cn100
+cn50
+eN
+eN
+eN
+eN
+t
+125.85
+124.63
+12
+125.1
+125.4
+125.25
+125.30
+125.22
+123.40
+125.32
+123.18
+125.15
+123.50
+125.18
+123.13
+125.30
+123.16
+124.25
+123.12
+k
+cn100
+cn50
+c350
+c350
+124.31
+124.31
+123.02
+123.02
+124.20
+124.0
+pb.
+r
+t
+125.87
+12
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+126.26
+124.85
+125.85
+124.74
+126.08
+124.94
+125.96
+125.21
+125.99
+124.83
+126.21
+125.25
+125.97
+124.83
+126.26
+125.09
+126.01
+124.75
+125.93
+124.68
+125.95
+124.69
+k
+k
+kd400
+kd160
+kd800
+121.50
+121.50
+121.63
+121.63
+121.73
+121.76
+121.76
+121.90
+121.90
+122.04
+122.04
+121.73
+cw200
+cw200 cw200
+cw200
+c350
+c350
+124.55
+123.25
+122.80
+123.27
+c
+123.27
+123.30
+123.31
+123.33
+123.34
+123.38
+123.41
+123.43
+3.45
+Stanisława Drabika
+125.47
+123.93
+125.56
+124.18 125.56
+124.17
+123.88
+wo125
+w
+w w
+119.93
+119.76
+119.64
+119.55
+119.46
+119.45
+118.95
+119.31
+119.30
+119.11
+ks550
+119.10
+w160
+wo90
+126.06
+119.92
+k
+125.54
+119.55
+125.39
+119.46
+125.26
+119.31
+125.95
+118.94
+124.49
+125.59
+123.91
+123.96
+124.29
+126.09
+124.49
+123.85
+123.85
+k
+k
+k
+k
+w
+w
+122.82
+123.15
+123.54
+122.95
+123.25
+122.95
+122.88
+122.95
+123.52
+123.12
+123.10
+123.12
+122.88
+123.10
+123.25
+122.95
+122.82
+125.0
+125.2
+125.4
+125.6
+125.4
+125.0
+123.6
+125.0
+123.9
+123.4
+125.3
+124.0
+12
+12
+125.2
+125.2
+125.4
+125.1
+123.7
+123.4
+125.0
+125.2
+125.2
+126.20
+125.35
+124.9
+124.30
+125.1
+125.3
+123.7
+125.2
+125.96
+124.88
+125.2
+12
+12
+125.3
+125.4
+125.2
+123.4
+124.48
+123.4
+126.05
+123.96
+124
+123.63
+125.93
+124.09
+123.8
+123.8
+125.19
+125.4
+124.9
+123.9
+125.5
+124.0
+124.4
+125.4
+123.6
+125.25
+125.80
+123.96
+125.6
+125.4
+125.6
+124.4
+123.7
+123.9
+126.19
+123.63
+123.7
+125.4
+124.6
+125.4
+eN
+eN
+eS
+eN
+eN
+eN
+eS
+eN
+eNA
+eS
+eS
+eN
+t
+eN
+t
+t
+t
+t
+t
+t
+eN
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+t
+kd160
+kd160
+kd160
+kd250
+t
+t
+t
+e
+k
+t
+e
+e
+e
+t
+e
+e
+e
+t
+kb.
+kb.
+pb.
+j.kb.
+kb.
+r
+ch.kb.
+kb.
+5.MW1
+8.KD-L
+5659050
+6433700
+A
+M
+H
+G
+F
+D
+C
+E
+K
+L
+N
+B
+1
+3
+4
+J
+2
+1.
+0,00= 126,00
+±
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+V
+V
+V
+V
+V
+V
+V
+V
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+0,00= 126,00
+±
+I
+I
+I
+I
+I
+I
+I
+I
+IV
+IV
+IV
+IV
+1
+2
+4
+3
+skarpa o wysokości max 50cm
+skarpa o wysokości max 50cm
+skarpa 1:1 o wysokości max 155cm
+skarpa o wysokości max 50cm
+skarpa o wysokości max 100cm
+palisada prefabrykowana wys. 100cm
+palisada prefabrykowana wys. 110cm
+palisada prefabrykowana wys. 110cm
+palisada prefabrykowana wys. 100cm
+palisada prefabrykowana wys. zmienna do 70cm
+palisada prefabrykowana wys. 110cm
+palisada prefabrykowana wys. 100cm
+palisada prefabrykowana wys. 70cm
+palisada prefabrykowana wys. 70cm
+T1
+T1
+T2
+T2
+T3
+T3
+T4
+T4
+125,87m n.p.m.
+125,82m n.p.m.
+125,91m n.p.m.
+125,92m n.p.m.
+125,86m n.p.m.
+125,80m n.p.m.
+124,88m n.p.m.
+125,04m n.p.m.
+124,90m n.p.m.
+124,60m n.p.m.
+124,60m n.p.m.
+124,70m n.p.m.
+124,80m n.p.m.
+124,70m n.p.m.
+124,60m n.p.m.
+124,80m n.p.m.
+124,90m n.p.m.
+124,90m n.p.m.
+125,10m n.p.m.
+126,20m n.p.m.
+124,80m n.p.m.
+125,20m n.p.m.
+124,90m n.p.m.
+125,0m n.p.m.
+125,0m n.p.m.
+126,42m n.p.m.
+126,27m n.p.m.
+124,00m n.p.m.
+126,00m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,83m n.p.m.
+125,75m n.p.m.
+125,75m n.p.m.
+125,82m n.p.m.
+125,82m n.p.m.
+125,75m n.p.m.
+125,75m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+palisada prefabrykowana 
+z ogrodzeniem ogrodu lub 
+balustradą
+projektowane budynki
+teren projektowany
+teren istniejący
+ul. Drabika
+teren działki 1/90
+ul. Buforowa
+124,00m n.p.m.
+126,00m n.p.m.
+125,60m n.p.m.
+125,60m n.p.m.
+125,60m n.p.m.
+124,4m n.p.m.
+124,5m n.p.m.
+124,5m n.p.m.
+124,4m n.p.m.
+124,3m n.p.m.
+124,2m n.p.m.
+124,3m n.p.m.
+124,3m n.p.m.
+124,4m n.p.m.
+124,3m n.p.m.
+124,4m n.p.m.
+124,4m n.p.m.
+124,5m n.p.m.
+124,5m n.p.m.
+124,7m n.p.m.
+125,0m n.p.m.
+125,0m n.p.m.
+125,0m n.p.m.
+124,9m n.p.m.
+126,23m n.p.m.
+125,97m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+palisada prefabrykowana 
+z ogrodzeniem ogrodu lub 
+balustradą
+palisada prefabrykowana 
+z ogrodzeniem ogrodu lub 
+balustradą
+125,98m n.p.m.
+125,81m n.p.m.
+125,81m n.p.m.
+125,77m n.p.m.
+125,77m n.p.m.
+125,55m n.p.m.
+projektowane budynki
+teren projektowany
+teren istniejący
+ul. Drabika
+teren działki 1/90
+ul. Buforowa
+125,40
+125,65
+125,85
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+4
+3
+2
+1
+5
+5
+6
+6
+7
+7
+REI60
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+4
+3
+2
+1
+5
+5
+6
+6
+7
+7
+REI60
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+4
+3
+2
+1
+5
+5
+6
+6
+7
+7
+REI60
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+4
+3
+2
+1
+5
+5
+6
+6
+7
+7
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+R60
+REI60
+REI60
+REI60
+REI60
+R60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+R60
+REI60
+REI60
+REI60
+REI60
+R60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+R60
+REI60
+REI60
+REI60
+REI60
+R60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+R60
+R60
+R60
+R60
+EI30
+EI30
+EI30
+EI30
+REI120
+REI120
+REI120
+REI120
+4
+3
+2
+1
+R60
+REI60
+REI60
+REI60
+REI60
+R60
+124,00m n.p.m.
+126,00m n.p.m.
+ul. Asfaltowa
+teren działki 1/90
+ul. Lutosławskiego
+125,2m n.p.m.
+125,5m n.p.m.
+126,0m n.p.m.
+126,06m n.p.m.
+126,0m n.p.m.
+126,04m n.p.m.
+126,2m n.p.m.
+125,6m n.p.m.
+125,4m n.p.m.
+125,1m n.p.m.
+125,0m n.p.m.
+125,0m n.p.m.
+125,0m n.p.m.
+124,9m n.p.m.
+124,8m n.p.m.
+124,8m n.p.m.
+124,9m n.p.m.
+124,9m n.p.m.
+124,8m n.p.m.
+124,7m n.p.m.
+124,5m n.p.m.
+124,6m n.p.m.
+124,8m n.p.m.
+124,8m n.p.m.
+125,0m n.p.m.
+124,8m n.p.m.
+124,67m n.p.m.
+125,89m n.p.m.
+125,8m n.p.m.
+125,8m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,62m n.p.m.
+125,62m n.p.m.
+125,60m n.p.m.
+palisada prefabrykowana 
+z ogrodzeniem ogrodu lub 
+balustradą
+125,63m n.p.m.
+125,80m n.p.m.
+125,80m n.p.m.
+projektowane budynki
+teren projektowany
+teren istniejący
+125,65
+obrzeże betonowe 
+wyznaczające miejsca 
+postojowe
+EI30
+REI60
+REI60
+REI60
+KONDYGNACJA 2
+KONDYGNACJA 3
+KONDYGNACJA 4
+KONDYGNACJA 5
+KONDYGNACJA 1
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+10 x 17,05 x 29
+10 x 17,05 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+REI120
+REI120
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+A
+B
+D
+E
+F
+G
+H
+I
+J
+K
+C
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+EI30
+REI60
+REI60
+REI60
+KONDYGNACJA 2
+KONDYGNACJA 3
+KONDYGNACJA 4
+KONDYGNACJA 5
+KONDYGNACJA 1
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+10 x 17,05 x 29
+10 x 17,05 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+h barierki=110cm
+REI120
+REI120
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+A
+B
+D
+E
+F
+G
+H
+I
+J
+K
+C
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+124,00m n.p.m.
+126,00m n.p.m.
+ul. Asfaltowa
+teren działki 1/90
+126,1m n.p.m.
+125,98m n.p.m.
+ul. Lutosławskiego
+125,9m n.p.m.
+125,8m n.p.m.
+125,4m n.p.m.
+125,0m n.p.m.
+124,6m n.p.m.
+124,6m n.p.m.
+124,7m n.p.m.
+124,9m n.p.m.
+124,7m n.p.m.
+124,5m n.p.m.
+124,5m n.p.m.
+125,3m n.p.m.
+124,3m n.p.m.
+125,3m n.p.m.
+125,54m n.p.m.
+124,36m n.p.m.
+124,5m n.p.m.
+124,8m n.p.m.
+124,5m n.p.m.
+124,5m n.p.m.
+125,39m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+125,98m n.p.m.
+palisada prefabrykowana 
+z ogrodzeniem ogrodu lub 
+balustradą
+125,89m n.p.m.
+125,39m n.p.m.
+projektowane budynki
+teren projektowany
+teren istniejący
+125,70m n.p.m.
+125,70m n.p.m.
+125,76m n.p.m.
+125,76m n.p.m.
+125,50
+EI30
+REI60
+REI60
+REI60
+REI60
+KONDYGNACJA 2
+KONDYGNACJA 3
+KONDYGNACJA 4
+KONDYGNACJA 5
+KONDYGNACJA 1
+REI120
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI60
+REI60
+REI60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+10 x 17,05 x 29
+10 x 17,05 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+REI120
+REI120
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+A
+B
+E
+F
+G
+H
+I
+J
+K
+C
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+D
+EI30
+REI60
+REI60
+REI60
+REI60
+KONDYGNACJA 2
+KONDYGNACJA 3
+KONDYGNACJA 4
+KONDYGNACJA 5
+KONDYGNACJA 1
+REI120
+REI60
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+R60
+REI60
+REI60
+REI60
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+10 x 17,05 x 29
+10 x 17,05 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+9 x 16,44 x 29
+REI120
+REI120
+EI30
+EI30
+EI30
+EI30
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+EI30
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+R60
+A
+B
+E
+F
+G
+H
+I
+J
+K
+C
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+REI60
+D
+Z - 04
+Plansza przekroje terenowe
+PLANSZA PRZEKROJE TERENOWE
+Skala 1:500
+Data
+Podpis
+Temat Rysunku
+Faza Projektu
+Funkcja
+Podpis
+Projekt zagospodarowania terenu-projekt wykonawczy
+Numer Uprawnień
+Data
+Projektant
+Projektant
+Funkcja i zakres
+Temat Rysunku
+Nazwa inwestycji:
+Inwestor:
+Adres inwestycji:
+Skala:
+Branża:
+Rew.:
+0
+Architektura
+Branża:
+Nr rys:
+Skala:
+1:500
+mgr inż. arch.
+182/SWOKK/2014
+ Karol Sitarski
+Projektant
+Architektura
+mgr inż. arch.
+Iwona Preiss
+Opracowujący
+Architektura
+mgr inż. arch.
+Sprawdzający
+Architektura
+ul. Klecińska 125, 54-413 Wrocław
+291/SWOKK/2017
+Daniel Porzuczek
+295/SWOKK/2017 
+2025
+Listopad
+m. Wrocław,  woj. Dolnośląskie, obręb 0026 Wojszyce 
+Działka nr ewid.1/90, AR_08, jednostka ewid. 026401_1 m. Wrocław 
+Budowa zespołu ośmiu budynków mieszkalnych wielorodzinnych (w tym dwa z 
+usługami - handel o powierzchni sprzedaży do 700m2) z garażami podziemnymi i 
+niezbędną infrastrukturą 
+SIM Wrocław sp. z o.o.
+4IDEA Karol Sitarski
+ul. Złota 15/U5, 25-015 Kielce
+ NIP: 657-277-13-51
+tel: 510-032-264
+e-mail: 4idea@4idea.pl
+mgr inż. arch.
+Aneta Wąś
+Uwagi:
+1. Dokumentacje rozpatrywać łącznie z opisem technicznym oraz pozostałymi branżami - 
+dokumentacja wielobranżowa stanowi całość
+2. Wszelkie elementy konstrukcyjne oraz instalacyjne w pierwszej kolejności rozpatrywać 
+wg.proj. branżowych.
+3. Wszelkie elementy ruchome, elementy wyposażenia, a w  szczególności elementy stolarki 
+okiennej i drzwiowej i inne należy zamawiać i wykonywać / montować / na podstawie 
+zweryfikowanych obmiarów rzeczywistych wykonanych na obiekcie.
+4. Wszystkie przejścia elementów instalacyjnych ( went. mechanicznej, grawitacyjnej, inst. 
+sanitarnych, inst. elektrycznych i innych) przez elementy oddzielenia PPOŻ (ściany i stropy) 
+zabezpieczyć do klasy odporności ściany lub stropu, zgodnie z wytycznymi zawartymi w 
+operacie ppoż.
+5.Obudowa kanałów went. mechanicznej i szachtów instalacyjnych obudować ppoż do 
+odporności pożarowej zgodnie z wytycznymi zawartymi w operacie ppoż. Przejścia w/w instalacji 
+przez elementy oddzielenia ppoż wyposażyć w klapy odcinające PPOŻ.
+6. Zabezpieczenie ppoż dylatacji poziomych i pionowych do EI120: wg systemu PROMAT - np. 
+masą PROMASTOP COATING   z każdej strony dylatacji, szczelina dylatacyjna wypełniona 
+wełną mineralną o gęstości 60kg/m³. Izolację ułożyć zgodnie z karą katalogową producenta.
+7. Przejścia przez stropy, ściany konstrukcyjne i działowe instalacji wentylacji, inst. sanitarnych 
+oraz instalacji elektrycznych ustalać na bieżąco z wykonawcą stanu surowego oraz 
+wykonawcami w/w branż.
+8.Przejscia rur kanalizacyjnych przez ściany wykonać w rurach ochronnych wg projektu instalacji 
+sanitarnych.
+9. W oknach wykonać nawietrzaki zgodnie z wytycznymi zawartymi w projekcie wentylacji 
+10. Wymiary podano w [cm], rzędne w [m].
+11.Kratki wentylacyjne otwierać 10 cm pod stropem.
+12. Wszystkie prace należy wykonywać, a specyfikowane materiały stosować zgodnie z 
+właściwymi regulacjami prawnymi i normatywnymi oraz zgodnie ze sztuką budowlaną.
+13. Wszystkie prace przygotowawcze, podstawowe, wykończeniowe, użytkowe, eksploatacyjne i 
+konserwacyjne, związane z zastosowaniem wskazanych produktów, należy wykonywać zgodnie 
+z instrukcjami, procedurami i metodami wymaganymi i przewidzianymi przez producentów 
+danych produktów i powinny być poprzedzone zapoznaniem się przez wykonawcę z właściwymi 
+kartami katalogowymi i instrukcjami producentów.
+14. Zakaz wjazdu do garażu pojazdów na LPG.
+15. Wszystkie ściany oddzielenia ppoż. należy ocieplić wełną mineralną
+16. Kominy powyżej stropu nad ostatnią kondygnacją ocieplić wełną mineralną gr. 10cm.
+17.Wskazane zastosowane materiały oraz produkty wbudowane w budynek należy rozumieć 
+jako komplet niezbędnych elementów i dodatków do właściwego montażu oraz ich poprawnego 
+funkcjonowania zgodnie z zaleceniami producentów, muszą spełniać i posiadać wszelkie atesty i 
+dopuszczenia do stosowania w budownictwie.
+18. Ciągi wentylacyjne od wentylacji przedsionków pożarowych biegnące w przestrzeni 
+garażowej obudować płytami wg. systemu Promat do odporności EI120
+19. Przerwy robocze przy wykonywaniu płyty fundamentowej budynku wg projektu konstrukcji
+20. Barierka antypaniczna - barierka uniemożliwiająca omyłkowe zejście na niższą kondygnację 
+podczas ewakuacji zamontowana w sposób nieograniczajacy szer. światła przejścia drogi 
+ewakuacyjnej
+PRZEKRÓJ T1-T1
+Skala 1:200
+PRZEKRÓJ T2-T2
+Skala 1:200
+LOKALIZACJA PRZEKROJÓW
+Skala 1:500
+PRZEKRÓJ T3-T3
+Skala 1:200
+PRZEKRÓJ T4-T4
+Skala 1:200
+BUDYNEK NR 5
+BUDYNEK NR 1
+BUDYNEK NR 8
+BUDYNEK NR 4
+BUDYNEK NR 1
+BUDYNEK NR 2
+BUDYNEK NR 3
+BUDYNEK NR 4
+BUDYNEK NR 5
+BUDYNEK NR 6
+BUDYNEK NR 7
+BUDYNEK NR 8
+1,72 m
+1,69 m
+124,30 mnpm  - średni poziom
+wody gruntowej
+1,71 m
+1,7 m
+124,30 mnpm  - średni poziom
+wody gruntowej
