@@ -1,6 +1,4 @@
-# 05 – Rzędne i obrysy fundamentów (DO UZUPEŁNIENIA)
+# Folder pusty
 
-Tu wgraj dokumentację z **rzędnymi i obrysami fundamentów** hal garażowych (PDF, a jeśli masz: DXF/DWG eksportowany do PDF, tabele współrzędnych).
-Jeśli masz, dołóż też z projektu konstrukcji: **grubość płyty fundamentowej, warstwy pod płytą (chudy beton, podsypka), poziomy spodu płyty**.
-
-Te dokumenty posłużą do weryfikacji: lokalizacji obrysów hal, rzędnej dna wykopu (dotąd 121,97 m npm) i rzędnych projektowych terenu.
+Dokumenty z tego zakresu użytkownik usunął z repo, bo naniósł ich treść na DXF (obrysy: `prace/dane_wejsciowe_uzytkownika/`).
+Co z nich warto wiedzieć i jak je odzyskać z historii gita: `prace/MAPA_DOKUMENTOW.md`, `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`.
