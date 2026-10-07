@@ -78,11 +78,12 @@ Jeśli rzędna podbudowy wychodzi poniżej powierzchni po zdjęciu humusu, nie k
 - Biblioteki znikają między sesjami: `python -m pip install -q numpy scipy shapely ezdxf openpyxl formulas pymupdf pillow olefile`.
 - **Katalog `/tmp` jest czyszczony między wywołaniami** – pracuj w katalogu repo.
 - Brak LibreOffice i narzędzi DWG. Użytkownik widzi tylko pliki w przeglądarce (bez terminala) – pokazuj wyniki w odpowiedzi.
-- Dane geometrii odtworzysz z PDF jednym poleceniem: `prace/obliczenia_v1/_skrypt/wyciagnij_dane_z_pdf.py`.
+- Rzędne z tekstu PZT odtworzysz jednym poleceniem: `prace/obliczenia_v1/_skrypt/wyciagnij_dane_z_pdf.py`. Geometrii z PDF już nie odtwarzamy (rzutu zabezpieczenia nie ma w repo) – obowiązują pliki `*_checked`.
   Teksty dokumentów: `prace/obliczenia_v1/_skrypt/wyciagnij_tekst_dokumentow.py`.
 - Silnik obliczeń rastra 0,5 m (teren, humus, skład gruntu): `prace/obliczenia_v1/_skrypt/oblicz_bilans.py` (do przeróbki pod nowe założenia).
 
 ### 6a. Obrazy – twardy limit 2000 px (wcześniej zablokował sesję)
+Użytkownik **nie dołącza PDF-ów ani zrzutów ekranu do rozmowy** (repo jest dołączone do sesji); ty też nie ładuj całych PDF-ów jako obrazów.
 Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mieć **≤ 2000 px** na każdym boku, inaczej sesja blokuje się na stałe (błąd „image dimensions exceed max allowed size for many-image requests"). Szczegóły i tabela dokumentów: `prace/OBRAZY_LIMIT_2000PX.md`.
 - **Najpierw tekst** (`prace/ekstrakty_tekstu/`, dane wektorowe PDF). Obraz tylko gdy nie ma innej drogi.
 - **Obrazy renderuj tylko** `prace/obliczenia_v1/_skrypt/renderuj_pdf.py` (max 1500 px, wycinki/kafelki). Nigdy `Matrix(2,2)` na dużych stronach (PZT ma 4252 pt szerokości).
