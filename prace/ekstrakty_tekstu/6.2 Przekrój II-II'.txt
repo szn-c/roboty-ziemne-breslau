@@ -1,0 +1,326 @@
+
+===== STRONA 1 =====
+IVd
+CPTU-27
+39
+40
+33
+27
+21
+16
+9
+5
+Przekrój geologiczno-inżynierski II - II’
+1: 1000
+100
+Zał. 6.2
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+m n.p.m.
+121
+117
+114
+113
+112
+m n.p.m.
+122
+123
+124
+125
+126
+118
+119
+120
+116
+115
+121
+117
+114
+113
+112
+Gł. 10.0
+39
+124.80
+WNW
+ESE
+warstwa geologiczno-inżynierska
+wykres sondowania CPTU (opór stożka qc [MPa])
+grunty niespoiste warstwy I
+grunty niespoiste warstwy II
+gleba, nasypy
+grunty niespoiste warstwy III
+grunty spoiste warstwy IV
+IVd
+zw - zwarty
+pzw - półzwarty
+tpl - twardoplastyczny
+pl - plastyczny
+bzg - bardzo zagęszczony
+zg - zagęszczony
+szg - średnio zagęszczony
+4.0
+poziom nawiercony zwierciadła wody
+4.0
+poziom ustabilizowany zwierciadła wody
+4.0
+sączenia wód podziemnych
+0
+5
+10
+15
+20
+25
+30
+0.70
+1.30
+2.00
+4.60
+5.00
+9.00
+10.00
+Gb
+Pd
+Gp//Pd
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+1.50
+2.0
+5.0
+szg
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+0.60
+0.80
+1.60
+2.00
+2.60
+3.20
+3.50
+4.40
+5.50
+5.70
+9.00
+9.50
+10.00
+Gł. 10.0
+Gb+k
+Gp
+Ps/Pr
+Gp
+P.p/Pp
+Gp+Ż
+Gpz
+I
+Gp+Ż
+Pd
+Gp+Ż
+Ps
+Gp+Ż
+tpl
+szg
+tpl
+szg
+tpl
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+tpl
+tpl
+40
+124.90
+3.00
+5.5
+9.0
+0.70
+1.70
+3.50
+4.00
+10.00
+Gł. 10.0
+Gb
+Gp//Pd
+Gp+Ż
+Pr+Ż
+Gp+Ż
+33
+124.80
+pzw/tpl
+tpl
+szg
+pzw/tpl
+1.70
+3.5
+0.60
+1.60
+2.20
+2.70
+3.80
+5.00
+7.20
+10.00
+Gł. 10.0
+Gb
+Gp
+Pg
+Gp
+Ps
+Gpz
+Ps+Gp
+tpl
+tpl/pl
+pzw
+szg
+pzw
+bzg
+Gp
+tpl/pl
+27
+124.70
+3.60
+3.8
+0.80
+2.80
+3.50
+4.40
+5.50
+10.00
+Gł. 10.0
+Gb
+Gp
+Gp//Pd
+Gp+Ż
+Gpz+Pd
+Gp+Ż
+21
+124.80
+3.00
+4.50
+tpl
+pzw/tpl
+pzw/tpl
+pzw/tpl
+pzw/tpl
+0.50
+2.00
+2.70
+5.50
+10.00
+Gł. 10.0
+Gb
+Gp+Ż
+p+Ż/Ps
+G
+Gp+Ż
+Gp+Ż
+2.00
+1.20
+tpl
+pzw/tpl
+tpl
+pzw/tpl
+16
+124.60
+0.60
+1.70
+2.20
+3.20
+4.40
+5.50
+10.00
+Gł. 10.0
+9
+124.80
+Gb
+Gp+Ż
+Gp//Ps
+Gp
+Gp+Ż
+Ps+Ż
+Gp+Ż
+tpl
+tpl/pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+1.70
+2.00
+4.4
+0.20
+0.70
+1.40
+1.60
+3.00
+4.00
+10.00
+Gł. 10.0
+Nn
+Gb
+Gp
+Pd
+Gp
+Gp+Ż
+p+Ż//Pd
+G
+0.90
+tpl
+szg
+tpl
+pzw/tpl
+tpl
+5
+125.00
+IVd
+IVd
+IVd
+IVd
+IVd
+IVd
+IVd
+IVc
+IVc
+IVc
+IVc
+IVc
+IVb
+IVb
+V
+Ia
+Ia
+Ia
+IIb
+IIb
+IIc
+IIb
+IIb
+IIb
+0
+5
+10
+15
+20
+25
+0
+10
+20
+30
+40
+50
+iły - warstwa V
+CPTU-21
+próba do badań laboratoryjnych

@@ -1,0 +1,187 @@
+
+===== STRONA 1 =====
+1/2
+Strona
+Eurofins OBiKŚ Polska Sp. z o.o.
+ul. Owocowa 8
+40-158 Katowice
+LABORATORIUM
+ul. Karoliny 4, 40-186 Katowice
+zapytania.enviPL@etcee.eurofins.com
+Environment Testing
+Data raportu
+01.08.2025
+PGF GEOSERVICE Agnieszka Śpiewak
+J. N. Jeziorańskiego 119/37
+25-432 Kielce
+POLSKA
+AR-25-KH-008286-01
+Raport analityczny
+{282AE9E2-846C-4BC2-9875-1F9A0480DA98}
+Numer próbki 599-2025-00029135
+Zlecający badania
+PGF GEOSERVICE Agnieszka Śpiewak
+Rodzaj próbki
+Woda podziemna - otw. nr 22
+Data przyjęcia próbki
+23.07.2025
+Transport
+W temperaturze otoczenia
+Miejsce pobrania próbki
+Wrocław, ul. Lutosławskiego
+Data pobrania próbki
+17.07.2025
+Próbki pobrane przez
+Zleceniodawcę
+Sposób pobrania próbki/próbek
+Brak danych
+Próbki dostarczone przez
+Firmę kurierską
+Stan próbki
+Bez zastrzeżeń
+Cel badania
+Brak danych
+23.07.2025
+Data rozpoczęcia badania
+Data zakończenia badania
+01.08.2025
+Wyniki badań
+K9M01
+Sumaryczna zawartość wapnia i magnezu (twardość) (A) 
+PN-ISO 6059:1999, Obliczeniowa
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Twardość ogólna
+mg/l CaCO3
+ ± 74
+370
+K9N03
+Jon amonowy (NH4) (A) 
+PN-EN ISO 11732:2007, Spektrofotometryczna (CFA)
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Jon amonowy (NH4)
+mg/l
+ ± 0,031
+<0,26
+K9N06
+Przewodność elektryczna właściwa 25°C (A) 
+PN-EN 27888:1999, Konduktometryczna
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Przewodność elektryczna właściwa 25°C
+µS/cm
+ ± 68
+683
+zał. G
+
+===== STRONA 2 =====
+Raport analityczny AR-25-KH-008286-01
+599-2025-00029135
+Numer próbki
+2/2
+Strona
+K9N07
+pH w 20°C (A) 
+PN-EN ISO 10523:2012, Potencjometryczna
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+pH w 20°C
+ ± 0,2
+8,1
+K9N11
+Siarczany (A) 
+PN-EN ISO 10304-1:2009, IC-EC
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Siarczany (SO4)
+mg/l
+ ± 2
+25
+K9N12
+Chlorki (A) 
+PN-EN ISO 10304-1:2009, IC-EC
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Chlorki
+mg/l
+ ± 0,7
+4,5
+K9N26
+Zasadowość ogólna (A) 
+PN-EN ISO 9963-1:2001+Ap1:2004, Miareczkowa
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Zasadowość ogólna
+mg/l CaCO3
+ ± 29
+293
+K9N62
+Zasadowość mineralna (A) 
+PN-EN ISO 9963-1:2001+Ap1:2004, Metoda potencjometryczna
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Zasadowość mineralna
+mg/l CaCO3
+ ± 0,75
+<5
+K9N70
+Agresywny dwutlenek węgla (A) 
+PN-EN 13577:2008, Miareczkowa
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Dwutlenek węgla agresywny
+mg/l
+ ± 0,60
+<2,2
+KHP17
+Magnez (Mg) (A) 
+PN-EN ISO 17294-2:2024-04 (R), ICP-MS
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Magnez (Mg)
+mg/l
+ ± 1,31
+8,72
+KHP22
+Wapń (Ca) (A) 
+PN-EN ISO 17294-2:2024-04 (R), ICP-MS
+Metoda
+Badania zostały wykonane przez Eurofins OBIKŚ Polska Sp. z o.o., nr akredytacji AB 213
+Wapń (Ca)
+mg/l
+ ± 27
+135
+Zatwierdzający: Agnieszka Kucharska
+Starszy Koordynator ds. Technicznej Obsługi Klient
+Poniżej dolnego akredytowanego zakresu pomiarowego
+*  = 
+A - badanie akredytowane zamieszczone w Zakresie Akredytacji AB 213
+A(E) - badanie umieszczone w elastycznym zakresie akredytacji nr AB 213
+(T) - badania wykonywane w miejscach innych niż stała siedziba Laboratorium 
+NA lub N(E) - badanie nieakredytowane (nie zamieszczone w zakresie akredytacji AB 213, lub przedstawiające wynik poniżej lub powyżej akredytowanego zakresu metody)
+A(P) - badanie akredytowane zamieszczone w zakresie akredytacji zewnętrznego dostawcy usług laboratoryjnych 
+N(P) - badanie nieakredytowane wykonane przez zewnętrznego dostawcę usług laboratoryjnych 
+(R) - badanie wykonywane metodą referencyjną
+(NR) - badanie wykonane metodą alternatywną dla metody wskazanej w przepisie prawa - Laboratorium posiada dowody uzyskania równoważności wyników 
+(R/NR) - badanie wykonywane metodą referencyjną, natomiast w przypadku oznaczania rtęci metodyka równoważna do metodyki referencyjnej, dowód równoważności dostępny w Laboratorium na życzenie Klienta.
+(W) - przywołane dokumenty odniesienia zostały wycofane przez Polski Komitet Normalizacyjny bez lub z zastąpieniem
+(S) - badanie objęte zatwierdzeniem PPSE
+Dla próbek nie pobranych przez Laboratorium dane dotyczące próbki (w tym mogące bezpośrednio wpływać na ważność wyników: data pobrania, miejsce pobierania, obiekt badań) zostały podane przez Klienta;  wyniki
+badań dotyczą tylko otrzymanych i badanych próbek, niepewność wyniku (jeżeli podano) nie uwzględnia pobierania. Jeżeli nie podano inaczej dla próbek nie pobranych przez Laboratorium: plan i procedury pobierania są
+identyfikowalne u Klienta. 
+Dla próbek nie pobranych przez Laboratorium,  jeżeli Klient nie uszczegółowił matrycy podając jako obiekt badań  „woda” - pierwiastki badane z wykorzystaniem techniki ICP oznaczone zostały z próbki zakwaszonej i
+sączonej przez sączek miękki.  
+Dla próbek pobieranych
+pobrania oraz identyfikacja obiektu badań) zostały podane przez Klienta. 
+Niepewność (jeżeli
+podejścia całościowego (rozszerzona niepewność pomiaru zos
+(współczynnik rozszerzenia k=2, prawdopodobieństwo 95%).
+Wyniki znajdujące się poniżej i powyżej zakresu metody przedstawione w sposób ilościowy (nie w formie „< lub >” dolnej/górnej granicy zakresu pomiarowego metody) znajdują się poza zakresem akredytacji. 
+Dla rezultatów badania podanych w formie „< lub > y” (gdzie y=wartość mezurandu odpowiadająca dolnej/ górnej granicy zakresu pomiarowego metody) przedstawiona (na wniosek Zlecającego) rozszerzona niepewność
+stanowi niepewność pomiaru tej wartości (np. dla rezultatu <0,05 mg/l, wartość niepewności przedstawiona jest dla wyniku 0,05 mg/l)
+Przedstawione w raporcie wyniki badań wykonywanych przez dostawcę usług zewnętrznych (informacja podana przy wyniku/grupie wyników) autoryzowane są przez (albo wyłącznie przez) laboratorium dostawcy usług
+Zasady oceny zgodności z wymaganiami oraz dodatkowe informację dotyczące przeprowadzenia badań dostępne są w siedzibie Laboratorium na życzenie Klienta.
+Daty wykonywania poszczególnych badań są identyfikowalne w zapisach Laboratorium.
+Skargi rozpatrywane są zgodnie z Instrukcja ogólnolaboratoryjną EFO/IQ/03 „Rozpatrywanie skarg” dostępną na stronie www.obiks.pl <http://www.obiks.pl>.
+Raport może być powielany jedynie w całości.

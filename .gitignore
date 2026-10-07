@@ -6,3 +6,4 @@ Thumbs.db
 _tmp/
 prace/obliczenia_v1/_skrypt/dane_odtworzone/
 _obrazy/
+node_modules/

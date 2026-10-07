@@ -1,12 +1,10 @@
-```
 ---
 inclusion: always
 ---
-```
 
 # USTALENIA – bilans robót ziemnych, działka 1/90, Wojszyce (Wrocław)
 
-Ten plik jest wiążący. Czytaj go na początku każdej sesji. Jest identyczny z `USTALENIA.md` w katalogu głównym repo (gdyby folder `.kiro` nie wgrał się na GitHub).
+Ten plik jest wiążący. Czytaj go na początku każdej sesji. Jest identyczny z `USTALENIA.md` w katalogu głównym repo (kopia na wypadek, gdyby folder `.kiro` nie wgrał się na GitHub).
 Szczegółowy plan prac i lista weryfikacji: `ZADANIA_I_WERYFIKACJA.md`.
 
 ## 1. Użytkownik i sposób pracy
@@ -30,7 +28,7 @@ Wynik w **arkuszu Excel**, w **dwóch wariantach** (A i B), po polsku.
    3. opinia geotechniczna (`03_opinia_geotechniczna/`) – pomocniczo;
    4. dokumentacja z rzędnymi i obrysami fundamentów (`05_rzedne_i_obrysy_fundamentow/`);
    5. **mapa do celów projektowych** (w repo) – źródło geodezyjne dla **granicy działki** i rzędnych terenu istniejącego;
-   6. PZT, rzut garaży, przekrój (`04_...`) i rzut zabezpieczenia wykopu (`06_...`).
+   6. PZT, PZT garaże, przekroje terenowe z poziomem wody gruntowej i **rzuty fundamentów `PW_*-K-01`** (folder `04_...`, w nich obrysy fundamentów). Rzutu zabezpieczenia wykopu (PDF) i przekroju B-B **nie ma już w repo** (decyzja użytkownika: zbędne).
 3. **Zweryfikuj wszystkie dotychczasowe ustalenia** w oparciu o dokumentację z repo (lista w `ZADANIA_I_WERYFIKACJA.md`, w tym: **rzędne, mapa, lokalizacja obrysów hal garażowych i ścianek wykopu**).
    Wynik zapisz w `prace/WERYFIKACJA_raport.md`. Niezgodności zgłoś użytkownikowi **przed** obliczeniami.
 4. Dopiero potem obliczenia i arkusz.
@@ -98,8 +96,8 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 
 ## 7. Co już wiadomo (NIEZWERYFIKOWANE – sprawdź w pkt 3)
 - Układ: PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH (dokumentacja geol.-inż. to podaje). W CAD X = E (6 433 xxx), Y = N (5 658 xxx).
-- Rzut zabezpieczenia wykopu (PDF wektorowy) ma siatkę krzyży co 50 m; odczytano z niego ściankę (pole 20 661,7 m², obwód 563,5 m), 8 obrysów hal (razem 11 927,1 m²) i granicę działki (25 611 m² wobec oficjalnych 25 290,00 m²).
-- Wcześniejszy szkic użytkownika (ścianka i hale) był **o 3,7% za mały** (błąd skali podkładu) – nie używać go.
+- Geometria ścianki, hal i granicy została odczytana w poprzednich sesjach z rzutu zabezpieczenia wykopu (PDF wektorowy z siatką krzyży co 50 m; **tego PDF nie ma już w repo**) i zapisana w `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` (ścianka: pole 20 661,7 m², obwód 563,5 m; 8 obrysów hal razem 11 927,1 m²; granica z rysunku 25 611 m² wobec oficjalnych 25 290,00 m²). Poprawny DXF z tymi obrysami: `prace/obliczenia_v1/04_gstarcad_siatka/obrysy_projektanta_i_siatka_dz190.dxf`.
+- **Podkład użytkownika** `prace/dane_wejsciowe_uzytkownika/podklad_uzytkownika_SZKIC_v0.dwg` to **DWG** (mimo wcześniejszego rozszerzenia .dxf; ezdxf go nie czyta – użyj `prace/obliczenia_v1/_skrypt/odczyt_dwg/`, odczyt gotowy w `..._odczyt.json`). Jego warstwy `OBRYS_HAL` i `7_SCIANKA_ORIENTACYJNA` zawierają **pierwszy szkic użytkownika, o 3,7% za mały** (hale 1 429,13 / 1 024,67 / 1 507,53 m²; ścianka 19 244,63 m²) – **NIE używać**. Warstwa `A-granica inwest.` (17 wierzchołków, otwarta polilinia, 25 105,44 m² wobec 25 290,00 m²) to granica działki narysowana przez użytkownika – **kandydat** do granicy (do porównania z MDCP).
 - Teren istniejący: średnio 124,66 m npm w obrysie ścianki (pomiar z PZT + otwory). Siatka 10 m z rzutu zabezpieczenia jest zawyżona o ok. 0,1 m i ma literówki – nie używać wprost.
 - Poprzednie wyniki (inne założenia, nieaktualne): humus ok. 15,4 tys. m³, grunt z wykopu 29,3 tys. m³ (A) i 42,0 tys. m³ (B).
 
@@ -111,5 +109,6 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 5. Tony z dokładnością 0,000.
 6. Zapas humusu 10% zostaje.
 7. Ogrody deszczowe (253,00 m²): poza opracowaniem, dedykowany substrat jak na halach (w bilansie jak hale, bez gruntu z odkładu).
+8. Rzut zabezpieczenia wykopu (PDF) i przekrój B-B budynku 2C są zbędne i usunięte z repo. Zastępują je: podkład użytkownika (DWG, ale uwaga na stary szkic – pkt 7) oraz rysunek „Przekroje terenowe z naniesionym średnim poziomem wody gruntowej". Grubość chudego betonu (10 cm) pochodziła z przekroju B-B – potwierdź w dokumentacji (projekt geotechniczny wspomina o chudym betonie).
 
 **Otwarte:** brak. Jeśli dokumentacja wykaże niejasność, zapytaj użytkownika.

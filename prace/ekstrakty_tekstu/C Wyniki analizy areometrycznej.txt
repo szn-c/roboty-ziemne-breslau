@@ -1,0 +1,802 @@
+
+===== STRONA 1 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+3
+3
+P25110143
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 1,60 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy fSa
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,65
+18,53
+70,00
+59,06
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+0,00
+87,80
+7,80
+4,40
+Zawartość ziarn o średnicy < 2 mm, %
+87,80
+95,60
+100,00
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+Załącznik C
+
+===== STRONA 2 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+3
+3
+P25110149
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 4,00 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,72
+11,19
+45,00
+40,47
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+1,20
+56,20
+24,40
+18,20
+Zawartość ziarn o średnicy < 2 mm, %
+56,20
+80,60
+98,80
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 3 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+3
+3
+P25110144
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 9,00 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,71
+12,92
+45,00
+39,85
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+0,50
+56,70
+19,50
+23,30
+Zawartość ziarn o średnicy < 2 mm, %
+56,70
+76,20
+99,50
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 4 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+18
+18
+P25110147
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 9,50 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,71
+11,18
+45,00
+40,47
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+1,20
+53,10
+24,80
+20,90
+Zawartość ziarn o średnicy < 2 mm, %
+53,10
+77,90
+98,80
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 5 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+21
+21
+P25110145
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 5,50 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,72
+11,50
+45,00
+40,36
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+2,20
+56,80
+16,20
+24,80
+Zawartość ziarn o średnicy < 2 mm, %
+56,80
+73,00
+97,80
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 6 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+24
+24
+P25110148
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 4,30 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,73
+11,14
+45,00
+40,49
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+1,70
+55,20
+18,20
+24,90
+Zawartość ziarn o średnicy < 2 mm, %
+55,20
+73,40
+98,30
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 7 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+25
+25
+P25110150
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 3,50 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,71
+11,83
+45,00
+40,24
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+1,20
+56,90
+20,30
+21,60
+Zawartość ziarn o średnicy < 2 mm, %
+56,90
+77,20
+98,80
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 8 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+27
+27
+P25110142
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 2,30 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy mSa
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,66
+14,56
+70,00
+61,10
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+3,40
+83,20
+8,60
+4,80
+Zawartość ziarn o średnicy < 2 mm, %
+83,20
+91,80
+96,60
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"
+
+===== STRONA 9 =====
+Oznaczenie uziarnienia gruntu metodą analizy areometrycznej
+zgodnie z normą PN-EN ISO 17892-4:2017-01
+39
+39
+P25110146
+karta badania:
+temat: Wrocław, ul. Lutosławskiego
+data rozpoczęcia badań:
+data zakończenia badań:
+22-07-2025
+25-07-2025
+otwór badawczy:
+głębokość pobrania: 4,00 m
+nazwa próbki wg klienta:
+nazwa próbki wg lab.:
+GEO-MI Pracownia Geologiczna
+Sp. z o.o.
+Łódź, ul. Grażyny 16, lok. 14.
+Rodzaj gruntu wg analizy sasiCl
+Gęstość właściwa, g/cm3
+Wilgotność naturalna, %
+Masa gruntu wilgotnego, g
+Masa gruntu suchego, g
+2,72
+12,29
+45,00
+40,07
+Skład uziarnienia 
+> 2
+mm
+2 - 0,063
+mm
+0,063 - 0,002
+mm
+< 0,002
+mm
+Zawartość frakcji, %
+0,00
+57,10
+17,20
+25,70
+Zawartość ziarn o średnicy < 2 mm, %
+57,10
+74,30
+100,00
+Wykres uziarnienia
+Średnica zastępcza d, mm
+0,001
+0,01
+0,1
+1
+10
+100
+Zawartość cząstek o średnicy większej niż d, %
+100
+95
+90
+85
+80
+75
+70
+65
+60
+55
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Frakcja iłowa
+Frakcja pyłowa
+Frakcja piaskowa
+Frakcja żwirowa
+Frakcja kamienista
+Wykonał:
+Badanie sprawdził:
+Badanie autoryzował:
+Dominika  Janiak
+Anna  Cieślak - Sadło
+Anna  Cieślak - Sadło
+Wykonano programem "GeoLab"

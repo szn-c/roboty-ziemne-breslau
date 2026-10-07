@@ -1,0 +1,368 @@
+
+===== STRONA 1 =====
+RZUT FUNAMENTÓW  
+BUDYNEK 1A*u
+Skala 1:100
+4
+4
+3
+3
+2
+2
+1
+1
+A
+B
+D
+E
+F
+G
+H
+I
+J
+K
+A
+B
+D
+E
+F
+G
+H
+I
+J
+K
+C
+C
+5
+5
+6
+6
+7
+7
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+REI120
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k.- 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k. - 4,34
+d.k.- 4,34
+d.k. - 4,34
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+440
+340
+d.k. - 4,34
+g.k. -3,54 (rzędne powyżej to nadbeton)
+d.k. -4,04
+g.k. -4,53
+d.k. -4,93
+3,54
+-
+3,43
+-
+3%
+3%
+3%
+3%
+3%
+3%
+3%
+3%
+3%
+3,51
+-
+3,51
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,51
+-
+3,51
+-
+3,51
+-
+3,43
+-
+3,51
+-
+3,51
+-
+3%
+3%
+3%
+3%
+3%
+3%
+3%
+3,60
+-
+3,60
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,54
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3,43
+-
+3%
+3%
+3%
+3%
+3,48
+- 3,48
+-
+3,41
+-
+3,41
+-
+3,54
+-
+3,43
+-
+g.k. -5,60
+d.k. -6,00
+g.k. -5,43 d.k. -5,83
+d.k. -5,40
+g.k. -5,00
+440
+340
+440
+340
+440
+340
+440
+340
+4,04
+-
+5,43
+-
+5,83
+-
+3,41
+-
+3,54
+-
+Przekrój A-A i B-B
+4,04
+-
+5,60
+-
+6,00
+-
+3,43
+-
+3,54
+-
+4,04
+-
+5,60
+-
+6,00
+-
+3,43
+-
+3,54
+-
+Przekrój C-C 
+Przekrój D-D
+4,34
+-
+4,53
+-
+4,93
+-
+3,54
+-
+Przekrój F-F
+4,34
+-
+4,53
+-
+4,93
+-
+3,54
+-
+Przekrój E-E
+4,04
+-
+3,54
+-
+3,60
+-
+3,43
+-
+3,43
+-
+3,51
+-
+Przekrój G-G
+4,04
+-
+5,00
+-
+5,40
+-
+3,43
+-
+3,54
+-
+4,04
+-
+5,00
+-
+5,40
+-
+3,43
+-
+3,54
+-
+Przekrój H-H
+Przekrój I-I
+Otulina :
+Słupy garażu: 3,5 cm
+Strop nad garażem w miejscu terenu: 3,5 cm 
+Płyta fundamentowa: 4 cm
+Belki garażu pod budynkiem: 
+Ściany garażu:  3,5 cm
+Belki garażu pod terenem: 3,5 cm 
+Strop nad garażem w miejscu budynku: 
+Pozostałe elementy 2,5 cm (nadziemie) tylko 3,5 cm góra belek  
+ 3,5 cm (boczna i dolna), 3,5 cm góra
+3,5 cm (boczna i dolna), 2,5 cm góra
+1. Fundamenty: XA1, XC4.
+4. Strop międzykondygnacyjny: XC1.
+5. Trzpienie, słupy, belki, nadproża żelbetowe: XC1.
+2. Słupy garażu, ściany żelbetowe garażu: XF4, XC4.
+6. Ściany żelbetowe kondygnacji nad ziemia : XC1.
+3. Strop, belki garażu: XC2.
+Klasa ekspozycji :
+OGÓLNE UWAGI:
+WYMIAROWANIE KONSTRUKCJI PRZEPROWADZONO DLA PROJEKTOWANEGO
+SPOSOBU UŻYTKOWANIA BUDYNKU, WSZELKIE ZMIANY WYMAGAJĄ
+DODATKOWEJ ANALIZY KONSTRUKCJI
+x,xx
+-
+Data
+Podpis
+Temat Rysunku
+Faza Projektu
+Funkcja
+Podpis
+Projekt wykonawczy konstrukcji 
+Numer Uprawnień
+Data
+Projektant
+Projektant
+Funkcja i zakres
+Temat Rysunku
+Nazwa inwestycji:
+Inwestor:
+Adres inwestycji:
+Skala:
+Branża:
+Rew.:
+Konstrukcja 
+Branża:
+Nr rys:
+Skala:
+Projektant
+Sprawdzający 
+ul. Klecińska 125, 54-413 Wrocław
+m. Wrocław,  woj. Dolnośląskie, obręb 0026 Wojszyce 
+Działka nr ewid.1/90, AR_08, jednostka ewid. 026404_1 m. Wrocław
+Budowa zespołu ośmiu budynków mieszkalnych wielorodzinnych (w tym dwa z 
+usługami - handel o powierzchni sprzedaży do 700m2) z garażami podziemnymi i 
+niezbędną infrastrukturą 
+SIM Wrocław sp. z o.o.
+4IDEA Karol Sitarski
+ul. Złota 15/U5, 25-015 Kielce
+ NIP: 657-277-13-51
+tel: 510-032-264
+e-mail: 4idea@4idea.pl
+mgr inż.
+Tomasz Owsiak
+SWK/0128/POOK/09
+do projektowania bez 
+ograniczeń w specjalności
+konstrukcyjno-budowlanej
+mgr inż.
+Natalia Marlica
+Opracowujący  
+mgr inż.
+Piotr Baltyn
+SWK/0001/PBKb/20
+do projektowania bez 
+ograniczeń w specjalności
+konstrukcyjno-budowlanej
+Listopad 2025
+0
+1:100
+Rzut fundamentów 
+1A-K-01
