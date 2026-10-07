@@ -1,0 +1,592 @@
+ 
+
+
+DOKUMENTACJA GEOLOGICZNO - INŻYNIERSKA
+określająca warunki geologiczno - inżynierskie na potrzeby budowy 
+zespołu budynków mieszkalnych wielorodzinnych
+(w tym część budynków z usługami o powierzchni do 700 m2)
+z garażami podziemnymi i niezbędną infrastrukturą na działkach
+ o nr ewid. 1/90 i 1/97 obręb Wojszyce, w rejonie ul. Lutosławskiego,
+Buforowej i Asfaltowej we Wrocławiu 
+gm. Wrocław
+pow. m. Wrocław
+woj. dolnośląskie
+
+
+
+
+
+
+
+                                                                              
+Inwestor:                         
+SIM Wrocław sp. z o.o.
+ul. Klecińska 125
+54-413 Wrocław                                                                             
+                                                                                 
+Opracowali:						
+                                               
+mgr inż. Agnieszka Śpiewak
+upr. MOŚZNiL V-1773
+
+Mariusz Przeniosło
+upr. MOŚZNiL VII-1667
+
+
+
+
+
+
+
+
+
+
+
+Kielce, 29 listopad 2025 r.
+KARTA INFORMACYJNA DOKUMENTACJI GEOLOGICZNO-INŻYNIERSKIEJ
+
+Tytuł dokumentacji: Dokumentacja geologiczno – inżynierska określająca warunki geologiczno - inżynierskie na potrzeby budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami o powierzchni do 700 m2) z garażami podziemnymi i niezbędną infrastrukturą na działkach o nr ewid. 1/90 i 1/97 obręb Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu
+Data rozpoczęcia badań:  15.07.2025 r.
+Data zakończenia badań:  31.07.2025 r.
+Liczba wykonanych wierceń: 28, łączny metraż: 280 mb
+Wykonawca wierceń: PGF Geoservice Agnieszka Śpiewak
+                           
+Głębokość wierceń:  10,0 m p.p.t
+
+Opróbowanie otworów wykonawca: 
+Mariusz Przeniosło – upr. nr VII-1667
+
+Położenie otworów badawczych oraz wykonanych sondowań w państwowym układzie współrzędnych: 
+
+Nr otworu	Nr sondy CPTU	X	Y	H [m n.p.m]		2	-	5659002,2	6433708,7	124,70		3	-	5658972,6	6433724,8	124,80		5	-	5658920,1	6433702,7	125,00		7	-	5658896,4	6433678,7	125,10		9	-	5658957,0	6433679,0	124,80		10	CPTU-10	5658984,4	6433680,5	124,50		11	-	5659015,9	6433664,4	124,40		12	CPTU-12	5659037,4	643368,27	124,50		14	-	5659030,6	6433620,1	124,30		15	-	5659002,8	6433635,2	124,30		16	-	5658980,3	6433637,0	124,60		17	-	5658959,8	6433615,8	124,80		18	CPTU-18	5658918,4	6433636,0	124,90		20	-	5658966,0	6433587,1	124,60		21	CPTU-21	5658993,0	6433578,9	124,80		23	-	5659037,1	6433583,4	124,50		24	CPTU-24	5659055,7	6433603,9	124,40		25	CPTU-25	5659058,6	6433539,1	124,40		26	-	5659028,4	6433553,7	124,60		27	CPTU-27	5659007,0	6433529,5	124,70		29	-	5658974,5	6433530,1	124,70		31	CPTU-31	5658968,6	6433499,1	125,00		32	-	5658995,0	6433475,4	124,90		33	-	5659013,3	6433504,6	124,80		36	-	5659066,5	6433470,2	124,60		38	CPTU-38	5659054,4	6433439,8	124,80		39	-	5659038,5	6433412,3	124,80		40	-	5659026,3	6433448,0	124,90		-	CPTU-41	5659013,8	6433418,7	125,00		
+Układ odniesienia:  Państwowy Układ Współrzędnych 2000, strefa 6. Układ wysokościowy PL-KRON86-NH 
+Miejsce przechowywania próbek gruntu: magazyn PGF Geoservice Kielce, ul. Świerkowa 32A w Kielcach
+Liczba wykonanych sondowań 10, łączny metraż 88,17 mb rodzaj: badania sondą statyczną CPTU, wykonawca: Geovision, Kraków
+Pomiary presjometryczne, dylatometryczne i inne – nie projektowano 
+Badania geofizyczne – nie projektowano
+Badania laboratoryjne: GEO-MI Pracownia Geologiczna Michał Małuszyński w Łodzi (grunty), Zespół Eurofins OBIKŚ Polska Sp. z o.o. (woda)
+Rodzaj: analiza sitowa – pobrano 4 próbki, wyk. Dominika Janiak,
+Rodzaj: analiza areometryczna – pobrano 9 próbek, wyk. Dominika Janiak,
+Rodzaj: granice konsystencji – pobrano 7 próbek, wyk. Dominika Janiak,
+Rodzaj: badanie wody – pobrano 1 próbkę, wyk. Agnieszka Kucharska
+Roboty ziemne – nie projektowano
+Sporządzający dokumentację: 
+mgr inż. Agnieszka Śpiewak upr. MOŚZNiL V-1773
+Mariusz Przeniosło upr. MOŚZNiL V-1667
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kielce, 29 listopad 2025 r.
+
+
+
+Spis treści:
+ TOC \o "1-3" \h \z \u  HYPERLINK \l "_Toc134554287" 1.	Wstęp	 PAGEREF _Toc134554287 \h 6
+ HYPERLINK \l "_Toc134554288" 2.	Podstawy prawne wykonanych prac	 PAGEREF _Toc134554288 \h 6
+ HYPERLINK \l "_Toc134554289" 3.	Opis położenia geograficznego i administracyjnego dokumentowanego terenu oraz informacje dotyczące zagospodarowania i infrastruktury podziemnej	 PAGEREF _Toc134554289 \h 7
+ HYPERLINK \l "_Toc134554290" 4.	Budowa geologiczna	 PAGEREF _Toc134554290 \h 8
+ HYPERLINK \l "_Toc134554291" 5.	Warunki hydrogeologiczne	 PAGEREF _Toc134554291 \h 9
+ HYPERLINK \l "_Toc134554292" 6.	Opis i ocena zakresu badań terenowych i laboratoryjnych wykonanych dla ustalenia warunków geologiczno – inżynierskich z uwzględnieniem kategorii geotechnicznej projektowanego obiektu budowlanego	 PAGEREF _Toc134554292 \h 12
+ HYPERLINK \l "_Toc134554293" 7.	Opis wyrobisk badawczych wykonanych w rejonie projektowanego obiektu budowlanego i obserwacji terenowych przeprowadzonych w tym rejonie	 PAGEREF _Toc134554293 \h 13
+ HYPERLINK \l "_Toc134554294" 8.	Założenia technologiczne i konstrukcyjno – budowlane projektowanego obiektu budowlanego oraz charakterystyka projektowanego obiektu budowlanego	 PAGEREF _Toc134554294 \h 14
+ HYPERLINK \l "_Toc134554295" 9.	Informacje o wymaganiach techniczno – budowlanych i kategorii geotechnicznej projektowanej inwestycji	 PAGEREF _Toc134554295 \h 14
+ HYPERLINK \l "_Toc134554296" 10.	Opis właściwości fizyko – mechanicznych gruntów i skał	 PAGEREF _Toc134554296 \h 14
+ HYPERLINK \l "_Toc134554297" 11.	Ocena warunków geologiczno – inżynierskich wraz z prognoz wpływu projektowanej inwestycji na środowisko gruntowo – wodne	 PAGEREF _Toc134554297 \h 18
+ HYPERLINK \l "_Toc134554298" 12.	Prognoza wpływu projektowanej inwestycji na środowisko gruntowo - wodne	 PAGEREF _Toc134554298 \h 18
+ HYPERLINK \l "_Toc134554299" 13.	Charakterystyka wydzielonych zespołów gruntowych i skalnych, w tym serii litologiczno – genetycznych, oraz ocena właściwości fizyczno – mechanicznych gruntów tworzących te zespoły	 PAGEREF _Toc134554299 \h 19
+ HYPERLINK \l "_Toc134554300" 14.	Opis warunków hydrogeologicznych, w tym położenie pierwszego poziomu wód, amplitudy wahań i maksymalnego położenia poziomu zwierciadła wód podziemnych	 PAGEREF _Toc134554300 \h 20
+ HYPERLINK \l "_Toc134554301" 15.	Charakterystyka jakości wody gruntowej i agresywności wody w stosunku do betonu                    i stali	 PAGEREF _Toc134554301 \h 20
+ HYPERLINK \l "_Toc134554302" 16.	Informacja o lokalizacji i zasobach z kopalin, które mogą być wykorzystane przy wykonywaniu projektowanej inwestycji, oraz ich jakości	 PAGEREF _Toc134554302 \h 21
+ HYPERLINK \l "_Toc134554303" 17.	Opis budowy istniejących uszkodzeń obiektów budowlanych zlokalizowanych w sąsiedztwie projektowanego obiektu budowlanego	 PAGEREF _Toc134554303 \h 21
+ HYPERLINK \l "_Toc134554304" 18.	Wyniki geologiczno – inżynierskich prac kartograficznych, umożliwiające sporządzenie mapy geologiczno – inżynierskiej	 PAGEREF _Toc134554304 \h 21
+ HYPERLINK \l "_Toc134554305" 19.	Opis zjawisk i procesów geodynamicznych i antropogenicznych na terenie badań i w jego otoczeniu z ocena ich znaczenia dla inwestycji	 PAGEREF _Toc134554305 \h 21
+ HYPERLINK \l "_Toc134554306" 20.	Prognoza zmian warunków geologiczno – inżynierskich mogących wystąpić podczas budowy, użytkowania i rozbiórki projektowanego obiektu budowlanego	 PAGEREF _Toc134554306 \h 22
+ HYPERLINK \l "_Toc134554307" 21.	Wskazania dotyczące sposobów posadowienia projektowanego obiektu budowlanego	 PAGEREF _Toc134554307 \h 22
+ HYPERLINK \l "_Toc134554308" 22.	Ocena warunków geologiczno – inżynierskich na obszarach objętych działalnością górniczą	 PAGEREF _Toc134554308 \h 23
+ HYPERLINK \l "_Toc134554309" 23.	Wskazania dotyczące sposobów posadowienia fundamentów projektowanego obiektu budowlanego na obszarach morskich Rzeczpospolitej Polski	 PAGEREF _Toc134554309 \h 23
+ HYPERLINK \l "_Toc134554310" 24.	Ogólne określenie metody wzmacniania podłoża gruntowego na podstawie wykonanych badań	 PAGEREF _Toc134554310 \h 23
+ HYPERLINK \l "_Toc134554311" 25.	Zakres i sposób prowadzenia monitoringu projektowanego obiektu budowlanego, z uwzględnieniem jego kategorii geotechnicznej	 PAGEREF _Toc134554311 \h 23
+ HYPERLINK \l "_Toc134554312" 26.	Prawo do korzystania z informacji geologicznej	 PAGEREF _Toc134554312 \h 23
+ HYPERLINK \l "_Toc134554313" 27.	Wnioski i zalecenia	 PAGEREF _Toc134554313 \h 23
+ HYPERLINK \l "_Toc134554314" 28.	Spis literatury istniejących materiałów archiwalnych	 PAGEREF _Toc134554314 \h 24
+
+
+
+
+
+
+
+
+
+
+SPIS ZAŁĄCZNIKÓW:
+Załączniki tekstowe:
+Kopia decyzji zatwierdzającej projekt robót geologicznych
+Licencje do wykorzystanych podkładów mapowych
+Sprawozdanie z analizy areometrycznej
+Sprawozdanie z analizy sitowej
+Sprawozdanie z badań konsystencji gruntów spoistych
+Zestawienie wyników wykonanych badań laboratoryjnych
+Wyniki analizy chemicznej wody gruntowej
+
+Załączniki graficzne:
+1. Mapa topograficzna z lokalizacją obszaru badań geologiczno - inżynierskich w skali 1: 10 000
+2.1 Wycinek Szczegółowej Mapy Geologicznej Polski z lokalizacją obszaru badań geologiczno – inżynierskich; Arkusz 764 Wrocław w skali 1:50 000
+2.2. Objaśnienia do Szczegółowej Mapy Geologicznej, Arkusz 764 Wrocław
+3.1 Wycinek Mapy Geośrodowiskowej Polski  z lokalizacją obszaru badań geologiczno – inżynierskich; Arkusz 764 Wrocław w skali 1:50 000. Plansza A
+3.2. Objaśnienia do Mapy Geośrodowiskowej Polski, Plansza A , Arkusz 764 Wrocław
+4.1. Mapa sytuacyjno – wysokościowa z lokalizacją wykonanych badań geologiczno – inżynierskich i liniami przekrojów geologiczno inżynierskich w skali 1 : 1000
+4.2. Mapa występowania gruntów słabonośnych z naniesioną ich miąższością w skali 1: 1000 
+4.3. Mapa miąższości gruntów antropogenicznych w skali 1: 1000
+4.4. Mapa warunków budowlanych z naniesioną nośnością gruntów na głębokości 5 m p.p.t. oraz głębokość występowania pierwszego zwierciadła wód podziemnych w skali 1: 1000
+4.5 Mapa poziomów wodonośnych z naniesioną głębokością ich występowania oraz ich miąższością w skali 1: 1000
+4.6 Mapa przepuszczalności gruntów na głębokości 5 m p.p.t. w skali 1: 1000
+4.7. Mapa z naniesioną głębokością podłoża nośnego w skali 1: 1000
+4.8. Mapa z naniesionymi osadami występującymi na głębokości 1 m od powierzchni terenu w skali 1: 1000
+5.1 -.5.28. Profile wykonanych otworów geologiczno – inżynierskich
+6.1 – 6.12. Przekroje geologiczno – inżynierskie
+7. Karty i wykresy sondowań CPTU 
+8. Tabela parametrów geologiczno – inżynierskich
+Nie sporządzono mapy stropu utworów nieprzepuszczalnych, ponieważ w granicach rozpoznania stwierdzono jedynie wkładkę takich gruntów w otworze nr 40 o miąższości 90 cm.
+
+Wstęp  
+Inwestorem niniejszego opracowania jest spółka SIM Wrocław sp. z o.o. z/s ul. Klecińska 125, 54-413 Wrocław. 
+Zasadniczym celem opracowania jest rozpoznanie charakteru i właściwości fizyczno – mechanicznych warstw gruntów występujących w rejonie działek oznaczonych numerami ewidencyjnymi 1/90 i 1/97 obręb Wojszyce we Wrocławiu, na których  projektuje się zespół budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami o powierzchni do 700 m2) z garażami podziemnymi i niezbędną infrastrukturą.
+Kategoria geotechniczna jest ustalana w zależności od rodzaju i konstrukcji obiektu budowlanego, jak również stopnia złożoności podłoża. W związku z tym, zgodnie z Rozporządzeniem Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie ustalania geotechnicznych warunków posadawiania obiektów budowlanych z dnia 27 kwietnia 2012 r. (Dz. U. 2012, poz. 463) dla planowanej inwestycji przyjęto II kategorię geotechniczną. Ostateczną kategorię geotechniczną określi Projektant obiektu budowlanego. Warunki gruntowe bezpośredniego podłoża ze względu na występowanie zwierciadła wód podziemnych w rejonie poziomu posadowienia uznano za  złożone.
+W związku z tym zgodnie z Rozporządzeniem Ministra Transportu, Budownictwa                          i Gospodarki Morskiej 25 kwietnia 2012 r w sprawie ustalania geotechnicznych warunków posadowienia obiektów budowlanych dla planowanej inwestycji należy wykonać Dokumentację geologiczno – inżynierską na potrzeby posadowienia obiektów budowlanych, z wyłączeniem obiektów budownictwa wodnego i obiektów budowlanych inwestycji liniowych. Niniejsza dokumentacja spełnia to zadanie.
+Podstawą sporządzenia dokumentacji był Projekt robót geologicznych…(poz. lit. 1) zatwierdzony decyzją Prezydenta Miasta Wrocław z dnia 04.06.2025 r., znak WSR-GK.6540.16.2025.MR.AW (kopia decyzji – załącznik tekstowy A).
+W wyniku jego realizacji rozpoznano i udokumentowano warunki geologiczno-inżynierskie, osiągnięto zatem zakładany cel.   
+Dokumentację opracowano zgodnie z Rozporządzeniem Ministra Środowiska z dnia              18 listopada 2016 r w sprawie dokumentacji hydrogeologicznej i dokumentacji geologiczno-inżynierskie (Dz. U. 2016, poz. 2033) w 2 egzemplarzach w wersji papierowej oraz cztery egzemplarze wersji elektronicznej (nośnik CD). Niniejsza dokumentacja geologiczno - inżynierska podlega zatwierdzeniu przez Prezydenta Miasta Wrocław.
+
+Podstawy prawne wykonanych prac
+Podstawą prawną do wykonywania czynności związanych z powstaniem niniejszej Dokumentacji… jest:
+Ustawa z dnia 9 czerwca 2011 r. Prawo Geologiczne i Górnicze (Dz.U. 2024 poz. 1290 ze zm.),
+Niniejsze opracowanie sporządzone zostało zgodnie z:
+Rozporządzenie Ministra Środowiska z dnia 18 listopada 2016 r. w sprawie dokumentacji hydrogeologicznej i dokumentacji geologiczno – inżynierskiej (Dz. U. 2016, poz. 2033)
+Rozporządzenie Ministra Transportu, Budownictwa i Gospodarki Morskiej w sprawie ustalania geotechnicznych warunków posadawiania obiektów budowlanych z dnia 25 kwietnia 2012 r. (Dz. U. 2012, poz. 463);
+PN-EN ISO 14688-1; 2: Badania geotechniczne. Oznaczanie i klasyfikowanie
+gruntów. Część 1 – Oznaczanie i opis oraz Część 2 – Zasady klasyfikowania;
+Norma PN-EN 1997-1 Projektowanie Geotechniczne, Część 1: Zasady ogólne;
+Norma PN-EN 1997-2 Projektowanie Geotechniczne, Część 2: Rozpoznanie
+i badanie podłoża gruntowego;
+PN-81/B-03020. Grunty budowlane. Posadowienie bezpośrednie budowli.
+Obliczenia statyczne i projektowanie;
+PN-86/B-02480. Grunty budowlane. Określenia, symbole, podział i opis gruntów
+Do sporządzenia dokumentacji wykorzystano także wyniki badań laboratoryjnych oraz prac geologicznych.
+Opis położenia geograficznego i administracyjnego dokumentowanego terenu oraz informacje dotyczące zagospodarowania i infrastruktury podziemnej
+Planowane przedsięwzięcie tj. zespół budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami o powierzchni do 700 m2) z garażami podziemnymi i niezbędną infrastrukturą będzie zlokalizowane na działkach o nr ewid. 1/90 i 1/97 obręb Wojszyce we Wrocławiu, w rejonie ul. Lutosławskiego, Buforowej oraz Asfaltowej.
+Administracyjnie jest to gmina Wrocław, powiat m. Wrocław, województwo dolnośląskie.
+Obszar wykonanych badań geologiczno - inżynierskich jest niezagospodarowany i stanowi teren nieużytków ze śladami po wycince niewielkich drzew i krzewów. Przedmiotowe działki od strony południowej, wschodniej znajdują się w sąsiedztwie zabudowań mieszkalnych wielorodzinnych. Od strony północnej oraz zachodniej graniczą z terenami nieprzekształconymi antropogenicznie. 
+Wzdłuż granic przedmiotowych działek przebiega infrastruktura podziemna taka jak: linie energetyczne, kanalizacyjne, sieć wodociągowa czy światłowodowa. Infrastruktura naziemna nie kolidowała z wykonanymi wierceniami i sondowaniami statycznymi. 
+Zagospodarowanie działek inwestycyjnych przedstawia załącznik nr 4.1. 
+Według podziału Polski na jednostki fizyczno–geograficzne (J. Kondracki, poz. lit. 2) teren inwestycyjny należy zaliczyć do mezoregionu Równiny Wrocławskiej (318.53). Równina Wrocławska stanowi mezoregion wchodzącego w skład Niziny Śląskiej. Rozpościera się pomiędzy Pradoliną Wrocławską a Przedgórzem Sudeckim. Pod względem geologicznym jest to obszar bloku przed sudeckiego, monokliny śląsko-krakowskiej i monokliny przed sudeckiej, pokryty osadami plejstoceńskimi i holoceńskimi - iłami, piaskami, żwirami, glinami oraz lessami.
+Obszar przeprowadzonych badań jest płaski, bez wyraźnych różnic w morfologii terenu. Rzędne terenu, na którym projektowany jest zespół budynków mieszkalnych wielorodzinnych, oscylują w okolicy wartości 124,30 m npm – 125,10 m n.p.m.
+Najbliższym ciekiem wodnym jest struga Brochówka mająca swoje koryto ok. 1,1 km na wschód od obszaru badań. Teren planowanego przedsięwzięcia według mapy obszarów zagrożonych podtopieniami (źródło https://epsh.pgi.gov.pl/epsh/) znajduje się poza obszarem zagrożenia podtopieniami, co też powtwierdza Mapa Geośrodowiskowa Polski – Plansza A (arkusz 764) – załącznik nr 3.1 i 3.2. Z tego względu nie sporządzono mapy obszarów zagrożonych podtopieniami.
+Teren inwestycji znajduje się poza udokumentowanymi złożami czy obszarami i terenami górniczymi. 
+Według Mapy Geośrodowiskowej (II) Plansza A w skali 1: 50 000 – Arkusz 764 Wrocław (załącznik nr 3.1 i 3.2) teren wykonanych robót geologicznych leży na obszarze niezwaloryzowanym pod kątem warunków podłoża budowlanego.
+Analizie poddano także możliwość wystąpienia ruchów masowych. Dane zawarte w ogólnodostępnej bazie Systemu Osłony Przeciwosuwiskowej (SOPO) wykazały, że na obszarze wykonanych badań geologiczno-inżynierkich ani w jego pobliżu nie zinwetaryzowano czynnych lub potencjalnych zjawisk geodynamicznych. 
+Badany teren znajduje się poza jakimikolwiek formami ochrony przyrody, w tym poza obszarami Natura 2000. Najbliżej położone obszary stanowią:
+obszar Natura 2000 – Grądy w Dolinie Odry (PLH 020017)- znajdujący się na wschód od planowanego przedsięwzięcia (odległość ok. 3,6 km),
+Szczytnicki Zespół Przyrodniczo-Krajobrazowy – znajdujący się na północny - wschód od planowanego przedsięwzięcia (odległość ok. 4,5 km),
+obszar Natura 2000 – Grądy Odrzańskie (PLB 20002) – znajdujący się na wschód od planowanego przedsięwzięcia (odległość ok. 5,0 km).
+Obszary Natura 2000 znajdują się w znacznej odległości od lokalizacji przedsięwzięcia.
+Biorąc pod uwagę lokalizację i rodzaj wykonanych robót geologicznych, nie doszło do wystąpienia negatywnego wpływu na obszary chronione.
+Budowa geologiczna
+Charakterystykę warunków geologicznych oparto na dostępnych danych tematycznych, głównie na objaśnieniach do Szczegółowej Mapy Geologicznej Polski w skali 1: 50 000, arkusz Wrocław (załącznik nr 2.1 i 2.2).
+W budowie geologicznej omawianego terenu biorą udział blok przedsudecki i monoklina przedsudecka z nakładającą się na obie jednostki pokrywą osadów kenozoicznych. Na powierzchni terenu odsłaniają się tylko utwory czwartorzędu. Najstarszymi skałami wchodzącymi w skład bloku przedsudeckiego są łupki kwarcowo- łyszczykowe, gnejsy i hornfelsy zaliczone do proterozoiku, nawiercone na głębokości 1200-1400 m w pobliżu wschodniej i południowej granicy omawianego terenu. Powyżej zalegają klastyczne osady karbonu o niewielkiej miąższości i permo-mezozoiczne utwory należące już do monokliny przedsudeckiej. Stanowią je piaskowce i zlepieńce czerwonego spągowca o miąższości 215 m. Do morskich osadów cechsztynu należą: iłowce, anhydryty, dolomity, wapienie dolomityczne i piaskowce, wykształcone w facji litoralnej i płytkonerytycznej, budujące cztery niekompletne cyklotemy. Osiągają one miąższość 149 m. W profilu stratygraficznym triasu stwierdzono utwory dolnego i środkowego pstrego piaskowca, retu, wapienia muszlowego i kajpru. Wykształcone są one w postaci piaskowców, iłowców, anhydrytów, wapieni, dolomitów i mułowców z wkładkami gipsów. Cała ta seria osiąga znaczną miąższość około 1100 m.
+Utwory neogenu, przykrywające skały podłoża na całym omawianym obszarze, wykształcone są w facji lądowej. Sedymentację rozpoczynają osady miocenu środkowego reprezentowane przez jasnoszare i niebieskawe iły z przewarstwieniami mułków oraz piasków drobnoziarnistych, zawierających niekiedy domieszkę słabo obtoczonych żwirów. Sporadycznie spotyka się cienkie warstewki węgli brunatnych i okruchy lignitów. Miocen górny reprezentowany jest przez iły o zabarwieniu oliwkowoszarym, szarozielonym i niebieskawym z konkrecjami wapnistymi. Przewarstwienia piaszczysto-mułkowe wraz z cienką warstewką węgla brunatnego pojawiają się głównie w części spągowej. Omówione wyżej utwory wchodzą w skład serii poznańskiej. Sedymentację kończą, występujące lokalnie, utwory pliocenu wykształcone jako piaski i gliny kaolinowe serii Gozdnicy.
+	Czwartorzęd reprezentowany jest przez utwory plejstoceńskie i holoceńskie. Osady te zalegają na całym obszarze arkusza tworząc pokrywę o stałej miąższości 40-50 m. Jedynie w zachodniej części arkusza na wysoczyźnie neogeńskiej, grubość ich nie przekracza 10 m. Do plejstocenu należą utwory powstałe podczas zlodowaceń południowopolskich, środkowopolskich i północnopolskich. Zlodowacenia południowopolskie Nidy i Sanu reprezentują dwa poziomy glin zwałowych oraz piasków i żwirów wodnolodowcowych. Towarzyszą im niekiedy mułki, iły i piaski zastoiskowe. Utworami interglacjału mazowieckiego są rezydua glin zwałowych oraz piaski i żwiry rzeczne.
+Utwory zlodowacenia środkowopolskiego Odry występują na powierzchni terenu, lecz nie osiągają znacznych miąższości. W dolinie Odry zostały one prawie całkowicie zniszczone. Do omawianych osadów należą: gliny zwałowe, utwory wodnolodowcowe, mułki, piaski i iły zastoiskowe oraz piaski i żwiry lodowcowe i rzeczno-wodnolodowcowe. Zlodowacenia północnopolskie pozostawiły piaszczysto-żwirowe tarasy nadzalewowe po obu stronach doliny Odry, na których uformowały się wydmy. Z okresem tym związane jest również powstanie pokryw pyłowych na powierzchni wysoczyzny morenowej na lewym brzegu Odry, będących odpowiednikiem lessów z obszaru Wzgórz Trzebnickich.
+W holocenie w dolinie Odry powstały tarasy zalewowe zbudowane z piasków i żwirów o średniej miąższości 8-11 m z charakterystycznym poziomem kopalnego drewna w spągu. W obrębie tych utworów udokumentowane zostały złoża kruszywa naturalnego. Powierzchnia wyższych tarasów w większości przykryta jest madami. Cienkie warstwy namułów występują też w dnach niewielkich dolin rzecznych, w zagłębieniach bezodpływowych i okresowo przepływowych (starorzeczach).
+	Wykonane w 2025 r., w ramach realizacji zatwierdzonego Projektu robót geologicznych… (poz. lit. 1) otwory geologiczno – inżynierskie nr 2,3, 5, 7, 9-12, 14-18, 20, 21, 23-27, 29, 31-33, 36, 38-40 dostarczyły szczegółowych danych odnośnie litologii terenu, a także warunków hydrogeologicznych. Pod warstwą gleby (miejscowo również pod warstwą nasypów) stwierdzono:
+osady wodnolodowcowe (Qpfg) – w postaci wkładek piasków pylastych, drobnych, średnich, grubych oraz pospółek w obrębie dominujących utworów glin zwałowych. Ich geneza związana jest z akumulacyjną działalnością wód roztopowych na przedpolu i w obrębie lądolodu.
+gliny zwałowe (Qpg). Na obszarze badań dominują gliny piaszczyste, lokalnie rozpoznano także gliny piaszczyste zwięzłe, gliny pylaste zwięzłe, gliny pylaste, pyły piaszczyste, pyły, piaski gliniaste. Ich geneza związana jest z akumulacyjną działalnością lądolodu.
+iły, które stwierdzono jedynie w otworze nr 40 na głębokości 3,50 m ppt o miąższości 90 cm.
+Utworów starszych niż czwartorzęd nie stwierdzono. 
+W bezpośrednim podłożu przedmiotowej inwestycji nie wykryto form uskokowych.
+Budowę geologiczną badanego terenu przedstawiają karty otworów geologiczno – inżynierskich (załącznik nr 5.1 – 5.28) oraz przekroje geologiczno - inżynierskie (załącznik nr 6.1 – 6.12).
+Warunki hydrogeologiczne
+Zgodnie z podziałem regionalnym zwykłych wód podziemnych Polski obszar arkusza Wrocław należy do regionu Wrocławskiego. Natomiast według Mapy Hydrogeologicznej Polski w skali 1:200 000, arkusz Wrocław omawiany obszar należy do regionu Wielkopolskiego, rejonu Wrocławskiego.
+Do użytkowych pięter wodonośnych należą: piętro czwartorzędu i neogenu.
+Piętro wodonośne czwartorzędu ma największe znaczenie dla zaopatrzenia w wodę ludności
+i przemysłu z uwagi na dostępność i łatwą odnawialność zasobów. Poziomy wodonośne związane są z dolinami kopalnymi staroplejstoceńskiej sieci rzecznej, młodoplejstoceńskimi dolinami rzecznymi oraz z utworami wodnolodowcowymi o charakterze pokrywowym albo międzymorenowym. Miąższość wodonośnych utworów czwartorzędowych wynosi zazwyczaj kilka do kilkunastu metrów i tylko wyjątkowo osiąga kilkadziesiąt metrów w kopalnej dolinie, której fragment stwierdzono w południowej części Wrocławia. Charakterystyczne jest zróżnicowanie współczynników filtracji co ma odbicie w wydajności poziomów eksploatacyjnych - od kilku do kilkudziesięciu m3/h. Źródłem zasilania jest infiltracja wód
+opadowych, a w dolinach kopalnych dopływ wód naporowych z podłoża neogeńskiego.
+Najzasobniejszym zbiornikiem wód na obszarze arkusza Wrocław jest zbiornik pradoliny Odry. Wodonośne są przede wszystkim piaski i żwiry tarasów akumulacyjnych. Zwierciadło wód ma charakter swobodny i występuje praktycznie od powierzchni terenu.
+Wody poziomu czwartorzędowego charakteryzują się dużą zmiennością składu chemicznego. Znaczny wpływ na ich jakość mają zanieczyszczenia z powierzchni i kontakt ze wodami neogenu. Szczególnie zła jakość cechuje wody w rejonie Wrocławia oraz wzdłuż doliny Odry i jej dopływów. Mineralizacja przekracza często 1g/dm3 suchej pozostałości. Zawartość Fe i Mn, chlorków i siarczanów jest wielokrotnie wyższa w stosunku do normy dla wód pitnych.
+Piętro wodonośne neogenu stanowią piaszczyste, rzadziej żwirowe utwory miocenu, najczęściej o charakterze soczew zróżnicowanej miąższości i rozciągłości, zalegające w obrębie dominującego kompleksu ilastego. Tworzą one wielowarstwowy system wodonośny o złożonych warunkach hydrogeologicznych. Zwierciadło wód ma charakter naporowy, jednak w rejonie Wrocławia wskutek intensywnej eksploatacji wody zatraciły swój pierwotny artezyjski charakter. Zasilanie warstw wodonośnych następuje drogą przesączania z nadległych poziomów czwartorzędowych oraz poprzez kontakt hydrauliczny z głębszym poziomem wapienia muszlowego. Wskazuje na to podobieństwo składu chemicznego. Wydajności uzyskiwane z otworów studziennych są zróżnicowane i przeważnie wynoszą 15-70 m3/h przy depresjach od kilku do ponad 20 m. Najwyższą wydajność 96,5 m3/h przy depresji 15,8 m osiągnięto w Zakrzowie. Jakość wód piętra neogeńskiego w rejonie Wrocławia ze względu na znaczne przekroczenie norm nie mieści się nawet w III klasie wód o niskiej jakości. Na całym obszarze arkusza zawyżone są zawartości Fe, Mn, siarczanów, chlorków, azotanów, często amoniaku. Zbyt wysoka jest również sucha pozostałość. Na obszarze arkusza stwierdzono zróżnicowane zawodnienie utworów triasu. Najkorzystniejszymi parametrami wydajności i jakości charakteryzują się wody poziomu wapienia muszlowego zawarte w uszczelinionych, kawernowatych wapieniach i dolomitach z okolic Wrocławia. Zwierciadło wód szczelinowych występuje pod ciśnieniem artezyjskim i stabilizuje się na wysokości kilku lub kilkunastu metrów p.p.t. Warstwą napinającą są iłołupki kajpru. Wydajność osiągana z pompowań we Wrocławiu wynosiła od około 150 do ponad 300 m3/h, przy depresji od kilku do kilkudziesięciu metrów. Wody triasowe są bardzo twarde, o podwyższonej mineralizacji ogólnej wynoszącej około 2g/dm3. Obszar arkusza Wrocław leży w zasięgu dwóch zbiorników wód podziemnych GZWP: Pradolina rzeki Odry (320) - zbiornik związany z utworami czwarto rzędowymi o szacunkowych zasobach dyspozycyjnych 250 000 m3/d w klasie jakości Ic. W obrębie tego zbiornika wydzielono obszar wysokiej i najwyższej ochrony wód (OWO, ONO). Część
+północno-zachodnia zbiornika nie podlega ochronie ze względu na już istniejące skażenia. Subzbiornik Kąty Wrocławskie-Oława-Brzeg-Oleśnica (321) związany z utworami neogeńskimi
+o szacunkowych zasobach dyspozycyjnych 80 000 m3/d i zróżnicowanej jakości (klasy Ib-d)
+wymagający wysokiej ochrony wód OWO. W zasięgu tego zbiornika znalazły się jedynie południowowschodnie i wschodnie fragmenty arkusza.
+W podłożu badanego terenu, realizując założenia projektu robót geologicznych prowadzono obserwacje hydrogeologiczne. 
+Wyniki obserwacji hydrogeologicznych zestawiono w tabeli nr 1. 
+Tabela  SEQ Tabela \* ARABIC 1 Zestawienie obserwacji  hydrogeologicznych dokonanych w  lipcu 2025 r. (b.d – brak danych)
+Numer otworu	Sączenia [m p.p.t.]	Woda nawiercona
+ [m p.p.t.]	Woda ustabilizowana 
+[m p.p.t.]		2	-	2,01)
+3,12)	1,201)
+b.d 2)		3	2,0
+2,8
+7,0	b.d	1,5		5	-	b.d	0,9		7	-	1,7
+3,6	1,2		9	2,0	4,4	1,7		10	2,0	4,5	1,3		11	-	1,51)
+3,02)	1,201)
+b.d 2)		12	-	2,0
+4,7
+2,0	1,3		14	-	0,91)
+2,72)
+3,53)
+5,54)	0,91)
+b.d2-4)		15	1,9	b.d	1,4		16	2,0	b.d	1,2		17	-	1,9
+3,5	b.d.		18	3,3
+5,4	7,0	5,8		20	2,7	3,6
+4,4	b.d		21	3,0
+4,5	-	-		23	-	1,01)
+5,02)	1,01)
+b.d2)		24	3,7	4,6	3,7		25	7,0	6,0	b.d		26	-	3,0
+6,3	1,3		27	-	3,8	3,6		29	-	1,5
+3,5
+6,5	1,1		31	2,0
+4,0	4,7
+6,5	1,0		32	-	2,0	b.d		33	-	3,5	1,7		36	-	1,31)
+5,02)
+6,43)	1,31)
+b.d2-3)		38	-	-	-		39	-	2,01)
+5,02)	1,51)
+b.d2)		40	-	5,5
+9,0	3,0		Analizując powyższą tabelę stanowiącą zestawienie obserwacji hydrogeologicznych, w każdym z otworów za wyjątkiem otworu nr 38 stwierdzono obecność wód podziemnych. Zwierciadło wód podziemnych występuje we wkładkach utworów niespoistych i ma charakter zarówno swodobny jak i naporowy. W obrębie gruntów spoistych stwierdzone zostały sączenia wód podziemnych. 
+Zwierciadło wód podziemnych zostało stwierdzone (nawiercone) na głębokości od 0,9 do 9,0 m ppt. Z kolei sączenia występują na głębokości od 1,9 do 7,0 m ppt. Należy nadmienić, że nie zawsze był możliwy pomiar głębokości zwierciadła nawierconego oraz ustabilizowanego. 
+W okresie intensywnych i długotrwałych opadów atmosferycznych oraz roztopów, na stropie osadów spoistych mogą pojawić się sączenia o różnej intensywności, a istniejące mogą przybrać na sile.
+Amplitudę sezonowych wahań zwierciadła wód gruntowych ocenia się przynajmniej na ± 0,5 m w skali roku – ze względu na bliskość obszarów zagrożonych występowaniem podtopień.
+
+Opis i ocena zakresu badań terenowych i laboratoryjnych wykonanych dla ustalenia warunków geologiczno – inżynierskich z uwzględnieniem kategorii geotechnicznej projektowanego obiektu budowlanego
+Badania terenowe
+Lokalizację, głębokości i ilość odwiertów badawczych wykonano zgodnie z wytycznymi Zleceniodawcy oraz z zatwierdzonym Projektem robót geologicznych… (poz. lit. 1). Zakres projektowanych badań został dostosowany do warunków gruntowo – wodnych stwierdzonych w bezpośrednim podłożu przedmiotowego obiektu. 
+W ramach zatwierdzonego Projektu robót geologicznych…(decyzja - załącznik tekstowy A) wykonano 28 otworów geologiczno - inżynierskich o głębokości 10,0 m ppt każdy i średnicy 90 – 130 mm. Wykonane wiercenia zakończono w gruntach nośnych. Łącznie odwiercono 280 mb.
+Ponadto wykonano 9 sondowań statycznych CPTU przy otworach geologiczno – inżynierskich nr 10, 12, 18, 21, 24, 25, 27, 31, 38 oraz 1 sondowanie statyczne CPTU nr 41 – poza wykonanymi otworami geologiczno – inżynierskimi. Łącznie wykonano 10 sondowń CPTU o metrażu łącznym 88,17 mb.
+Wiercenia, badania laboratoryjne oraz badania sondą dostarczyły wystarczającego materiału niezbędnego projektantowi do zaprojektowania sposobu posadowienia projektowanych obiektów. Zakres badań uważa się za wystarczający, spełnia wymagania techniczno – budowlane sformułowane przez Projektanta.
+Uwzględniając profil (litologię) wykonanych otworów, sporządzone zostały przekroje geologiczno – inżynierskie (załącznik nr 6.1 – 6.12). Szczegółowe rozmieszczenie otworów badawczych i sondowań przedstawiają załączniki graficzne nr 4.
+
+Badania laboratoryjne
+Badania laboratoryjne wykonane zostały na pobranych próbkach gruntu w dostosowaniu do stwierdzonych warunków geologicznych w zakresie niezbędnym do rozwiązania postawionego zadania geologicznego. 
+Wykonano na 11 wytypowanych próbach gruntów:
+13 badań określających skład granulometryczny (9 analiz areometrycznych – załącznik tekstowy C oraz 4 analizy sitowe – załącznik tekstowy D);
+7 badań na granice konsystencji – załącznik tekstowy E.
+W ramach ww. badań laboratoryjnych dokonano także określenia wilgotności naturalnej. Wraz z badaniem konsystencji gruntów spoistych została określona także gęstość objętościowa.  Zestawienie wyników badań laboratoryjnych stanowi załącznik tekstowy F. 
+Badania laboratoryjne zostały wykonane zgodnie z normami:
+analiza sitowa – analizy zgodnie z PN-EN ISO 17892-4:2017-01
+analiza areometryczna – analizy zgodnie z PN-EN ISO 17892-4:2017-01
+granice konsystencji – analizy zgodnie z PN-EN ISO 17892-12:2018-08
+Pobrano również próbkę wody do badań laboratoryjnych na agresywność w stosunku do stali i betonu. Wyniki zostały przedstawione na załączniku tekstowym G.
+W poniższej tabeli (tabela nr 2) zestawiony został zakres projektowany w stosunku do wykonanego. 
+Tabela  SEQ Tabela \* ARABIC 2 Porównanie wykonanego zakresu prac z założony w zatwierdzonym projekcie
+Lp.	Rodzaj badań	Zakres projektowany	Zakres wykonany		1	Wiercenia			liczba otworów	28	28			metraż wierceń	280 mb	280 mb		2	Sondowania			rodzaj	CPTU	CPTU			liczba sondowań	10	10			metraż sondowań	do 100 mb	88,17 mb		3	Badania laboratoryjne			badania gruntów	do 10 prób	11			badanie wody na agresywność względem stali i betonu	1	1		
+Podsumowując powyższą tabelę, nie osiągnięto maksymalnego metrażu dla sondowań CPTU, co jest zgodne z założeniami zatwierdzonego Projektu robót geologicznych…, w treści którego widnieje zapis o skróceniu sondowania w przypadku osiągnięcia maksymalnego oporu stożka lub gdy dojdzie do zerwania kotwienia urządzenia sondującego. Ponadto wysłano do badań laboratoryjnych jedną próbkę więcej, decyzją geologa dozoru, zgodnie z zapisami Projektu robót geologicznych…: liczbę, zakres i typ badań należy uszczegółowić na etapie
+dokumentowania w zależności od procentowego udziału gruntów spoistych i niespoistych
+(drobnoziarnistych i gruboziarnistych) w profilu litologicznym.
+
+Postępowanie z próbkami gruntu i wody
+Z uwagi na charakter wykonanych robót geologicznych stwierdza się, iż w związku z realizacją wierceń nie były pobierane próbki geologiczne trwałego przechowywania. 
+Pobrane próbki gruntu są próbkami czasowego przechowywania. Próbki geologiczne przechowywane są w specjalnym pomieszczeniu, magazynie próbek, zapewniającym ochronę przed szkodliwymi wpływami atmosferycznymi. 
+Po wykonaniu badań laboratoryjnych próbki oddane zostały do magazynu wykonawcy robót geologicznych tj. Firmy PGF Geoservice Agnieszka Śpiewak, gdzie zostały skatalogowane                              i umieszczone w odpowiednich opakowaniach zabezpieczających je przed zanieczyszczeniem                                      i zniszczeniem. 
+Próbki te przechowywane będą do dnia, w którym decyzja zatwierdzająca dokumentację geologiczno - inżynierska przez Prezydenta Miasta Wrocław stanie się ostateczna. Następnie zostaną zlikwidowane w miejscu ich dotychczasowego przechowywania.
+
+Opis wyrobisk badawczych wykonanych w rejonie projektowanego obiektu budowlanego i obserwacji terenowych przeprowadzonych w tym rejonie
+Prace terenowe wykonała brygada PGF GEOSERVICE Agnieszka Śpiewak Kielce pod stałym dozorem geologa M. Przeniosło w  lipcu 2025 r.  
+W trakcie wiercenia prowadzono opis makroskopowy przewiercanych gruntów uwzględniający: rodzaj gruntu, barwę, wilgotność, plastyczność, obecność wody, wizualny przejaw obecności zanieczyszczeń i prowadzono obserwacje horyzontów wodnych to jest głębokości do nawierconego i ustabilizowanego zwierciadła wody. Prace terenowe objęły także opróbowanie otworu i niwelację techniczną terenu przy wykonanym otworze. Po zakończeniu badań i opróbowaniu, otwór zlikwidowano urobkiem w naturalnej kolejności zalegania warstw. 
+
+Założenia technologiczne i konstrukcyjno – budowlane projektowanego obiektu budowlanego oraz charakterystyka projektowanego obiektu budowlanego
+Planowana inwestycja zakłada budowę budynków o pięciu kondygnacjach naziemnych oraz jednej kondygnacji podziemnej każdy. Obiekty średniowysokie, projektowane na planie prostokąta. Podziemna część budynków jednokondygnacyjna, wykonana w technologii betonu wodoszczelnego. Posadowienie budynków na płytach fundamentowych. W części nadziemnej budynki o konstrukcji mieszanej: płytowo-ścianowo-belkowej i ścianach nośnych murowanych. Stropy monolityczne (część z szalunkiem traconym na bazie płyt filigranowych). Dachy
+płaskie otoczone attykami, część zaprojektowana jako dachy zielone.
+ Głębokość posadowienia do 5,0 m.
+ Obiekty zaliczono do II kategorii geotechnicznej.
+Informacje o wymaganiach techniczno – budowlanych i kategorii geotechnicznej projektowanej inwestycji
+Projektowane obiekty projektant zaliczył do II kategorii geotechnicznej. Warunki gruntowe bezpośredniego podłoża ze względu na występowanie zwierciadła wód podziemnych w rejonie poziomu posadowienia uznano za  złożone.
+ Wymagania techniczno - budowlane przedstawiono w poprzednim rozdziale nr 8.
+
+Opis właściwości fizyko – mechanicznych gruntów i skał
+Wykonane w 2025 r., w ramach realizacji zatwierdzonego projektu robót geologicznych (poz. lit. 1) otwory geologiczno – inżynierskie nr 2,3, 5, 7, 9-12, 14-18, 20, 21, 23-27, 29, 31-33, 36, 38-40 dostarczyły szczegółowych danych odnośnie litologii terenu, a także warunków hydrogeologicznych. Pod warstwą gleby (miejscowo również pod warstwą nasypów) stwierdzono:
+osady wodnolodowcowe (Qpfg) – w postaci wkładek piasków pylastych, drobnych, średnich, grubych oraz pospółek w obrębie dominujących utworów glin zwałowych,
+gliny zwałowe (Qpg). Na obszarze badań dominują gliny piaszczyste, lokalnie rozpoznano także gliny piaszczyste zwięzłe, gliny pylaste zwięzłe, gliny pylaste, pyły piaszczyste, pyły, piaski gliniaste,
+iły, które stwierdzono jedynie w otworze nr 40 na głębokości 3,50 m ppt o miąższości 90 cm.
+	Dla potrzeb obliczeń projektowych, podłoże podzielono na warstwy geologiczno - inżynierskie według rodzajów, stanów i genezy gruntów.
+	Wydzielono pięć głównych warstw geologiczno – inżynierskich zgodnie z normą PN-81/B-03020, włączając do każdej z nich grunty o zbliżonych parametrach fizyko mechanicznych. Parametrów geotechnicznych nie określono dla utworów antropogenicznych ze względu na ich anizotropowość, zmienność parametrów geologiczno – inżynierskich, a także dla gleby. 
+	Spośród głównych warstw geologiczno – inżynierskich zastosowano podział na podwarstwy (w obrębie warstw nr I, II, III, IV).
+	Do nazewnictwa gruntów zastosowano dwie normy: PN-81/B-03020 oraz PN-EN ISO 14688-2.
+	Charakterystykę geologiczno – inżynierską gruntów podłoża budowlanego wykonano w oparciu o wyniki wierceń oraz sondowań CPTU. Pozostałe parametry określone z zależności korelacyjnych od parametru wiodącego (ID i IL).	
+
+Wydzielone warstwy geologiczno – inżynierskie wraz z ich charakterystyką (wartości parametrów podane poniżej należy traktować jako wartości średnie). Minimalne, maksymalne wartości zostały podane w tabeli parametrów – załącznik nr 8):
+
+Gleba – nawiercona w każdym otworze geologiczno – inżynierskim, występuje głównie jako przypowierzchniowa warstwą o maksymalnej miąższości 0,90 m. Glebie nie przypisuje się parametrów.
+
+Nasypy niekontrolowane – stwierdzono je w otworach nr 5, 17 i 23. Stanowią mieszaninę gleby, gliny, kamieni, cegieł, gruzu. Nie przypisuje się parametrów geotechnicznych. Są to grunty antropogeniczne, o zmiennych parametrach. Maksymalna miąższość warstwy wynosi zaledwie 30 cm.
+
+Warstwa Ia – obejmuje piaski pylaste oraz piaski drobne w stanie średnio zagęszczonym (ID= 0,58). Są to grunty nośne. Grunty tej warstwy są niewysadzinowe (piaski drobne) lub wątpliwe pod kątem wysadzinowości (piaski pylaste) i posiadają następujące parametry:
+stopień zagęszczenia:  0,58
+wilgotność naturalna:   nawodniony 18,53-21,03%, wilgotny 16%, mało wilgotny 6%        
+gęstość objętościowa:  nawodniony 1,90, wilgotny 1,75, mało wilgotny 1,65 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 34,90o 
+edometryczny moduł ściśliwości pierwotnej:  42,79 MPa
+
+Warstwa Ib – obejmuje piaski pylaste w stanie zagęszczonym (ID= 0,79). Warstwa ta została jedynie stwierdzona sondowaniem statycznym CPTU. Są to grunty nośne. Grunty tej warstwy są wątpliwe pod kątem wysadzinowości i posiadają następujące parametry:
+stopień zagęszczenia:  0,79
+wilgotność naturalna:   nawodniony 19,40%, wilgotny 14%, mało wilgotny 5%        
+gęstość objętościowa:  nawodniony 2,00, wilgotny 1,85, mało wilgotny 1,70 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 36,51o 
+edometryczny moduł ściśliwości pierwotnej:  79,77 MPa
+
+Warstwa IIa – obejmuje piaski średnie w stanie luźnym (ID= 0,10). Warstwa ta została jedynie stwierdzona sondowaniem statycznym CPTU. Są to grunty słabonośne. Grunty tej warstwy są niewysadzinowe i posiadają następujące parametry:
+stopień zagęszczenia:  0,10
+wilgotność naturalna:   nawodniony 25%, wilgotny 16%, mało wilgotny 6%        
+gęstość objętościowa:  nawodniony 1,95, wilgotny 1,75, mało wilgotny 1,65 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 29,89o 
+edometryczny moduł ściśliwości pierwotnej:  9,46 MPa
+
+
+
+
+
+Warstwa IIb – obejmuje piaski średnie oraz piaski grube w stanie średnio zagęszczonym i średnio zagęszczonym na pograniczu zagęszczonego (ID= 0,56). Są to grunty nośne. Grunty tej warstwy są niewysadzinowe i posiadają następujące parametry:
+stopień zagęszczenia:  0,56
+wilgotność naturalna:   nawodniony 22%, wilgotny 14,56%, mało wilgotny 5%        
+gęstość objętościowa:  nawodniony 2,00, wilgotny 1,85, mało wilgotny 1,75 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 34,18o 
+edometryczny moduł ściśliwości pierwotnej:  43,22 MPa
+
+Warstwa IIc – obejmuje piaski średnie w stanie zagęszczonym i bardzo zagęszczonym (ID= 0,82). Są to grunty nośne. Grunty tej warstwy są niewysadzinowe i posiadają następujące parametry:
+stopień zagęszczenia:  0,82
+wilgotność naturalna:   nawodniony 18%, wilgotny 12%, mało wilgotny 4%        
+gęstość objętościowa:  nawodniony 2,05, wilgotny 1,90, mało wilgotny 1,80 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 36,35o 
+edometryczny moduł ściśliwości pierwotnej:  92,71 MPa
+
+Warstwa IIIa – obejmuje pospółki w stanie średnio zagęszczonym (ID= 0,45). Są to grunty nośne. Warstwa nie została potwierdzona sondowaniem CPTU, rozpoznano ją jedynie makroskopowo. Grunty tej warstwy są niewysadzinowe i posiadają następujące parametry:
+stopień zagęszczenia:  0,56
+wilgotność naturalna:   nawodniony 18%, wilgotny 12%, mało wilgotny 4%        
+gęstość objętościowa:  nawodniony 2,05, wilgotny 1,90, mało wilgotny 1,80 [g/cm3]
+kąt tarcia wewnętrznego: 38,10o 
+edometryczny moduł ściśliwości pierwotnej:  143 MPa
+
+Warstwa IIIb – obejmuje pospółki w stanie zagęszczonym (ID= 0,74). Są to grunty nośne. Grunty tej warstwy są niewysadzinowe i posiadają następujące parametry:
+stopień zagęszczenia:  0,74
+wilgotność naturalna:   nawodniony 14%, wilgotny 10%, mało wilgotny 3%        
+gęstość objętościowa:  nawodniony 2,10, wilgotny 2,00, mało wilgotny 1,85 [g/cm3]
+efektywny kąt tarcia wewnętrznego: 35,93o 
+edometryczny moduł ściśliwości pierwotnej:  73,66 MPa
+
+Warstwa IVa – obejmuje gliny piaszczyste w stanie plastycznym (IL = 0,33). Grunty tej warstwy są słabonośne, wysadzinowe. Warstwę stwierdzono jedynie w otworze nr 36 na głębokości 2,0 m ppt. Ich parametry zestawiono poniżej:
+stopień plastyczności:  0,33
+wilgotność naturalna:   17%           
+gęstość objętościowa:  2,10 [g/cm3]
+kąt tarcia wewnętrznego: 12,7o 
+spójność: 12,5 kPa
+wytrzymałość na ścinanie bez odpływu: 0,07 MPa
+edometryczny moduł ściśliwości pierwotnej: 7,08 MPa
+
+
+
+
+
+Warstwa IVb – obejmuje gliny pylaste, gliny piaszczyste, piaski gliniaste w stanie twardoplastycznym na pograniczu plastycznego (IL = 0,25). Grunty tej warstwy są gruntami o obniżonej nośności, wysadzinowe. Ich parametry zestawiono poniżej:
+stopień plastyczności:  0,25
+wilgotność naturalna:   16-25 %           
+gęstość objętościowa:  2,0-2,10 [g/cm3]
+kąt tarcia wewnętrznego: 14 o 
+spójność: 15 kPa
+edometryczny moduł ściśliwości pierwotnej: 26,30 MPa
+
+Warstwa IVc – obejmuje gliny pylaste zwięzłe, gliny piaszczyste, piaski gliniaste i pyły piaszczyste w stanie twardoplastycznym (IL = 0,13). Grunty tej warstwy są gruntami nośnymi, wysadzinowymi. Parametry zestawiono poniżej:
+stopień plastyczności:  0,13
+wilgotność naturalna:   12-22 %           
+gęstość objętościowa:  2,00-2,20 [g/cm3]
+kąt tarcia wewnętrznego: 15,9o 
+spójność: 20,4 kPa
+wytrzymałość na ścinanie bez odpływu: 0,14 MPa
+edometryczny moduł ściśliwości pierwotnej: 13,78 MPa
+
+Warstwa IVd – obejmuje gliny piaszczyste, pyły, gliny piaszczyste zwięzle w stanach zwartym, półzwartym, półzwartym na pograniczu twardoplastycznego (IL = 0,02). Grunty tej warstwy są gruntami nośnymi, wysadzinowymi. Parametry zestawiono poniżej:
+stopień plastyczności:  0,02
+wilgotność naturalna:   9-18 %           
+gęstość objętościowa:  2,10-2,25 [g/cm3]
+kąt tarcia wewnętrznego: 18o 
+spójność: 30 kPa
+wytrzymałość na ścinanie bez odpływu: 0,24 MPa
+edometryczny moduł ściśliwości pierwotnej: 21,78 MPa
+
+Warstwa V – obejmuje iły w stanie twardoplastycznym (IL=0,10). Warstwa została stwierdzona na głębokości 3,50 m w otworze 40. Grunty tej warstwy są gruntami nośnymi. Parametry zestawiono poniżej:
+stopień plastyczności:  0,10
+wilgotność naturalna:   27 %           
+gęstość objętościowa:  2,00 [g/cm3]
+kąt tarcia wewnętrznego: 11,7o 
+spójność: 54,50 kPa
+edometryczny moduł ściśliwości pierwotnej: 30,6 MPa
+
+	Opisane grunty warstw geologiczno-inżynierskich nr Ia, Ib, IIb, IIc, IIIa, IIIb, IVc, IVd, V są nośne, odpowiednie do posadowienia projektowanych obiektów – budynków mieszkalnych. Grunty warstwy IVb uznaje się za grunty o obniżonej nośności (w stanie twardoplastycznym na pograniczu plastycznego). Natomiast grunty warstw geologiczno - inżynierskich nr IIa, IVa uznaje się za grunty słabonośne,  nie nadające się do posadowienia projektowanych obiektów. Nasypom oraz glebie nie przypisuje się parametrów geologiczno – inżynierskich. 
+
+Ocena warunków geologiczno – inżynierskich wraz z prognoz wpływu projektowanej inwestycji na środowisko gruntowo – wodne
+
+Opisane w poprzednim rozdziale grunty warstw geologiczno-inżynierskich nr Ia, Ib, IIb, IIc, IIIa, IIIb, IVc, IVd, V są nośne, odpowiednie do posadowienia projektowanych obiektów – budynków mieszkalnych. Grunty warstwy IVb uznaje się za grunty o obniżonej nośności (w stanie twardoplastycznym na pograniczu plastycznego). Natomiast grunty warstw geologiczno - inżynierskich nr IIa, IVa uznaje się za grunty słabonośne,  nie nadające się do posadowienia projektowanych obiektów. Nasypom oraz glebie nie przypisuje się parametrów geologiczno – inżynierskich. 
+W przypadku występowania pod fundamentami gruntów słabonośnych zaleca się ich wymianę do głębokości występowania gruntów nośnych. Do wymiany zaleca się użyć piasku średniego stabilizowanego cementem lub chudego betonu. Uwagę należy zwrócić także na grunty o obniżonej nośności, tj. grunty w stanie twardoplastycznym na pograniczu plastycznego oraz średnio zagęszczone na pograniczu luźnego. Mapę występowania gruntów słabonośnych wraz z ich miąższością przedstawia załącznik nr 4.2, natomiast mapa warunków budowlanych wraz z głębokością występowania wody gruntowej stanowi załącznik nr 4.4.
+W każdym z otworów (oprócz 38, w którym nie swtwierdzono żadnych przejawów wód podziemnych) występuje woda podziemna. Zwierciadło wód podziemnych zostało stwierdzone (nawiercone) na głębokości od 0,9 do 9,0 m ppt. Z kolei sączenia występują na głębokości od 1,9 do 7,0 m ppt. Należy nadmienić, że nie zawsze był możliwy pomiar głębokości zwierciadła nawierconego oraz ustabilizowanego. Oznacza to, że po wykonaniu rozkopów pojawi się woda gruntowa. Wówczas zajdzie potrzeba ich odwodnienia. Nie przewiduje się powstawania leja depresyjnego podczas odwodnienia, który wykraczałby poza granice działki inwestora. 
+	Roboty ziemne zaleca się wykonać w porze suchej oraz zapewnić zabezpieczenie gruntów w wykopie fundamentowym przed zawilgoceniem, a teren inwestycji zabezpieczyć przed napływem wód powierzchniowych.
+	Budowę geologiczną ilustrują karty otworów geologiczno – inżynierskich załącznik nr 5.1 – 5.28, a wartości charakterystyczne parametrów gruntów przedstawia załącznik nr 8.
+Prognoza wpływu projektowanej inwestycji na środowisko gruntowo - wodne
+
+Realizacja inwestycji, pod warunkiem zachowania zasad sztuki budowlanej, nie będzie stwarzać zagrożenia dla środowiska. Na etapie budowy obiektu należy zastosować materiały                    i technologie, które w niewielkim stopniu wpływają na środowisko. 
+Ponadto na etapie realizacji projektowanego mostu  może nastąpić zmiana występowania wód gruntowych w stosunku do poziomu udokumentowanego
+Na etapie eksploatacji, przy normalnym użytkowaniu, obiekt nie będzie negatywnie wpływać na środowisko gruntowo – wodne. 
+Pewne niewielkie zagrożenia wystąpić mogą wyłącznie na etapie rozbudowy                                     i przebudowy. Należy, zatem zadbać o należyty stan techniczny sprzętu mechanicznego, a szczególnie zwrócić uwagę na to, aby nie wydostawały się z nich substancje ropopochodne. 
+W związku z przebudową i rozbudową oczyszczalni ścieków nie przewiduje się zagrożenia dla wód i gruntów. Prace budowlane będą wykonywane z zachowaniem podstawowych zasad bhp i ochrony środowiska:
+sprzęt wykorzystywany będzie sprawny,
+przestrzeganie ograniczenia jałowej pracy silników pojazdów samochodowych i maszyn roboczych np. podczas postoju. 
+ewentualne zanieczyszczenia gruntu ropopochodnymi natychmiast neutralizowane sorbentami; 
+prace „zanikające” będą przedmiotem stosownych odbiorów technicznych 
+i podlegać inwentaryzacji geodezyjnej,
+Na etapie eksploatacji, przy normalnym użytkowaniu, obiekt nie będzie negatywnie wpływać na środowisko gruntowo – wodne. 
+
+Charakterystyka wydzielonych zespołów gruntowych i skalnych, w tym serii litologiczno – genetycznych, oraz ocena właściwości fizyczno – mechanicznych gruntów tworzących te zespoły
+
+Na podstawie wykonanych badań w ramach zatwierdzonego Projektu robót geologicznych…stwierdzono:
+dominujące gliny zwałowe wykształcone jako gliny piaszczyste, lokalnie także gliny piaszczyste zwięzłe, gliny pylaste zwięzłe, gliny pylaste, pyły piaszczyste, pyły, piaski gliniaste. Ich geneza związana jest z akumulacyjną działalnością lądolodu.
+w obrębie wyżej wymienionych glin zwałowych - w postaci wkładek: piaski pylaste, drobne, średnie, grube oraz pospółki. Ich geneza związana jest z akumulacyjną działalnością wód roztopowych na przedpolu i w obrębie lądolodu.
+iły (jedynie w otworze nr 40 na głębokości 3,50 m ppt o miąższości 90 cm).
+
+Stwierdzone grunty przydzielono według kryterium geologicznego na trzy serie litogenetyczne, w których ujęto grunty powstałe w tym samym czasie geologicznym i w wyniku tych samych procesów. Wśród serii według stanów, rodzajów i genezy, w podłożu wydzielono warstwę utworów antropogenicznych, osadów wodnolodowcowych oraz glin zwałowych (tabela nr 3).
+Tabela  SEQ Tabela \* ARABIC 3 Wydzielone serie litogenetyczne w obrębie obszaru badań geologiczno-inżynierskich
+STRATYGRAFIA	GENEZA	OPIS WYDZIELENIA		CZWARTORZĘD	działalność człowieka - grunty antropogeniczne	Seria ta obejmuje najmłodsze grunty – nasypy niekontrolowane stanowiące mieszaninę różnych gruntów. Na terenie wykonanych badań geologiczno – inżynierskich występuje jedynie w otworach nr  5, 17 i 23. Nasypom nie przypisuje się parametrów. 			akumulacyjna działalność wód roztopowych na przedpolu i w obrębie lądolodu	Grunty wodnolodowcowe (Qpfg) – plejstocen. Gunty te są wynikiem akumulacji osadów na przedpolu i w obrębie lądolodu i stanowią je w rejonie badań utwory niespoiste: piaski wszystkich frakcji, pospółki. 			akumulacyjna działalność lądolodu	Gliny zwałowe (Qpg) – plejstocen. Powstały w wyniku działalności akumulacyjnej lądolodu i stanowią na obszarze badań grunty spoiste. Dominują w litologii rejonu badań.  		
+Opis warunków hydrogeologicznych, w tym położenie pierwszego poziomu wód, amplitudy wahań i maksymalnego położenia poziomu zwierciadła wód podziemnych
+
+Zgodnie z podziałem regionalnym zwykłych wód podziemnych Polski obszar arkusza Wrocław należy do regionu Wrocławskiego. Natomiast według Mapy Hydrogeologicznej Polski w skali 1:200 000, arkusz Wrocław omawiany obszar należy do regionu Wielkopolskiego, rejonu Wrocławskiego. Do użytkowych pięter wodonośnych należą: piętro czwartorzędu i neogenu.
+W każdym z wykonanych otworów geologiczno – inżynierskich za wyjątkiem otworu nr 38 stwierdzono obecność wód podziemnych. Zwierciadło wód podziemnych występuje we wkładkach utworów niespoistych i ma charakter zarówno swodobny jak i naporowy. W obrębie gruntów spoistych stwierdzone zostały sączenia wód podziemnych. Zwierciadło wód podziemnych zostało stwierdzone (nawiercone) na głębokości od 0,9 do 9,0 m ppt. Z kolei sączenia występują na głębokości od 1,9 do 7,0 m ppt. Należy nadmienić, że nie zawsze był możliwy pomiar głębokości zwierciadła nawierconego oraz ustabilizowanego. 
+W okresie intensywnych i długotrwałych opadów atmosferycznych oraz roztopów, na stropie osadów spoistych mogą pojawić się sączenia o różnej intensywności, a istniejące mogą przybrać na sile. Amplitudę sezonowych wahań zwierciadła wód gruntowych ocenia się przynajmniej na ± 0,5 m w skali roku – ze względu na bliskość obszarów zagrożonych występowaniem podtopień. Zestawienie wyników obserwacji hydrogeologicznych zestawiono w tabeli nr 1 umieszczonej w rozdziale 5.
+W okresach wilgotnych (wczesna wiosna lub po intensywnych opadach deszczu) sezonowo woda gruntowa może pojawić się bliżej powierzchni terenu, a w okresie suchego lata zwierciadło wody gruntowej może występować głębiej.
+Warunki wodne bezpośredniego terenu badań przedstawiają karty otworów geologiczno - inżynierskich stanowiące załącznik nr 5.1 – 5.28.
+Charakterystyka jakości wody gruntowej i agresywności wody w stosunku do betonu   i stali
+Dla określenia agresywności wód gruntowych w stosunku do betonu i stali, pobrano próbkę wody z otworu nr 22. Agresywność wody zależy od jej składu chemicznego i powoduje niszczenie skał, betonów oraz różnego rodzaju konstrukcji metalowych, pozostających w kontakcie w wodami gruntowymi. Przy określaniu środowisk chemicznych użyto normy PN-EN 206-1:2003 Beton Część 1 Wymagania, właściwości, produkcja i zgodność. Na podstawie normy określono klasy ekspozycji agresji chemicznej (tabela nr 4). 
+Wyniki badań laboratoryjnych wody w zakresie agresywności w stosunku do betonu                     i stali oprócz bieżącego rozdziału przedstawia załącznik tekstowy G.
+Tabela  SEQ Tabela \* ARABIC 4 Klasy ekspozycji agresji chemicznej wody gruntowej według normy PN-EN 206-1:2003
+Charakterystyka chemiczna	SO42-
+[mg/l]	pH
+[-]	CO2 agresywny
+[mg/l]	NH4+  [mg/l]	Mg2+
+[mg/l]		XA1	Środowisko chemiczne mało agresywne	<200;600>	<5,5;6,5>	<15;40>	<15;30>	<300;1000>		XA2	Środowisko chemiczne średnio agresywne	(600;3000>	<4,5;5,5)	(40;100>	(30;60>	(1000;3000>		XA3	Środowisko chemiczne silnie agresywne	(3000;6000>	<4,0;4,5)	(100; 
+do nasycenia>	(60;100>	(3000; do nasycenia>			Środowisko chemiczne nieagresywne	Wartości nieuwzględnione w zakresie XA1, XA2, XA3		UZYSKANE WYNIKI 	25,0	8,1	<2,2	<0,26	8,72		
+Analizując powyższą tabelę można stwierdzić, że woda wykazuje osłabione własności korozyjne wobec stali i nie wykazuje agresji chemicznej względem betonu.
+Określono także agresywność i korozyjne oddziaływanie pobranej próbki wody wobec stali w oparciu o zasady zawarte w normie PN-72/C-04609 „Wstępna jakościowa ocena korozyjnego działania zimnych wód naturalnych na przewody z żeliwa, stali zwykłej lub ocynkowanej”. Zgodnie z wartościami granicznymi parametrów określonymi dla przewodów żeliwnych oraz przewodów ze stali zwykłej i ocynkowanej, próbka wody, w analizowanym zakresie, wykazuje zwiększone własności korozyjne wobec stali zgodnie z normą PN-72/C- 04609. Parametrem wskazującym na zwiększone własności korozyjne jest agresywny dwutlenek węgla.
+Wyniki badań próbki wody na agresywności w stosunku do stali została przedstawiono w sposób szczegółowy w załączniku tekstowym G. 
+Informacja o lokalizacji i zasobach z kopalin, które mogą być wykorzystane przy wykonywaniu projektowanej inwestycji, oraz ich jakości
+
+Najbliższe udokumentowane złoża, które mogą być wykorzystane do realizacji inwestycji to: 
+złoże piasków i żwirów, rozpoznane wstępnie, Mokry Dwór. Złoże znajduje się w odległości ok. 3,6 km na wschód od planowanej inwestycji;
+złoże piasków i żwirów Mokry Dwór I (o zasobach rozpoznanych szczegółowo). Złoże znajduje się w odległości ok. 6,5 km na południowy wschód od planowanej inwestycji. 
+
+Dane dotyczące złoża zaczerpnięto z opracowania PIG „Bilans zasobów…” (poz. lit. 8).
+Na tym etapie nie przewiduje się wykorzystania w/w zasobów złoża przy wykonaniu projektowanej inwestycji. Nie przewiduje się również poboru gruntów z dokumentowanych działek na potrzeby inwestycji. Niezbędne materiały dostarczy wykonawca robót budowlanych. 
+
+Opis budowy istniejących uszkodzeń obiektów budowlanych zlokalizowanych w sąsiedztwie projektowanego obiektu budowlanego 
+Stan techniczny istniejących obiektów w sąsiedztwie projektowanego przedsięwzięcia budowlanych ocenia się jako dobry. 
+Wyniki geologiczno – inżynierskich prac kartograficznych, umożliwiające sporządzenie mapy geologiczno – inżynierskiej
+Dla kartowania geologiczno – inżynierskiego przyjęto najbliższe otoczenie badanego terenu. W obszarze tym  nie stwierdzono żadnych form krasowych ani procesów geodynamicznych (osuwiska). Dokumentacja dotyczy niewielkiego obiektu jakim jest zespół budynków mieszkalnych wielorodzinnych, więc nie sporządzono mapy geologiczno-inżynierskiej.
+Opis zjawisk i procesów geodynamicznych i antropogenicznych na terenie badań i w jego otoczeniu z ocena ich znaczenia dla inwestycji 
+W bezpośrednim podłożu do głębokości 10,0 m ppt wierceniami nie stwierdzono występowania starszego podłoża. Taka sytuacja sprawia, że mniejsze znaczenie dla inwestycji mają tu zjawiska i procesy geodynamiczne związane ze starszym podłożem. Grunty te nie są podatne na gwałtowne osiadanie, czy  na wystąpienie ruchów masowych. Ponadto będą się ona znajdować na terenie mało nachylonym, co nie stwarza groźby wystąpienia procesów osuwiskowych, które w szczególnych przypadkach np. przy stromym upadzie warstw i dużym nachyleniu stoku mogłyby się pojawić. 
+Na terenie planowanego przedsięwzięcia, wierceniami wykonanymi w 2025 r. stwierdzono występowanie nasypów antropogenicznych o składzie gruntów spoistych i niespoistych jedynie w trzech otworach nr 5, 17 i 23 o maksymalnej miąższości zaledwie 30 cm. Nasypy występują przypowierzchniowo i osiągają miąższość maksymalną zaledwie 30 cm. Nasypom nie przypisuje się parametrów ze względu na ich anizotropię. 
+Na obszarze badań oraz w jego rejonie nie stwierdzono żadnych form krasowych ani procesów geodynamicznych (osuwiska, tereny zagrożone ruchami masowymi), dlatego też nie załącza się kart rejestracyjnych osuwiska lub terenów zagrożonych ruchami masowymi. W trakcie wykonywania ewentualnych wykopów możliwe jest wystąpienie nieznacznych ruchów masowych w postaci obrywów, osypów. W związku z tym zaleca się zabezpieczenie obiekt przed ruchami uaktywniającymi się w wyniku działania grawitacji i wody. Nie stwierdzono występowania deformacji typu filtracyjnego.
+Grunty spoiste w wyniku zwiększenia wilgotności pęcznieją oraz zmieniają swoją konsystencję w kierunku bardziej plastycznej, co wywołuje zmniejszenie wytrzymałości na ścinanie, wzrost ściśliwości. W związku z tym przy realizacji robót ziemnych należy zwrócić uwagę, aby zmianie nie uległy parametry fizyko-mechaniczne tych gruntów, a zwłaszcza stopień plastyczności.
+Ruch na placu  budowy może prowadzić do szybszego absobrowania wody opadowej przez podłoże. Należy mieć na uwadze ryzyko pogorszenia właściwości gruntów, tj. ich upłynnienie pod wpływem wibracji tworzonych przez sprzęt budowlany. 
+Prognoza zmian warunków geologiczno – inżynierskich mogących wystąpić podczas budowy, użytkowania i rozbiórki projektowanego obiektu budowlanego 
+		Głębienie wykopów fundamentowych będzie wymagało usunięcia partii materiału ziemnego tj. nasypów, gleby i rodzimych gruntów stanowiących nadkład nad gruntami w poziomie posadowienia. Odciążenie gruntów zalegających w poziomie posadowienia poprzez zdjęcie nadkładu nie spowoduje pogorszenia ich parametrów geologiczno – inżynierskich i nośności. Ze względu na płytko występujący poziom wodonośny i posadowienie części obiektów poniżej tego poziomu, konieczne będzie obniżenie zwierciadła wody. Nie przewiduje się powstawania leja depresyjnego podczas odwodnienia, który wykraczałby poza granice działki inwestora.
+			Warunki geologiczno – inżynierskie bezpośredniego podłoża w czasie budowy, użytkowania oraz ewentualnej rozbiórki nie ulegną pogorszeniu.
+			Warunki geologiczno – inżynierskie bezpośredniego podłoża w czasie budowy, użytkowania oraz ewentualnej rozbiórki nie ulegną pogorszeniu.
+Wskazania dotyczące sposobów posadowienia projektowanego obiektu budowlanego
+Ze względu na zmienność genetyczną i litologiczną podłoża, płytkie występowanie zwierciadła wód podziemnych oraz typ obiektów, nie zaleca się posadowienia projektowanych obiektów bezpośrednio. Rodzaj posadowienia określi Projektant obiektów budowlanych w dostosowaniu do wyników wierceń.
+Grunty spoiste w wyniku zwiększenia wilgotności pęcznieją oraz zmieniają swoją
+konsystencję w kierunku bardziej plastycznej, co wywołuje zmniejszenie wytrzymałości na
+ścinanie, wzrost ściśliwości. W związku z tym przy realizacji robót ziemnych należy zwrócić
+uwagę, aby zmianie nie uległy parametry fizyko-mechaniczne tych gruntów, a zwłaszcza stopień
+plastyczności.
+	Ponadto ruch na placu budowy może prowadzić do szybszego absobrowania wody
+opadowej przez podłoże. Należy mieć na uwadze ryzyko pogorszenia właściwości gruntów, tj.
+ich upłynnienie pod wpływem wibracji tworzonych przez sprzęt budowlany.
+Prace ziemne zaleca się wykonać w porze suchej (sączenia mogą zanikać) oraz zapewnić
+zabezpieczenie gruntów przed zawilgoceniem, a teren inwestycji zabezpieczyć przed napływem
+wód powierzchniowych.
+	Zaleca się posadowienie poszczególnych obiektów w obrębie gruntów nośnych o zbliżonych parametrach nośności.
+Ocena warunków geologiczno – inżynierskich na obszarach objętych działalnością górniczą
+Planowana inwestycja znajduje się poza obszarami górniczymi. 
+
+
+Wskazania dotyczące sposobów posadowienia fundamentów projektowanego obiektu budowlanego na obszarach morskich Rzeczpospolitej Polski
+Planowana inwestycja zlokalizowana jest w centralnej części Polski, a więc poza jej obszarami morskimi.
+Ogólne określenie metody wzmacniania podłoża gruntowego na podstawie wykonanych badań 
+Sposoby ewentualnego wzmocnienia podłoża gruntowego pod fundamenty projektowanego obiektu mostowego zostaną określone przez projektanta po rozpatrzeniu m.in. informacji
+zawartych w niniejszym opracowaniu.
+Zakres i sposób prowadzenia monitoringu projektowanego obiektu budowlanego, z uwzględnieniem jego kategorii geotechnicznej 
+Nie przewiduje się objęcia monitoringiem planowanego obiektu budowlanego.
+Prawo do korzystania z informacji geologicznej 
+Inwestorem wykonanych robót geologicznych jest spółka SIM Wrocław sp. z o.o., ul. Klecińska 125, 54-413 Wrocław.
+Wnioski i zalecenia 
+Grunty warstw geologiczno-inżynierskich nr nr Ia, Ib, IIb, IIc, IIIa, IIIb, IVc, IVd, V są nośne, odpowiednie do posadowienia projektowanych obiektów – budynków mieszkalnych. Grunty warstwy IVb uznaje się za grunty o obniżonej nośności (w stanie twardoplastycznym na pograniczu plastycznego). Natomiast grunty warstw geologiczno - inżynierskich nr IIa, IVa uznaje się za grunty słabonośne,  nie nadające się do posadowienia projektowanych obiektów. Nasypom oraz glebie nie przypisuje się parametrów geologiczno – inżynierskich. 
+
+Zaleca się posadowienie poszczególnych obiektów w obrębie gruntów nośnych o zbliżonych parametrach nośności.
+
+W każdym z wykonanych otworów geologiczno – inżynierskich za wyjątkiem otworu 
+nr 38 stwierdzono obecność wód podziemnych. Zwierciadło wód podziemnych występuje we wkładkach utworów niespoistych i ma charakter zarówno swobodny jak 
+i naporowy. W obrębie gruntów spoistych stwierdzone zostały sączenia wód podziemnych. Zwierciadło wód podziemnych zostało stwierdzone (nawiercone) na głębokości od 0,9 do 9,0 m ppt. Z kolei sączenia występują na głębokości od 1,9 do 
+7,0 m ppt. W okresach wilgotnych (wczesna wiosna lub po intensywnych opadach deszczu) sezonowo woda gruntowa może pojawić się bliżej powierzchni terenu, a w okresie suchego lata zwierciadło wody gruntowej może występować głębiej.
+
+Głębokość przemarzania gruntu w rejonie miasta Wrocław wynosi 0,80 m ppt (wg PN-81/B-03020-1).
+
+Ostateczne decyzje dot. rodzaju, metody i sposobu posadowienia inwestycji podejmie Projektant we współpracy z Inwestorem.
+
+Spis literatury istniejących materiałów archiwalnych
+
+Śpiewak A., Dulnikiewicz J. - Projekt robót geologicznych dla określenia warunków geologiczno-inżynierskich na potrzeby budowy zespołu budynków mieszkalnych wielorodzinnych (w tym część budynków z usługami) z garażami podziemnymi i niezbędną infrastrukturą na działkach o nr ewid. 1/90 i 1/97 obręb Wojszyce, w rejonie ul. Lutosławskiego, Buforowej i Asfaltowej we Wrocławiu, PGF Geoservice Agnieszka Śpiewak, Kielce 2025 r. 
+Kondracki J. - Geografia regionalna Polski, PWN, Warszawa 1998 r.
+Stupnicka E. - Geologia regionalna Polski, Wydawnictwo Geologiczne, Warszawa 1989 r.
+Winnicka G. (opracowanie), Badura J., Ciszek D. (reambulacja) - Szczegółowa Mapa Geologiczna Polski w skali 1:50 000 ark. Wrocław, Państwowy Instytut Geologiczny, Warszawa 1987 r./2013 r.
+Seifert K. -  Mapa  Geośrodowiskowa  Polski (II) w skali 1: 50 000 – ark. Wrocław, Plansza A, Państwowy Instytut Geologiczny Warszawa 2015 r.
+Pazdro Z. – Hydrogeologia ogólna, wyd. Warszawa, 1983 r.
+Ryszard R, Kaczyński – Warunki geologiczno - inżynierskie na obszarze Polski, Państwowy Instytut Geologiczny, Warszawa 2017 r.
+Szluficki M. i inni – Bilans zasobów złóż kopalin w Polsce wg. stanu na 31 XII 2024 r. – Państwowy Instytut Geologiczny, Warszawa 2025 r.
+https://www.geoportal.gov.pl/
+https://geologia.pgi.gov.pl/
+https://epsh.pgi.gov.pl/epsh/
+
+ HYPERLINK "http://www.pig.gov.pl/"
+
+
+
+
+
+
+
+
+Dokumentacja geologiczno – inżynierska
+______________________________________________________________________
+
+PAGE   \* MERGEFORMAT24
+
+
+
+

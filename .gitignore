@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+Thumbs.db
+_tmp/
+prace/obliczenia_v1/_skrypt/dane_odtworzone/

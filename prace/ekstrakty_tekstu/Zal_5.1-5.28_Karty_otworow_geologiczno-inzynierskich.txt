@@ -1,0 +1,3248 @@
+
+===== STRONA 1 =====
+PGF GEOSERVICE
+Proﬁl numer 2
+Zał.nr: 5.1 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Warstwa
+ geologiczno-
+Wilgotność
+Stan gruntu
+Gb
+Gp
+Pd
+Gp
+Pr+Ż
+Gp+Ż
+w
+nw
+w
+m/nw
+w
+-
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+tpl
+pzw/tpl
+1.20
+2.0
+3.1
+CZWARTORZĘD
+Czwarorzęd
+0.70
+2.00
+2.80
+3.10
+4.30
+6.50
+7.50
+10.00
+gleba c. brązowa 
+glina piaszczyta, j. szaro - brazowa 
+piasek drobny, j. brązowy 
+glina piaszczysta, szaro - brązowa 
+piasek gruby z domieszką żwiru, brązowy 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+H
+saclSi
+saclSi
+grsaclSi
+FSa
+grCSa
+inżynierska
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IVc
+IVc
+IVd
+IVd
+IVd
+Rzędna: 124.70 m npm 
+
+===== STRONA 2 =====
+Gb
+Gp
+Pg
+Pd
+Gp//Pd
+Gp
+Gp // Pg
+Gp//Ps
+Gp
+w
+w/m
+m
+w
+pzw
+tpl
+szg
+tpl
+pzw
+2.00
+1.50
+2.80
+7.00
+CZWARTORZĘD
+Czwarorzęd
+0.60
+1.30
+1.60
+2.00
+2.80
+3.20
+6.70
+8.50
+10.00
+gleba czarna 
+glina piaszczysta brązowa 
+piasek glinaisty brązowy 
+piasek drobny j. brązowy 
+glina piaszczysta j. brązowo - j. szara z 
+wkładkami piasku drobnego 
+glina piaszczysta brązowa 
+glina piaszczysta c. siwa z wkładkami piasku 
+gliniastego 
+glina piaszczysta c. szara z laminami piasku 
+sredniego (nawodnionego) 
+glina piaszczysta c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 3
+Zał.nr: 5.2 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+H
+saclSi
+clSa
+FSa
+saclSi
+saclSi
+saclSi
+saclSi
+saclSi
+Warstwa
+ geologiczno-
+inżynierska
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IVc
+IVc
+IVd
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 3 =====
+Nn
+Gb
+Gp
+Pd
+Gp
+Gp+Ż
+Gp+Ż//Pd
+w
+m
+w
+-
+tpl
+szg
+tpl
+pzw/tpl
+0.90
+CZWARTORZĘD
+Czwarorzęd
+0.20
+0.70
+1.40
+1.60
+3.00
+4.00
+10.00
+nasyp niekontrolowany (gleba+glina) 
+gleba c. brązowa 
+glina piaszczysta j. szaro - brązowa 
+piasek drobny j. brązowy 
+glina piaszczysta brązowa, od 2,8 m ppt z 
+wkładkami piasku drobnego 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta z domieszką żwiru z wkładk.
+piasku drobnego, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 5
+Zał.nr: 5.3 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+saclSi
+H
+Mg
+FSa
+saclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IVc
+IVc
+IVd
+Rzędna: 125.00 m npm 
+
+===== STRONA 4 =====
+Gb
+Gp//Ps
+Gp
+Ps
+Gp//Pd
+Pd
+Gp+Ż
+w
+nw
+w
+m
+w
+tpl/pl
+tpl
+szg
+pzw/tpl
+szg
+pzw
+1.20
+1.7
+3.6
+CZWARTORZĘD
+Czwarorzęd
+0.70
+2.00
+3.60
+4.00
+7.70
+8.00
+10.00
+gleba c. brązowa 
+glina piaszczysta z wkładkami piasku średn., 
+szaro - brązowa 
+glina piaszczysta, brązowa 
+piasek średni brazowy 
+glina piaszczysta z wkładkami piasku drobnego 
+piasek drobny j. szary 
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 7
+Zał.nr: 5.4 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+MSa
+saclSi
+saclSi
+saclSi
+FSa
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IVb
+IVc
+IVd
+IVd
+Rzędna: 125.10 m npm 
+
+===== STRONA 5 =====
+Gb
+Gp+Ż
+Gp//Ps
+Gp
+Gp+Ż
+Ps+Ż
+Gp+Ż
+w
+nw
+w
+tpl
+tpl/pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+1.70
+2.00
+4.4
+CZWARTORZĘD
+Czwarorzęd
+0.60
+1.70
+2.20
+3.20
+4.40
+5.50
+10.00
+gleba c. brązowa 
+glina piaszczysta z domieszką żwiru, j. szaro- 
+brązowa 
+glina piaszczysta z wkładkami piasku średn., 
+szaro - brązowa 
+glina piaszczysta brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+piasek średni z domieszką żwiru, szary 
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 9
+Zał.nr: 5.5 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+saclSi
+grsaclSi
+grsaclSi
+saclSi
+grMSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IVc
+IVc
+IVb
+IVd
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 6 =====
+Gb
+Gp
+Gp+Ps
+Gp+Ż
+Pd
+Gp+Ż
+Gp+Ż//Pd
+Gp+Ż
+mw
+w
+nw
+w
+tpl
+pzw/tpl
+szg
+pzw/tpl
+2.00
+1.30
+4.5
+CZWARTORZĘD
+Czwarorzęd
+0.50
+0.80
+2.70
+4.50
+4.80
+6.00
+7.00
+10.00
+gleba c. brązowa 
+glina piaszczysta brązowa 
+glina piaszczysta j. brązowa - j. szara z lam.
+piasku średniego 
+glina piaszczysta j. szaro - brązowa z dom. 
+żwiru 
+piasek drobny szary 
+glina piaszczysta c brązowa z domieszką 
+glina piaszczysta c brązowa z domieszką  
+żwiru i z wkładkami piasku drobnego 
+glina piaszczysta c brązowa z domieszką 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 10
+Zał.nr: 5.6 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+żwiru 
+żwiru 
+H
+FSa
+grsaclSi
+grsaclSi
+saclSi
+saclSi
+grsaclSi
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IVc
+IVd
+IVd
+Rzędna: 124.50 m npm 
+
+===== STRONA 7 =====
+Gb
+Gp
+Pr+Ż
+Gp+Ż
+Po
+Gp+Ż
+w
+nw
+w
+nw
+w
+tpl
+szg
+pzw/tpl
+szg
+pzw
+1.20
+1.5
+3.0
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.50
+2.50
+3.00
+9.00
+10.00
+gleba c. brązowa 
+glina piaszczysta szaro - brązowa 
+piasek gruby z domieszką żwiru, j. brązowy 
+glina piaszczysta z domieszką żwiru, c. szara 
+pospółka, szara 
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 11
+Zał.nr: 5.7 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+grsaclSi
+H
+saclSi
+grSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IIIa
+IVc
+IVd
+IVd
+Rzędna: 124.40 m npm 
+
+===== STRONA 8 =====
+Gb+k
+Gp+Ż
+Gp//Pg
+Pr+Ż
+Gp+Ż
+Ps
+//
+Gp+Ż
+Gp+Ż
+Ps
+w
+nw
+w
+m/nw
+w
+nw
+tpl
+szg
+pzw/tpl
+pzw
+pzw/tpl
+szg/zg
+1.30
+2.0
+4.7
+7.5
+CZWARTORZĘD
+Czwarorzęd
+0.60
+1.50
+2.00
+2.70
+4.70
+6.50
+7.50
+10.00
+gleba z domieszką kamieni 
+glina piaszczysta z domieszką żwiru, j. szaro- 
+brązowa 
+glina piaszczysta z wkładkami piasku gliniast., 
+j. brązowa 
+piasek gruby z domieszką żwiru, j. brązowy 
+glina piaszczysta z wkładkami piasku gliniast., 
+c. szara 
+glina piaszczysta z domieszką żwiru z wkład.  
+piasku średniego szara 
+glina piaszczysta z wkładkami piasku 
+gliniastego, c. szara 
+piasek średni brązowy 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 12
+Zał.nr: 5.8 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+saclSi
+grCSa
+grsaclSi
+grsaclSi
+grsaclSi
+MSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IIb
+IVc
+IVd
+Rzędna: 124.50 m npm 
+
+===== STRONA 9 =====
+Gb
+Ps
+Ps//Gp
+Gp+Ż
+Pr+Ż
+Gp+Ż
+Pr
+Gp+Ż
+Ps
+Gp+Ż
+w
+m/nw
+nw
+w
+nw
+w
+nw
+w
+nw
+w
+szg
+tpl/pl
+szg
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+0.90
+2.7
+3.5
+5.5
+CZWARTORZĘD
+Czwarorzęd
+0.80
+1.50
+2.00
+2.70
+3.00
+3.50
+3.70
+5.50
+5.70
+10.00
+gleba c. brązowa 
+piasek średni szary 
+piasek średni z wkładkami gliny piaszczystej, 
+brązowy 
+glina piaszczysta z domieszką żwiru, brązowa 
+piasek gruby j. brązowy z domieszką żwiru 
+glina piaszczysta c. szara z domieszką żwiru 
+piasek gruby brązowy 
+glina piaszczysta c. szara z domieszką żwiru 
+piasek średni brązowo - szary 
+glina piaszczysta c. szara z domieszką żwiru 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 14
+Zał.nr: 5.9 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+MSa
+MSa
+grsaclSi
+grsaclSi
+grsaclSi
+CSa
+grCSa
+MSaclsi
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IIb
+IIb
+IIb
+IVb
+IVd
+IVd
+IVd
+Rzędna: 124.30 m npm 
+
+===== STRONA 10 =====
+Gb
+Gp+Ż
+Gp+Ż//Ps
+Gp+Ż
+w
+m
+w
+tpl
+pzw/tpl
+1.90
+1.40
+CZWARTORZĘD
+Czwarorzęd
+0.80
+1.90
+2.10
+2.50
+10.00
+gleba c. brązowa 
+glina piaszczysta j. brązowa z domieszką 
+glina piaszczysta szaro - brązowa z dom.
+żwiru przewarstwiona piaskiem średnim 
+glina piaszczysta szaro - brązowa  
+z domieszką żwiru 
+glina piaszczysta c. szara z domieszką żwiru 
+z cienkimi wkładkami piasku drobnego 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 15
+Zał.nr: 5.10
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 15.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+żwiru 
+grsaclSi
+grsaclSi
+H
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IVc
+IVd
+Rzędna: 124.30 m npm 
+
+===== STRONA 11 =====
+Gb
+Gp+Ż
+Gp+Ż/Ps
+w
+w/m
+w
+tpl
+pzw/tpl
+2.00
+1.20
+CZWARTORZĘD
+Czwarorzęd
+0.50
+2.00
+2.70
+5.50
+10.00
+gleba c. brązowa 
+glina piaszczysta j. brązowa z domieszką
+glina piaszczysta c. brązowa z domieszką
+glina piaszczysta c. szara z domieszką żwiru 
+glina piaszczysta c. szaro - brązowa z dom.
+żwiru z wkładkami piasku grubego 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 16
+Zał.nr: 5.11
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 16.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+żwiru
+żwiru
+H
+grsaclSi
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IVc
+IVd
+Rzędna: 124.60 m npm 
+
+===== STRONA 12 =====
+Nn
+Gb
+Gp+Ż
+Pd //Gp
+Gp//Ps
+Gp+Ż
+Ps
+Gp+Ż
+mw
+w
+nw
+w
+nw
+w
+tpl
+szg
+tpl
+pzw/tpl
+szg
+pzw/tpl
+1.9
+3.5
+CZWARTORZĘD
+Czwarorzęd
+0.30
+0.70
+1.90
+2.30
+3.10
+3.50
+3.80
+10.00
+nasyp (piasek+cegła+kamienie) 
+gleba c. brązowa 
+glina piaszczysta j. brązowa z domieszką
+piasek drobny j. brązowy z wkładkami gliny 
+piaszczystej 
+glina piaszczysta brązowa z wkładkami 
+piasku średniego 
+glina piaszczysta c. szara z domieszką żwiru 
+piasek średni brązowy 
+glina piaszczysta c. szara z domieszką żwiru 
+miejscami z wkładkami piasku średniego 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 17
+Zał.nr: 5.12
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 16.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+żwiru
+H
+Mg
+grsaclSi
+grsaclSi
+grsaclSi
+MSa
+FSaclsi
+grsaclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IVc
+IVc
+IVd
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 13 =====
+Gb
+Gp
+Gp+Pr
+Gpz
+Gpz+Ps+Pg
+Gpz
+Ps/Pd
+Gp
+w
+w/m
+w
+w/m
+w
+nw
+w
+pzw
+zw
+bzg
+pzw
+3.30
+5.40
+5.80
+7.0
+CZWARTORZĘD
+Czwarorzęd
+0.50
+3.10
+3.50
+5.00
+6.00
+7.00
+8.70
+10.00
+gleba 
+glina piaszczysta brązowo - szara 
+glina piaszczysta brązowa z laminami piasku 
+grubego 
+glina piaszczysta zwięzła c. szara 
+glina piaszczysta zwięzła c. szara z laminami 
+piasku średniego i piasku gliniastego
+glina piaszczysta c. szara 
+piasek średni j. szary na pograniczu piasku 
+drobnego 
+glina piaszczysta c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 18
+Zał.nr: 5.13
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 16.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+saclSi
+saclSi
+clSa
+clSa
+clSa
+MSa/FSa
+saclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIc
+IVd
+IVd
+Rzędna: 124.90 m npm 
+
+===== STRONA 14 =====
+nN
+Gb
+Ps//Pg
+Gp
+Pd+Ż
+Gp+Ż
+Gp
+Pd
+Gp
+Ps
+Gpz+Ż
+w
+m
+w
+nw
+w
+m
+w
+szg
+pzw/tpl
+szg
+pzw
+szg
+pzw
+szg
+pzw
+2.70
+3.6
+4.4
+CZWARTORZĘD
+Czwarorzęd
+0.20
+0.70
+1.10
+1.70
+2.70
+3.20
+3.60
+4.00
+4.40
+4.70
+10.00
+nasyp (gruz+glina) szaro - brązowy 
+gleba c. brązowa 
+piasek średni z wkładkami piasku gliniastego 
+c.żółty 
+glina piaszczysta brązowo - żółta 
+piasek drobny z domieszką żwiru, j. brązowy 
+glina piaszczysta z domieszką żwiru, brąz.- 
+żółta 
+glina piaszczysta c. szara 
+piasek drobny j. żółto - szary 
+glina piaszczysta c. szara 
+piasek średni szary 
+glina piaszczysta zwięzła c. szara z dom.
+żwiru 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 20
+Zał.nr: 5.14
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 17.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grclSa
+grsaclSi
+saclSi
+saclSi
+saclSi
+H
+Mg
+MSa
+FSa
+grFSa
+MSacl
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+Ia
+IIb
+IIb
+IVd
+IVd
+IVd
+Rzędna: 124.60 m npm 
+
+===== STRONA 15 =====
+Gb
+Gp
+Gp//Pd
+Gp+Ż
+Gpz+Pd
+Gp+Ż
+w
+tpl
+pzw/tpl
+3.00
+4.50
+CZWARTORZĘD
+Czwarorzęd
+0.80
+2.80
+3.50
+4.40
+5.50
+10.00
+gleba c. brązowa 
+glina piaszczysta j. brązowa 
+glina piaszczysta przewarstwiona piaskiem  
+glina piaszczysta z domieszką żwiru c. szaro- 
+brązowa 
+glina piaszczysta zwięzła z laminami piasku 
+drobnego (mokrego) 
+glina piaszczysta z domieszką żwiru c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 21
+Zał.nr: 5.15
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 17.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+drobnym 
+grsaclSi
+grsaclSi
+clSa
+H
+saclSi
+saclSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IVc
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 16 =====
+Gb
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+w
+w/nw
+w
+nw
+w
+szg
+tpl/pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+1.00
+5.0
+CZWARTORZĘD
+Czwarorzęd
+0.80
+1.70
+2.40
+2.80
+5.00
+6.00
+10.00
+gleba c. brązowa 
+piasek średni, j. brązowy 
+glina piaszczysta z domieszką żwiru, szaro - 
+brązowa 
+glina piaszczysta z domieszką żwiru, brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+piasek średni z domieszką żwiru, szary 
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 23
+Zał.nr: 5.16
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 17.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+grsaclSi
+MSa
+grMSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IIb
+IVc
+IVb
+IVd
+IVd
+Rzędna: 124.50 m npm 
+
+===== STRONA 17 =====
+Gb
+Gp
+Gp//Pg
+Gp
+Gp//Ps
+Gp+Ż
+Ps
+Gpz//Ps
+P//Pd
+Ps
+w
+w/m
+nw
+w
+w/m
+nw
+pzw
+pzw/tpl
+pzw
+tpl
+pzw/tpl
+szg
+pzw
+szg
+3.70
+3.70
+4.6
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.50
+2.80
+3.30
+3.70
+4.60
+5.00
+7.50
+9.50
+10.00
+gleba c. brązowa 
+glina piaszczysta j. brązowo - j. szara 
+glina piaszczystaj. brązowa z cienkimi wkład.
+piasku gliniastego 
+glina piaszczysta c. szara 
+glina piaszczysta z wkładkami piasku średn.
+(mokrego) 
+glina piaszczysta z domieszką żwiru, szaro - 
+brązowa 
+piasek średni j. szary 
+glina piaszczysta zwięzła przewarstwiona 
+pył z wkładkami piasku drobnego 
+piasek średni szary 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+piaskiem średnim c.szara 
+PGF GEOSERVICE
+Proﬁl numer 24
+Zał.nr: 5.17
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+saclSi
+saclSi
+saclSi
+saclSi
+MSa
+MSa
+Sifsa
+grsaclSi
+clSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+pzw/tpl
+IIb
+IIb
+IVc
+IVd
+IVd
+Rzędna: 124.40 m npm 
+
+===== STRONA 18 =====
+Gb
+Gp+Ż
+Pd
+Gp
+Gp+Ż
+Gpz
+Ps
+Gp+Ż
+w
+nw
+w
+tpl
+szg
+pzw/tpl
+pzw
+szg
+pzw/tpl
+6.0
+7.00
+CZWARTORZĘD
+Czwarorzęd
+0.60
+1.50
+1.70
+3.20
+4.00
+6.00
+7.00
+10.00
+gleba c. brązowa 
+glina piaszczysta z domieszką żwiru, j. szaro- 
+brązowa 
+piasek drobny żółty 
+glina piaszczysta, brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta zwięzła c. szara 
+piasek średni szary 
+glina piaszczysta z domieszką żwiru, j. szaro - 
+brązowa 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 25
+Zał.nr: 5.18
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+grsaclSi
+grsaclSi
+MSa
+FSa
+saclSi
+clSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IVc
+IVd
+IVd
+Rzędna: 124.40 m npm 
+
+===== STRONA 19 =====
+Gb
+Pd
+Gp
+Ps
+Gp+Ż
+Pd
+Gp+Ż
+w
+m/nw
+w
+nw
+w
+szg
+pzw/tpl
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+1.30
+3.0
+6.3
+CZWARTORZĘD
+Czwarorzęd
+0.80
+1.00
+1.40
+3.00
+3.20
+6.30
+6.70
+10.00
+gleba c. brązowa 
+piasek drobny, brązowy 
+glina piaszczysta j. szaro - brazowa 
+glina piaszczysta szaro - brązowa 
+piasek średni j. brązowy 
+glina piaszczysta c. szara z domieszką żwiru 
+piasek drobny szary 
+glina piaszczysta c. szara z domieszką żwiru 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 26
+Zał.nr: 5.19
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+H
+MSa
+saclSi
+FSa
+FSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+Ia
+IIb
+IVc
+IVd
+IVd
+IVd
+Rzędna: 124.60 m npm 
+
+===== STRONA 20 =====
+Gb
+Gp
+Pg
+Gp
+Ps
+Ps+Gp
+Gpz
+w
+m
+w
+nw
+w
+tpl
+tpl/pl
+pzw
+szg
+pzw
+3.60
+3.8
+CZWARTORZĘD
+Czwarorzęd
+0.60
+1.60
+2.20
+2.70
+3.40
+3.80
+5.00
+7.20
+10.00
+gleba c. brązowa 
+glina piaszczysta brązowa 
+glina piaszczysta brązowa 
+piasek gliniasty brązowy 
+glina piaszczysta brązowa 
+glina piaszczysta c. szara 
+piasek średni, j. szary 
+piasek średni z domieszką gliny piaszczystej 
+glina piaszczysta zwięzła c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 27
+Zał.nr: 5.20
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+saclSi
+saclSi
+MSa
+clsiMSa
+clSa
+clSa
+           obręb geodezyjny Wojszyce
+bzg
+IIb
+IIc
+IVc
+IVb
+IVd
+IVd
+Rzędna: 124.70 m npm 
+
+===== STRONA 21 =====
+Gb
+Gp//Pd
+Pd
+Gp
+Gp+Ż
+Pd//G
+Gp+Ż
+Ps+Ż//Gp
+Gp+Ż//Ps
+w
+nw
+w
+m/nw
+w
+nw
+w
+tpl
+szg
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+1.10
+1.5
+3.5
+6.5
+CZWARTORZĘD
+Czwarorzęd
+0.50
+1.50
+2.20
+3.30
+3.50
+5.00
+6.50
+7.00
+10.00
+gleba c. brazowa 
+gleba piaszczysta z przewarstwieniami piasku 
+drobnego, j. szaro - brązowa 
+piasek drobny, j. brązowy 
+glina piaszczysta brązowa 
+glina piaszczysta z domieszką żwiru, c. brąz. 
+piasek drobny z wkładkami gliny, szary 
+glina piaszczysta z domieszką żwiru, c. szara 
+piasek średni z domieszką żwiru z wkładkami 
+gliny piaszczytej, szary 
+glina piaszczysta z domieszką żwiru i z wkład.
+piasku średniego, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 29
+Zał.nr: 5.21
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+saclSi
+saclSi
+grMSaclsi
+grsaclSi
+grsaclSi
+grsaclSi
+FSa
+FSasicl
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+Ia
+IIb
+IVc
+IVc
+IVd
+IVd
+Rzędna: 124.70 m npm 
+
+===== STRONA 22 =====
+Gb
+Gp
+Pp/Pp
+Gp+Ż
+Ps
+Gp//Ps
+Po
+Gp+Ż
+Po
+//
+Gp+Ż
+w
+m
+w
+nw
+w/m
+nw
+-
+tpl
+szg
+tpl/pl
+zg
+tpl
+pzw
+1.00
+2.00
+4.00
+4.7
+6.5
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.20
+1.70
+3.30
+3.50
+4.70
+5.80
+6.50
+10.00
+gleba c. brązowa 
+glina piaszczysta brązowa 
+pył piaszczysty na pograniczu piasku  
+pylastego j.brązowy 
+glina piaszczysta brązowa z domieszką żwiru 
+piasek średni brązowy 
+glina pylasta z wkładkami piasku średniego, 
+szaro - brązowa 
+pospółka, szaro - brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta z domieszką żwiru z wkład.
+pospółki szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 31
+Zał.nr: 5.22
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+grSa
+siClmsa
+MSa
+H
+saclSi
+grsaclSi
+saSi/siSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IIIb
+IVc
+IVb
+IVc
+IVd
+Rzędna: 125.00 m npm 
+
+===== STRONA 23 =====
+Gb
+Gp+Ż
+Ps
+Gp+Ż
+Gp+Ż//Ps
+w
+nw
+w
+-
+tpl
+szg
+tpl
+pzw/tpl
+2.0
+CZWARTORZĘD
+Czwarorzęd
+0.50
+2.00
+2.70
+3.30
+7.00
+10.00
+gleba c. brązowa 
+glina piaszczysta z domieszką żwiru, j. szaro - 
+brązowa 
+piasek średni, j. brązowy 
+glina piaszczysta z domieszką żwiru, brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+glina piaszczysta z domieszką żwiru przewarst.
+piaskiem średnim, brązowa 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 32
+Zał.nr: 5.23
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+grsaclSi
+grsaclSi
+MSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IVc
+IVc
+IVd
+Rzędna: 124.90 m npm 
+
+===== STRONA 24 =====
+Gb
+Gp//Pd
+Gp+Ż
+Pr+Ż
+Gp+Ż
+w
+nw
+w
+pzw/tpl
+tpl
+szg
+pzw/tpl
+1.70
+3.5
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.70
+3.50
+4.00
+10.00
+gleba c. brązowa 
+glina piaszczysta z wkładkami piasku 
+drobnego, brązowa 
+glina piaszczysta z domieszką żwiru, brązowa 
+piasek gruby z domieszką żwiru, szaro-brąz.
+glina piaszczysta z domieszką żwiru, miejsc.
+przewarstwiona piaskiem średnim, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 33
+Zał.nr: 5.24
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+H
+saclSi
+grCSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IVc
+IVd
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 25 =====
+Gb
+Gp+Ż
+Pp
+Pd
+Gp//Pd
+Gp
+Gp+Ż
+Ps
+Gp+Ż
+Ps
+Gp+Ż
+w
+w/nw
+nw
+w
+nw
+w
+nw
+tpl
+szg
+pl
+tpl
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+1.30
+5.0
+6.4
+CZWARTORZĘD
+Czwarorzęd
+0.90
+1.30
+1.50
+2.00
+2.50
+3.00
+5.00
+5.70
+6.40
+9.00
+10.00
+gleba c. brązowa 
+glina piaszczysta z domieszką żwiru, j. brąz. 
+piasek pylasty, j. brązowy 
+piasek drobny, j. brązowy 
+glina piaszczysta z wkakami piasku drobnego 
+szaro-brązowa 
+glina piaszczysta, brązowa 
+glina piaszczysta z domieszką żwiru, c. szara 
+piasek średni rdzawy 
+glina piaszczysta z domieszką żwiru, c. szara 
+piasek średni, szaro - rdzawy 
+glina piaszczysta z domieszką żwiru, c. szaro - 
+brązowa 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 36
+Zał.nr: 5.25
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+grsaclSi
+grsaclSi
+grsaclSi
+grsaclSi
+saclSi
+saclSi
+MSa
+MSa
+FSa
+siSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IIb
+IVc
+IVc
+IVa
+IVd
+IVd
+IVd
+Rzędna: 124.60 m npm 
+
+===== STRONA 26 =====
+Gb
+Gp
+Ps
+Gp+Ps
+Gp//Ps
+Gp+Ż
+w
+tpl
+szg
+tpl
+pzw/tpl
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.60
+2.00
+3.30
+5.40
+10.00
+gleba c. brązowa 
+glina piaszczysta, szaro - brązowa 
+piasek średni, j. brązowy 
+glina piaszczysta brązowa z lmainami piasku 
+średniego 
+glina piaszczysta z wkładkami piasku średn.  
+glina piaszczysta z domieszką żwiru, c. szara 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 38
+Zał.nr: 5.26
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 18.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+saclSi
+saclSi
+saclSi
+grsaclSi
+MSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+IIb
+IVc
+IVc
+IVd
+Rzędna: 124.80 m npm 
+
+===== STRONA 27 =====
+Gb
+Pd
+Gp//Pd
+Ps
+Gp+Ż
+Ps+Ż
+Gp+Ż
+w
+nw
+w
+nw
+w
+szg
+tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+1.50
+2.0
+5.0
+CZWARTORZĘD
+Czwarorzęd
+0.70
+1.30
+2.00
+4.60
+5.00
+9.00
+10.00
+gleba c. brązowa 
+piasek drobny, j. brązowy 
+glina piaszczysta z wkładkami piasku drobn.,
+szaro - brązowa 
+piasek średni , szaro - brazowy 
+glina piaszczysta z domieszką żwiru, c. brąz.
+piasek średni z domieszką żwiru, szary 
+glina piaszczysta z domieszką żwiru, c. brąz.
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 39
+Zał.nr: 5.27
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Rzędna: 124.80 m npm 
+Skala 1 : 100
+Data wiercenia: 20.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+H
+FSa
+saclSi
+grsaclSi
+grsaclSi
+MSa
+grMSa
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+IIb
+IIb
+IVc
+IVd
+IVd
+
+===== STRONA 28 =====
+Gb+k
+Gp
+Ps/Pr
+Gp
+P.p/Pp
+Gp+Ż
+Gpz
+I
+Gp+Ż
+Pd
+Gp+Ż
+Ps
+Gp+Ż
+-
+w
+nw
+w
+nw
+w
+-
+tpl
+szg
+tpl
+szg
+tpl
+pzw/tpl
+szg
+pzw/tpl
+szg
+pzw/tpl
+3.00
+5.5
+9.0
+CZWARTORZĘD
+Czwarorzęd
+0.60
+0.80
+1.60
+2.00
+2.60
+3.20
+3.50
+4.40
+5.50
+5.70
+9.00
+9.50
+10.00
+gleba z domieszką kamieni, c. brązowa 
+glina piaszczysta, brązowa 
+piasek średni na pograniczu piasku grubego, 
+brązowy 
+glina piaszczysta, brązowa 
+piasek pylasty na pograniczu pyłu piaszczyst., 
+j. szaro - brązowy 
+glina piaszczysta z domieszką żwiru, c. brąz. 
+glina pylasta zwięzła, szaro - brązowa 
+ił, szaro - brązowy 
+glina piaszczysta z domieszką żwiru, c. szaro  
+-brązowa 
+piasek drobny, szary 
+glina piaszczysta z domieszką żwiru, c. szaro 
+-brązowa 
+piasek średni, szary 
+glina piaszczysta z domieszką żwiru, c. szaro 
+-brązowa 
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+9.0
+10.0
+Rysunek wykonano programem "GeoStar"
+PGF GEOSERVICE
+Proﬁl numer 40
+Zał.nr: 5.28
+Obiekt: budynki mieszkalne wielorodzinne
+Dozór geol.: M. Przeniosło
+System wiercenia: Mechaniczny
+Skala 1 : 100
+Data wiercenia: 20.07.2025 r. 
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+Proﬁl
+litologiczny
+Przelot
+Opis litologiczny
+[m.p.p.t]
+[m]
+[m]
+Głębokość
+zwierciadła
+wody
+Stratygraﬁa
+Symbol gruntu
+Wilgotność
+Stan gruntu
+Symbol gruntu
+ 
+wg PN-EN
+ 
+ISO 14688-1
+8
+12
+KARTA OTWORU
+GEOLOGICZNO-INŻYNIERSKIEGO
+Warstwa
+ geologiczno-
+inżynierska
+grsaclSi
+grsaclSi
+grsaclSi
+grsaclSi
+MSa
+MSa/CSa
+H
+saclSi
+saclSi
+Cl
+FSa
+sasiCl
+siSa/saSi
+Rejon: dz. nr ewid. 1/90, 1/97
+Miejscowość: Wrocław
+Województwo: dolnośląskie 
+           obręb geodezyjny Wojszyce
+Ia
+Ia
+V
+IIb
+IIb
+IVc
+IVc
+IVc
+IVd
+IVd
+IVd
+Rzędna: 124.90 m npm 
