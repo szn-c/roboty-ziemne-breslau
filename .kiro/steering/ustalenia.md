@@ -133,7 +133,10 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 22. **Wariant B od południa:** podnóże skarpy na prostym odcinku między końcami ścianki, poszerzone o hale 7 i 8 z przestrzenią roboczą 1,0 m – zostaje.
 23. Rozbieżność geometrii DXF v2 (0,37%) zaakceptowana – zostaje geometria przeliczona do PZT (pkt 11). Zieleń na stropie z PZT (pkt 17) – zaakceptowana.
 
-**Założenia bez uwag użytkownika (nie blokują):** spód wykopu pod rampą = powierzchnia rampy − 0,71 m; nasyp wg stref z mapy 4.3 DGI; wymiary studzienek z rzutu 1A przyjęte dla wszystkich budynków.
+24. Drobne miejsca poza ścianką, gdzie projekt wchodzi w grunt rodzimy (ok. 39 m³): wartość znikoma – **pomijamy** (nie kopiemy, nie liczymy).
+25. Spód wykopu pod rampą = powierzchnia rampy − 0,71 m – **zostaje**.
+26. Wymiary studzienek z rzutu 1A przyjęte dla wszystkich budynków – **zostaje**, chyba że analiza pozostałych rzutów pokaże błąd.
+Nasyp niekontrolowany wg stref z mapy 4.3 DGI (otwory 5, 17, 20) – bez uwag.
 
 **Pozostałe ustalenia:**
 9. Użytkownik usunął z repo MDCP, PZT garaże, rzuty fundamentów PW_*, mapy 1–4.8 (poza 4.1), CPTU i analizy laboratoryjne, bo wszystko naniósł na DXF. **Weryfikacja (sesja z 7.10) wykazała wyjątki:** rzuty fundamentów (poziomy płyty i głębsze elementy) i zestawienie F (wilgotność, IL, gęstość) niosą dane, których nie ma w DXF – ich wyciąg jest w `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. Rzędne terenu z MDCP nie trafiły do DXF (rzędne w DXF to stare wstępne).
