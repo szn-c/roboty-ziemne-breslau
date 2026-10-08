@@ -14,10 +14,9 @@ def glowne(w):
     out = {"humus": w["humus_m3"], "nasyp": w["nasyp_m3"]}
     for k, r in w["warianty"].items():
         nat = {z: sum(v.values()) for z, v in r["wykop_m3"].items()}
-        dost = nat["R"] + nat["Z"] + nat["U"]
-        zap = sum(sum(r["zapotrzebowanie"][x].values()) for x in ("rodzimy_Z", "rodzimy_U", "rodzimy_R"))
+        zap = sum(sum(r["zapotrzebowanie"][x].values()) for x in ("rodzimy_Z", "rodzimy_U", "rodzimy_R", "rodzimy_O"))
         out["wykop_" + k] = sum(nat.values())
-        out["deficyt_" + k] = zap - dost
+        out["nadwyzka_" + k] = sum(nat.values()) - zap      # grunt rodzimy do wywozu (cały wykop przydatny – ustalenie 18)
         out["mroz_" + k] = sum(r["zapotrzebowanie"]["niewysadzinowy_U"].values())
     return out
 

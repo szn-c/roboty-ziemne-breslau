@@ -8,12 +8,14 @@ Zasady (USTALENIA.md, decyzje z 7–8.10.2026):
   wariant B: cały obszar w ściance do dna 121,86, ściany pionowe; od południa brak ścianki – skarpa 1:1,5
   (podnóże skarpy = prosty odcinek między końcami ścianki, poszerzony o hale 7 i 8 z przestrzenią roboczą 1,0 m);
   za ścianką (W, N, E) nie kopiemy;
-- strefy: H hale + zieleń na stropie poza halami (zadaszone dojazdy) – wykop na wywóz, bez zasypu;
-  O ogrody deszczowe – jak hale; R rampy – wykop do spodu rampy (powierzchnia − 0,71 m), zasyp gruntem z odkładu do spodu rampy;
+- strefy: H hale + zieleń na stropie poza halami (zadaszone dojazdy) – wykop na odkład (ustalenie 18), bez zasypu (na stropie substrat);
+  O ogrody deszczowe – 0,30 m substratu (poza bilansem) + grunt rodzimy z odkładu niżej (ustalenie 20); R rampy – wykop do spodu rampy (powierzchnia − 0,71 m), zasyp gruntem z odkładu do spodu rampy;
   Z zieleń na gruncie – 0,25 m humusu + grunt rodzimy z odkładu niżej;
   U nawierzchnie (w tym geokrata, wiaty) – 0,50 m konstrukcji (poza bilansem) + 0,50 m gruntu niewysadzinowego (strefa przemarzania 1,00 m – dowóz)
   + grunt rodzimy z odkładu poniżej 1,00 m;
-- poza wykopem nie kopiemy: miejsca, gdzie konstrukcja / humus / strefa przemarzania wchodzą w grunt rodzimy, są raportowane.
+- pod drogami, chodnikami, placem i parkingami (geokrata) grunt rodzimy w strefie przemarzania (do 1,00 m pod nawierzchnią) jest wymieniany
+  (ustalenie 21) – wykop do 1,00 m pod nawierzchnią, urobek na odkład; w pozostałych miejscach poza wykopem nie kopiemy, tylko raportujemy;
+- grunt rodzimy z całego wykopu (także spod hal) nadaje się do zasypu (ustalenie 18) – w arkuszu jest na odkładzie.
 """
 import json
 import math
@@ -35,7 +37,8 @@ DK = 0.01          # krok krzywych skumulowanych [m]
 NK = 801           # do 8,0 m pod stropem gruntu mineralnego
 
 PARAMETRY = dict(cell=0.25, dno=D.DNO, przestrzen_robocza=1.0, skarpa=1.5, konstrukcja=0.50, przemarzanie=1.00, humus_ziel=0.25,
-                 dz_teren=0.0, dz_humus=0.0, rampa_pod=D.RAMPA_POD)
+                 dz_teren=0.0, dz_humus=0.0, rampa_pod=D.RAMPA_POD, substrat_ogrod=0.30, wymiana_mrozu=True,
+                 rampy_w_A=True, zadaszone_w_A=True, poludnie_otwarte=True)
 
 
 # ------------------------------------------------------------------------------------------------ profile
@@ -197,19 +200,28 @@ def licz(p=None, zapisz_geometrie=False):
     mO = contains_xy(wkt.loads(st["ogrody_deszczowe"]), x, y) & inG & ~mH & ~mR
     mZ = contains_xy(wkt.loads(st["zielen_na_gruncie"]), x, y) & inG & ~mH & ~mR & ~mO
     mU = inG & ~mH & ~mR & ~mO & ~mZ
+    mHale = contains_xy(unary_union(list(HALE.values())), x, y) & inG
+    naw = unary_union([wkt.loads(st[k]) for k in ("ciagi_pieszo_jezdne", "ciagi_piesze", "plac_uslugowy", "geokrata_na_gruncie")])
+    mK = mU & contains_xy(naw, x, y)              # drogi, chodniki, plac, parkingi
     z_br = z_rampa - p["rampa_pod"]
     # --- obszar przed ścianką (D): wnętrze P + strona południowa otwarta
     inP = contains_xy(P, x, y)
     d_wall = odl_odcinki(x, y, WALL)
     d_clos = odl_odcinki(x, y, [WALL[-1], WALL[0]])
-    Ddom = inP | (~inP & (d_clos < d_wall - 1e-6))
+    Ddom = inP | (~inP & (d_clos < d_wall - 1e-6)) if p["poludnie_otwarte"] else inP.copy()
     # --- wariant A: obiekty podziemne S = H ∪ R
-    S = (mH | mR)
-    zbS = np.where(mR, z_br, p["dno"])
-    dS, ind = distance_transform_edt(~S.reshape(shape), sampling=cell, return_indices=True)
-    near = np.ravel_multi_index((ind[0].ravel(), ind[1].ravel()), shape)
-    dS = np.maximum(dS.ravel() - cell / 2, 0) * (~S)
-    zeA = zbS[near] + np.maximum(dS - p["przestrzen_robocza"], 0) / p["skarpa"]
+    # powierzchnia wykopu = najniższa z powierzchni dołów: (1) hale (+ zadaszone dojazdy) – dno 121,86; (2) rampy – dno pod rampą
+    def dol(maska, zb):
+        if not maska.any():
+            return np.full(len(x), np.inf)
+        d, ind = distance_transform_edt(~maska.reshape(shape), sampling=cell, return_indices=True)
+        near = np.ravel_multi_index((ind[0].ravel(), ind[1].ravel()), shape)
+        d = np.maximum(d.ravel() - cell / 2, 0) * (~maska)
+        return zb[near] + np.maximum(d - p["przestrzen_robocza"], 0) / p["skarpa"]
+    SH = mH if p["zadaszone_w_A"] else mHale
+    zeA = dol(SH, np.full(len(x), p["dno"]))
+    if p["rampy_w_A"]:
+        zeA = np.minimum(zeA, dol(mR, np.where(mR, z_br, np.inf)))
     zeA = np.where(Ddom, zeA, np.inf)
     # --- wariant B
     dH = distance_transform_edt(~mH.reshape(shape), sampling=cell).ravel()
@@ -235,6 +247,10 @@ def licz(p=None, zapisz_geometrie=False):
     wynik["za_scianka_komorek"] = za_scianka
     geom = {}
     for nazwa, ze in (("A", zeA), ("B", zeB)):
+        dz0 = np.nan_to_num(np.where(inG, np.clip(zs - ze, 0, None), 0.0), posinf=0.0)
+        if p["wymiana_mrozu"]:
+            wym = mK & (zs > zp - p["przemarzanie"])
+            ze = np.where(wym, np.minimum(ze, zp - p["przemarzanie"]), ze)
         dz = np.where(inG, np.clip(zs - ze, 0, None), 0.0)
         dz = np.nan_to_num(dz, posinf=0.0)
         exc = dz > 1e-9
@@ -244,6 +260,10 @@ def licz(p=None, zapisz_geometrie=False):
         sk = sklad(dz[idx], idx) * A                  # (n, n_ch)
         zb = np.where(exc, ze, zs)                     # spód zasypu
         res = {"wykop_m3": {}, "masa_t": {}, "zapotrzebowanie": {}, "konflikty": {}, "pola_wykopu": {}}
+        dw = np.flatnonzero(dz - dz0 > 1e-9)
+        skw = (sklad(dz[dw], dw) - sklad(dz0[dw], dw)) * A
+        res["wymiana_przemarzanie"] = {"m2": round(float(len(dw) * A), 2), "piaski_m3": round(float(skw[:, [D.KLASY.index(k) for k in D.PIASKI]].sum()), 3),
+                                       "gliny_m3": round(float(skw[:, [D.KLASY.index(k) for k in D.GLINY]].sum()), 3)}
         for zn, m in (("H", mH), ("O", mO), ("R", mR), ("Z", mZ), ("U", mU)):
             mm = m[idx]
             res["wykop_m3"][zn] = {k: round(float(sk[mm, i].sum()), 3) for i, k in enumerate(D.KLASY)}
@@ -261,11 +281,13 @@ def licz(p=None, zapisz_geometrie=False):
         konf_U1 = np.where(Uc, np.clip(zb - (zp - t_k), 0, None), 0)                       # konstrukcja wchodzi w grunt
         konf_U2 = np.where(Uc, np.clip(np.minimum(zb, zp - t_k) - (zp - t_p), 0, None), 0)  # grunt rodzimy w strefie przemarzania
         nat_R = np.where(mR, np.clip(z_br - zb, 0, None), 0); nat_R = np.nan_to_num(nat_R)
-        pustka_O = np.where(mO & exc, np.clip(zp - zb, 0, None), 0)
+        t_s = p["substrat_ogrod"]
+        nat_O = np.where(mO, np.clip(zp - t_s - zb, 0, None), 0)
+        konf_O = np.where(mO, np.clip(zb - (zp - t_s), 0, None), 0)
         obszar = {"wykop": exc, "poza_wykopem_w_sciance": (~exc) & inP, "poza_wykopem_poza_scianka": (~exc) & ~inP}
-        for k, v in (("humus_warstwa_Z", humus_wb), ("rodzimy_Z", nat_Z), ("rodzimy_U", nat_U), ("rodzimy_R", nat_R), ("niewysadzinowy_U", mroz)):
+        for k, v in (("humus_warstwa_Z", humus_wb), ("rodzimy_Z", nat_Z), ("rodzimy_U", nat_U), ("rodzimy_R", nat_R), ("rodzimy_O", nat_O), ("niewysadzinowy_U", mroz)):
             res["zapotrzebowanie"][k] = {o: round(float((v * mo * inG).sum() * A), 3) for o, mo in obszar.items()}
-        for k, v in (("Z_humus_ponad_grunt", konf_Z), ("U_konstrukcja_w_gruncie", konf_U1), ("U_grunt_rodzimy_w_strefie_przemarzania", konf_U2), ("O_pustka_pod_ogrodem", pustka_O)):
+        for k, v in (("Z_humus_ponad_grunt", konf_Z), ("U_konstrukcja_w_gruncie", konf_U1), ("U_grunt_rodzimy_w_strefie_przemarzania", konf_U2), ("O_substrat_ponad_grunt", konf_O)):
             res["konflikty"][k] = {o: {"m3": round(float((v * mo * inG).sum() * A), 3), "m2": round(float(((v > 0.005) & mo & inG).sum() * A), 2)} for o, mo in obszar.items()}
         res["pole_wykopu_razem"] = round(float(exc.sum() * A), 2)
         res["wykop_poza_dzialka"] = {"m2": round(float(poza.sum() * A), 2), "m3": round(float((poza_dz * poza).sum() * A), 3)}
@@ -273,7 +295,8 @@ def licz(p=None, zapisz_geometrie=False):
         # skład do kontroli: piaski/gliny
         wynik["warianty"][nazwa] = res
         if zapisz_geometrie:
-            geom[nazwa] = maska_na_wielokaty(exc.reshape(shape), xs, ys, cell)
+            geom[nazwa] = maska_na_wielokaty((dz0 > 1e-9).reshape(shape), xs, ys, cell)
+            geom[nazwa + "_wymiana"] = maska_na_wielokaty(((dz - dz0) > 1e-9).reshape(shape), xs, ys, cell)
     # --- fundamenty głębsze (osobno, pod halami)
     wynik["fundamenty"] = fundamenty(HALE, x, y, inG, zs, sklad, p)
     if zapisz_geometrie:

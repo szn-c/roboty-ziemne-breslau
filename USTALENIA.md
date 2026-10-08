@@ -33,13 +33,14 @@ Dane z poprzednich sesji (również z `prace/obliczenia_v1`) traktuj jako **niez
 
 ## 4. Założenia bilansu
 ### 4.1 Warianty wykopu (oba liczyć obok siebie)
-- **Wariant A** – wykop pod halami: obrys hali + przestrzeń robocza (dotąd 1,0 m), dalej skarpa (dotąd 1:1,5), wszystko w obrębie ścianki. Wartości przestrzeni roboczej i skarp sprawdź w dokumentacji/projekcie geotechnicznym.
-- **Wariant B** – cały obszar w ściance wykopany do dna, ściany pionowe.
-- Dno wykopu: v1 przyjmowało **121,97 m npm** (= posadzka 122,57 − płyta 0,50 − chudy beton 0,10). Rzuty fundamentów sugerują **ok. 121,86** (dolna krawędź płyty 121,96 minus podbeton C8/10 min. 10 cm); są też lokalne elementy głębsze, do 120,00. Szczegóły: `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. **Do weryfikacji i uzgodnienia z użytkownikiem.**
+- **Wariant A** – wykop tylko pod garażami + rozkop: obrys garażu (hale, zadaszone dojazdy i rampy – pkt 19) + przestrzeń robocza **1,0 m**, dalej skarpa **1:1,5** do terenu po zdjęciu humusu; przy ściance obcięte, od południa skarpa swobodna (pkt 12, 14). Ta sama zasada co wariant „A (skarpy 1:1,5)” w `prace/obliczenia_v1`; rozkład krok po kroku – arkusz WARIANT_A.
+- **Wariant B** – cały obszar w ściance wykopany do dna, ściany pionowe; od południa skarpa 1:1,5 (pkt 12, 22).
+- Dno wykopu: **121,86 m npm** (pkt 13; v1 przyjmowało 121,97). Elementy głębsze (do 120,00) – osobna pozycja. Szczegóły: `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`.
 
 ### 4.2 Pas poza ścianką
 Pas działki poza ścianką jest **odhumusowany, bez wykopów** (nie obniżamy gruntu rodzimego) i **podnoszony do rzędnej projektowej** (wbudowanie wg stref, pkt 4.4).
 Jeśli rzędna podbudowy wychodzi poniżej powierzchni po zdjęciu humusu, nie kopiemy – zgłoś takie miejsca użytkownikowi.
+**Wyjątek (pkt 21):** pod projektowaną drogą, chodnikiem, placem i parkingiem wymieniamy grunt rodzimy w strefie przemarzania – wykop do 1,00 m pod nawierzchnią (także poza ścianką).
 
 ### 4.3 Humus i nasyp
 - Humus zdejmowany z całej działki 1/90 (obrys ścianki + pas poza ścianką).
@@ -49,16 +50,16 @@ Jeśli rzędna podbudowy wychodzi poniżej powierzchni po zdjęciu humusu, nie k
 ### 4.4 Zasady wbudowania wg stref (rzędna docelowa z dokumentacji)
 | Strefa | Co wbudowujemy | Co w bilansie |
 |---|---|---|
-| **Hale garażowe** (pod obrysem hal) wraz z **zielenią na stropie garażu, geokratą na stropie i dachami** | nic z wykopu; na stropie **dowożony dedykowany substrat** (poza bilansem gruntu rodzimego) | **cały wykop z tego obszaru do wywiezienia** |
+| **Hale garażowe** (pod obrysem hal) wraz z **zielenią na stropie garażu, geokratą na stropie i dachami** | nic z wykopu; na stropie **dowożony dedykowany substrat** (poza bilansem gruntu rodzimego) | **cały wykop z tego obszaru na odkład i do zasypu** (pkt 18; wcześniej: wywóz) |
 | **Tereny zielone na gruncie** | **0,25 m humusu** (z odkładu) + poniżej, **do poziomu dna wykopu, ziemia z odkładu** | humus 0,25 m × powierzchnia; reszta to grunt z odkładu |
-| **Nawierzchnie utwardzone** (w tym **geokrata na parkingach**) | **0,50 m konstrukcji drogowej** (kruszywo – **poza bilansem**) + poniżej, **do dna wykopu, grunt z odkładu** | tylko grunt poniżej konstrukcji |
-| **Ogrody deszczowe** (253,00 m²) | **poza opracowaniem**, dedykowany substrat jak na halach | nie wbudowujemy tam humusu ani gruntu z odkładu; traktować jak hale |
+| **Nawierzchnie utwardzone** (w tym **geokrata na parkingach**) | **0,50 m konstrukcji drogowej** (kruszywo – **poza bilansem**) + 0,50 m **dowożonego gruntu niewysadzinowego** (do 1,00 m – pkt 15) + poniżej, **do dna wykopu, grunt z odkładu** | grunt niewysadzinowy (dowóz) i grunt poniżej 1,00 m |
+| **Ogrody deszczowe** (253,00 m²) | **0,30 m dedykowanego substratu** (poza bilansem) + poniżej **grunt rodzimy z odkładu** (pkt 20) | tylko grunt pod substratem |
 | **Nasyp niekontrolowany** | nigdy | 100% na wywóz |
 
 **Definicje stref (rozstrzygnięte przez użytkownika):**
 - **Tereny zielone na gruncie** = wyłącznie pozycja „zieleń na gruncie rodzimym" z tabeli Bilans terenu na PZT (6 443,06 m²; wg tekstu PZT zawiera już części miejsc rekreacji i placu zabaw na gruncie rodzimym – do sprawdzenia). Nic więcej nie liczymy jako zieleń.
 - **Geokrata na parkingach (na gruncie, 980,05 m²)** = **nawierzchnia utwardzona**: 0,50 m konstrukcji (poza bilansem) + poniżej grunt z odkładu do dna wykopu. Humusu 0,25 m tam nie wbudowujemy.
-- **Zieleń na stropie garażu (3 575,11 m²), geokrata na stropie (173,70 m²), zieleń na dachu (1 824,12 m²)** = strefa „hale" (wywóz, dedykowany substrat dowożony).
+- **Zieleń na stropie garażu (3 975,11 m² – w tabeli PZT literówka 3 575,11, pkt 17), geokrata na stropie (173,70 m²), zieleń na dachu (1 824,12 m²)** = strefa „hale" (wykop na odkład – pkt 18, dedykowany substrat dowożony).
 
 **Pas poza ścianką:** po zdjęciu humusu teren podnosimy do rzędnej projektowej według tych samych stref (zieleń: 0,25 m humusu + grunt poniżej; nawierzchnie: 0,50 m konstrukcji + grunt poniżej). Grunt do podniesienia pochodzi z odkładu albo z dowozu – zob. pkt 4.5.
 
@@ -90,7 +91,9 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 - Przed wczytaniem obrazu: `python renderuj_pdf.py --sprawdz plik.png`. Nie wczytuj obrazów > 1500 px; nie więcej niż ok. 15 obrazów na sesję.
 - **Zapisuj postęp do repo** po każdym etapie w `prace/POSTEP.md`. Gdy sesja się zablokuje: nowa sesja, kontynuacja od tego pliku.
 
-## 7. Co już wiadomo (NIEZWERYFIKOWANE – sprawdź w pkt 3)
+## 7. Co już wiadomo (stan sprzed weryfikacji)
+> Zweryfikowane – wynik w `prace/WERYFIKACJA_raport.md`. Przy sprzeczności obowiązuje pkt 8 (np. geometria przeliczona do PZT, `prace/dane/geometria.json`). Aktualny wynik bilansu: `wyniki/CZYTAJ_NAJPIERW.md`.
+
 - Układ: PL-2000 strefa 6 (EPSG 2177), wysokości PL-KRON86-NH (dokumentacja geol.-inż. to podaje). W CAD X = E (6 433 xxx), Y = N (5 658 xxx).
 - **Obrysy obowiązujące (od użytkownika, poprawione):** w `prace/dane_wejsciowe_uzytkownika/`: `wierzcholki_polilinii_hala1-8_checked.txt` (8 hal; hala 2 ma 6 wierzchołków i jest poprawna), `wierzcholki_polilinii_wykop_checked.txt` (ścianka wykopu, 11 wierzchołków, polilinia **otwarta**: odcinek zamykający nie istnieje w rzeczywistości i przecina jedną halę – wystawanie hali poza tak zamkniętą linię jest OK), `wierzcholki_polilinii_granica_działki_checked.txt` (17 wierzchołków, 25 105,56 m² wobec oficjalnych 25 290,00 m²) i `siatka_10m_dz190_checked.dxf` (ważne warstwy: `HALE_GARAZOWE`, `A-granica inwest.`, `7_SCIANKA_ORIENTACYJNA` – w niej 11-wierzchołkowy wykop i 3-wierzchołkowa pozostałość starego szkicu; pozostałe warstwy to stara siatka wstępna – nie używać).
 - Pola z tych plików: ścianka 20 266,12 m², obwód 562,89 m; hale razem 12 078,68 m². Dla porównania odczyt z rysunku projektanta (v1, PDF usunięty): `prace/obliczenia_v1/_skrypt/dane/geometria_G.json` – hale 1, 3–8 zgodne z obrysami użytkownika w granicach +0,2–0,4% pola, ścianka 20 661,7 m².
@@ -101,12 +104,12 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 
 ## 8. Decyzje użytkownika (wszystkie dotychczasowe pytania rozstrzygnięte)
 1. Zieleń na gruncie = tylko „zieleń na gruncie rodzimym" (6 443,06 m²). Geokrata na parkingach = zasady jak dla nawierzchni utwardzonych.
-2. Zieleń na stropie garażu (oraz geokrata na stropie i dachy) = jak hale: cały wykop z tego obszaru na wywóz, dowożony dedykowany substrat.
-3. Poza ścianką teren jest podnoszony do rzędnej projektowej (bez wykopów).
+2. Zieleń na stropie garażu (oraz geokrata na stropie i dachy) = jak hale, dowożony dedykowany substrat. *(Wywóz całego wykopu z tego obszaru – zmienione w pkt 18: grunt idzie do zasypu.)*
+3. Poza ścianką teren jest podnoszony do rzędnej projektowej (bez wykopów; wyjątek – wymiana w strefie przemarzania pod drogami, chodnikami i parkingami, pkt 21).
 4. Granica działki: 17 wierzchołków z `wierzcholki_polilinii_granica_działki_checked.txt` (użytkownik naniósł ją z mapy do celów projektowych na DXF).
 5. Tony z dokładnością 0,000.
 6. Zapas humusu 10% zostaje.
-7. Ogrody deszczowe (253,00 m²): poza opracowaniem, dedykowany substrat jak na halach (w bilansie jak hale, bez gruntu z odkładu).
+7. Ogrody deszczowe (253,00 m²): dedykowany substrat (poza bilansem). *(Bez gruntu z odkładu – zmienione w pkt 20: substrat 0,30 m, niżej grunt z odkładu.)*
 8. Rzut zabezpieczenia wykopu (PDF) i przekrój B-B budynku 2C są zbędne i usunięte z repo. Zastępują je pliki `*_checked` oraz rysunek „Przekroje terenowe z naniesionym średnim poziomem wody gruntowej" (wrócił do repo). Podbeton C8/10 min. 10 cm potwierdzają rzuty fundamentów (zob. pkt 7).
 
 **Decyzje z 8.10.2026 (odpowiedzi na pytania z `prace/WERYFIKACJA_raport.md`):**
@@ -118,8 +121,16 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 16. Gęstości z tabeli 8 DGI (piaski wg wilgotności z kart, gliny – średnia z zakresu); gleba 1,60 i nasyp 1,80 t/m³ (brak w tabeli 8); spulchnienie (humus 1,25, nasyp 1,25, gliny 1,30, piaski 1,15) tylko informacyjnie.
 17. Zieleń na stropie = **3 975,11 m²** (PZT wektorowy: 3 979,48 m²; DXF v2 użytkownika ma 3 572,61 m² – brakuje ok. 370 m²). Strefy brane z wypełnień wektorowego PZT. Woda wg otworów DGI (nie 124,30). Otwór 12: E = 6 433 688,2. Analiza tylko otworów 2–24 z działki 1/90 + CPTU 10, 12, 18, 21, 24 (CPTU uśrednione z otworem w tym samym miejscu).
 
-**Założenia robocze z 8.10 (do potwierdzenia przez użytkownika):** rampy (4 pochylnie, ok. 554 m²) i zadaszone dojazdy poza obrysami hal (zieleń na stropie, ok. 396 m²) liczone jak część garażu (w A wykop z przestrzenią roboczą i skarpą); spód wykopu pod rampą = powierzchnia rampy − 0,71 m; ogrody deszczowe w wariancie B – pod nimi bez zasypu (dosłownie wg pkt 7); nasyp wg stref z mapy 4.3.
+**Decyzje – trzecia runda (odpowiedzi na pytania z `wyniki/CZYTAJ_NAJPIERW.md`):**
+18. **Grunt spod hal i zadaszonych dojazdów** jest przydatny i idzie **na odkład i do zasypu** (DGI, projekt i opinia geotechniczna nie zawierają przeciwwskazań; PG s. 12 dopuszcza grunt z wykopu do zasypów). Cały grunt rodzimy z wykopu (poza glebą, nasypem i fundamentami głębszymi) jest dostępny do ponownego wbudowania. Warunki (pora sucha, ochrona glin przed wodą, warstwy ≤ 0,30 m, Is > 0,95, odsączenie piasków nawodnionych, oddzielenie IVa) – arkusz GRUNTY.
+19. **Rampy** (4 pochylnie z murami, ok. 554 m²) i **zadaszone dojazdy** poza obrysami hal (ok. 396 m²) = część garażu (w A wykop z przestrzenią roboczą i skarpą).
+20. **Ogrody deszczowe:** 0,30 m substratu (poza bilansem), poniżej grunt rodzimy z odkładu (w A i w B).
+21. **Wymiana gruntu w strefie przemarzania** tam, gdzie jest projektowana droga, chodnik, plac lub parking: wykop do 1,00 m pod nawierzchnią (urobek na odkład), w to miejsce grunt niewysadzinowy z dowozu. W innych miejscach poza wykopem nie kopiemy – tylko informacja (sekcja 10 arkusza WYNIK).
+22. **Wariant B od południa:** podnóże skarpy na prostym odcinku między końcami ścianki, poszerzone o hale 7 i 8 z przestrzenią roboczą 1,0 m – zostaje.
+23. Rozbieżność geometrii DXF v2 (0,37%) zaakceptowana – zostaje geometria przeliczona do PZT (pkt 11). Zieleń na stropie z PZT (pkt 17) – zaakceptowana.
 
-**Otwarte:** patrz pytania w `wyniki/CZYTAJ_NAJPIERW.md`.
+**Założenia bez uwag użytkownika (nie blokują):** spód wykopu pod rampą = powierzchnia rampy − 0,71 m; nasyp wg stref z mapy 4.3 DGI; wymiary studzienek z rzutu 1A przyjęte dla wszystkich budynków.
+
+**Pozostałe ustalenia:**
 9. Użytkownik usunął z repo MDCP, PZT garaże, rzuty fundamentów PW_*, mapy 1–4.8 (poza 4.1), CPTU i analizy laboratoryjne, bo wszystko naniósł na DXF. **Weryfikacja (sesja z 7.10) wykazała wyjątki:** rzuty fundamentów (poziomy płyty i głębsze elementy) i zestawienie F (wilgotność, IL, gęstość) niosą dane, których nie ma w DXF – ich wyciąg jest w `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. Rzędne terenu z MDCP nie trafiły do DXF (rzędne w DXF to stare wstępne).
 10. Hala 2 (6 wierzchołków) jest poprawna. Ścianka jest obrysem otwartym; hala przecięta linią zamykającą nie jest błędem.

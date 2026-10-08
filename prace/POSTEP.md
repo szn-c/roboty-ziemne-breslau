@@ -7,8 +7,9 @@
 - [x] T0: ścieżki dokumentów (`prace/MAPA_DOKUMENTOW.md`).
 - [x] T1: wyciąg z dokumentacji → `prace/ekstrakt_dokumentacji.md`.
 - [x] T2: weryfikacja ustaleń → `prace/WERYFIKACJA_raport.md`.
-- [ ] **T3: czekam na odpowiedzi użytkownika (7 pytań w raporcie, sekcja 8).** Po odpowiedziach: zapisać decyzje w `USTALENIA.md` (i w `.kiro/steering/ustalenia.md`).
-- [ ] T4–T8: dane (otwory, geometria po decyzji o korekcie), strefy z wektorowego PZT, grunty przydatne, obliczenia A i B, arkusz Excel (0,00 m², 0,000 m³), raport.
+- [x] T3: odpowiedzi użytkownika (2 rundy pytań) zapisane w `USTALENIA.md` pkt 11–23 (i w `.kiro/steering/ustalenia.md`).
+- [x] T4–T8: dane, strefy z wektorowego PZT, grunty przydatne, obliczenia A i B, arkusz Excel, podkład DXF v3, `wyniki/CZYTAJ_NAJPIERW.md`.
+- [ ] Brak otwartych pytań – czekam na uwagi użytkownika do wyniku.
 
 ## Sesja 7.10.2026 (wieczór) – dokumentacja i weryfikacja
 - Repo: `main` (35ad073) → gałąź `weryfikacja-dokumentacji`. `USTALENIA.md` = `.kiro/steering/ustalenia.md` (różni się tylko nagłówek). Obrazy w sesji: **1** (wycinek PZT, mało czytelny – dalej tylko analiza liczbowa).
@@ -33,8 +34,16 @@
 - [x] T4: dane w `prace/dane/` (`prace/obliczenia_v2/dane.py`): geometria po korekcie do PZT, strefy z PZT wektorowego, 17 otworów + 5 CPTU, nasyp z mapy 4.3, teren (PZT + otwory), projekt (PZT).
 - [x] T5–T7: silnik `prace/obliczenia_v2/silnik.py` (raster 0,25 m) → `wyniki.json`; wrażliwość `niepewnosc.py` → `niepewnosc.json`. Wyniki bazowe: humus 15 274 m³, nasyp 259 m³; wykop gruntu rodzimego A 33 899 m³, B 45 125 m³ (w tym spod hal 27 063 m³ – wywóz); fundamenty głębsze 1 294 m³; deficyt gruntu do zasypu ok. 11 735 m³ (A i B); grunt niewysadzinowy (strefa przemarzania) 2 660 m³.
 - [x] T8: arkusz `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` (`prace/obliczenia_v2/arkusz.py`: 156 formuł z zapisanymi wartościami; kontrola niezależna `kontrola_arkusza.py`: 36 pozycji, różnica 0,000 m³; kontrole bilansu = 0), podkład `wyniki/PODKLAD_dz190_v3.dxf` (`podklad_dxf.py`, audyt DXF bez błędów), `wyniki/CZYTAJ_NAJPIERW.md`. Obrazy w sesji: 5 (schematy stref i wykopów, 2 wycinki PW_1A).
-- [ ] Czekam na odpowiedzi na 5 pytań z `wyniki/CZYTAJ_NAJPIERW.md` (grunt spod hal do zasypu, rampy, ogrody deszczowe w B, strefa przemarzania poza wykopem, podnóże skarpy w B).
+- [x] Odpowiedzi na 5 pytań z `wyniki/CZYTAJ_NAJPIERW.md` – patrz sesja niżej.
 - Odtworzenie wyników: `cd prace/obliczenia_v2 && python dane.py && python silnik.py && python niepewnosc.py && python arkusz.py && python podklad_dxf.py` (wymaga `prace/_odzyskane/` – skrypty w `prace/weryfikacja/` same odzyskują PZT z gita; PW_* i 4.3 – komenda w `prace/MAPA_DOKUMENTOW.md`).
+
+## Sesja – trzecia runda odpowiedzi (ustalenia 18–23)
+- Odpowiedzi: grunt spod hal przydatny → do zasypu; rampy i zadaszone dojazdy jak garaż – tak; ogrody deszczowe 0,30 m substratu; wymiana w strefie przemarzania pod drogą/chodnikiem/parkingiem; podnóże skarpy w B – zostaje; rozbieżność v2 (0,37%) i zieleń na stropie z PZT – OK. Pytanie użytkownika: jak liczony jest wariant A (załącznik „BILANS_ROBOT_ZIEMNYCH_wczesniej” przyszedł jako nieczytelne dane binarne, nie ma go w repo).
+- Silnik: `wymiana_mrozu` (strefa U w obrysach `ciagi_pieszo_jezdne`, `ciagi_piesze`, `plac_uslugowy`, `geokrata_na_gruncie` – wykop do zp − 1,00 m, 471,81 m², 77,070 m³), `substrat_ogrod` = 0,30, cały wykop dostępny do zasypu, wykop A = najniższa z powierzchni dołów (hale 121,86 i rampy z własnym spodem). Rozkład wariantu A krok po kroku → `rozklad_wariantu_A.json` i arkusz WARIANT_A (poprzedni arkusz v1 „A (skarpy 1:1,5)” 29 234,555 m³ → 1d nowe dane 30 733,696 → dno 121,86 32 549,392 → wymiana 32 626,461 → południe otwarte 32 970,669 → zadaszone dojazdy 34 071,578 → rampy 34 264,887).
+- Arkusz: nowe zakładki WARIANT_A, warunki wbudowania w GRUNTY; odwołania „ustalenie NN”; sumy w ROUND; licznik formuł poprawiony (160 komórek z formułą i wartością; wcześniej liczone podwójnie). Kontrole = 0, kontrola niezależna 36 pozycji, różnica 0,000.
+- Wynik (A / B): wykop rodzimy 34 264,887 / 45 202,425 m³ (cały na odkład); ponowne wbudowanie 19 260,539 / 30 198,076; **wywóz razem 30 060,323 / 30 060,324 m³** (55 926,115 / 55 974,728 t); **dowóz 2 735,129 / 2 735,130 m³** (tylko grunt niewysadzinowy). Informacyjnie (poza ścianką, nie kopiemy): 24,015 m³ humusu w gruncie, 14,964 m³ w strefie przemarzania innych nawierzchni, 0,079 m³ konstrukcji.
+- DXF v3: nowe warstwy `BILANS_WYMIANA_PRZEMARZANIE_A`/`_B`; opis dna A z rampami; audyt bez błędów.
+- Obrazy w sesji: 0 nowych (łącznie 5/15).
 
 ## Uwagi
 - Rzędne w warstwach DXF użytkownika są stare i wstępne – teren brać z tekstu PZT i otworów.

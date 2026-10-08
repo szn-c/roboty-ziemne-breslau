@@ -139,8 +139,9 @@ def zbuduj():
             ("skarpa", "Nachylenie skarp 1:n (A; w B od południa)", p["skarpa"], "n", "decyzja użytkownika 8.10.2026"),
             ("konstr", "Konstrukcja nawierzchni (poza bilansem)", p["konstrukcja"], "m", "USTALENIA pkt 4.4"),
             ("mroz", "Strefa przemarzania pod nawierzchnią", p["przemarzanie"], "m", "decyzja użytkownika 8.10.2026 (DGI: 0,80 m – przyjęto bezpiecznie 1,00 m)"),
+            ("substrat", "Substrat w ogrodach deszczowych (poza bilansem)", p["substrat_ogrod"], "m", "ustalenie 20; poniżej grunt rodzimy z odkładu"),
             ("rampa", "Spód wykopu pod rampą = powierzchnia rampy minus", p["rampa_pod"], "m", "założenie robocze (jak pod posadzką garażu 122,57 − 121,86); rampa liniowo 122,85 → 125,80"),
-            ("raster", "Bok komórki rastra obliczeń", p["cell"], "m", "kontrola: raster 0,50 m daje różnice < 25 m³"),
+            ("raster", "Bok komórki rastra obliczeń", p["cell"], "m", "kontrola: raster 0,50 m daje różnice < 40 m³ (arkusz NIEPEWNOSC)"),
     ):
         Z.wiersz(kl, [op, "", v, j, zr], "0.00", wypel=None)
         for c in range(1, 6):
@@ -167,10 +168,14 @@ def zbuduj():
             va = sum(wa["wykop_m3"][zn][k] for k in kl); vb = sum(wb_["wykop_m3"][zn][k] for k in kl)
             O.wiersz("w_%s_%s" % (zn, gr[0]), ["wykop %s – %s" % (zn, gr), "%s: %s" % (nazwy[zn], "piaski i pospółki" if gr == "piaski" else "gliny i pyły"), r3(va), r3(vb), "m³", "silnik"], F_M3)
             O.wiersz("m_%s_%s" % (zn, gr[0]), ["masa %s – %s" % (zn, gr), "masa tego gruntu (gęstości z zał. 8)", r3(wa["masa_t"][zn][gr]), r3(wb_["masa_t"][zn][gr]), "t", "silnik"], F_T)
+    O.wiersz("wym_p", ["wymiana – piaski", "wymiana gruntu w strefie przemarzania (drogi, chodniki, plac, parkingi) – piaski (zawarte w strefie U)",
+                        wa["wymiana_przemarzanie"]["piaski_m3"], wb_["wymiana_przemarzanie"]["piaski_m3"], "m³", "silnik (ustalenie 21)"], F_M3)
+    O.wiersz("wym_g", ["wymiana – gliny", "jw. – gliny", wa["wymiana_przemarzanie"]["gliny_m3"], wb_["wymiana_przemarzanie"]["gliny_m3"], "m³", "silnik"], F_M3)
+    O.wiersz("wym_m2", ["wymiana – pole", "pole wymiany", wa["wymiana_przemarzanie"]["m2"], wb_["wymiana_przemarzanie"]["m2"], "m²", "silnik"], F_M2)
     O.sekcja("Zapotrzebowanie na grunt (wbudowanie) – wg miejsca")
     obsz = {"wykop": "w wykopie", "poza_wykopem_w_sciance": "w ściance poza wykopem", "poza_wykopem_poza_scianka": "poza ścianką"}
     for kl, op in (("rodzimy_Z", "zieleń – grunt rodzimy pod humusem"), ("rodzimy_U", "nawierzchnie – grunt rodzimy poniżej 1,00 m"),
-                   ("rodzimy_R", "rampy – grunt pod płytą rampy"), ("niewysadzinowy_U", "nawierzchnie – grunt niewysadzinowy 0,50–1,00 m (dowóz)"),
+                   ("rodzimy_R", "rampy – grunt pod płytą rampy"), ("rodzimy_O", "ogrody deszczowe – grunt rodzimy pod substratem 0,30 m"), ("niewysadzinowy_U", "nawierzchnie – grunt niewysadzinowy 0,50–1,00 m (dowóz)"),
                    ("humus_warstwa_Z", "zieleń – warstwa humusu 0,25 m wg rastra (kontrola wzoru)")):
         for o, opo in obsz.items():
             O.wiersz("z_%s_%s" % (kl, o), ["%s" % kl, "%s – %s" % (op, opo), r3(wa["zapotrzebowanie"][kl][o]), r3(wb_["zapotrzebowanie"][kl][o]), "m³", "silnik"], F_M3)
@@ -178,7 +183,7 @@ def zbuduj():
     for kl, op in (("U_grunt_rodzimy_w_strefie_przemarzania", "nawierzchnie: grunt rodzimy zostaje w strefie przemarzania (0,50–1,00 m)"),
                    ("U_konstrukcja_w_gruncie", "nawierzchnie: konstrukcja 0,50 m wchodzi w grunt rodzimy"),
                    ("Z_humus_ponad_grunt", "zieleń: warstwa humusu wchodzi w grunt rodzimy"),
-                   ("O_pustka_pod_ogrodem", "ogrody deszczowe w wykopie: przestrzeń bez zasypu (poza opracowaniem)")):
+                   ("O_substrat_ponad_grunt", "ogrody deszczowe: substrat 0,30 m wchodzi w grunt rodzimy")):
         ma = sum(v["m3"] for v in wa["konflikty"][kl].values()); mb = sum(v["m3"] for v in wb_["konflikty"][kl].values())
         pa = sum(v["m2"] for v in wa["konflikty"][kl].values()); pb = sum(v["m2"] for v in wb_["konflikty"][kl].values())
         O.wiersz("k_%s_m3" % kl, [kl, op + " – objętość", r3(ma), r3(mb), "m³", "silnik"], F_M3)
@@ -210,7 +215,7 @@ def zbuduj():
     n_el = len(S.ELEMENTY)
     r0, r1 = FU.adr["e0"], FU.adr["e%d" % (n_el - 1)]
     FU.wiersz("razem", ["RAZEM fundamenty głębsze", None, None, None, None] + ["=SUM({c}{a}:{c}{b})".format(c=get_column_letter(6 + j), a=r0, b=r1) for j in range(8)]
-              + ["=SUM(N{a}:N{b})".format(a=r0, b=r1), "=SUM(O{a}:O{b})".format(a=r0, b=r1)], F_M3, pogr=True)
+              + ["=SUM(N{a}:N{b})".format(a=r0, b=r1), "=ROUND(SUM(O{a}:O{b}),3)".format(a=r0, b=r1)], F_M3, pogr=True)
     f = W["fundamenty"]
     vp = sum(f["klasy_m3"][k] for k in D.PIASKI); vg = sum(f["klasy_m3"][k] for k in D.GLINY)
     FU.r += 1
@@ -223,9 +228,9 @@ def zbuduj():
     R = Arkusz(wb, "WYNIK", ["Nr", "Pozycja", "Wariant A", "Wariant B", "Jedn.", "Uwagi"], [6, 62, 18, 18, 8, 70])
     Arkusz.REJESTR["WYNIK"] = R
     R.tytul("BILANS ROBÓT ZIEMNYCH – działka 1/90 Wojszyce (Wrocław)",
-            "Wariant A: wykop pod halami, rampami i zadaszonymi dojazdami + przestrzeń robocza 1,0 m + skarpa 1:1,5 (w obrębie ścianki; od południa skarpa). "
+            "Wariant A: wykop tylko pod garażami (hale + zadaszone dojazdy + rampy) + przestrzeń robocza 1,0 m + rozkop ze skarpą 1:1,5 (w obrębie ścianki; od południa skarpa) – rozkład w arkuszu WARIANT_A. "
             "Wariant B: cały obszar w ściance do dna 121,86 (ściany pionowe; od południa skarpa 1:1,5). Objętości w stanie rodzimym. Żółte pola – decyzja użytkownika.")
-    R.naglowek(["Nr", "Pozycja", "Wariant A\nwykop pod halami", "Wariant B\ncały obszar w ściance", "Jedn.", "Uwagi"])
+    R.naglowek(["Nr", "Pozycja", "Wariant A\nwykop pod garażami + rozkop", "Wariant B\ncały obszar w ściance", "Jedn.", "Uwagi"])
     OB = lambda kl, c: "{OBLICZENIA!%s:%s}" % (kl, c)
     def obl(klucze, c):
         return "+".join(OB(k, c) for k in klucze)
@@ -239,14 +244,16 @@ def zbuduj():
     R.sekcja("2. NASYP NIEKONTROLOWANY")
     w2("n_wyw", "2.1", "Nasyp niekontrolowany – 100% do wywozu", "=ROUND(%s,3)" % OB("nasyp", "C"), "=ROUND(%s,3)" % OB("nasyp", "D"), "m³", "otwory 5, 17, 20; strefy z mapy 4.3")
     R.sekcja("3. GRUNT RODZIMY Z WYKOPU (bez humusu i nasypu)")
-    w2("g_hal", "3.1", "Spod hal i zadaszonych dojazdów – do wywozu (zasada strefy hal)", "=ROUND(%s,3)" % obl(["w_H_p", "w_H_g"], "C"), "=ROUND(%s,3)" % obl(["w_H_p", "w_H_g"], "D"), "m³", "USTALENIA pkt 4.4: cały wykop z obszaru hal na wywóz")
-    w2("g_ogr", "3.2", "Z ogrodów deszczowych – do wywozu (jak hale)", "=ROUND(%s,3)" % obl(["w_O_p", "w_O_g"], "C"), "=ROUND(%s,3)" % obl(["w_O_p", "w_O_g"], "D"), "m³", "USTALENIA pkt 4.4 / decyzja 7")
+    w2("g_hal", "3.1", "Spod hal i zadaszonych dojazdów – na odkład", "=ROUND(%s,3)" % obl(["w_H_p", "w_H_g"], "C"), "=ROUND(%s,3)" % obl(["w_H_p", "w_H_g"], "D"), "m³", "ustalenie 18: grunt przydatny, użyty do zasypu (warunki – arkusz GRUNTY)")
+    w2("g_ogr", "3.2", "Z ogrodów deszczowych – na odkład", "=ROUND(%s,3)" % obl(["w_O_p", "w_O_g"], "C"), "=ROUND(%s,3)" % obl(["w_O_p", "w_O_g"], "D"), "m³", "")
     w2("g_odk", "3.3", "Z pozostałych stref (zieleń, nawierzchnie, rampy) – na odkład", "=ROUND(%s,3)" % obl(["w_R_p", "w_R_g", "w_Z_p", "w_Z_g", "w_U_p", "w_U_g"], "C"),
-       "=ROUND(%s,3)" % obl(["w_R_p", "w_R_g", "w_Z_p", "w_Z_g", "w_U_p", "w_U_g"], "D"), "m³", "grunt przydatny do zasypu (decyzja 5)")
-    w2("g_raz", "3.4", "RAZEM wykop gruntu rodzimego", "=ROUND({g_hal:C}+{g_ogr:C}+{g_odk:C},3)", "=ROUND({g_hal:D}+{g_ogr:D}+{g_odk:D},3)", "m³", "", pogr=True)
+       "=ROUND(%s,3)" % obl(["w_R_p", "w_R_g", "w_Z_p", "w_Z_g", "w_U_p", "w_U_g"], "D"), "m³", "w tym wymiana gruntu w strefie przemarzania (poz. 3.8)")
+    w2("g_raz", "3.4", "RAZEM wykop gruntu rodzimego (cały na odkład)", "=ROUND({g_hal:C}+{g_ogr:C}+{g_odk:C},3)", "=ROUND({g_hal:D}+{g_ogr:D}+{g_odk:D},3)", "m³", "", pogr=True)
     w2("g_pias", "3.5", "   w tym piaski i pospółki (niewysadzinowe)", "=ROUND(%s,3)" % obl(["w_%s_p" % z for z in "HORZU"], "C"), "=ROUND(%s,3)" % obl(["w_%s_p" % z for z in "HORZU"], "D"), "m³", "warstwy Ia, IIa, IIb, IIc, IIIa")
     w2("g_glin", "3.6", "   w tym gliny i pyły (wysadzinowe)", "=ROUND(%s,3)" % obl(["w_%s_g" % z for z in "HORZU"], "C"), "=ROUND(%s,3)" % obl(["w_%s_g" % z for z in "HORZU"], "D"), "m³", "warstwy IVa, IVb, IVc, IVd")
-    w2("g_fund", "3.7", "Fundamenty głębsze (pogrubienia, rdzenie, szyby, studzienki) – do wywozu", "=ROUND({FUNDAMENTY!razem:O},3)", "=ROUND({FUNDAMENTY!razem:O},3)", "m³", "osobna pozycja (decyzja 3) – arkusz FUNDAMENTY")
+    w2("g_fund", "3.7", "Fundamenty głębsze (pogrubienia, rdzenie, szyby, studzienki) – do wywozu", "=ROUND({FUNDAMENTY!razem:O},3)", "=ROUND({FUNDAMENTY!razem:O},3)", "m³", "osobna pozycja (ustalenie 13) – arkusz FUNDAMENTY")
+    w2("g_wym", "3.8", "   w tym wymiana w strefie przemarzania pod drogami, chodnikami i parkingami", "=ROUND({OBLICZENIA!wym_p:C}+{OBLICZENIA!wym_g:C},3)",
+       "=ROUND({OBLICZENIA!wym_p:D}+{OBLICZENIA!wym_g:D},3)", "m³", "ustalenie 21: wykop do 1,00 m pod nawierzchnią (zawarte w poz. 3.3)")
     R.sekcja("4. ZAPOTRZEBOWANIE NA GRUNT (wbudowanie)")
     w2("z_hum", "4.1", "Zieleń – humus 0,25 m (z odkładu)", "={h_odk:C}", "={h_odk:D}", "m³", "równe poz. 1.2")
     def zz(kl):
@@ -254,10 +261,11 @@ def zbuduj():
     w2("z_ziel", "4.2", "Zieleń – grunt rodzimy pod humusem (do dna wykopu lub do terenu po zdjęciu humusu)", *zz("rodzimy_Z"), "m³", "")
     w2("z_naw", "4.3", "Nawierzchnie – grunt rodzimy poniżej 1,00 m pod nawierzchnią", *zz("rodzimy_U"), "m³", "konstrukcja 0,50 m – poza bilansem")
     w2("z_ramp", "4.4", "Rampy – grunt pod płytą rampy", *zz("rodzimy_R"), "m³", "założenie: spód wykopu = powierzchnia rampy − 0,71 m")
-    w2("z_raz", "4.5", "RAZEM zapotrzebowanie na grunt rodzimy", "=ROUND({z_ziel:C}+{z_naw:C}+{z_ramp:C},3)", "=ROUND({z_ziel:D}+{z_naw:D}+{z_ramp:D},3)", "m³", "", pogr=True)
-    w2("z_mroz", "4.6", "Nawierzchnie – grunt niewysadzinowy w strefie przemarzania (0,50–1,00 m)", *zz("niewysadzinowy_U"), "m³", "decyzja 5: przemarzanie 1,00 m – grunt dowożony")
+    w2("z_ogr", "4.4a", "Ogrody deszczowe – grunt rodzimy pod substratem 0,30 m", *zz("rodzimy_O"), "m³", "ustalenie 20: substrat 0,30 m poza bilansem")
+    w2("z_raz", "4.5", "RAZEM zapotrzebowanie na grunt rodzimy", "=ROUND({z_ziel:C}+{z_naw:C}+{z_ramp:C}+{z_ogr:C},3)", "=ROUND({z_ziel:D}+{z_naw:D}+{z_ramp:D}+{z_ogr:D},3)", "m³", "", pogr=True)
+    w2("z_mroz", "4.6", "Nawierzchnie – grunt niewysadzinowy w strefie przemarzania (0,50–1,00 m)", *zz("niewysadzinowy_U"), "m³", "ustalenie 15: przemarzanie 1,00 m – grunt dowożony")
     R.sekcja("5. DECYZJA – PONOWNE WBUDOWANIE GRUNTU Z ODKŁADU (żółte pola)")
-    w2("d_dost", "5.1", "Grunt rodzimy na odkładzie – dostępny (limit)", "={g_odk:C}", "={g_odk:D}", "m³", "równe poz. 3.3")
+    w2("d_dost", "5.1", "Grunt rodzimy na odkładzie – dostępny (limit)", "={g_raz:C}", "={g_raz:D}", "m³", "równe poz. 3.4 (cały wykop, ustalenie 18)")
     w2("d_potr", "5.2", "Zapotrzebowanie na grunt rodzimy (limit)", "={z_raz:C}", "={z_raz:D}", "m³", "równe poz. 4.5")
     w2("d_prop", "5.3", "Propozycja: największe możliwe ponowne wbudowanie", "=MIN({d_dost:C},{d_potr:C})", "=MIN({d_dost:D},{d_potr:D})", "m³", "propozycja – decyzję podejmuje użytkownik")
     prop_a = min(sum(sum(wa["wykop_m3"][z].values()) for z in "RZU"), sum(sum(wa["zapotrzebowanie"][k].values()) for k in ("rodzimy_Z", "rodzimy_U", "rodzimy_R")))
@@ -265,15 +273,15 @@ def zbuduj():
     import kontrola_arkusza as KA0
     prop = KA0.propozycja()
     w2("d_wbud", "5.4", "PONOWNE WBUDOWANIE gruntu rodzimego z odkładu – DECYZJA", prop["A"], prop["B"], "m³", "wpisz własną wartość (≤ min z poz. 5.1 i 5.2)", wypel=(3, 4), pogr=True)
-    w2("d_pias", "5.5", "Piaski z wykopu w strefie przemarzania zamiast dowozu – DECYZJA", 0, 0, "m³", "domyślnie 0 (decyzja 5: grunt dowożony); max: poz. 5.6", wypel=(3, 4))
-    w2("d_plim", "5.6", "   limit: piaski na odkładzie (pomniejszone o ich udział w poz. 5.4)", "=ROUND(MIN({z_mroz:C},(%s)*(1-{d_wbud:C}/{d_dost:C})),3)" % obl(["w_R_p", "w_Z_p", "w_U_p"], "C"),
-       "=ROUND(MIN({z_mroz:D},(%s)*(1-{d_wbud:D}/{d_dost:D})),3)" % obl(["w_R_p", "w_Z_p", "w_U_p"], "D"), "m³", "")
+    w2("d_pias", "5.5", "Piaski z wykopu w strefie przemarzania zamiast dowozu – DECYZJA", 0, 0, "m³", "domyślnie 0 (ustalenie 15: grunt dowożony); max: poz. 5.6", wypel=(3, 4))
+    w2("d_plim", "5.6", "   limit: piaski na odkładzie (pomniejszone o ich udział w poz. 5.4)", "=ROUND(MIN({z_mroz:C},{g_pias:C}*(1-{d_wbud:C}/{d_dost:C})),3)",
+       "=ROUND(MIN({z_mroz:D},{g_pias:D}*(1-{d_wbud:D}/{d_dost:D})),3)", "m³", "")
     w2("d_kontr", "5.7", "Kontrola decyzji", '=IF(AND({d_wbud:C}<=MIN({d_dost:C},{d_potr:C})+0.0005,{d_pias:C}<={d_plim:C}+0.0005,{d_wbud:C}>=0,{d_pias:C}>=0),"OK","SPRAWDŹ")',
        '=IF(AND({d_wbud:D}<=MIN({d_dost:D},{d_potr:D})+0.0005,{d_pias:D}<={d_plim:D}+0.0005,{d_wbud:D}>=0,{d_pias:D}>=0),"OK","SPRAWDŹ")', "", "OK = decyzja mieści się w limitach", fmt=None)
     R.sekcja("6. WYNIK – WYWÓZ I DOWÓZ (m³ w stanie rodzimym)")
     w2("x_hum", "6.1", "WYWÓZ – humus (nadwyżka)", "={h_wyw:C}", "={h_wyw:D}", "m³", "")
     w2("x_nas", "6.2", "WYWÓZ – nasyp niekontrolowany", "={n_wyw:C}", "={n_wyw:D}", "m³", "")
-    w2("x_gr", "6.3", "WYWÓZ – grunt rodzimy", "=ROUND({g_raz:C}-{d_wbud:C}-{d_pias:C},3)", "=ROUND({g_raz:D}-{d_wbud:D}-{d_pias:D},3)", "m³", "spod hal + nadwyżka z odkładu")
+    w2("x_gr", "6.3", "WYWÓZ – grunt rodzimy", "=ROUND({g_raz:C}-{d_wbud:C}-{d_pias:C},3)", "=ROUND({g_raz:D}-{d_wbud:D}-{d_pias:D},3)", "m³", "nadwyżka z odkładu")
     w2("x_fund", "6.4", "WYWÓZ – fundamenty głębsze", "={g_fund:C}", "={g_fund:D}", "m³", "")
     w2("x_raz", "6.5", "RAZEM DO WYWOZU", "=ROUND({x_hum:C}+{x_nas:C}+{x_gr:C}+{x_fund:C},3)", "=ROUND({x_hum:D}+{x_nas:D}+{x_gr:D}+{x_fund:D},3)", "m³", "", pogr=True)
     w2("y_gr", "6.6", "DOWÓZ – grunt do zasypu (brakująca część)", "=ROUND({z_raz:C}-{d_wbud:C},3)", "=ROUND({z_raz:D}-{d_wbud:D},3)", "m³", "grunt zasypowy, zagęszczalny")
@@ -287,36 +295,66 @@ def zbuduj():
     R.sekcja("8. TONY – WYWÓZ")
     w2("t_hum", "8.1", "Humus", "=ROUND({x_hum:C}*{ZALOZENIA!ro_gleba:C},3)", "=ROUND({x_hum:D}*{ZALOZENIA!ro_gleba:C},3)", "t", "gęstość z ZALOZENIA", F_T)
     w2("t_nas", "8.2", "Nasyp", "=ROUND({x_nas:C}*{ZALOZENIA!ro_nasyp:C},3)", "=ROUND({x_nas:D}*{ZALOZENIA!ro_nasyp:C},3)", "t", "", F_T)
-    mH = lambda c: obl(["m_H_p", "m_H_g", "m_O_p", "m_O_g"], c)
-    mP = lambda c: obl(["m_R_p", "m_R_g", "m_Z_p", "m_Z_g", "m_U_p", "m_U_g"], c)
-    mPp = lambda c: obl(["m_R_p", "m_Z_p", "m_U_p"], c)
-    vPp = lambda c: obl(["w_R_p", "w_Z_p", "w_U_p"], c)
-    for c in ("C", "D"):
-        pass
-    f_tg = "=ROUND(%s+(%s)/{g_odk:%s}*({g_odk:%s}-{d_wbud:%s}-{d_pias:%s})-IF({d_pias:%s}>0,{d_pias:%s}*((%s)/(%s)-(%s)/{g_odk:%s}),0),3)"
-    w2("t_gr", "8.3", "Grunt rodzimy", f_tg % (mH("C"), mP("C"), "C", "C", "C", "C", "C", "C", mPp("C"), vPp("C"), mP("C"), "C"),
-       f_tg % (mH("D"), mP("D"), "D", "D", "D", "D", "D", "D", mPp("D"), vPp("D"), mP("D"), "D"), "t", "spod hal (masa z profili) + nadwyżka z odkładu (gęstość średnia odkładu)", F_T)
+    mAll = lambda c: obl(["m_%s_%s" % (z, g) for z in "HORZU" for g in "pg"], c)
+    mPp = lambda c: obl(["m_%s_p" % z for z in "HORZU"], c)
+    f_tg = "=ROUND(({mall})-{{d_wbud:{c}}}*({mall})/{{g_raz:{c}}}-{{d_pias:{c}}}*({mp})/{{g_pias:{c}}},3)"
+    w2("t_gr", "8.3", "Grunt rodzimy", f_tg.format(mall=mAll("C"), mp=mPp("C"), c="C"), f_tg.format(mall=mAll("D"), mp=mPp("D"), c="D"), "t",
+       "masa z profili otworów (gęstości zał. 8) pomniejszona o wbudowaną część (gęstość średnia odkładu)", F_T)
     w2("t_fund", "8.4", "Fundamenty głębsze", "=ROUND({g_fund:C}*({FUNDAMENTY!f_udz_p:B}*{FUNDAMENTY!f_ro_p:B}+(1-{FUNDAMENTY!f_udz_p:B})*{FUNDAMENTY!f_ro_g:B}),3)",
        "=ROUND({g_fund:D}*({FUNDAMENTY!f_udz_p:B}*{FUNDAMENTY!f_ro_p:B}+(1-{FUNDAMENTY!f_udz_p:B})*{FUNDAMENTY!f_ro_g:B}),3)", "t", "", F_T)
     w2("t_raz", "8.5", "RAZEM WYWÓZ", "=ROUND({t_hum:C}+{t_nas:C}+{t_gr:C}+{t_fund:C},3)", "=ROUND({t_hum:D}+{t_nas:D}+{t_gr:D}+{t_fund:D},3)", "t", "", F_T, pogr=True)
     R.sekcja("9. OBJĘTOŚĆ WYWOZU LUZEM (po spulchnieniu – informacyjnie)")
     w2("l_hum", "9.1", "Humus", "=ROUND({x_hum:C}*{ZALOZENIA!k_humus:C},3)", "=ROUND({x_hum:D}*{ZALOZENIA!k_humus:C},3)", "m³", "")
     w2("l_nas", "9.2", "Nasyp", "=ROUND({x_nas:C}*{ZALOZENIA!k_nasyp:C},3)", "=ROUND({x_nas:D}*{ZALOZENIA!k_nasyp:C},3)", "m³", "")
-    vH_p = lambda c: obl(["w_H_p", "w_O_p"], c)
-    f_lg = "=ROUND(((%s)+(%s)/{g_odk:%s}*({g_odk:%s}-{d_wbud:%s})-{d_pias:%s})*{ZALOZENIA!k_piasek:C}+({x_gr:%s}-((%s)+(%s)/{g_odk:%s}*({g_odk:%s}-{d_wbud:%s})-{d_pias:%s}))*{ZALOZENIA!k_glina:C},3)"
-    args = lambda c: (vH_p(c), vPp(c), c, c, c, c, c, vH_p(c), vPp(c), c, c, c, c)
-    w2("l_gr", "9.3", "Grunt rodzimy (piaski × 1,15, gliny × 1,30)", f_lg % args("C"), f_lg % args("D"), "m³", "")
+    f_lg = "=ROUND(({{g_pias:{c}}}-{{d_wbud:{c}}}*{{g_pias:{c}}}/{{g_raz:{c}}}-{{d_pias:{c}}})*{{ZALOZENIA!k_piasek:C}}+({{g_glin:{c}}}-{{d_wbud:{c}}}*{{g_glin:{c}}}/{{g_raz:{c}}})*{{ZALOZENIA!k_glina:C}},3)"
+    w2("l_gr", "9.3", "Grunt rodzimy (piaski × 1,15, gliny × 1,30)", f_lg.format(c="C"), f_lg.format(c="D"), "m³", "")
     w2("l_fund", "9.4", "Fundamenty głębsze", "=ROUND({g_fund:C}*({FUNDAMENTY!f_udz_p:B}*{ZALOZENIA!k_piasek:C}+(1-{FUNDAMENTY!f_udz_p:B})*{ZALOZENIA!k_glina:C}),3)",
        "=ROUND({g_fund:D}*({FUNDAMENTY!f_udz_p:B}*{ZALOZENIA!k_piasek:C}+(1-{FUNDAMENTY!f_udz_p:B})*{ZALOZENIA!k_glina:C}),3)", "m³", "")
     w2("l_raz", "9.5", "RAZEM WYWÓZ LUZEM", "=ROUND({l_hum:C}+{l_nas:C}+{l_gr:C}+{l_fund:C},3)", "=ROUND({l_hum:D}+{l_nas:D}+{l_gr:D}+{l_fund:D},3)", "m³", "", pogr=True)
-    R.sekcja("10. DO DECYZJI – miejsca, gdzie poza wykopem projekt wchodzi w grunt rodzimy (nie kopiemy, nie wliczone)")
+    R.sekcja("10. INFORMACYJNIE – miejsca poza wykopem i poza drogami / chodnikami / parkingami, gdzie projekt wchodzi w grunt rodzimy (nie kopiemy, nie wliczone)")
     for kl, op in (("U_grunt_rodzimy_w_strefie_przemarzania", "Nawierzchnie: grunt rodzimy zostaje w strefie przemarzania 0,50–1,00 m"),
                    ("U_konstrukcja_w_gruncie", "Nawierzchnie: konstrukcja 0,50 m wchodzi w grunt rodzimy"),
                    ("Z_humus_ponad_grunt", "Zieleń: warstwa humusu 0,25 m wchodzi w grunt rodzimy"),
-                   ("O_pustka_pod_ogrodem", "Ogrody deszczowe w wykopie: przestrzeń bez zasypu (substrat poza opracowaniem)")):
+                   ("O_substrat_ponad_grunt", "Ogrody deszczowe: substrat 0,30 m wchodzi w grunt rodzimy")):
         w2("q_%s" % kl, "10", op, "={OBLICZENIA!k_%s_m3:C}" % kl, "={OBLICZENIA!k_%s_m3:D}" % kl, "m³", "powierzchnia: A %.2f m², B %.2f m² (OBLICZENIA)" % (
             sum(v["m2"] for v in wa["konflikty"][kl].values()), sum(v["m2"] for v in wb_["konflikty"][kl].values())))
     R.ws.freeze_panes = "C5"
+
+    # =============================================================== WARIANT_A (jak liczony, porównanie z wcześniejszym arkuszem)
+    RA = json.load(open(os.path.join(HERE, "rozklad_wariantu_A.json"), encoding="utf-8"))
+    v1 = json.load(open(os.path.join(REPO, "prace", "obliczenia_v1", "_skrypt", "wyniki_bilans.json"), encoding="utf-8"))
+    WA = Arkusz(wb, "WARIANT_A", ["Krok", "Co jest w wykopie", "Pole wykopu [m²]", "Wykop gruntu rodzimego [m³]", "Różnica do poprzedniego kroku [m³]", "Uwagi"], [6, 70, 16, 18, 18, 50])
+    Arkusz.REJESTR["WARIANT_A"] = WA
+    WA.tytul("WARIANT A – wykop tylko pod garażami + rozkop (jak w poprzednim arkuszu)",
+             "Wykop: obrys hali (garażu) do dna 121,86 + przestrzeń robocza 1,0 m, dalej rozkop ze skarpą 1:1,5 aż do terenu po zdjęciu humusu. Przy ściance rozkop obcięty "
+             "(za ścianką nie kopiemy), od południa skarpa swobodna. Między halami, gdzie skarpy się nie spotykają, teren zostaje (tylko zdjęty humus). "
+             "Tak samo jak we wcześniejszym arkuszu (wariant C15 = 'A: skarpy 1:1,5'); doszły: rampy i zadaszone dojazdy do garaży oraz nowe ustalenia.")
+    WA.naglowek()
+    prev = None
+    for i, rr in enumerate(RA):
+        if rr["opis"].startswith("1b"):
+            WA.r += 1
+            WA.sekcja("Porównanie z wcześniejszym arkuszem (te same zasady co wcześniej, liczone obecnym modelem)")
+            prev = RA[0]["wykop"]
+        d = None if prev is None else round(rr["wykop"] - prev, 3)
+        uw = {"1": "rdzeń wariantu A – jak wcześniej", "2": "zieleń na stropie poza obrysami hal = obiekty podziemne", "3": "4 pochylnie; spód = powierzchnia rampy − 0,71 m",
+              "1b": "jak wcześniej: wykop obcięty prostym odcinkiem od południa", "1c": "bez ustalenia 21", "1d": "dno jak wcześniej (121,97)"}[rr["opis"].split(".")[0]]
+        WA.wiersz("a%d" % i, [rr["opis"].split(".")[0], rr["opis"].split(". ", 1)[1], rr["pole"], rr["wykop"], d, uw], F_M3)
+        WA.ws.cell(WA.r - 1, 3).number_format = F_M2
+        prev = rr["wykop"]
+    c15, a0 = v1["scenariusze"]["C15"], v1["scenariusze"]["A0"]
+    WA.wiersz("v1c15", ["v1", "Wcześniejszy arkusz – wariant A (skarpy 1:1,5), geometria z rysunku projektanta, dno 121,97", round(c15["pole_wykopu"], 2), round(c15["V_mineralny"], 3),
+                        None, "prace/obliczenia_v1 (scenariusz C15)"], F_M3)
+    WA.ws.cell(WA.r - 1, 3).number_format = F_M2
+    WA.wiersz("v1a0", ["v1", "Wcześniejszy arkusz – A0 (ściany pionowe, teoretyczne minimum)", round(a0["pole_wykopu"], 2), round(a0["V_mineralny"], 3), None, "nie do wykonania bez obudowy"], F_M3)
+    WA.ws.cell(WA.r - 1, 3).number_format = F_M2
+    WA.r += 1
+    for t in ("Różnica między krokiem 1d a wcześniejszym arkuszem (ok. +1 500 m³) wynika z danych, nie z metody: obrysy przeliczone do PZT (hale +89 m², hala 2 większa o 11% niż w "
+              "odczycie z rysunku projektanta), nowy model terenu (bez zawyżonej siatki 10 m) i grubość humusu z 17 otworów i 5 CPTU.",
+              "Obecny wariant A (krok 3) jest w arkuszu WYNIK. Dno 121,86 zamiast 121,97 dodaje ok. 1 800 m³, rampy i zadaszone dojazdy ok. 1 300 m³."):
+        WA.wiersz(None, ["", t])
+        WA.ws.merge_cells(start_row=WA.r - 1, start_column=2, end_row=WA.r - 1, end_column=6)
+        WA.ws.row_dimensions[WA.r - 1].height = 32
 
     # =============================================================== GRUNTY
     GR = Arkusz(wb, "GRUNTY", ["Warstwa", "Grunt (DGI)", "Ocena DGI", "Wysadzinowość", "Zieleń (pod humusem)", "Nawierzchnie poniżej 1,00 m", "Strefa przemarzania 0,50–1,00 m",
@@ -324,7 +362,7 @@ def zbuduj():
     Arkusz.REJESTR["GRUNTY"] = GR
     GR.tytul("GRUNTY – przydatność do ponownego wbudowania",
              "Kryteria: DGI rozdz. 10–11 i 19–21 (nośność, wysadzinowość, wrażliwość glin na zawilgocenie, roboty w porze suchej), projekt geotechniczny s. 12 (grunt z ukopu do makroniwelacji i zasypów niebudowlanych, warstwy ≤ 0,30 m, Is > 0,95), "
-             "decyzja użytkownika 8.10.2026 (zieleń – wszystkie grunty rodzime; nawierzchnie – przemarzanie 1,00 m, w strefie przemarzania grunt dowożony). Gleba: tylko jako humus. Nasyp: nieprzydatny (wywóz).")
+             "decyzja użytkownika 8.10.2026 (zieleń – wszystkie grunty rodzime; nawierzchnie – przemarzanie 1,00 m, w strefie przemarzania grunt dowożony; grunt spod hal – do zasypu, ustalenie 18). Gleba: tylko jako humus. Nasyp: nieprzydatny (wywóz).")
     GR.naglowek()
     opis = {"Ia": ("piaski drobne i pylaste, szg", "nośne", "niewysadzinowe / wątpliwe (Pπ)"), "IIa": ("piaski średnie, luźne (tylko CPTU-10)", "słabonośne (w podłożu)", "niewysadzinowe"),
             "IIb": ("piaski średnie i grube, szg", "nośne", "niewysadzinowe"), "IIc": ("piaski średnie, zg/bzg", "nośne", "niewysadzinowe"),
@@ -336,11 +374,13 @@ def zbuduj():
         piasek = k in D.PIASKI
         GR.wiersz("k_" + k, [k, opis[k][0], opis[k][1], opis[k][2], "TAK", "TAK", "piasek z wykopu – możliwy (opcja 5.5)" if piasek else "NIE – dowóz",
                              r3(va), r3(vb), "DGI rozdz. 10, zał. 8; karty 5.x; CPTU (zał. 7)"], F_M3)
-    GR.wiersz("k_raz", ["RAZEM", "", "", "", "", "", "", "=SUM(H%d:H%d)" % (GR.adr["k_Ia"], GR.adr["k_IVd"]), "=SUM(I%d:I%d)" % (GR.adr["k_Ia"], GR.adr["k_IVd"]), "równe poz. 3.4 WYNIK (kontrola w KONTROLE)"], F_M3, pogr=True)
+    GR.wiersz("k_raz", ["RAZEM", "", "", "", "", "", "", "=ROUND(SUM(H%d:H%d),3)" % (GR.adr["k_Ia"], GR.adr["k_IVd"]), "=ROUND(SUM(I%d:I%d),3)" % (GR.adr["k_Ia"], GR.adr["k_IVd"]), "równe poz. 3.4 WYNIK (kontrola w KONTROLE)"], F_M3, pogr=True)
     GR.ws.cell(GR.adr["k_raz"], 10).value = "kontrola z poz. 3.4 w arkuszu KONTROLE"
     GR.r += 1
     GR.sekcja("Uwagi")
-    for t in ("Gliny (IV) przy zawilgoceniu pęcznieją i uplastyczniają się – składować i wbudowywać w porze suchej, chronić przed wodą (DGI rozdz. 19, 21).",
+    for t in ("Grunt spod hal (ustalenie 18): DGI, projekt geotechniczny i opinia nie zawierają przeciwwskazań do ponownego wbudowania gruntu rodzimego; projekt geotechniczny (s. 12) "
+              "dopuszcza grunt z ukopu do makroniwelacji i zasypów niebudowlanych (warstwy ≤ 0,30 m, Is > 0,95). Warunki poniżej.",
+              "Gliny (IV) przy zawilgoceniu pęcznieją i uplastyczniają się – składować i wbudowywać w porze suchej, chronić przed wodą (DGI rozdz. 19, 21).",
               "Badania lab. (zał. F): gliny twardoplastyczne, IL 0,01–0,08, wn 11,1–12,9% (blisko granicy plastyczności) – nadają się do zagęszczenia, brak badań Proctora.",
               "IVa (plastyczne) występuje tylko w cienkich wkładkach w CPTU-18 i CPTU-24 – ilościowo pomijalna; przy wbudowaniu oddzielić, jeśli zostanie stwierdzona.",
               "Woda: zwierciadło ustabilizowane 122,90–124,10 m npm (śr. 123,39), wahania ±0,5 m (DGI tab. 1) – urobek spod zwierciadła (piaski nawodnione) wymaga odsączenia na odkładzie."):
@@ -355,12 +395,12 @@ def zbuduj():
     P_ = W["pola"]; pp = st["pola"]
     for kl, rows in (
         ("s_dz", ["Działka 1/90", 25290.00, round(P_["dzialka"], 2), round(P_["dzialka_raster"], 2), round(kv2["granica"]["pole_v2"], 2), "granica po korekcie do PZT"]),
-        ("s_h", ["Hale (obrys kondygnacji garażu)", None, round(P_["hale_obrysy"], 2), None, round(sum(v["pole_v2"] for v in kv2["hale"].values()), 2), "strefa hal – wykop na wywóz"]),
+        ("s_h", ["Hale (obrys kondygnacji garażu)", None, round(P_["hale_obrysy"], 2), None, round(sum(v["pole_v2"] for v in kv2["hale"].values()), 2), "strefa hal – wykop na odkład (ustalenie 18)"]),
         ("s_zs", ["Zieleń na stropie garażu", 3975.11, pp["zielen_na_stropie"], None, v2_luki["ZIELEN-NA-STROPIE"], "w tabeli PZT 3 575,11 – literówka (z domknięcia 3 975,11); strefa hal"]),
         ("s_zad", ["   w tym poza obrysami hal (zadaszone dojazdy)", None, pp["zadaszone_poza_halami"], round(P_["zadaszone_poza_halami"], 2), None, "strefa hal (obiekt podziemny)"]),
-        ("s_H", ["Strefa H razem (hale + zadaszone dojazdy)", None, None, P_["H_hale_i_zadaszone"], None, "wykop na wywóz, bez zasypu"]),
+        ("s_H", ["Strefa H razem (hale + zadaszone dojazdy)", None, None, P_["H_hale_i_zadaszone"], None, "wykop na odkład (ustalenie 18); bez zasypu – na stropie dowożony substrat"]),
         ("s_R", ["Rampy (pochylnie z murami)", 553.77, round(sum(__import__("shapely").wkt.loads(r["obrys"]).area for r in st["rampy"]), 2), P_["R_rampy"], None, "wykop do spodu rampy, zasyp gruntem z odkładu"]),
-        ("s_O", ["Ogrody deszczowe", 253.00, pp["ogrody_deszczowe"], P_["O_ogrody"], None, "jak hale (decyzja 7)"]),
+        ("s_O", ["Ogrody deszczowe", 253.00, pp["ogrody_deszczowe"], P_["O_ogrody"], None, "substrat 0,30 m + grunt z odkładu (ustalenie 20)"]),
         ("s_Z", ["Zieleń na gruncie rodzimym", 6443.06, pp["zielen_na_gruncie"], P_["Z_zielen"], v2_luki["ZIELEN-NA-GRUNCIE"], "0,25 m humusu + grunt rodzimy"]),
         ("s_geo", ["Geokrata na gruncie (część nawierzchni)", 980.05, pp["geokrata_na_gruncie"], None, None, "jak nawierzchnie"]),
         ("s_wiat", ["Wiaty (część nawierzchni)", 143.15, pp["wiaty"], None, None, "jak nawierzchnie"]),
@@ -371,20 +411,20 @@ def zbuduj():
                           None, "musi być równa polu działki w rastrze"], F_M2, pogr=True)
 
     # =============================================================== NIEPEWNOSC
-    NP = Arkusz(wb, "NIEPEWNOSC", ["Zmiana założenia", "Δ wykop rodzimy A [m³]", "Δ wykop rodzimy B [m³]", "Δ deficyt gruntu (dowóz) [m³]", "Δ grunt niewysadzinowy [m³]", "Δ humus [m³]"], [52, 18, 18, 20, 18, 14])
+    NP = Arkusz(wb, "NIEPEWNOSC", ["Zmiana założenia", "Δ wykop rodzimy A [m³]", "Δ wykop rodzimy B [m³]", "Δ nadwyżka gruntu rodzimego (wywóz) [m³]", "Δ grunt niewysadzinowy [m³]", "Δ humus [m³]"], [52, 18, 18, 20, 18, 14])
     Arkusz.REJESTR["NIEPEWNOSC"] = NP
     NP.tytul("NIEPEWNOŚĆ – jak zmieniają się wyniki przy zmianie jednego założenia", "Wyniki główne liczone z najlepszych danych; tu – wrażliwość (silnik uruchomiony ponownie z jedną zmianą). Liczby główne w arkuszu WYNIK nie zawierają tych odchyłek.")
     NP.naglowek()
     for c in N["przypadki"]:
         d = c["roznice"]
-        NP.wiersz(None, [c["opis"], d["wykop_A"], d["wykop_B"], d["deficyt_A"], d["mroz_A"], d["humus"]], F_M3)
+        NP.wiersz(None, [c["opis"], d["wykop_A"], d["wykop_B"], d["nadwyzka_A"], d["mroz_A"], d["humus"]], F_M3)
     NP.r += 1
     NP.sekcja("Inne źródła niepewności (oszacowanie)")
     for t in ("Strefy z PZT: zieleń na gruncie w PZT 6 417,55 m² wobec 6 443,06 m² w tabeli (−0,40%); humus na odkład liczony z tabeli (decyzja użytkownika).",
               "Nasyp: zasięg z mapy 4.3 (1:1000, dopasowanie rms 0,76 m), grubość 0,2–0,3 m – możliwe ±100 m³.",
               "Fundamenty głębsze: wymiary studzienek odczytane z rysunku 1A i przyjęte dla wszystkich budynków; bryły z poszerzeniem 0,50 m – możliwe ±30% (±400 m³).",
-              "Rampy i zadaszone dojazdy: założenie robocze (do potwierdzenia) – patrz CZYTAJ_NAJPIERW.",
-              "Wariant B od południa: podnóże skarpy na prostym odcinku między końcami ścianki (+ hale 7 i 8) – inne położenie zmienia wykop B o kilkaset m³.",
+              "Rampy: spód wykopu = powierzchnia rampy − 0,71 m (zmiana o ±0,2 m – wiersze wyżej); rampy i zadaszone dojazdy liczone jak garaż (ustalenie 19).",
+              "Ogrody deszczowe: rzędna ogrodu z rzędnych projektowych otoczenia (brak rzędnych dna ogrodów na PZT) – możliwe ±100 m³.",
               "Warstwy gruntu między otworami: interpolacja liniowa (TIN) 17 otworów i 5 CPTU; wkładki piasków są nieciągłe – podział piaski/gliny ±20%.",
               "Spulchnienie i gęstości gleby i nasypu – założenia (tylko tony i objętości luzem)."):
         NP.wiersz(None, [t])
@@ -442,17 +482,16 @@ def wpisz_wartosci(sciezka):
         z_.extractall(tmp)
     wbxml = open(os.path.join(tmp, "xl/workbook.xml"), encoding="utf-8").read()
     kolejnosc = re.findall(r'<sheet [^>]*name="([^"]+)"', wbxml)
-    n = 0
+    wpisane = set()
     for i, nazwa in enumerate(kolejnosc, start=1):
         p = os.path.join(tmp, "xl/worksheets/sheet%d.xml" % i)
         t = open(p, encoding="utf-8").read()
 
         def podmien(m):
-            nonlocal n
             v = wart.get((nazwa.upper(), m.group(1)))
             if v is None:
                 return m.group(0)
-            n += 1
+            wpisane.add((nazwa, m.group(1)))
             if isinstance(v, str):
                 return '<c r="%s"%s t="str"><f>%s</f><v>%s</v></c>' % (m.group(1), re.sub(r'\st="[^"]*"', "", m.group(2)), m.group(3), v)
             return '<c r="%s"%s><f>%s</f><v>%s</v></c>' % (m.group(1), m.group(2), m.group(3), repr(round(float(v), 9)))
@@ -469,7 +508,7 @@ def wpisz_wartosci(sciezka):
                 if rel != "[Content_Types].xml":
                     z_.write(full, rel)
     shutil.rmtree(tmp)
-    return n, wart
+    return len(wpisane), wart
 
 
 def przelicz(sciezka):

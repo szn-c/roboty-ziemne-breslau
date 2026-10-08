@@ -127,6 +127,10 @@ def strefy(geo):
         "zadaszone_poza_halami": zad,
         "wiaty": S["widoczne"].get("sciany_pochylni", Polygon()).intersection(G),
         "geokrata_na_gruncie": S["widoczne"]["geokrata"].intersection(G),
+        # drogi, chodniki, parkingi (ustalenie 21: wymiana gruntu w strefie przemarzania)
+        "ciagi_pieszo_jezdne": S["widoczne"]["ciagi_pieszo_jezdne"].intersection(G),
+        "ciagi_piesze": S["widoczne"]["ciagi_piesze"].intersection(G),
+        "plac_uslugowy": S["widoczne"]["plac_uslugowy"].intersection(G),
     }
     pola = {k: round(v.area, 2) for k, v in out.items()}
     res = {k: wkt.dumps(v, rounding_precision=3) for k, v in out.items()}

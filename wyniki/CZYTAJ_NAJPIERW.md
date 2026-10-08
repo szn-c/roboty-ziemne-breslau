@@ -1,46 +1,89 @@
-# Bilans robót ziemnych – działka 1/90 (stan 8.10.2026)
+# Bilans robót ziemnych – działka 1/90 (stan po ustaleniach 18–23)
 
 ## Pliki
-- `BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` – arkusz z wynikiem. Zacznij od zakładki **WYNIK** (warianty A i B obok siebie). Żółte pola to Twoje decyzje – możesz je zmieniać, arkusz przeliczy się sam.
-- `PODKLAD_dz190_v3.dxf` – nowy podkład do GstarCAD (opis warstw niżej).
+- `BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` – arkusz z wynikiem. Zacznij od zakładki **WYNIK** (warianty A i B obok siebie). Żółte pola to Twoje decyzje – możesz je zmieniać, arkusz przeliczy się sam. Zakładka **WARIANT_A** pokazuje krok po kroku, jak powstaje wykop A.
+- `PODKLAD_dz190_v3.dxf` – podkład do GstarCAD (opis warstw niżej).
 
 ## Wynik w skrócie (m³ w stanie rodzimym)
-| | Wariant A – wykop pod halami | Wariant B – cały obszar w ściance |
+| | Wariant A – wykop pod garażami + rozkop | Wariant B – cały obszar w ściance |
 |---|---:|---:|
 | Humus zdjęty / na odkład / do wywozu | 15 274,147 / 1 771,842 / 13 502,305 | jak w A |
 | Nasyp niekontrolowany – wywóz | 259,347 | 259,347 |
-| Wykop gruntu rodzimego razem | 33 899,193 | 45 125,370 |
-| – w tym spod hal (wywóz, zasada strefy hal) | 27 062,629 | 27 062,629 |
+| Wykop gruntu rodzimego razem (cały na odkład) | 34 264,887 | 45 202,425 |
+| – w tym spod hal i zadaszonych dojazdów | 27 062,629 | 27 062,629 |
+| – w tym wymiana w strefie przemarzania pod drogami, chodnikami, parkingami | 77,070 | 77,055 |
+| Grunt z odkładu wbudowany ponownie | 19 260,539 | 30 198,076 |
+| Grunt rodzimy – nadwyżka do wywozu | 15 004,348 | 15 004,349 |
 | Fundamenty głębsze (osobno, wywóz) | 1 294,323 | 1 294,323 |
-| Grunt z odkładu wbudowany ponownie (propozycja) | 6 821,819 | 17 501,861 |
-| **RAZEM DO WYWOZU** | **42 133,349** (80 922,128 t) | **42 679,484** (82 057,025 t) |
-| Dowóz: grunt do zasypu | 11 734,690 | 11 734,677 |
-| Dowóz: grunt niewysadzinowy (strefa przemarzania) | 2 660,253 | 2 660,267 |
-| **RAZEM DO DOWIEZIENIA** | **14 394,943** | **14 394,944** |
+| **RAZEM DO WYWOZU** | **30 060,323** (55 926,115 t) | **30 060,324** (55 974,728 t) |
+| Dowóz: grunt do zasypu | 0,000 | 0,000 |
+| Dowóz: grunt niewysadzinowy (strefa przemarzania 0,50–1,00 m) | 2 735,129 | 2 735,130 |
+| **RAZEM DO DOWIEZIENIA** | **2 735,129** | **2 735,130** |
 
-Prosto: wywóz i dowóz są w obu wariantach prawie takie same. Wariant B ma o 11 226 m³ większy wykop, ale prawie cały ten grunt wraca do zasypu.
+W skrócie:
+- Wywóz jest w obu wariantach taki sam. Cały grunt rodzimy nadaje się do zasypu, więc wywozimy tylko to, co zajmą garaże.
+- W wariancie B kopiemy o 10 937,538 m³ więcej, ale ten grunt wraca do zasypu. Trzeba go więc odłożyć na odkład i potem wbudować z powrotem.
+- Wobec poprzedniej wersji wywóz spadł z 42 133 do 30 060 m³, a dowóz z 14 395 do 2 735 m³. Powód: grunt spod hal idzie do zasypu (ustalenie 18).
+
+## Jak liczony jest wariant A
+Tak jak wcześniej: **wykop tylko pod garażami, dalej rozkop**:
+- obrys garażu do dna 121,86;
+- przestrzeń robocza 1,0 m;
+- skarpa 1:1,5 aż do terenu po zdjęciu humusu;
+- przy ściance rozkop jest obcięty (za ścianką nie kopiemy), od południa skarpa jest swobodna;
+- między halami, gdzie skarpy się nie spotykają, teren zostaje (zdejmujemy tylko humus).
+
+To ta sama zasada co w poprzednim arkuszu, w wariancie „A (skarpy 1:1,5)” (`prace/obliczenia_v1`). Do garażu doszły jeszcze rampy i zadaszone dojazdy. Skąd różnica (arkusz WARIANT_A):
+
+| Krok | Co się zmienia | Wykop gruntu rodzimego [m³] | Różnica [m³] |
+|---|---|---:|---:|
+| poprzedni arkusz | hale + 1,0 m + skarpa 1:1,5, dno 121,97 | 29 234,555 | |
+| 1d | te same zasady, nowe dane: obrysy w PZT, nowy model terenu, humus z 17 otworów i 5 CPTU | 30 733,696 | +1 499,141 |
+| 1c | dno 121,86 zamiast 121,97 | 32 549,392 | +1 815,696 |
+| 1b | wymiana w strefie przemarzania pod drogami, chodnikami i parkingami | 32 626,461 | +77,069 |
+| 1 | od południa skarpa zamiast prostego obcięcia | 32 970,669 | +344,208 |
+| 2 | zadaszone dojazdy (zieleń na stropie poza obrysem hal) | 34 071,578 | +1 100,909 |
+| 3 | rampy = **obecny wariant A** | **34 264,887** | +193,309 |
+
+Twój załącznik „BILANS_ROBOT_ZIEMNYCH_wczesniej” dotarł do mnie jako nieczytelne dane. Nie ma go też w repo. Porównałem więc z wynikiem poprzedniego arkusza zapisanym w repo (`prace/obliczenia_v1/_skrypt/wyniki_bilans.json`). Tam wariant A ze skarpami ma 29 234,555 m³, a A0 ze ścianami pionowymi 26 248,528 m³. Jeśli w Twoim pliku są inne liczby, wgraj go do `prace/dane_wejsciowe_uzytkownika/`, to porównam.
 
 ## Co przyjąłem (zgodnie z Twoimi odpowiedziami)
-- Geometria: w DXF v2 hale, granica i ścianka były **takie same jak w v1** (różnica < 1 mm), czyli dalej o 0,37% za małe. Przeliczyłem je do PZT: granica 25 289,68 m², hale 12 167,36 m².
-- Strefy (zieleń na gruncie, ogrody deszczowe, zieleń na stropie, rampy) wziąłem z wektorowego PZT. Twoje obrysy zieleni z v2 różnią się od PZT:
-  - na gruncie brakuje ok. 360 m² zieleni, a są wliczone ogrody deszczowe;
-  - na stropie brakuje ok. 370 m².
-- Zieleń na stropie na PZT ma 3 979,48 m², czyli w tabeli PZT powinno być 3 975,11 m², a nie 3 575,11.
-- Dno 121,86. Fundamenty głębsze liczę osobno: 137 pogrubień płyty, 8 rdzeni z szybami wind i 20 studzienek – razem 1 294,323 m³.
-- Od południa nie ma ścianki, jest skarpa 1:1,5. W A przestrzeń robocza 1,0 m i skarpa 1:1,5, obcięte do ścianki.
-- Zieleń: 0,25 m humusu, a niżej grunt rodzimy z odkładu.
-- Nawierzchnie: 0,50 m konstrukcji (poza bilansem), potem 0,50 m dowożonego gruntu niewysadzinowego (do 1,00 m), a niżej grunt rodzimy.
-- Gęstości z tabeli 8 DGI. Gleba 1,60, nasyp 1,80 t/m³. Nasyp liczony ze stref na mapie 4.3.
+- Geometria przeliczona do PZT (granica 25 289,68 m², hale 12 167,36 m²). Strefy wziąłem z wektorowego PZT. Zieleń na stropie ma 3 975,11 m².
+- Dno 121,86. Fundamenty głębsze liczę osobno (wywóz): 137 pogrubień płyty, 8 rdzeni z szybami wind i 20 studzienek.
+- W wariancie A przestrzeń robocza 1,0 m i skarpa 1:1,5. Od południa nie ma ścianki, jest skarpa 1:1,5. W wariancie B podnóże skarpy od południa leży na prostym odcinku między końcami ścianki, poszerzonym o hale 7 i 8.
+- Rampy i zadaszone dojazdy liczę jak część garażu. Pod rampą kopiemy co najmniej do powierzchni rampy minus 0,71 m. Tam, gdzie wykop jest głębszy (przy hali), zasypujemy do tego poziomu gruntem z odkładu.
+- Zieleń: 0,25 m humusu, niżej grunt rodzimy z odkładu.
+- Ogrody deszczowe: 0,30 m substratu (poza bilansem), niżej grunt rodzimy z odkładu.
+- Nawierzchnie:
+  - 0,50 m konstrukcji (poza bilansem);
+  - do 1,00 m dowożony grunt niewysadzinowy;
+  - niżej grunt rodzimy z odkładu.
+- Pod drogami, chodnikami, placem i parkingami wymieniamy grunt w strefie przemarzania także tam, gdzie wykop nie sięga tak głęboko: kopiemy do 1,00 m pod nawierzchnią. W wariancie A to 471,81 m² i 77,070 m³.
+- Grunt rodzimy z całego wykopu, także spod hal, idzie na odkład i do zasypu.
 
-## Do decyzji (pytania z propozycją)
-1. **Grunt spod hal.** Według zasady idzie w całości na wywóz (27 062,629 m³), a jednocześnie trzeba dowieźć 11 734,7 m³ gruntu do zasypu. To ten sam grunt rodzimy. Czy wolno go użyć do zasypu? *Propozycja: tak.* Wtedy dowóz gruntu do zasypu spada do 0 (zostaje tylko 2 660 m³ gruntu niewysadzinowego), a wywóz zmniejsza się o ok. 11 735 m³.
-2. **Rampy i zadaszone dojazdy poza obrysami hal** (4 pochylnie ok. 554 m² i ok. 396 m² zadaszonych części) – liczę je jak część garażu:
-   - w A wykop z przestrzenią roboczą i skarpą;
-   - pod rampą wykop do powierzchni rampy minus 0,71 m.
-   *Proponuję tak zostawić.*
-3. **Ogrody deszczowe w wariancie B.** Leżą w wykopie i według zasady „bez gruntu z odkładu" zostaje pod nimi 1 037,6 m³ pustki. Zasypać ją gruntem z odkładu do spodu substratu? Jeśli tak, podaj grubość substratu. *Propozycja: tak.*
-4. **Grunt rodzimy w strefie przemarzania poza wykopem.** Na 512 m² (głównie pas poza ścianką) pod nawierzchnią zostaje 89,8 m³ gruntu rodzimego w strefie 0,50–1,00 m. Nie kopałem tam. *Propozycja: wymienić* – wtedy wywóz i dowóz rosną o ok. 90 m³.
-5. **Wariant B od południa.** Podnóże skarpy przyjąłem na prostym odcinku między końcami ścianki, poszerzonym o hale 7 i 8. *Proponuję tak zostawić.*
+## Warunki użycia gruntu spod hal do zasypu
+Dokumentacja geologiczna, projekt geotechniczny i opinia nie zawierają przeciwwskazań. Projekt geotechniczny (s. 12) pozwala użyć gruntu z wykopu do makroniwelacji i zasypów niebudowlanych.
+
+Warunki z dokumentacji:
+- grunt zagęszczać warstwami do 0,30 m, do Is > 0,95;
+- gliny (ok. 80% urobku) wbudowywać w porze suchej i chronić przed wodą na odkładzie, bo po zawilgoceniu pęcznieją i uplastyczniają się;
+- piaski spod zwierciadła wody (122,90–124,10) odsączyć na odkładzie przed wbudowaniem;
+- glinę plastyczną IVa oddzielić, jeśli się trafi (w badaniach są tylko cienkie wkładki w CPTU-18 i CPTU-24).
+
+Szczegóły i źródła są w zakładce GRUNTY.
+
+## Drobne miejsca – tylko do wiadomości (nie kopiemy, nie liczę)
+Wszystkie są poza ścianką, w pasie podnoszonym do rzędnej projektowej:
+- zieleń: na 131,38 m² warstwa humusu 0,25 m wchodzi w grunt rodzimy (24,015 m³);
+- inne nawierzchnie niż drogi, chodniki, plac i parkingi: na 48,69 m² w strefie przemarzania zostaje grunt rodzimy (14,964 m³);
+- konstrukcja nawierzchni wchodzi w grunt rodzimy na 2,44 m² (0,079 m³).
+
+Jeśli chcesz, mogę te miejsca też wymienić. Zmiana to mniej niż 40 m³.
+
+## Założenia, które zostały bez Twojej uwagi (nie blokują)
+- Spód wykopu pod rampą = powierzchnia rampy − 0,71 m. Zmiana o ±0,2 m daje ok. ±70 m³ wykopu i ok. ±110 m³ wywozu.
+- Nasyp niekontrolowany wg stref z mapy 4.3 DGI, grubość 0,20–0,25 m.
+- Wymiary studzienek odczytałem z rzutu 1A i przyjąłem dla wszystkich budynków.
 
 ## Podkład DXF v3
 - Twoje warstwy `HALE_GARAZOWE`, `A-granica inwest.`, `7_SCIANKA_ORIENTACYJNA` i `ZIELEN-*` są przeliczone do PZT (te same obiekty, poprawione położenie).
@@ -48,10 +91,13 @@ Prosto: wywóz i dowóz są w obu wariantach prawie takie same. Wariant B ma o 1
 - Nowe warstwy `BILANS_*`:
   - strefy z PZT, rampy z kierunkiem spadku, zadaszone dojazdy;
   - nasyp z mapy 4.3, otwory i CPTU;
-  - dolna i górna krawędź wykopu dla A i B.
+  - dolna i górna krawędź wykopu dla A i B;
+  - `BILANS_WYMIANA_PRZEMARZANIE_A` i `_B`: miejsca wymiany gruntu pod drogami, chodnikami i parkingami poza wykopem.
 
 ## Gdzie co jest
-- Szczegóły weryfikacji: `prace/WERYFIKACJA_raport.md` (aneks z 8.10).
+- Szczegóły weryfikacji: `prace/WERYFIKACJA_raport.md`.
 - Dane wejściowe ze źródłami: `prace/dane/`.
-- Obliczenia: `prace/obliczenia_v2/` (silnik, arkusz, wrażliwość).
-- Zakładka NIEPEWNOSC: o ile zmienia się wynik, gdy zmienia się jedno założenie. Największy wpływ ma grubość humusu (±0,10 m daje ok. ±2 500 m³ humusu) i rzędne terenu (±0,05 m daje ok. ±900 m³ wykopu).
+- Obliczenia: `prace/obliczenia_v2/` (silnik, arkusz, wrażliwość, rozkład wariantu A).
+- Zakładka NIEPEWNOSC pokazuje, o ile zmienia się wynik, gdy zmienia się jedno założenie. Największy wpływ mają:
+  - grubość humusu: ±0,10 m daje ok. ±2 500 m³ humusu i ok. ±2 500 m³ wywozu gruntu rodzimego (w przeciwną stronę);
+  - rzędne terenu: ±0,05 m daje ok. ±900 m³ wykopu A i ok. ±1 250 m³ wywozu.

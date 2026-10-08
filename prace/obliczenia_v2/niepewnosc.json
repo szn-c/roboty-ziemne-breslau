@@ -2,12 +2,12 @@
  "baza": {
   "humus": 15274.147,
   "nasyp": 259.347,
-  "wykop_A": 33899.193,
-  "deficyt_A": 11734.690000000002,
-  "mroz_A": 2660.253,
-  "wykop_B": 45125.37,
-  "deficyt_B": 11734.677,
-  "mroz_B": 2660.267
+  "wykop_A": 34264.887,
+  "nadwyzka_A": 15004.348000000002,
+  "mroz_A": 2735.129,
+  "wykop_B": 45202.425,
+  "nadwyzka_B": 15004.349000000002,
+  "mroz_B": 2735.13
  },
  "przypadki": [
   {
@@ -18,12 +18,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": 863.191,
-    "deficyt_A": -587.368,
-    "mroz_A": -27.495,
-    "wykop_B": 1051.349,
-    "deficyt_B": -587.39,
-    "mroz_B": -27.472
+    "wykop_A": 896.02,
+    "nadwyzka_A": 1254.704,
+    "mroz_A": -2.201,
+    "wykop_B": 1077.028,
+    "nadwyzka_B": 1254.702,
+    "mroz_B": -2.201
    }
   },
   {
@@ -34,12 +34,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": -860.465,
-    "deficyt_A": 592.781,
-    "mroz_A": 23.609,
-    "wykop_B": -1050.821,
-    "deficyt_B": 592.79,
-    "mroz_B": 23.599
+    "wykop_A": -889.247,
+    "nadwyzka_A": -1255.958,
+    "mroz_A": 2.361,
+    "wykop_B": -1072.357,
+    "nadwyzka_B": -1255.961,
+    "mroz_B": 2.36
    }
   },
   {
@@ -50,12 +50,12 @@
    "roznice": {
     "humus": 2528.95,
     "nasyp": 0.0,
-    "wykop_A": -1717.74,
-    "deficyt_A": 1191.179,
-    "mroz_A": 42.788,
-    "wykop_B": -2101.134,
-    "deficyt_B": 1191.192,
-    "mroz_B": 42.775
+    "wykop_A": -1770.931,
+    "nadwyzka_A": -2513.037,
+    "mroz_A": 4.785,
+    "wykop_B": -2139.712,
+    "nadwyzka_B": -2513.039,
+    "mroz_B": 4.785
    }
   },
   {
@@ -66,12 +66,12 @@
    "roznice": {
     "humus": -2528.95,
     "nasyp": 0.0,
-    "wykop_A": 1729.492,
-    "deficyt_A": -1168.804,
-    "mroz_A": -58.799,
-    "wykop_B": 2103.269,
-    "deficyt_B": -1168.868,
-    "mroz_B": -58.736
+    "wykop_A": 1799.568,
+    "nadwyzka_A": 2507.942,
+    "mroz_A": -4.182,
+    "wykop_B": 2159.076,
+    "nadwyzka_B": 2507.942,
+    "mroz_B": -4.182
    }
   },
   {
@@ -82,12 +82,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": -981.839,
-    "deficyt_A": 0.002,
+    "wykop_A": -1072.881,
+    "nadwyzka_A": -0.001,
     "mroz_A": 0.001,
     "wykop_B": -42.155,
-    "deficyt_B": -0.001,
-    "mroz_B": 0.001
+    "nadwyzka_B": 0.001,
+    "mroz_B": -0.001
    }
   },
   {
@@ -98,12 +98,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": 869.353,
-    "deficyt_A": -0.0,
+    "wykop_A": 981.525,
+    "nadwyzka_A": 0.002,
     "mroz_A": 0.001,
-    "wykop_B": 47.223,
-    "deficyt_B": 0.0,
-    "mroz_B": 0.001
+    "wykop_B": 47.224,
+    "nadwyzka_B": 0.001,
+    "mroz_B": 0.0
    }
   },
   {
@@ -114,12 +114,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": -954.405,
-    "deficyt_A": 0.001,
-    "mroz_A": 0.001,
-    "wykop_B": -237.976,
-    "deficyt_B": -0.001,
-    "mroz_B": 0.001
+    "wykop_A": -1060.361,
+    "nadwyzka_A": -0.0,
+    "mroz_A": 0.0,
+    "wykop_B": -237.974,
+    "nadwyzka_B": 0.003,
+    "mroz_B": 0.0
    }
   },
   {
@@ -130,12 +130,12 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": 851.262,
-    "deficyt_A": 0.003,
-    "mroz_A": 0.0,
-    "wykop_B": 242.168,
-    "deficyt_B": 0.0,
-    "mroz_B": 0.001
+    "wykop_A": 981.123,
+    "nadwyzka_A": 0.002,
+    "mroz_A": 0.001,
+    "wykop_B": 242.169,
+    "nadwyzka_B": 0.001,
+    "mroz_B": 0.0
    }
   },
   {
@@ -146,11 +146,11 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": -113.192,
-    "deficyt_A": 116.25,
+    "wykop_A": -61.985,
+    "nadwyzka_A": -116.248,
     "mroz_A": 0.0,
     "wykop_B": 0.0,
-    "deficyt_B": 116.247,
+    "nadwyzka_B": -116.247,
     "mroz_B": 0.0
    }
   },
@@ -162,11 +162,11 @@
    "roznice": {
     "humus": 0.0,
     "nasyp": 0.0,
-    "wykop_A": 114.902,
-    "deficyt_A": -105.176,
-    "mroz_A": 0.0,
+    "wykop_A": 69.935,
+    "nadwyzka_A": 105.174,
+    "mroz_A": 0.001,
     "wykop_B": 0.0,
-    "deficyt_B": -105.178,
+    "nadwyzka_B": 105.178,
     "mroz_B": 0.0
    }
   },
@@ -178,12 +178,12 @@
    "roznice": {
     "humus": -0.1,
     "nasyp": -0.047,
-    "wykop_A": 21.01,
-    "deficyt_A": -13.589,
-    "mroz_A": 11.231,
-    "wykop_B": 9.712,
-    "deficyt_B": -13.595,
-    "mroz_B": 11.236
+    "wykop_A": 38.155,
+    "nadwyzka_A": 25.612,
+    "mroz_A": 11.026,
+    "wykop_B": 9.582,
+    "nadwyzka_B": 25.612,
+    "mroz_B": 11.025
    }
   }
  ]

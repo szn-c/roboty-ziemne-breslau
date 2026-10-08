@@ -3,7 +3,8 @@ NOWY PODKŁAD DXF (v3) dla GstarCAD: plik użytkownika v2 + korekta geometrii do
 - warstwy użytkownika HALE_GARAZOWE, A-granica inwest., 7_SCIANKA_ORIENTACYJNA, ZIELEN-NA-GRUNCIE, ZIELEN-NA-STROPIE:
   przeliczone do PZT (skala 1,003663, obrót −0,0017°, przesunięcie ok. 0,7 m) – te same obiekty, poprawione położenie;
 - stare warstwy wstępnej siatki (0_…8_) – wyłączone (nie usunięte);
-- nowe warstwy BILANS_* – strefy z wektorowego PZT, rampy, zadaszone dojazdy, nasyp (mapa 4.3), otwory, obrysy wykopów A i B.
+- nowe warstwy BILANS_* – strefy z wektorowego PZT, rampy, zadaszone dojazdy, nasyp (mapa 4.3), otwory, obrysy wykopów A i B,
+  miejsca wymiany gruntu w strefie przemarzania pod drogami, chodnikami i parkingami (A i B).
 Wynik: wyniki/PODKLAD_dz190_v3.dxf
 """
 import json
@@ -33,10 +34,12 @@ NOWE = {  # nazwa: (kolor ACI, opis)
     "BILANS_NASYP_mapa_4.3": (6, "strefy nasypu niekontrolowanego z mapy 4.3 DGI"),
     "BILANS_OTWORY_1-90": (30, "otwory 2–24 i CPTU 10, 12, 18, 21, 24 (DGI)"),
     "BILANS_SCIANKA_ZAMKNIECIE": (8, "odcinek między końcami ścianki (podnóże skarpy od południa w wariancie B) – nie jest ścianką"),
-    "BILANS_WYKOP_A_DNO": (5, "wariant A – krawędź dna wykopu 121,86 (obiekty + przestrzeń robocza 1,0 m)"),
+    "BILANS_WYKOP_A_DNO": (5, "wariant A – krawędź dna wykopu: hale i zadaszone dojazdy 121,86, rampy – powierzchnia rampy − 0,71 m (obiekty + przestrzeń robocza 1,0 m)"),
     "BILANS_WYKOP_A_GORA": (150, "wariant A – górna krawędź skarp 1:1,5 (na terenie po zdjęciu humusu)"),
     "BILANS_WYKOP_B_DNO": (210, "wariant B – krawędź dna wykopu 121,86"),
     "BILANS_WYKOP_B_GORA": (230, "wariant B – górna krawędź wykopu"),
+    "BILANS_WYMIANA_PRZEMARZANIE_A": (40, "wariant A – wymiana gruntu w strefie przemarzania pod drogami, chodnikami i parkingami (wykop do 1,00 m pod nawierzchnią) – poza wykopem A"),
+    "BILANS_WYMIANA_PRZEMARZANIE_B": (42, "wariant B – jw., poza wykopem B"),
     "BILANS_OPISY": (7, "opisy i legenda"),
 }
 
@@ -118,12 +121,14 @@ def main():
     Hst = unary_union(HALE + [wkt.loads(st["zadaszone_poza_halami"])])
     dnoB = unary_union([P, Hst.buffer(S.PARAMETRY["przestrzen_robocza"], join_style=2).intersection(gm["B"])])
     rysuj(dnoB, "BILANS_WYKOP_B_DNO", 2.0)
+    rysuj(gm["A_wymiana"].intersection(G), "BILANS_WYMIANA_PRZEMARZANIE_A", 0.5)
+    rysuj(gm["B_wymiana"].intersection(G), "BILANS_WYMIANA_PRZEMARZANIE_B", 0.5)
     for nr, v in geo["hale"].items():
         c = Polygon(v).centroid
         msp.add_text("HALA %s – dno wykopu 121,86" % nr, height=1.5, dxfattribs={"layer": "BILANS_OPISY", "insert": (c.x - 10, c.y)})
     # legenda
     x0, y0 = G.bounds[2] + 10, G.bounds[3]
-    msp.add_text("PODKŁAD v3 – bilans robót ziemnych dz. 1/90 (8.10.2026). Układ PL-2000/6, wysokości PL-KRON86-NH.", height=1.2,
+    msp.add_text("PODKŁAD v3 – bilans robót ziemnych dz. 1/90 (stan po ustaleniach 18–23). Układ PL-2000/6, wysokości PL-KRON86-NH.", height=1.2,
                  dxfattribs={"layer": "BILANS_OPISY", "insert": (x0, y0)})
     msp.add_text("Warstwy HALE_GARAZOWE, A-granica inwest., 7_SCIANKA_ORIENTACYJNA, ZIELEN-*: przeliczone do PZT (skala 1,003663).", height=1.0,
                  dxfattribs={"layer": "BILANS_OPISY", "insert": (x0, y0 - 2.5)})
@@ -133,6 +138,7 @@ def main():
     doc.saveas(WY)
     print("zapisano", WY, "| przeliczonych obiektów użytkownika:", n)
     print("pola wykopu (górna krawędź): A %.2f m2, B %.2f m2; dno A %.2f m2, dno B %.2f m2" % (gm["A"].area, gm["B"].area, dnoA.area, dnoB.area))
+    print("wymiana w strefie przemarzania: A %.2f m2, B %.2f m2" % (gm["A_wymiana"].intersection(G).area, gm["B_wymiana"].intersection(G).area))
 
 
 if __name__ == "__main__":
