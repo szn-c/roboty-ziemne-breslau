@@ -27,7 +27,7 @@ Zaznaczone linie 3D:
 - obrysy hal na dnie (121,86) i na rzędnej projektowej oraz ich krawędzie pionowe (`3D_LINIA_HALE_*`),
 - zadaszone dojazdy do garaży (`3D_LINIA_ZADASZONE_*`),
 - rampy: powierzchnia i spód wykopu (`3D_LINIA_RAMPY_*`),
-- ścianka: góra i dół (`3D_LINIA_SCIANKA_*`); przerywana linia to odcinek, w którym ścianki nie ma (od południa jest skarpa 1:1,5),
+- ścianka: góra i dół (`3D_LINIA_SCIANKA_*`); osobna szara linia (`3D_LINIA_SCIANKA_ZAMKNIECIE`) to odcinek między końcami ścianki, w którym ścianki nie ma (od południa jest skarpa 1:1,5),
 - górna krawędź i dno wykopu A i B (`3D_LINIA_A_*`, `3D_LINIA_B_*`),
 - granica działki (`3D_LINIA_GRANICA`),
 - pionowe płaszczyzny ścianki (`3D_SCIANKA_A`, `3D_SCIANKA_B`).
