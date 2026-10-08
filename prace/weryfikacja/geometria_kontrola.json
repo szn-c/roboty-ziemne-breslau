@@ -1,0 +1,180 @@
+{
+ "granica": {
+  "pole": 25105.56,
+  "obwod": 662.81
+ },
+ "scianka": {
+  "pole_domkniete": 20266.12,
+  "obwod_domkniety": 562.89,
+  "dlugosc_otwarta": 429.36,
+  "zamykajacy": 133.54
+ },
+ "hale": {
+  "1": {
+   "pole": 1528.37,
+   "odl_scianka": 0.42,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 1.57
+  },
+  "2": {
+   "pole": 1212.39,
+   "odl_scianka": 2.07,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 3.76
+  },
+  "3": {
+   "pole": 1528.36,
+   "odl_scianka": 2.84,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 3.9
+  },
+  "4": {
+   "pole": 1612.25,
+   "odl_scianka": 2.06,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 4.02
+  },
+  "5": {
+   "pole": 1528.38,
+   "odl_scianka": 1.25,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 2.67
+  },
+  "6": {
+   "pole": 1528.38,
+   "odl_scianka": 30.55,
+   "poza_scianka_m2": 0.0,
+   "przecina_zamykajacy": false,
+   "odl_granica": 19.22
+  },
+  "7": {
+   "pole": 1528.38,
+   "odl_scianka": 38.08,
+   "poza_scianka_m2": 12.93,
+   "przecina_zamykajacy": true,
+   "odl_granica": 11.57
+  },
+  "8": {
+   "pole": 1612.17,
+   "odl_scianka": 1.02,
+   "poza_scianka_m2": 10.32,
+   "przecina_zamykajacy": true,
+   "odl_granica": 12.41
+  }
+ },
+ "otwory": {
+  "2": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "3": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "5": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "7": {
+   "w_dzialce": true,
+   "w_sciance": false
+  },
+  "9": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "10": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "11": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "14": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "15": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "16": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "17": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "18": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "20": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "21": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "23": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "24": {
+   "w_dzialce": true,
+   "w_sciance": true
+  },
+  "25": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "26": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "27": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "29": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "31": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "32": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "33": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "36": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "38": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "39": {
+   "w_dzialce": false,
+   "w_sciance": false
+  },
+  "40": {
+   "w_dzialce": false,
+   "w_sciance": false
+  }
+ }
+}

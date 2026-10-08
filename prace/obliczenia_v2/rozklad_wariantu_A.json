@@ -1,0 +1,44 @@
+[
+ {
+  "opis": "1. tylko hale + 1,0 m + skarpa 1:1,5",
+  "pole": 17286.38,
+  "wykop": 32970.669,
+  "wymiana": 77.07,
+  "nasyp": 259.347
+ },
+ {
+  "opis": "2. + zadaszone dojazdy",
+  "pole": 17675.06,
+  "wykop": 34071.578,
+  "wymiana": 77.07,
+  "nasyp": 259.347
+ },
+ {
+  "opis": "3. + rampy = obecny wariant A",
+  "pole": 17848.81,
+  "wykop": 34264.887,
+  "wymiana": 77.07,
+  "nasyp": 259.347
+ },
+ {
+  "opis": "1b. jak 1, ale południe zamknięte prostym odcinkiem (jak v1)",
+  "pole": 17043.25,
+  "wykop": 32626.461,
+  "wymiana": 77.07,
+  "nasyp": 259.347
+ },
+ {
+  "opis": "1c. jak 1b, bez wymiany w strefie przemarzania",
+  "pole": 16571.44,
+  "wykop": 32549.392,
+  "wymiana": 0.0,
+  "nasyp": 259.347
+ },
+ {
+  "opis": "1d. jak 1c, dno 121,97 (jak v1)",
+  "pole": 16431.88,
+  "wykop": 30733.696,
+  "wymiana": 0.0,
+  "nasyp": 259.347
+ }
+]

@@ -31,11 +31,12 @@ archiwum/                         stary pakiet Civil 3D (nieaktualny)
 ```
 
 ## Stan prac
+- **Gotowy bilans v2 (po ustaleniach 18–23)** – `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx`, podkład `wyniki/PODKLAD_dz190_v3.dxf`, opis `wyniki/CZYTAJ_NAJPIERW.md`. Wywóz ok. 30 060 m³ (A i B), dowóz 2 735 m³ gruntu niewysadzinowego. Obliczenia: `prace/obliczenia_v2/`, dane: `prace/dane/`.
 - Wersja 1 obliczeń (`prace/obliczenia_v1/`) powstała przy **innych założeniach** (jeden wariant, bez podziału na strefy, zaokrąglenia do 100 m³). Wyniki tej wersji są **nieaktualne**. Zachowano skrypty, które można wykorzystać: odtwarzanie geometrii z PDF, model terenu, silnik rastra.
 - Nowe założenia (dwa warianty A i B, strefy hale / zieleń / nawierzchnie, grunty przydatne i nieprzydatne, decyzja o dowozie po stronie użytkownika, dokładność 0,00 m² i 0,000 m³): patrz `USTALENIA.md`.
 - Dokumenty (PDF) użytkownik wgrał bezpośrednio do repo; nowa sesja ma je znaleźć i opisać w `prace/MAPA_DOKUMENTOW.md`. Teksty są w `prace/ekstrakty_tekstu/`.
 - **Limit obrazów 2000 px zablokował jedną sesję** – przeczytaj `prace/OBRAZY_LIMIT_2000PX.md`. Postęp prac: `prace/POSTEP.md`.
-- Obowiązująca geometria hal, ścianki i granicy: pliki `*_checked` użytkownika (`prace/dane_wejsciowe_uzytkownika/README.md`). Mapa dokumentów i fakty z usuniętych plików: `prace/MAPA_DOKUMENTOW.md`, `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`.
+- Obowiązująca geometria hal, ścianki i granicy: pliki `*_checked` użytkownika przeliczone do PZT (skala 1,003663) – `prace/dane/geometria.json` (USTALENIA pkt 11). Mapa dokumentów i fakty z usuniętych plików: `prace/MAPA_DOKUMENTOW.md`, `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`.
 
 ## Narzędzia
 - `prace/obliczenia_v1/_skrypt/wyciagnij_dane_z_pdf.py` – rzędne z tekstu PZT w układzie PL-2000 (geometria z rzutu zabezpieczenia: tylko jeśli PDF jest w repo).

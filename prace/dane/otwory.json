@@ -1,0 +1,1012 @@
+{
+ "2": {
+  "N": 5659002.2,
+  "E": 6433708.7,
+  "H": 124.7,
+  "woda_ustab_m_ppt": 1.2,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 2.0,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.8,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.1,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.1,
+    "spag": 4.3,
+    "kat": "P",
+    "symbol": "Pr+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "m/nw"
+   },
+   {
+    "strop": 4.3,
+    "spag": 6.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 6.5,
+    "spag": 7.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 7.5,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 2 (str. 1 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "3": {
+  "N": 5658972.6,
+  "E": 6433724.8,
+  "H": 124.8,
+  "woda_ustab_m_ppt": 1.5,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.6,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.3,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.3,
+    "spag": 1.6,
+    "kat": "G",
+    "symbol": "Pg",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.0,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "m"
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.8,
+    "kat": "G",
+    "symbol": "Gp//Pd",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.8,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 3 (str. 2 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "5": {
+  "N": 5658920.1,
+  "E": 6433702.7,
+  "H": 125.0,
+  "woda_ustab_m_ppt": 0.9,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.2,
+    "kat": "N",
+    "symbol": "Nn",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.2,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.4,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.4,
+    "spag": 1.6,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "m"
+   },
+   {
+    "strop": 1.6,
+    "spag": 4.0,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 4.0,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż//Pd",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 5 (str. 3 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "7": {
+  "N": 5658896.4,
+  "E": 6433678.7,
+  "H": 125.1,
+  "woda_ustab_m_ppt": 1.2,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 2.0,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVb",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.0,
+    "spag": 3.6,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.6,
+    "spag": 4.0,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 4.0,
+    "spag": 7.7,
+    "kat": "G",
+    "symbol": "Gp//Pd",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 7.7,
+    "spag": 8.0,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "m"
+   },
+   {
+    "strop": 8.0,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 7 (str. 4 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "9": {
+  "N": 5658957.0,
+  "E": 6433679.0,
+  "H": 124.8,
+  "woda_ustab_m_ppt": 1.7,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.6,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.7,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.2,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVb",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.2,
+    "spag": 3.2,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.2,
+    "spag": 4.4,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 4.4,
+    "spag": 5.5,
+    "kat": "P",
+    "symbol": "Ps+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 5.5,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 9 (str. 5 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "10": {
+  "N": 5658984.4,
+  "E": 6433680.5,
+  "H": 124.5,
+  "woda_ustab_m_ppt": 1.3,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.5,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.5,
+    "spag": 2.7,
+    "kat": "G",
+    "symbol": "Gp/Gp+Ps",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.7,
+    "spag": 4.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 4.5,
+    "spag": 4.8,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 4.8,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 10 (str. 6 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "11": {
+  "N": 5659015.9,
+  "E": 6433664.4,
+  "H": 124.4,
+  "woda_ustab_m_ppt": 1.2,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.5,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.5,
+    "kat": "P",
+    "symbol": "Pr+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 2.5,
+    "spag": 3.0,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.0,
+    "spag": 9.0,
+    "kat": "P",
+    "symbol": "Po",
+    "warstwa": "IIIa",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 9.0,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 11 (str. 7 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "12": {
+  "N": 5659037.4,
+  "E": 6433688.2,
+  "H": 124.5,
+  "woda_ustab_m_ppt": 1.3,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.6,
+    "kat": "H",
+    "symbol": "Gb+k",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.6,
+    "spag": 2.0,
+    "kat": "G",
+    "symbol": "Gp+Ż/Gp//Pg",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "kat": "P",
+    "symbol": "Pr+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 2.7,
+    "spag": 7.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 7.5,
+    "spag": 10,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 12 (str. 8 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI; E odtworzone z przekrojów IV-IV', XI-XI' i mapy 4.1 (w tabeli uszkodzone)"
+ },
+ "14": {
+  "N": 5659030.6,
+  "E": 6433620.1,
+  "H": 124.3,
+  "woda_ustab_m_ppt": 0.9,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.8,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.5,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "m/nw"
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.0,
+    "kat": "P",
+    "symbol": "Ps//Gp",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVb",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.0,
+    "kat": "P",
+    "symbol": "Pr+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 3.0,
+    "spag": 3.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.5,
+    "spag": 3.7,
+    "kat": "P",
+    "symbol": "Pr",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 3.7,
+    "spag": 5.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 5.5,
+    "spag": 5.7,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 5.7,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 14 (str. 9 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "15": {
+  "N": 5659002.8,
+  "E": 6433635.2,
+  "H": 124.3,
+  "woda_ustab_m_ppt": 1.4,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.8,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.8,
+    "spag": 2.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.5,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 15 (str. 10 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "16": {
+  "N": 5658980.3,
+  "E": 6433637.0,
+  "H": 124.6,
+  "woda_ustab_m_ppt": 1.2,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.5,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.5,
+    "spag": 2.7,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.7,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 16 (str. 11 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "17": {
+  "N": 5658959.8,
+  "E": 6433615.8,
+  "H": 124.8,
+  "woda_ustab_m_ppt": null,
+  "woda_uwagi": "nawiercone 1,9 i 3,5 m ppt",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.3,
+    "kat": "N",
+    "symbol": "Nn",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.3,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.9,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.9,
+    "spag": 2.3,
+    "kat": "P",
+    "symbol": "Pd//Gp",
+    "warstwa": "Ia",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 2.3,
+    "spag": 3.1,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.1,
+    "spag": 3.5,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.5,
+    "spag": 3.8,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 3.8,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 17 (str. 12 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "18": {
+  "N": 5658918.4,
+  "E": 6433636.0,
+  "H": 124.9,
+  "woda_ustab_m_ppt": 5.8,
+  "woda_uwagi": "sączenia 3,3 i 5,4; nawiercone 7,0",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.5,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.5,
+    "spag": 7.0,
+    "kat": "G",
+    "symbol": "Gp/Gpz",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 7.0,
+    "spag": 8.7,
+    "kat": "P",
+    "symbol": "Ps/Pd",
+    "warstwa": "IIc",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 8.7,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 18 (str. 13 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "20": {
+  "N": 5658966.0,
+  "E": 6433587.1,
+  "H": 124.6,
+  "woda_ustab_m_ppt": null,
+  "woda_uwagi": "sączenie 2,7; nawiercone 3,6 i 4,4 m ppt",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.2,
+    "kat": "N",
+    "symbol": "Nn",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.2,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.1,
+    "kat": "P",
+    "symbol": "Ps//Pg",
+    "warstwa": "IIb",
+    "wilgotnosc": "w"
+   },
+   {
+    "strop": 1.1,
+    "spag": 1.7,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.7,
+    "kat": "P",
+    "symbol": "Pd+Ż",
+    "warstwa": "Ia",
+    "wilgotnosc": "m"
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.6,
+    "kat": "G",
+    "symbol": "Gp+Ż/Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.6,
+    "spag": 4.0,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 4.0,
+    "spag": 4.4,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 4.4,
+    "spag": 4.7,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "m"
+   },
+   {
+    "strop": 4.7,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gpz+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 20 (str. 14 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "21": {
+  "N": 5658993.0,
+  "E": 6433578.9,
+  "H": 124.8,
+  "woda_ustab_m_ppt": null,
+  "woda_uwagi": "sączenia 3,0 i 4,5 m ppt",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.8,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.8,
+    "spag": 2.8,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.8,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp//Pd/Gp+Ż/Gpz",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 21 (str. 15 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "23": {
+  "N": 5659037.1,
+  "E": 6433583.4,
+  "H": 124.5,
+  "woda_ustab_m_ppt": 1.0,
+  "woda_uwagi": "",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.8,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.7,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "w/nw"
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.4,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVb",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.4,
+    "spag": 2.8,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 2.8,
+    "spag": 5.0,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 5.0,
+    "spag": 6.0,
+    "kat": "P",
+    "symbol": "Ps+Ż",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 6.0,
+    "spag": 10,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 23 (str. 16 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ },
+ "24": {
+  "N": 5659055.7,
+  "E": 6433603.9,
+  "H": 124.4,
+  "woda_ustab_m_ppt": 3.7,
+  "woda_uwagi": "sączenie 3,7; nawiercone 4,6",
+  "warstwy": [
+   {
+    "strop": 0,
+    "spag": 0.7,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": "",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 0.7,
+    "spag": 3.3,
+    "kat": "G",
+    "symbol": "Gp/Gp//Pg",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.3,
+    "spag": 3.7,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVc",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 3.7,
+    "spag": 4.6,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 4.6,
+    "spag": 5.0,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   },
+   {
+    "strop": 5.0,
+    "spag": 9.5,
+    "kat": "G",
+    "symbol": "Gpz//Ps/Pi//Pd",
+    "warstwa": "IVd",
+    "wilgotnosc": ""
+   },
+   {
+    "strop": 9.5,
+    "spag": 10,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb",
+    "wilgotnosc": "nw"
+   }
+  ],
+  "zrodlo": "DGI zał. 5.x – karta otworu nr 24 (str. 17 PDF 5.1–5.28); współrzędne i H – karta informacyjna DGI"
+ }
+}

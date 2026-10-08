@@ -1,0 +1,190 @@
+{
+ "baza": {
+  "humus": 15274.147,
+  "nasyp": 259.347,
+  "wykop_A": 34264.887,
+  "nadwyzka_A": 15004.348000000002,
+  "mroz_A": 2735.129,
+  "wykop_B": 45202.425,
+  "nadwyzka_B": 15004.349000000002,
+  "mroz_B": 2735.13
+ },
+ "przypadki": [
+  {
+   "opis": "teren +0,05 m (dokładność rzędnych PZT 0,1 m)",
+   "parametry": {
+    "dz_teren": 0.05
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": 896.02,
+    "nadwyzka_A": 1254.704,
+    "mroz_A": -2.201,
+    "wykop_B": 1077.028,
+    "nadwyzka_B": 1254.702,
+    "mroz_B": -2.201
+   }
+  },
+  {
+   "opis": "teren −0,05 m",
+   "parametry": {
+    "dz_teren": -0.05
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": -889.247,
+    "nadwyzka_A": -1255.958,
+    "mroz_A": 2.361,
+    "wykop_B": -1072.357,
+    "nadwyzka_B": -1255.961,
+    "mroz_B": 2.36
+   }
+  },
+  {
+   "opis": "humus +0,10 m (grubość z 17 otworów i 5 CPTU)",
+   "parametry": {
+    "dz_humus": 0.1
+   },
+   "roznice": {
+    "humus": 2528.95,
+    "nasyp": 0.0,
+    "wykop_A": -1770.931,
+    "nadwyzka_A": -2513.037,
+    "mroz_A": 4.785,
+    "wykop_B": -2139.712,
+    "nadwyzka_B": -2513.039,
+    "mroz_B": 4.785
+   }
+  },
+  {
+   "opis": "humus −0,10 m",
+   "parametry": {
+    "dz_humus": -0.1
+   },
+   "roznice": {
+    "humus": -2528.95,
+    "nasyp": 0.0,
+    "wykop_A": 1799.568,
+    "nadwyzka_A": 2507.942,
+    "mroz_A": -4.182,
+    "wykop_B": 2159.076,
+    "nadwyzka_B": 2507.942,
+    "mroz_B": -4.182
+   }
+  },
+  {
+   "opis": "przestrzeń robocza 0,5 m (A)",
+   "parametry": {
+    "przestrzen_robocza": 0.5
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": -1072.881,
+    "nadwyzka_A": -0.001,
+    "mroz_A": 0.001,
+    "wykop_B": -42.155,
+    "nadwyzka_B": 0.001,
+    "mroz_B": -0.001
+   }
+  },
+  {
+   "opis": "przestrzeń robocza 1,5 m (A)",
+   "parametry": {
+    "przestrzen_robocza": 1.5
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": 981.525,
+    "nadwyzka_A": 0.002,
+    "mroz_A": 0.001,
+    "wykop_B": 47.224,
+    "nadwyzka_B": 0.001,
+    "mroz_B": 0.0
+   }
+  },
+  {
+   "opis": "skarpa 1:1,0",
+   "parametry": {
+    "skarpa": 1.0
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": -1060.361,
+    "nadwyzka_A": -0.0,
+    "mroz_A": 0.0,
+    "wykop_B": -237.974,
+    "nadwyzka_B": 0.003,
+    "mroz_B": 0.0
+   }
+  },
+  {
+   "opis": "skarpa 1:2,0",
+   "parametry": {
+    "skarpa": 2.0
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": 981.123,
+    "nadwyzka_A": 0.002,
+    "mroz_A": 0.001,
+    "wykop_B": 242.169,
+    "nadwyzka_B": 0.001,
+    "mroz_B": 0.0
+   }
+  },
+  {
+   "opis": "spód wykopu pod rampą: powierzchnia − 0,50 m",
+   "parametry": {
+    "rampa_pod": 0.5
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": -61.985,
+    "nadwyzka_A": -116.248,
+    "mroz_A": 0.0,
+    "wykop_B": 0.0,
+    "nadwyzka_B": -116.247,
+    "mroz_B": 0.0
+   }
+  },
+  {
+   "opis": "spód wykopu pod rampą: powierzchnia − 0,90 m",
+   "parametry": {
+    "rampa_pod": 0.9
+   },
+   "roznice": {
+    "humus": 0.0,
+    "nasyp": 0.0,
+    "wykop_A": 69.935,
+    "nadwyzka_A": 105.174,
+    "mroz_A": 0.001,
+    "wykop_B": 0.0,
+    "nadwyzka_B": 105.178,
+    "mroz_B": 0.0
+   }
+  },
+  {
+   "opis": "raster 0,50 m (kontrola numeryczna)",
+   "parametry": {
+    "cell": 0.5
+   },
+   "roznice": {
+    "humus": -0.1,
+    "nasyp": -0.047,
+    "wykop_A": 38.155,
+    "nadwyzka_A": 25.612,
+    "mroz_A": 11.026,
+    "wykop_B": 9.582,
+    "nadwyzka_B": 25.612,
+    "mroz_B": 11.025
+   }
+  }
+ ]
+}

@@ -1,0 +1,7776 @@
+[
+ {
+  "nr": 2,
+  "zal": "5.1",
+  "rzedna": 124.7,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.35,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      0.35,
+      "-"
+     ]
+    ]
+   },
+   {
+    "strop": 0.7,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczyta, j. szaro - brazowa"
+    ],
+    "iso": [
+     [
+      1.36,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.35,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.36,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.35,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.8,
+    "opis": [
+     "piasek drobny, j. brązowy"
+    ],
+    "iso": [
+     [
+      2.4,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.4,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.39,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      2.4,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.4,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.1,
+    "opis": [
+     "glina piaszczysta, szaro - brązowa"
+    ],
+    "iso": [
+     [
+      2.96,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.95,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.98,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      2.95,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.95,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.1,
+    "spag": 4.3,
+    "opis": [
+     "piasek gruby z domieszką żwiru, brązowy"
+    ],
+    "iso": [
+     [
+      3.7,
+      "grCSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.7,
+      "Pr+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.7,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.7,
+      "m/nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.7,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.3,
+    "spag": 6.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      5.44,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      5.4,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 6.5,
+    "spag": 7.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      7.16,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.15,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.0,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      7.15,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.0,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 7.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      8.78,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      8.75,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.2,
+     1.24
+    ]
+   ],
+   "prawa": [
+    [
+     2.0,
+     2.04
+    ],
+    [
+     3.1,
+     3.14
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 1
+ },
+ {
+  "nr": 3,
+  "zal": "5.2",
+  "rzedna": 124.8,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba czarna"
+    ],
+    "iso": [
+     [
+      0.3,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.3,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      0.96,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      0.95,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      0.99,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      0.65,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      0.95,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 1.3,
+    "spag": 1.6,
+    "opis": [
+     "piasek glinaisty brązowy"
+    ],
+    "iso": [
+     [
+      1.45,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.45,
+      "Pg"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.48,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.45,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      1.45,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.0,
+    "opis": [
+     "piasek drobny j. brązowy"
+    ],
+    "iso": [
+     [
+      1.8,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.8,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.78,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      1.8,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      1.8,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.8,
+    "opis": [
+     "glina piaszczysta j. brązowo - j. szara z",
+     "wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      2.41,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.4,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.4,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.4,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.2,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      3.01,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.0,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.2,
+    "spag": 6.7,
+    "opis": [
+     "glina piaszczysta c. siwa z wkładkami piasku",
+     "gliniastego"
+    ],
+    "iso": [
+     [
+      4.99,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.95,
+      "Gp"
+     ],
+     [
+      4.95,
+      "//"
+     ],
+     [
+      4.95,
+      "Pg"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.33,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.4,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 6.7,
+    "spag": 8.5,
+    "opis": [
+     "glina piaszczysta c. szara z laminami piasku",
+     "sredniego (nawodnionego)"
+    ],
+    "iso": [
+     [
+      7.61,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.6,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 8.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      9.28,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.25,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     2.0,
+     2.04
+    ],
+    [
+     2.8,
+     2.84
+    ],
+    [
+     7.0,
+     7.04
+    ]
+   ],
+   "prawa": [
+    [
+     1.5,
+     1.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 2
+ },
+ {
+  "nr": 5,
+  "zal": "5.3",
+  "rzedna": 125.0,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.2,
+    "opis": [
+     "nasyp niekontrolowany (gleba+glina)"
+    ],
+    "iso": [
+     [
+      0.11,
+      "Mg"
+     ]
+    ],
+    "pn": [
+     [
+      0.1,
+      "Nn"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.2,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.46,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.45,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.7,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      0.35,
+      "-"
+     ]
+    ]
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.4,
+    "opis": [
+     "glina piaszczysta j. szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.07,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.05,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.07,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.05,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.4,
+    "spag": 1.6,
+    "opis": [
+     "piasek drobny j. brązowy"
+    ],
+    "iso": [
+     [
+      1.51,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.5,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.49,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      1.5,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      1.5,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.6,
+    "spag": 3.0,
+    "opis": [
+     "glina piaszczysta brązowa, od 2,8 m ppt z",
+     "wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      2.32,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.3,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.79,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.8,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.0,
+    "spag": 4.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      3.52,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.49,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 4.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru z wkładk.",
+     "piasku drobnego, c. szara"
+    ],
+    "iso": [
+     [
+      7.02,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [
+     [
+      7.03,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      5.8,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.0,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     0.9,
+     0.94
+    ]
+   ],
+   "prawa": []
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 3
+ },
+ {
+  "nr": 7,
+  "zal": "5.4",
+  "rzedna": 125.1,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.35,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku średn.,",
+     "szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.36,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.35,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.36,
+      "IVb"
+     ]
+    ],
+    "wilg": [
+     [
+      1.8,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.35,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 3.6,
+    "opis": [
+     "glina piaszczysta, brązowa"
+    ],
+    "iso": [
+     [
+      2.81,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.8,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.81,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.8,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.6,
+    "spag": 4.0,
+    "opis": [
+     "piasek średni brazowy"
+    ],
+    "iso": [
+     [
+      3.81,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.8,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.8,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.8,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.8,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.0,
+    "spag": 7.7,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      5.87,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      5.85,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.89,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      5.85,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      5.85,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 7.7,
+    "spag": 8.0,
+    "opis": [
+     "piasek drobny j. szary"
+    ],
+    "iso": [
+     [
+      7.85,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      7.85,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.85,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      7.85,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      7.85,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 8.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      9.01,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.0,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.07,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      9.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      9.0,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.2,
+     1.24
+    ]
+   ],
+   "prawa": [
+    [
+     1.7,
+     1.74
+    ],
+    [
+     3.6,
+     3.64
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 4
+ },
+ {
+  "nr": 9,
+  "zal": "5.5",
+  "rzedna": 124.8,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.31,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.7,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. szaro-",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      1.16,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.14,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.15,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.15,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.2,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku średn.,",
+     "szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.98,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.95,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.98,
+      "IVb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.2,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.95,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.2,
+    "spag": 3.2,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      2.71,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.7,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.72,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.7,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.2,
+    "spag": 4.4,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      3.81,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.8,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.83,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.8,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.4,
+    "spag": 5.5,
+    "opis": [
+     "piasek średni z domieszką żwiru, szary"
+    ],
+    "iso": [
+     [
+      4.97,
+      "grMSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.95,
+      "Ps+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.0,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      4.95,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      4.95,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      7.77,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.75,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.79,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.75,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.7,
+     1.74
+    ],
+    [
+     2.0,
+     2.04
+    ]
+   ],
+   "prawa": [
+    [
+     4.4,
+     4.44
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 5
+ },
+ {
+  "nr": 10,
+  "zal": "5.6",
+  "rzedna": 124.5,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.26,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.25,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.25,
+      "mw"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.5,
+    "spag": 0.8,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      0.67,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      0.65,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 2.7,
+    "opis": [
+     "glina piaszczysta j. brązowa - j. szara z lam.",
+     "piasku średniego"
+    ],
+    "iso": [
+     [
+      1.77,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.75,
+      "Gp+Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.6,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      2.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.6,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.7,
+    "spag": 4.5,
+    "opis": [
+     "glina piaszczysta j. szaro - brązowa z dom.",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      3.62,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.6,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.6,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.6,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.5,
+    "spag": 4.8,
+    "opis": [
+     "piasek drobny szary"
+    ],
+    "iso": [
+     [
+      4.65,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.65,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.66,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      4.65,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      4.65,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.8,
+    "spag": 6.0,
+    "opis": [
+     "glina piaszczysta c brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      5.42,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      5.4,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 6.0,
+    "spag": 7.0,
+    "opis": [
+     "glina piaszczysta c brązowa z domieszką",
+     "żwiru i z wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      6.53,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 7.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      8.51,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      8.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.47,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.4,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.4,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     2.0,
+     2.04
+    ]
+   ],
+   "prawa": [
+    [
+     1.3,
+     1.34
+    ],
+    [
+     4.5,
+     4.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 6
+ },
+ {
+  "nr": 11,
+  "zal": "5.7",
+  "rzedna": 124.4,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.36,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.5,
+    "opis": [
+     "glina piaszczysta szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.12,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.1,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.15,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      0.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.1,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.5,
+    "opis": [
+     "piasek gruby z domieszką żwiru, j. brązowy"
+    ],
+    "iso": [
+     [
+      2.01,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.0,
+      "Pr+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.08,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.0,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.0,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.5,
+    "spag": 3.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      2.75,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.75,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.77,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      2.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.75,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.0,
+    "spag": 9.0,
+    "opis": [
+     "pospółka, szara"
+    ],
+    "iso": [
+     [
+      6.0,
+      "grSa"
+     ]
+    ],
+    "pn": [
+     [
+      6.0,
+      "Po"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.01,
+      "IIIa"
+     ]
+    ],
+    "wilg": [
+     [
+      6.0,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      6.0,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 9.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      9.5,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.54,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      9.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      9.5,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.2,
+     1.24
+    ]
+   ],
+   "prawa": [
+    [
+     1.5,
+     1.54
+    ],
+    [
+     3.0,
+     3.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 7
+ },
+ {
+  "nr": 12,
+  "zal": "5.8",
+  "rzedna": 124.5,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba z domieszką kamieni"
+    ],
+    "iso": [
+     [
+      0.32,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb+k"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. szaro-",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      1.06,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.04,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.33,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.3,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku gliniast.,",
+     "j. brązowa"
+    ],
+    "iso": [
+     [
+      1.76,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.75,
+      "Gp//Pg"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "opis": [
+     "piasek gruby z domieszką żwiru, j. brązowy"
+    ],
+    "iso": [
+     [
+      2.35,
+      "grCSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.35,
+      "Pr+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.35,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.35,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.35,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.7,
+    "spag": 4.7,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku gliniast.,",
+     "c. szara"
+    ],
+    "iso": [
+     [
+      3.71,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.7,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      3.7,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      3.7,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.7,
+    "spag": 6.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru z wkład.",
+     "piasku średniego szara"
+    ],
+    "iso": [
+     [
+      5.61,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      5.61,
+      "Ps"
+     ],
+     [
+      5.61,
+      "//"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.27,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      5.61,
+      "m/nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.6,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 6.5,
+    "spag": 7.5,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku",
+     "gliniastego, c. szara"
+    ],
+    "iso": [
+     [
+      7.02,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.0,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      7.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.0,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 7.5,
+    "spag": 10.0,
+    "opis": [
+     "piasek średni brązowy"
+    ],
+    "iso": [
+     [
+      8.78,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      8.75,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.73,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      8.75,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      8.76,
+      "szg/zg"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.3,
+     1.34
+    ]
+   ],
+   "prawa": [
+    [
+     2.0,
+     2.04
+    ],
+    [
+     4.7,
+     4.74
+    ],
+    [
+     7.5,
+     7.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 8
+ },
+ {
+  "nr": 14,
+  "zal": "5.9",
+  "rzedna": 124.3,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.8,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.4,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.4,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.4,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.5,
+    "opis": [
+     "piasek średni szary"
+    ],
+    "iso": [
+     [
+      1.15,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.15,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.45,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      1.15,
+      "m/nw"
+     ]
+    ],
+    "stan": [
+     [
+      1.4,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.0,
+    "opis": [
+     "piasek średni z wkładkami gliny piaszczystej,",
+     "brązowy"
+    ],
+    "iso": [
+     [
+      1.75,
+      "MSaclsi"
+     ]
+    ],
+    "pn": [
+     [
+      1.75,
+      "Ps//Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      1.75,
+      "nw"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, brązowa"
+    ],
+    "iso": [
+     [
+      2.36,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.35,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.37,
+      "IVb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.35,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.0,
+    "opis": [
+     "piasek gruby j. brązowy z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      2.87,
+      "grCSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.84,
+      "Pr+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.9,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.85,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.85,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 3.0,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      3.26,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.25,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.29,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      3.25,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      3.25,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.5,
+    "spag": 3.7,
+    "opis": [
+     "piasek gruby brązowy"
+    ],
+    "iso": [
+     [
+      3.61,
+      "CSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.6,
+      "Pr"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.65,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.6,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.6,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 3.7,
+    "spag": 5.5,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      4.58,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.6,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.62,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      4.6,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.6,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 5.5,
+    "spag": 5.7,
+    "opis": [
+     "piasek średni brązowo - szary"
+    ],
+    "iso": [
+     [
+      5.61,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.6,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.6,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      5.6,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.6,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.7,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      7.87,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.84,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.83,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.85,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.85,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     0.9,
+     0.94
+    ]
+   ],
+   "prawa": [
+    [
+     2.7,
+     2.74
+    ],
+    [
+     3.5,
+     3.54
+    ],
+    [
+     5.5,
+     5.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 9
+ },
+ {
+  "nr": 15,
+  "zal": "5.10",
+  "rzedna": 124.3,
+  "data": "15.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.8,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.4,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.4,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.9,
+    "opis": [
+     "glina piaszczysta j. brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      1.35,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.35,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.66,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      0.95,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.65,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.9,
+    "spag": 2.1,
+    "opis": [
+     "glina piaszczysta szaro - brązowa z dom."
+    ],
+    "iso": [
+     [
+      2.01,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [
+     [
+      2.0,
+      "m"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 2.1,
+    "spag": 2.5,
+    "opis": [
+     "żwiru przewarstwiona piaskiem średnim"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 2.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta szaro - brązowa",
+     "z domieszką żwiru",
+     "glina piaszczysta c. szara z domieszką żwiru",
+     "z cienkimi wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      6.06,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      6.05,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.29,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.05,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.25,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.9,
+     1.94
+    ]
+   ],
+   "prawa": [
+    [
+     1.4,
+     1.44
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 10
+ },
+ {
+  "nr": 16,
+  "zal": "5.11",
+  "rzedna": 124.6,
+  "data": "16.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.26,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.25,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.25,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.5,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta j. brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      1.6,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.25,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      1.6,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "opis": [
+     "glina piaszczysta c. brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 2.7,
+    "spag": 5.5,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      3.01,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.01,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 5.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szaro - brązowa z dom.",
+     "żwiru z wkładkami piasku grubego"
+    ],
+    "iso": [
+     [
+      7.75,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [
+     [
+      6.44,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.35,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     2.0,
+     2.04
+    ]
+   ],
+   "prawa": [
+    [
+     1.2,
+     1.24
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 11
+ },
+ {
+  "nr": 17,
+  "zal": "5.12",
+  "rzedna": 124.8,
+  "data": "16.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.3,
+    "opis": [
+     "nasyp (piasek+cegła+kamienie)"
+    ],
+    "iso": [
+     [
+      0.15,
+      "Mg"
+     ]
+    ],
+    "pn": [
+     [
+      0.15,
+      "Nn"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.15,
+      "mw"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.3,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.51,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.5,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.9,
+    "opis": [
+     "glina piaszczysta j. brązowa z domieszką",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      1.31,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.3,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.34,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.1,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.3,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.9,
+    "spag": 2.3,
+    "opis": [
+     "piasek drobny j. brązowy z wkładkami gliny",
+     "piaszczystej"
+    ],
+    "iso": [
+     [
+      2.1,
+      "FSaclsi"
+     ]
+    ],
+    "pn": [
+     [
+      2.1,
+      "Pd"
+     ],
+     [
+      2.1,
+      "//Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.1,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      2.1,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.1,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.3,
+    "spag": 3.1,
+    "opis": [
+     "glina piaszczysta brązowa z wkładkami",
+     "piasku średniego"
+    ],
+    "iso": [
+     [
+      2.71,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.7,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.7,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      2.9,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.7,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.1,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      3.31,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.3,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.3,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.3,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.5,
+    "spag": 3.8,
+    "opis": [
+     "piasek średni brązowy"
+    ],
+    "iso": [
+     [
+      3.65,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.65,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.66,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.65,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.65,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 3.8,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru",
+     "miejscami z wkładkami piasku średniego"
+    ],
+    "iso": [
+     [
+      6.93,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      6.9,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.95,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.9,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.9,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [],
+   "prawa": [
+    [
+     1.9,
+     1.94
+    ],
+    [
+     3.5,
+     3.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 12
+ },
+ {
+  "nr": 18,
+  "zal": "5.13",
+  "rzedna": 124.9,
+  "data": "16.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "opis": [
+     "gleba"
+    ],
+    "iso": [
+     [
+      0.27,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.25,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.5,
+    "spag": 3.1,
+    "opis": [
+     "glina piaszczysta brązowo - szara"
+    ],
+    "iso": [
+     [
+      1.76,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.8,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      1.55,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 3.1,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta brązowa z laminami piasku",
+     "grubego"
+    ],
+    "iso": [
+     [
+      3.28,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.3,
+      "Gp+Pr"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.32,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      3.3,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      3.25,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 3.5,
+    "spag": 5.0,
+    "opis": [
+     "glina piaszczysta zwięzła c. szara"
+    ],
+    "iso": [
+     [
+      4.27,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.25,
+      "Gpz"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      4.25,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 5.0,
+    "spag": 6.0,
+    "opis": [
+     "glina piaszczysta zwięzła c. szara z laminami",
+     "piasku średniego i piasku gliniastego"
+    ],
+    "iso": [
+     [
+      5.5,
+      "Gpz+Ps+Pg"
+     ],
+     [
+      5.61,
+      "clSa"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [
+     [
+      5.5,
+      "w/m"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 6.0,
+    "spag": 7.0,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      6.53,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      6.5,
+      "Gpz"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      6.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.5,
+      "zw"
+     ]
+    ]
+   },
+   {
+    "strop": 7.0,
+    "spag": 8.7,
+    "opis": [
+     "piasek średni j. szary na pograniczu piasku",
+     "drobnego",
+     "MSa/FSa"
+    ],
+    "iso": [],
+    "pn": [
+     [
+      7.85,
+      "Ps/Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.85,
+      "IIc"
+     ]
+    ],
+    "wilg": [
+     [
+      7.85,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      7.85,
+      "bzg"
+     ]
+    ]
+   },
+   {
+    "strop": 8.7,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      9.35,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.35,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.35,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      9.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      9.35,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     3.3,
+     3.34
+    ],
+    [
+     5.4,
+     5.44
+    ],
+    [
+     5.8,
+     5.84
+    ]
+   ],
+   "prawa": [
+    [
+     7.0,
+     7.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 13
+ },
+ {
+  "nr": 20,
+  "zal": "5.14",
+  "rzedna": 124.6,
+  "data": "17.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.2,
+    "opis": [
+     "nasyp (gruz+glina) szaro - brązowy"
+    ],
+    "iso": [
+     [
+      0.1,
+      "Mg"
+     ]
+    ],
+    "pn": [
+     [
+      0.1,
+      "nN"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.2,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.44,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.45,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.1,
+    "opis": [
+     "piasek średni z wkładkami piasku gliniastego",
+     "c.żółty"
+    ],
+    "iso": [
+     [
+      0.9,
+      "MSacl"
+     ]
+    ],
+    "pn": [
+     [
+      0.9,
+      "Ps//Pg"
+     ]
+    ],
+    "warstwa": [
+     [
+      0.92,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      0.85,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      0.9,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.1,
+    "spag": 1.7,
+    "opis": [
+     "glina piaszczysta brązowo - żółta"
+    ],
+    "iso": [
+     [
+      1.41,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.4,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.43,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.4,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.7,
+    "opis": [
+     "piasek drobny z domieszką żwiru, j. brązowy"
+    ],
+    "iso": [
+     [
+      2.21,
+      "grFSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.2,
+      "Pd+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.19,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      2.2,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      2.2,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.2,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, brąz.-",
+     "żółta"
+    ],
+    "iso": [
+     [
+      2.96,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.95,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      3.15,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      3.15,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 3.2,
+    "spag": 3.6,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      3.4,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.4,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.21,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.6,
+    "spag": 4.0,
+    "opis": [
+     "piasek drobny j. żółto - szary"
+    ],
+    "iso": [
+     [
+      3.78,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.8,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.81,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      3.8,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.8,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.0,
+    "spag": 4.4,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      4.2,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.2,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      4.2,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.2,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 4.4,
+    "spag": 4.7,
+    "opis": [
+     "piasek średni szary"
+    ],
+    "iso": [
+     [
+      4.54,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.55,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.58,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      4.55,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      4.55,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.7,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta zwięzła c. szara z dom.",
+     "żwiru"
+    ],
+    "iso": [
+     [
+      7.35,
+      "grclSa"
+     ]
+    ],
+    "pn": [
+     [
+      7.34,
+      "Gpz+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.33,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.35,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     2.7,
+     2.74
+    ]
+   ],
+   "prawa": [
+    [
+     3.6,
+     3.64
+    ],
+    [
+     4.4,
+     4.44
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 14
+ },
+ {
+  "nr": 21,
+  "zal": "5.15",
+  "rzedna": 124.8,
+  "data": "17.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.8,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.4,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.4,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 2.8,
+    "opis": [
+     "glina piaszczysta j. brązowa"
+    ],
+    "iso": [
+     [
+      1.8,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.8,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.77,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.8,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta przewarstwiona piaskiem",
+     "drobnym"
+    ],
+    "iso": [
+     [
+      3.16,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.15,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.5,
+    "spag": 4.4,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru c. szaro-",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      3.95,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.96,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 4.4,
+    "spag": 5.5,
+    "opis": [
+     "glina piaszczysta zwięzła z laminami piasku",
+     "drobnego (mokrego)"
+    ],
+    "iso": [
+     [
+      4.95,
+      "clSa"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [
+     [
+      5.0,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 5.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru c. szara"
+    ],
+    "iso": [
+     [
+      7.75,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.74,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.48,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      6.4,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     3.0,
+     3.04
+    ],
+    [
+     4.5,
+     4.54
+    ]
+   ],
+   "prawa": []
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 15
+ },
+ {
+  "nr": 23,
+  "zal": "5.16",
+  "rzedna": 124.5,
+  "data": "17.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.8,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.4,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.4,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.4,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.7,
+    "opis": [
+     "piasek średni, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.27,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.25,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.24,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      1.25,
+      "w/nw"
+     ]
+    ],
+    "stan": [
+     [
+      1.25,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.4,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, szaro -",
+     "brązowa"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      2.05,
+      "IVb"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.05,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.4,
+    "spag": 2.8,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, brązowa"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      2.59,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.6,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.8,
+    "spag": 5.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      3.35,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.35,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.04,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      3.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      3.9,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 6.0,
+    "opis": [
+     "piasek średni z domieszką żwiru, szary"
+    ],
+    "iso": [
+     [
+      5.52,
+      "grMSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.5,
+      "Ps+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.5,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      5.5,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.5,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 6.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      8.02,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      8.0,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.04,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      8.0,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.0,
+     1.04
+    ]
+   ],
+   "prawa": [
+    [
+     5.0,
+     5.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 16
+ },
+ {
+  "nr": 24,
+  "zal": "5.17",
+  "rzedna": 124.4,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.35,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.5,
+    "opis": [
+     "glina piaszczysta j. brązowo - j. szara"
+    ],
+    "iso": [
+     [
+      1.11,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.1,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      1.1,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.8,
+    "opis": [
+     "glina piaszczystaj. brązowa z cienkimi wkład.",
+     "piasku gliniastego"
+    ],
+    "iso": [
+     [
+      2.15,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.14,
+      "Gp//Pg"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.0,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      1.85,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.15,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.3,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [
+     [
+      3.07,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.05,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      3.05,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 3.3,
+    "spag": 3.7,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku średn.",
+     "(mokrego)"
+    ],
+    "iso": [
+     [
+      3.52,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.5,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.5,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.5,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.7,
+    "spag": 4.6,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, szaro -",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      4.18,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.15,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      4.15,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      4.15,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.6,
+    "spag": 5.0,
+    "opis": [
+     "piasek średni j. szary"
+    ],
+    "iso": [
+     [
+      4.79,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.8,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.81,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      4.8,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      4.8,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 7.5,
+    "opis": [
+     "glina piaszczysta zwięzła przewarstwiona",
+     "piaskiem średnim c.szara"
+    ],
+    "iso": [
+     [
+      6.28,
+      "clSa"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [
+     [
+      7.43,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.25,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.25,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 7.5,
+    "spag": 9.5,
+    "opis": [
+     "pył z wkładkami piasku drobnego"
+    ],
+    "iso": [
+     [
+      8.5,
+      "Sifsa"
+     ]
+    ],
+    "pn": [
+     [
+      8.51,
+      "P//Pd"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      8.5,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      8.51,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 9.5,
+    "spag": 10.0,
+    "opis": [
+     "piasek średni szary"
+    ],
+    "iso": [
+     [
+      9.75,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      9.75,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.78,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      9.75,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      9.75,
+      "szg"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     3.7,
+     3.74
+    ],
+    [
+     3.7,
+     3.74
+    ]
+   ],
+   "prawa": [
+    [
+     4.6,
+     4.64
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 17
+ },
+ {
+  "nr": 25,
+  "zal": "5.18",
+  "rzedna": 124.4,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.32,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. szaro-",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      1.08,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.05,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.04,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.05,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 1.7,
+    "opis": [
+     "piasek drobny żółty"
+    ],
+    "iso": [
+     [
+      1.62,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.6,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.6,
+      "Ia"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.6,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.7,
+    "spag": 3.2,
+    "opis": [
+     "glina piaszczysta, brązowa"
+    ],
+    "iso": [
+     [
+      2.45,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.45,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      3.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.85,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.2,
+    "spag": 4.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      3.65,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.6,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.82,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 4.0,
+    "spag": 6.0,
+    "opis": [
+     "glina piaszczysta zwięzła c. szara"
+    ],
+    "iso": [
+     [
+      5.02,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.0,
+      "Gpz"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      5.0,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 6.0,
+    "spag": 7.0,
+    "opis": [
+     "piasek średni szary"
+    ],
+    "iso": [
+     [
+      6.51,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      6.5,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.5,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      6.5,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      6.5,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 7.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. szaro -",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      8.52,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      8.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.55,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      8.5,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     7.0,
+     7.04
+    ]
+   ],
+   "prawa": [
+    [
+     6.0,
+     6.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 18
+ },
+ {
+  "nr": 26,
+  "zal": "5.19",
+  "rzedna": 124.6,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.8,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.41,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.4,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.0,
+    "opis": [
+     "piasek drobny, brązowy"
+    ],
+    "iso": [
+     [
+      0.91,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      0.9,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      0.92,
+      "Ia"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      0.9,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.0,
+    "spag": 1.4,
+    "opis": [
+     "glina piaszczysta j. szaro - brazowa"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      1.22,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.2,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.4,
+    "spag": 3.0,
+    "opis": [
+     "glina piaszczysta szaro - brązowa"
+    ],
+    "iso": [
+     [
+      2.02,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.0,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.21,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.2,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.0,
+    "spag": 3.2,
+    "opis": [
+     "piasek średni j. brązowy"
+    ],
+    "iso": [
+     [
+      3.11,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.1,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.13,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.1,
+      "m/nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.1,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 3.2,
+    "spag": 6.3,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      4.75,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.75,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.78,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      4.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.75,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 6.3,
+    "spag": 6.7,
+    "opis": [
+     "piasek drobny szary"
+    ],
+    "iso": [
+     [
+      6.49,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      6.5,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.51,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      6.5,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      6.5,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 6.7,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta c. szara z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      8.37,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      8.35,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.36,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      8.35,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.3,
+     1.34
+    ]
+   ],
+   "prawa": [
+    [
+     3.0,
+     3.04
+    ],
+    [
+     6.3,
+     6.34
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 19
+ },
+ {
+  "nr": 27,
+  "zal": "5.20",
+  "rzedna": 124.7,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.31,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.6,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      1.41,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.4,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.13,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.1,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.1,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.2,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      2.17,
+      "IVb"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.15,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.2,
+    "spag": 2.7,
+    "opis": [
+     "piasek gliniasty brązowy"
+    ],
+    "iso": [
+     [
+      2.47,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.45,
+      "Pg"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      2.45,
+      "m"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.4,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      3.26,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.25,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.29,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      3.25,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      3.25,
+      "pzw"
+     ]
+    ]
+   },
+   {
+    "strop": 3.4,
+    "spag": 3.8,
+    "opis": [
+     "glina piaszczysta c. szara"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.8,
+    "spag": 5.0,
+    "opis": [
+     "piasek średni, j. szary"
+    ],
+    "iso": [
+     [
+      4.41,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      4.4,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.44,
+      "IIb"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      4.42,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 7.2,
+    "opis": [
+     "piasek średni z domieszką gliny piaszczystej"
+    ],
+    "iso": [
+     [
+      6.1,
+      "clsiMSa"
+     ]
+    ],
+    "pn": [
+     [
+      6.11,
+      "Ps+Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.28,
+      "IIc"
+     ]
+    ],
+    "wilg": [
+     [
+      5.4,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      6.12,
+      "bzg"
+     ]
+    ]
+   },
+   {
+    "strop": 7.2,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta zwięzła c. szara"
+    ],
+    "iso": [
+     [
+      8.61,
+      "clSa"
+     ]
+    ],
+    "pn": [
+     [
+      8.6,
+      "Gpz"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.61,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.62,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      8.61,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     3.6,
+     3.64
+    ]
+   ],
+   "prawa": [
+    [
+     3.8,
+     3.84
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 20
+ },
+ {
+  "nr": 29,
+  "zal": "5.21",
+  "rzedna": 124.7,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "opis": [
+     "gleba c. brazowa"
+    ],
+    "iso": [
+     [
+      0.25,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.25,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.5,
+    "spag": 1.5,
+    "opis": [
+     "gleba piaszczysta z przewarstwieniami piasku",
+     "drobnego, j. szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.03,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.0,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.02,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      0.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.0,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.2,
+    "opis": [
+     "piasek drobny, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.85,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.85,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.87,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      1.85,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      1.85,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.2,
+    "spag": 3.3,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      2.75,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.75,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.88,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      2.85,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.85,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.3,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. brąz."
+    ],
+    "iso": [
+     [
+      3.39,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      3.4,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.5,
+    "spag": 5.0,
+    "opis": [
+     "piasek drobny z wkładkami gliny, szary"
+    ],
+    "iso": [
+     [
+      4.25,
+      "FSasicl"
+     ]
+    ],
+    "pn": [
+     [
+      4.25,
+      "Pd//G"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.26,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      4.25,
+      "m/nw"
+     ]
+    ],
+    "stan": [
+     [
+      4.25,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 6.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      5.76,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      5.75,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.79,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      5.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      5.75,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 6.5,
+    "spag": 7.0,
+    "opis": [
+     "piasek średni z domieszką żwiru z wkładkami",
+     "grMSaclsi",
+     "gliny piaszczytej, szary"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      6.76,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      6.75,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      6.75,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 7.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru i z wkład.",
+     "piasku średniego, c. szara"
+    ],
+    "iso": [
+     [
+      8.53,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [
+     [
+      8.5,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      8.5,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.1,
+     1.14
+    ]
+   ],
+   "prawa": [
+    [
+     1.5,
+     1.54
+    ],
+    [
+     3.5,
+     3.54
+    ],
+    [
+     6.5,
+     6.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 21
+ },
+ {
+  "nr": 31,
+  "zal": "5.22",
+  "rzedna": 125.0,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.35,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      0.35,
+      "-"
+     ]
+    ]
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.2,
+    "opis": [
+     "glina piaszczysta brązowa"
+    ],
+    "iso": [
+     [
+      0.96,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      0.95,
+      "Gp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 1.2,
+    "spag": 1.7,
+    "opis": [
+     "pył piaszczysty na pograniczu piasku",
+     "saSi/siSa",
+     "pylastego j.brązowy"
+    ],
+    "iso": [],
+    "pn": [
+     [
+      1.45,
+      "Pp/Pp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      1.65,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 1.7,
+    "spag": 3.3,
+    "opis": [
+     "glina piaszczysta brązowa z domieszką żwiru"
+    ],
+    "iso": [
+     [
+      2.46,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.95,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.99,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.3,
+    "spag": 3.5,
+    "opis": [
+     "piasek średni brązowy"
+    ],
+    "iso": [
+     [
+      3.41,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.4,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.4,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.4,
+      "m"
+     ]
+    ],
+    "stan": [
+     [
+      3.4,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 3.5,
+    "spag": 4.7,
+    "opis": [
+     "glina pylasta z wkładkami piasku średniego,",
+     "szaro - brązowa"
+    ],
+    "iso": [
+     [
+      4.11,
+      "siClmsa"
+     ]
+    ],
+    "pn": [
+     [
+      4.1,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.08,
+      "IVb"
+     ]
+    ],
+    "wilg": [
+     [
+      4.1,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.1,
+      "tpl/pl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.7,
+    "spag": 5.8,
+    "opis": [
+     "pospółka, szaro - brązowa"
+    ],
+    "iso": [
+     [
+      5.25,
+      "grSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.25,
+      "Po"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.26,
+      "IIIb"
+     ]
+    ],
+    "wilg": [
+     [
+      5.25,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.26,
+      "zg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.8,
+    "spag": 6.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      6.16,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      6.15,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.17,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      6.15,
+      "w/m"
+     ]
+    ],
+    "stan": [
+     [
+      6.15,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 6.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru z wkład.",
+     "pospółki szara"
+    ],
+    "iso": [
+     [
+      8.25,
+      "Gp+Ż"
+     ],
+     [
+      8.26,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      8.25,
+      "Po"
+     ],
+     [
+      8.25,
+      "//"
+     ]
+    ],
+    "warstwa": [
+     [
+      8.28,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      8.25,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      8.25,
+      "pzw"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.0,
+     1.04
+    ],
+    [
+     2.0,
+     2.04
+    ],
+    [
+     4.0,
+     4.04
+    ]
+   ],
+   "prawa": [
+    [
+     4.7,
+     4.74
+    ],
+    [
+     6.5,
+     6.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 22
+ },
+ {
+  "nr": 32,
+  "zal": "5.23",
+  "rzedna": 124.9,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.27,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.25,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": [
+     [
+      0.25,
+      "-"
+     ]
+    ]
+   },
+   {
+    "strop": 0.5,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. szaro -",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      1.28,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.25,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.28,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.25,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.7,
+    "opis": [
+     "piasek średni, j. brązowy"
+    ],
+    "iso": [
+     [
+      2.37,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      2.35,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.35,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      2.35,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      2.35,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.3,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, brązowa"
+    ],
+    "iso": [],
+    "pn": [],
+    "warstwa": [
+     [
+      3.01,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.0,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.3,
+    "spag": 7.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      4.87,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.85,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.63,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.65,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 7.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru przewarst.",
+     "piaskiem średnim, brązowa"
+    ],
+    "iso": [
+     [
+      8.53,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   }
+  ],
+  "woda": {
+   "lewa": [],
+   "prawa": [
+    [
+     2.0,
+     2.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 23
+ },
+ {
+  "nr": 33,
+  "zal": "5.24",
+  "rzedna": 124.8,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.35,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.7,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku",
+     "drobnego, brązowa"
+    ],
+    "iso": [
+     [
+      1.21,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.2,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.19,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.2,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.7,
+    "spag": 3.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, brązowa"
+    ],
+    "iso": [
+     [
+      2.6,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.6,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.65,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      1.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      2.6,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.5,
+    "spag": 4.0,
+    "opis": [
+     "piasek gruby z domieszką żwiru, szaro-brąz."
+    ],
+    "iso": [
+     [
+      3.75,
+      "grCSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.75,
+      "Pr+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.78,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.75,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.75,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, miejsc.",
+     "przewarstwiona piaskiem średnim, c. szara"
+    ],
+    "iso": [
+     [
+      7.01,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.0,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.02,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.0,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.7,
+     1.74
+    ]
+   ],
+   "prawa": [
+    [
+     3.5,
+     3.54
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 24
+ },
+ {
+  "nr": 36,
+  "zal": "5.25",
+  "rzedna": 124.6,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.9,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.42,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.45,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.65,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 0.9,
+    "spag": 1.3,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, j. brąz."
+    ],
+    "iso": [
+     [
+      1.11,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.1,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.12,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.1,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.3,
+    "spag": 1.5,
+    "opis": [
+     "piasek pylasty, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.41,
+      "siSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.4,
+      "Pp"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      1.4,
+      "w/nw"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 1.5,
+    "spag": 2.0,
+    "opis": [
+     "piasek drobny, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.75,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.75,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.67,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      1.75,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      1.65,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.5,
+    "opis": [
+     "glina piaszczysta z wkakami piasku drobnego",
+     "szaro-brązowa"
+    ],
+    "iso": [
+     [
+      2.26,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.25,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.24,
+      "IVa"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.25,
+      "pl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.5,
+    "spag": 3.0,
+    "opis": [
+     "glina piaszczysta, brązowa"
+    ],
+    "iso": [
+     [
+      2.76,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.75,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.75,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.75,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.0,
+    "spag": 5.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      4.04,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.0,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.99,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      3.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.0,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 5.7,
+    "opis": [
+     "piasek średni rdzawy"
+    ],
+    "iso": [
+     [
+      5.39,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.39,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.4,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      5.35,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.35,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.7,
+    "spag": 6.4,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      6.07,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      6.05,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.07,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      6.05,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      6.05,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 6.4,
+    "spag": 9.0,
+    "opis": [
+     "piasek średni, szaro - rdzawy"
+    ],
+    "iso": [
+     [
+      7.73,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      7.7,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.71,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      7.7,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      7.7,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 9.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szaro",
+     "brązowa"
+    ],
+    "iso": [
+     [
+      9.15,
+      "-"
+     ],
+     [
+      9.51,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.52,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      9.5,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.3,
+     1.34
+    ]
+   ],
+   "prawa": [
+    [
+     5.0,
+     5.04
+    ],
+    [
+     6.4,
+     6.44
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 25
+ },
+ {
+  "nr": 38,
+  "zal": "5.26",
+  "rzedna": 124.8,
+  "data": "18.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.34,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.6,
+    "opis": [
+     "glina piaszczysta, szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.13,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.15,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.2,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.15,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.0,
+    "opis": [
+     "piasek średni, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.81,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.8,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.79,
+      "IIb"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.8,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 3.3,
+    "opis": [
+     "glina piaszczysta brązowa z lmainami piasku",
+     "średniego"
+    ],
+    "iso": [
+     [
+      2.66,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.65,
+      "Gp+Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.69,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.65,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 3.3,
+    "spag": 5.4,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku średn."
+    ],
+    "iso": [
+     [
+      4.38,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.35,
+      "Gp//Ps"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      5.0,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 5.4,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szara"
+    ],
+    "iso": [
+     [
+      7.71,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.71,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.79,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      6.65,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [],
+   "prawa": []
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 26
+ },
+ {
+  "nr": 39,
+  "zal": "5.27",
+  "rzedna": 124.8,
+  "data": "20.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.7,
+    "opis": [
+     "gleba c. brązowa"
+    ],
+    "iso": [
+     [
+      0.34,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.35,
+      "Gb"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 0.7,
+    "spag": 1.3,
+    "opis": [
+     "piasek drobny, j. brązowy"
+    ],
+    "iso": [
+     [
+      1.0,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      1.0,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.0,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      1.0,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      1.0,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.3,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta z wkładkami piasku drobn.,",
+     "szaro - brązowa"
+    ],
+    "iso": [
+     [
+      1.67,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.65,
+      "Gp//Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.68,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.65,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 4.6,
+    "opis": [
+     "piasek średni , szaro - brazowy"
+    ],
+    "iso": [
+     [
+      3.32,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      3.3,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.29,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      3.3,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      3.3,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 4.6,
+    "spag": 5.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. brąz."
+    ],
+    "iso": [
+     [
+      4.8,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.8,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.8,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      4.8,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      4.8,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 5.0,
+    "spag": 9.0,
+    "opis": [
+     "piasek średni z domieszką żwiru, szary"
+    ],
+    "iso": [
+     [
+      7.01,
+      "grMSa"
+     ]
+    ],
+    "pn": [
+     [
+      7.0,
+      "Ps+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      6.99,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      7.0,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      7.0,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 9.0,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. brąz."
+    ],
+    "iso": [
+     [
+      9.54,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.5,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.52,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      9.5,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      9.5,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     1.5,
+     1.54
+    ]
+   ],
+   "prawa": [
+    [
+     2.0,
+     2.04
+    ],
+    [
+     5.0,
+     5.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 27
+ },
+ {
+  "nr": 40,
+  "zal": "5.28",
+  "rzedna": 124.9,
+  "data": "20.07.2025 r",
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "opis": [
+     "gleba z domieszką kamieni, c. brązowa"
+    ],
+    "iso": [
+     [
+      0.3,
+      "H"
+     ]
+    ],
+    "pn": [
+     [
+      0.3,
+      "Gb+k"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [
+     [
+      0.3,
+      "-"
+     ]
+    ],
+    "stan": [
+     [
+      0.3,
+      "-"
+     ]
+    ]
+   },
+   {
+    "strop": 0.6,
+    "spag": 0.8,
+    "opis": [
+     "glina piaszczysta, brązowa"
+    ],
+    "iso": [
+     [
+      0.7,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      0.7,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      0.71,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      0.7,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 0.8,
+    "spag": 1.6,
+    "opis": [
+     "piasek średni na pograniczu piasku grubego,",
+     "MSa/CSa",
+     "brązowy"
+    ],
+    "iso": [],
+    "pn": [
+     [
+      1.2,
+      "Ps/Pr"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.2,
+      "IIb"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.2,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.0,
+    "opis": [
+     "glina piaszczysta, brązowa"
+    ],
+    "iso": [
+     [
+      1.8,
+      "saclSi"
+     ]
+    ],
+    "pn": [
+     [
+      1.8,
+      "Gp"
+     ]
+    ],
+    "warstwa": [
+     [
+      1.79,
+      "IVc"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      1.8,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 2.0,
+    "spag": 2.6,
+    "opis": [
+     "piasek pylasty na pograniczu pyłu piaszczyst.,",
+     "j. szaro - brązowy"
+    ],
+    "iso": [
+     [
+      2.32,
+      "siSa/saSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.31,
+      "P.p/Pp"
+     ]
+    ],
+    "warstwa": [
+     [
+      2.3,
+      "Ia"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      2.3,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 2.6,
+    "spag": 3.2,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. brąz."
+    ],
+    "iso": [
+     [
+      2.91,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      2.9,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.09,
+      "IVc"
+     ]
+    ],
+    "wilg": [
+     [
+      3.05,
+      "w"
+     ]
+    ],
+    "stan": []
+   },
+   {
+    "strop": 3.2,
+    "spag": 3.5,
+    "opis": [
+     "glina pylasta zwięzła, szaro - brązowa"
+    ],
+    "iso": [
+     [
+      3.33,
+      "sasiCl"
+     ]
+    ],
+    "pn": [
+     [
+      3.35,
+      "Gpz"
+     ]
+    ],
+    "warstwa": [],
+    "wilg": [],
+    "stan": []
+   },
+   {
+    "strop": 3.5,
+    "spag": 4.4,
+    "opis": [
+     "ił, szaro - brązowy"
+    ],
+    "iso": [
+     [
+      3.97,
+      "Cl"
+     ]
+    ],
+    "pn": [
+     [
+      3.95,
+      "I"
+     ]
+    ],
+    "warstwa": [
+     [
+      3.98,
+      "V"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      3.5,
+      "tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 4.4,
+    "spag": 5.5,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szaro",
+     "-brązowa"
+    ],
+    "iso": [
+     [
+      4.99,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      4.95,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      4.98,
+      "IVd"
+     ]
+    ],
+    "wilg": [],
+    "stan": [
+     [
+      4.95,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 5.5,
+    "spag": 5.7,
+    "opis": [
+     "piasek drobny, szary"
+    ],
+    "iso": [
+     [
+      5.61,
+      "FSa"
+     ]
+    ],
+    "pn": [
+     [
+      5.6,
+      "Pd"
+     ]
+    ],
+    "warstwa": [
+     [
+      5.6,
+      "Ia"
+     ]
+    ],
+    "wilg": [
+     [
+      5.6,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      5.6,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 5.7,
+    "spag": 9.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szaro",
+     "-brązowa"
+    ],
+    "iso": [
+     [
+      7.36,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      7.35,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      7.39,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      7.35,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      7.35,
+      "pzw/tpl"
+     ]
+    ]
+   },
+   {
+    "strop": 9.0,
+    "spag": 9.5,
+    "opis": [
+     "piasek średni, szary"
+    ],
+    "iso": [
+     [
+      9.24,
+      "MSa"
+     ]
+    ],
+    "pn": [
+     [
+      9.25,
+      "Ps"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.27,
+      "IIb"
+     ]
+    ],
+    "wilg": [
+     [
+      9.25,
+      "nw"
+     ]
+    ],
+    "stan": [
+     [
+      9.25,
+      "szg"
+     ]
+    ]
+   },
+   {
+    "strop": 9.5,
+    "spag": 10.0,
+    "opis": [
+     "glina piaszczysta z domieszką żwiru, c. szaro",
+     "-brązowa"
+    ],
+    "iso": [
+     [
+      9.74,
+      "grsaclSi"
+     ]
+    ],
+    "pn": [
+     [
+      9.75,
+      "Gp+Ż"
+     ]
+    ],
+    "warstwa": [
+     [
+      9.78,
+      "IVd"
+     ]
+    ],
+    "wilg": [
+     [
+      9.75,
+      "w"
+     ]
+    ],
+    "stan": [
+     [
+      9.75,
+      "pzw/tpl"
+     ]
+    ]
+   }
+  ],
+  "woda": {
+   "lewa": [
+    [
+     3.0,
+     3.04
+    ]
+   ],
+   "prawa": [
+    [
+     5.5,
+     5.54
+    ],
+    [
+     9.0,
+     9.04
+    ]
+   ]
+  },
+  "skala_pt_na_m": 28.32,
+  "strona": 28
+ }
+]
