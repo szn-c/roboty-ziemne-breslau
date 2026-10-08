@@ -1,0 +1,218 @@
+{
+ "tolerancja_TIN_m": 0.01,
+ "powierzchnie": {
+  "1_TEREN_ISTNIEJACY": {
+   "punkty": 2242,
+   "trojkaty": 4131,
+   "iteracje": 8,
+   "blad_sredni_m": 0.0015,
+   "blad_p99_m": 0.008,
+   "blad_max_m": 0.089,
+   "blad_ponad_tol_poza_uskokami_max_m": 0.01,
+   "probki_blad_ponad_5cm_proc": 0.001
+  },
+  "2_PO_ZDJECIU_HUMUSU_I_NASYPU": {
+   "punkty": 6910,
+   "trojkaty": 13467,
+   "iteracje": 16,
+   "blad_sredni_m": 0.0014,
+   "blad_p99_m": 0.0083,
+   "blad_max_m": 0.075,
+   "blad_ponad_tol_poza_uskokami_max_m": 0.01,
+   "probki_blad_ponad_5cm_proc": 0.001
+  },
+  "3A_WYKOP_A": {
+   "punkty": 15640,
+   "trojkaty": 30928,
+   "iteracje": 16,
+   "blad_sredni_m": 0.0011,
+   "blad_p99_m": 0.0237,
+   "blad_max_m": 0.097,
+   "blad_ponad_tol_poza_uskokami_max_m": 0.01,
+   "probki_blad_ponad_5cm_proc": 0.008
+  },
+  "3B_WYKOP_B": {
+   "punkty": 8316,
+   "trojkaty": 16279,
+   "iteracje": 17,
+   "blad_sredni_m": 0.0004,
+   "blad_p99_m": 0.0101,
+   "blad_max_m": 0.109,
+   "blad_ponad_tol_poza_uskokami_max_m": 0.01,
+   "probki_blad_ponad_5cm_proc": 0.005
+  },
+  "4_STAN_KONCOWY": {
+   "punkty": 3935,
+   "trojkaty": 7519,
+   "iteracje": 12,
+   "blad_sredni_m": 0.0009,
+   "blad_p99_m": 0.0082,
+   "blad_max_m": 0.082,
+   "blad_ponad_tol_poza_uskokami_max_m": 0.01,
+   "probki_blad_ponad_5cm_proc": 0.003
+  }
+ },
+ "objetosci": {
+  "A": {
+   "wykop_raster_m3": 34264.888,
+   "wykop_TIN_m3": 34268.928,
+   "roznica_m3": 4.04,
+   "roznica_proc": 0.0118,
+   "bilans_wykop_rodzimy_m3": 34264.887,
+   "zasyp_ponad_teren_m3": 0.0
+  },
+  "B": {
+   "wykop_raster_m3": 45202.424,
+   "wykop_TIN_m3": 45208.435,
+   "roznica_m3": 6.011,
+   "roznica_proc": 0.0133,
+   "bilans_wykop_rodzimy_m3": 45202.425,
+   "zasyp_ponad_teren_m3": 0.0
+  },
+  "humus_i_nasyp_ist_hum": 15536.201
+ },
+ "plaszczyzny_scianki": {
+  "A": 271,
+  "B": 287
+ },
+ "kontrola_niezalezna": {
+  "plik_LandXML": "MODEL3D_dz190_LandXML.xml",
+  "plik_DXF": "MODEL3D_dz190.dxf",
+  "powierzchnie": {
+   "1_TEREN_ISTNIEJACY": {
+    "kolejnosc_N_E_Z_ok": true,
+    "numeracja_ok": true,
+    "indeksy_ok": true,
+    "trojkaty_ccw_ok": true,
+    "najmniejsze_pole_trojkata_m2": 0.000248,
+    "punkty_unikalne_ok": true,
+    "suma_pol_trojkatow_m2": 25289.65,
+    "pole_dzialki_m2": 25289.68,
+    "roznica_pola_m2": -0.02,
+    "krawedzie_ponad_2_trojkaty": 0,
+    "dlugosc_krawedzi_brzegowych_m": 665.24,
+    "obwod_dzialki_m": 665.24,
+    "liczba_punktow": 2242,
+    "liczba_trojkatow": 4131,
+    "Z_min": 124.2,
+    "Z_max": 125.997,
+    "ok": true,
+    "dxf_trojkaty": 4131,
+    "dxf_zgodny_z_landxml": true,
+    "komorki_bez_wartosci_w_dzialce": 0
+   },
+   "2_PO_ZDJECIU_HUMUSU_I_NASYPU": {
+    "kolejnosc_N_E_Z_ok": true,
+    "numeracja_ok": true,
+    "indeksy_ok": true,
+    "trojkaty_ccw_ok": true,
+    "najmniejsze_pole_trojkata_m2": 0.000248,
+    "punkty_unikalne_ok": true,
+    "suma_pol_trojkatow_m2": 25289.65,
+    "pole_dzialki_m2": 25289.68,
+    "roznica_pola_m2": -0.02,
+    "krawedzie_ponad_2_trojkaty": 0,
+    "dlugosc_krawedzi_brzegowych_m": 665.24,
+    "obwod_dzialki_m": 665.24,
+    "liczba_punktow": 6910,
+    "liczba_trojkatow": 13467,
+    "Z_min": 123.401,
+    "Z_max": 125.366,
+    "ok": true,
+    "dxf_trojkaty": 13467,
+    "dxf_zgodny_z_landxml": true,
+    "komorki_bez_wartosci_w_dzialce": 0
+   },
+   "3A_WYKOP_A": {
+    "kolejnosc_N_E_Z_ok": true,
+    "numeracja_ok": true,
+    "indeksy_ok": true,
+    "trojkaty_ccw_ok": true,
+    "najmniejsze_pole_trojkata_m2": 0.000248,
+    "punkty_unikalne_ok": true,
+    "suma_pol_trojkatow_m2": 25289.66,
+    "pole_dzialki_m2": 25289.68,
+    "roznica_pola_m2": -0.01,
+    "krawedzie_ponad_2_trojkaty": 0,
+    "dlugosc_krawedzi_brzegowych_m": 665.24,
+    "obwod_dzialki_m": 665.24,
+    "liczba_punktow": 15640,
+    "liczba_trojkatow": 30928,
+    "Z_min": 121.86,
+    "Z_max": 125.366,
+    "ok": true,
+    "dxf_trojkaty": 30928,
+    "dxf_zgodny_z_landxml": true,
+    "komorki_bez_wartosci_w_dzialce": 0
+   },
+   "3B_WYKOP_B": {
+    "kolejnosc_N_E_Z_ok": true,
+    "numeracja_ok": true,
+    "indeksy_ok": true,
+    "trojkaty_ccw_ok": true,
+    "najmniejsze_pole_trojkata_m2": 0.000248,
+    "punkty_unikalne_ok": true,
+    "suma_pol_trojkatow_m2": 25289.65,
+    "pole_dzialki_m2": 25289.68,
+    "roznica_pola_m2": -0.02,
+    "krawedzie_ponad_2_trojkaty": 0,
+    "dlugosc_krawedzi_brzegowych_m": 665.24,
+    "obwod_dzialki_m": 665.24,
+    "liczba_punktow": 8316,
+    "liczba_trojkatow": 16279,
+    "Z_min": 121.86,
+    "Z_max": 125.366,
+    "ok": true,
+    "dxf_trojkaty": 16279,
+    "dxf_zgodny_z_landxml": true,
+    "komorki_bez_wartosci_w_dzialce": 0
+   },
+   "4_STAN_KONCOWY": {
+    "kolejnosc_N_E_Z_ok": true,
+    "numeracja_ok": true,
+    "indeksy_ok": true,
+    "trojkaty_ccw_ok": true,
+    "najmniejsze_pole_trojkata_m2": 0.00087,
+    "punkty_unikalne_ok": true,
+    "suma_pol_trojkatow_m2": 25289.69,
+    "pole_dzialki_m2": 25289.68,
+    "roznica_pola_m2": 0.01,
+    "krawedzie_ponad_2_trojkaty": 0,
+    "dlugosc_krawedzi_brzegowych_m": 665.24,
+    "obwod_dzialki_m": 665.24,
+    "liczba_punktow": 3935,
+    "liczba_trojkatow": 7519,
+    "Z_min": 124.4,
+    "Z_max": 126.055,
+    "ok": true,
+    "dxf_trojkaty": 7519,
+    "dxf_zgodny_z_landxml": true,
+    "komorki_bez_wartosci_w_dzialce": 0
+   }
+  },
+  "uwagi": [],
+  "audyt_DXF_bledy": 0,
+  "objetosci": {
+   "A": {
+    "wykop_z_plikow_m3": 34269.266,
+    "wykop_bilans_m3": 34264.887,
+    "roznica_m3": 4.379,
+    "roznica_proc": 0.0128,
+    "nasyp_ponad_teren_po_humusie_m3": 4.749
+   },
+   "B": {
+    "wykop_z_plikow_m3": 45208.577,
+    "wykop_bilans_m3": 45202.425,
+    "roznica_m3": 6.152,
+    "roznica_proc": 0.0136,
+    "nasyp_ponad_teren_po_humusie_m3": 2.185
+   },
+   "humus_i_nasyp": {
+    "z_plikow_m3": 15536.149,
+    "bilans_m3": 15533.494
+   }
+  },
+  "objetosci_ok": true,
+  "wynik": "OK"
+ }
+}

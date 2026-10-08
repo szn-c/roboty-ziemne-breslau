@@ -1,0 +1,88 @@
+{
+ "zrodlo": "rysunek Z-04 Przekroje terenowe (4IDEA, XI 2025), plan lokalizacji przekrojów; kropkowane linie przekrojów",
+ "transformacja_planu": {
+  "a": 0.17502795019752224,
+  "b": -0.022648517053482187,
+  "tx": 6433560.751605779,
+  "ty": 5659118.777693644,
+  "skala_wzgledem_1_500": 1.0005574653352576,
+  "obrot_stopnie": -7.373071295090774,
+  "rms_m": 0.19719545586313744,
+  "max_m": 0.46381293493056286,
+  "liczba_punktow": 47
+ },
+ "przekroje": {
+  "T1": {
+   "wierzcholki_PL2000": [
+    [
+     6433561.397,
+     5658957.565
+    ],
+    [
+     6433646.548,
+     5658957.551
+    ],
+    [
+     6433646.597,
+     5658940.361
+    ],
+    [
+     6433646.663,
+     5658940.334
+    ],
+    [
+     6433747.601,
+     5658940.318
+    ]
+   ],
+   "dlugosc_m": 203.35,
+   "liczba_kropek": 583,
+   "odleglosc_etykiet_pt": 13.9
+  },
+  "T2": {
+   "wierzcholki_PL2000": [
+    [
+     6433566.887,
+     5659018.209
+    ],
+    [
+     6433741.628,
+     5659018.181
+    ]
+   ],
+   "dlugosc_m": 174.74,
+   "liczba_kropek": 500,
+   "odleglosc_etykiet_pt": 13.3
+  },
+  "T3": {
+   "wierzcholki_PL2000": [
+    [
+     6433713.736,
+     5658852.683
+    ],
+    [
+     6433713.767,
+     5659048.884
+    ]
+   ],
+   "dlugosc_m": 196.2,
+   "liczba_kropek": 561,
+   "odleglosc_etykiet_pt": 13.7
+  },
+  "T4": {
+   "wierzcholki_PL2000": [
+    [
+     6433584.095,
+     5658912.788
+    ],
+    [
+     6433597.726,
+     5659074.792
+    ]
+   ],
+   "dlugosc_m": 162.58,
+   "liczba_kropek": 465,
+   "odleglosc_etykiet_pt": 15.3
+  }
+ }
+}

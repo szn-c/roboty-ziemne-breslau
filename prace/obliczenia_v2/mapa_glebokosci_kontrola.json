@@ -1,0 +1,225 @@
+{
+ "klasy": [
+  "0.0–0.5 m",
+  "0.5–1.0 m",
+  "1.0–1.5 m",
+  "1.5–2.0 m",
+  "2.0–2.5 m",
+  "2.5–3.0 m",
+  "3.0–3.5 m",
+  "3.5–4.0 m",
+  "ponad 4.0 m"
+ ],
+ "wykop": {
+  "A": {
+   "razem_pole_m2": 17798.99,
+   "razem_objetosc_m3": 34264.392,
+   "max_m": 3.11,
+   "klasy": [
+    {
+     "klasa": "0.0–0.5 m",
+     "pole_m2": 1045.75,
+     "objetosc_m3": 233.583
+    },
+    {
+     "klasa": "0.5–1.0 m",
+     "pole_m2": 718.5,
+     "objetosc_m3": 544.469
+    },
+    {
+     "klasa": "1.0–1.5 m",
+     "pole_m2": 823.75,
+     "objetosc_m3": 1036.206
+    },
+    {
+     "klasa": "1.5–2.0 m",
+     "pole_m2": 5458.62,
+     "objetosc_m3": 9736.146
+    },
+    {
+     "klasa": "2.0–2.5 m",
+     "pole_m2": 8786.31,
+     "objetosc_m3": 20222.994
+    },
+    {
+     "klasa": "2.5–3.0 m",
+     "pole_m2": 960.31,
+     "objetosc_m3": 2473.515
+    },
+    {
+     "klasa": "3.0–3.5 m",
+     "pole_m2": 5.75,
+     "objetosc_m3": 17.479
+    },
+    {
+     "klasa": "3.5–4.0 m",
+     "pole_m2": 0.0,
+     "objetosc_m3": 0.0
+    },
+    {
+     "klasa": "ponad 4.0 m",
+     "pole_m2": 0.0,
+     "objetosc_m3": 0.0
+    }
+   ]
+  },
+  "B": {
+   "razem_pole_m2": 21456.68,
+   "razem_objetosc_m3": 45202.065,
+   "max_m": 3.14,
+   "klasy": [
+    {
+     "klasa": "0.0–0.5 m",
+     "pole_m2": 536.5,
+     "objetosc_m3": 98.373
+    },
+    {
+     "klasa": "0.5–1.0 m",
+     "pole_m2": 111.88,
+     "objetosc_m3": 84.213
+    },
+    {
+     "klasa": "1.0–1.5 m",
+     "pole_m2": 108.31,
+     "objetosc_m3": 135.155
+    },
+    {
+     "klasa": "1.5–2.0 m",
+     "pole_m2": 6132.12,
+     "objetosc_m3": 11023.02
+    },
+    {
+     "klasa": "2.0–2.5 m",
+     "pole_m2": 12640.31,
+     "objetosc_m3": 28894.397
+    },
+    {
+     "klasa": "2.5–3.0 m",
+     "pole_m2": 1919.44,
+     "objetosc_m3": 4942.119
+    },
+    {
+     "klasa": "3.0–3.5 m",
+     "pole_m2": 8.12,
+     "objetosc_m3": 24.788
+    },
+    {
+     "klasa": "3.5–4.0 m",
+     "pole_m2": 0.0,
+     "objetosc_m3": 0.0
+    },
+    {
+     "klasa": "ponad 4.0 m",
+     "pole_m2": 0.0,
+     "objetosc_m3": 0.0
+    }
+   ]
+  }
+ },
+ "wypelnienie": {
+  "A": {
+   "razem_pole_m2": 12665.63,
+   "razem_objetosc_m3": 27673.861,
+   "max_m": 4.12,
+   "klasy": [
+    {
+     "klasa": "0.0–0.5 m",
+     "pole_m2": 307.38,
+     "objetosc_m3": 98.35
+    },
+    {
+     "klasa": "0.5–1.0 m",
+     "pole_m2": 732.56,
+     "objetosc_m3": 557.846
+    },
+    {
+     "klasa": "1.0–1.5 m",
+     "pole_m2": 2882.44,
+     "objetosc_m3": 3586.444
+    },
+    {
+     "klasa": "1.5–2.0 m",
+     "pole_m2": 3273.38,
+     "objetosc_m3": 5746.162
+    },
+    {
+     "klasa": "2.0–2.5 m",
+     "pole_m2": 1460.69,
+     "objetosc_m3": 3257.475
+    },
+    {
+     "klasa": "2.5–3.0 m",
+     "pole_m2": 707.62,
+     "objetosc_m3": 1937.623
+    },
+    {
+     "klasa": "3.0–3.5 m",
+     "pole_m2": 816.75,
+     "objetosc_m3": 2642.073
+    },
+    {
+     "klasa": "3.5–4.0 m",
+     "pole_m2": 962.19,
+     "objetosc_m3": 3607.626
+    },
+    {
+     "klasa": "ponad 4.0 m",
+     "pole_m2": 1522.62,
+     "objetosc_m3": 6240.262
+    }
+   ]
+  },
+  "B": {
+   "razem_pole_m2": 12665.63,
+   "razem_objetosc_m3": 38611.397,
+   "max_m": 4.12,
+   "klasy": [
+    {
+     "klasa": "0.0–0.5 m",
+     "pole_m2": 307.38,
+     "objetosc_m3": 98.35
+    },
+    {
+     "klasa": "0.5–1.0 m",
+     "pole_m2": 731.44,
+     "objetosc_m3": 556.83
+    },
+    {
+     "klasa": "1.0–1.5 m",
+     "pole_m2": 2534.25,
+     "objetosc_m3": 3096.329
+    },
+    {
+     "klasa": "1.5–2.0 m",
+     "pole_m2": 669.38,
+     "objetosc_m3": 1094.261
+    },
+    {
+     "klasa": "2.0–2.5 m",
+     "pole_m2": 196.81,
+     "objetosc_m3": 435.174
+    },
+    {
+     "klasa": "2.5–3.0 m",
+     "pole_m2": 110.56,
+     "objetosc_m3": 304.812
+    },
+    {
+     "klasa": "3.0–3.5 m",
+     "pole_m2": 147.56,
+     "objetosc_m3": 479.121
+    },
+    {
+     "klasa": "3.5–4.0 m",
+     "pole_m2": 686.19,
+     "objetosc_m3": 2639.803
+    },
+    {
+     "klasa": "ponad 4.0 m",
+     "pole_m2": 7282.06,
+     "objetosc_m3": 29906.717
+    }
+   ]
+  }
+ }
+}
