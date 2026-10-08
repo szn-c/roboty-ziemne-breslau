@@ -41,7 +41,11 @@ Zaznaczone linie 3D:
 ## Civil 3D (LandXML)
 1. Nowy rysunek (metryczny). Najlepiej ustaw układ współrzędnych **ETRF2000-PL / CS2000/18** (EPSG 2177). W pliku nie ma układu, więc możesz też zostawić rysunek bez układu.
 2. Karta *Insert* → *Import* → *LandXML* (nazwy w menu mogą się różnić zależnie od wersji). Wybierz plik i zaznacz wszystkie 5 powierzchni.
-3. Powierzchnie pojawią się w *Prospector → Surfaces*. Zmień styl na taki, który pokazuje trójkąty lub warstwice co 0,5 m.
+3. Powierzchnie pojawią się w *Prospector → Surfaces*. Domyślny styl (np. „Contours 2m and 10m") jest za rzadki dla wykopu głębokiego ok. 3 m, więc zrób własny styl:
+   - *Prospector → Settings → Surface → Surface Styles* → prawy przycisk na stylu → *Copy*, nazwij np. „Warstwice 0,5 m i trójkąty".
+   - W kopii (okno *Styl powierzchni*): karta **Warstwice** – ustaw odstęp warstwic (np. podstawowe 0,5 m, główne 2 m); karta **Wyświetl** – włącz widoczność *Trójkąty* w widoku *Model* (3D) i *Warstwice* w widoku *Plan* (2D); karta **Analiza** – opcjonalnie kolorowanie wg rzędnych.
+   - Karta **Siatka** nie jest potrzebna (to siatka co 25 m).
+   - Przypisanie stylu: prawy przycisk na powierzchni w *Prospector* → *Surface Properties* → karta *Information* → *Surface style*.
 4. Objętości: *Analyze → Volumes Dashboard* → *Create new volume surface*. Baza i porównanie jak w tabeli:
 
 | Baza | Porównanie | Wykop (cut) w modelu | Bilans (arkusz) |
