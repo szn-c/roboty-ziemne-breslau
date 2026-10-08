@@ -1,0 +1,672 @@
+{
+ "parametry": {
+  "cell": 0.25,
+  "dno": 121.86,
+  "przestrzen_robocza": 1.0,
+  "skarpa": 1.5,
+  "konstrukcja": 0.5,
+  "przemarzanie": 1.0,
+  "humus_ziel": 0.25,
+  "dz_teren": 0.0,
+  "dz_humus": 0.0,
+  "rampa_pod": 0.71
+ },
+ "pola": {
+  "dzialka_raster": 25289.5,
+  "H_hale_i_zadaszone": 12579.19,
+  "R_rampy": 553.56,
+  "O_ogrody": 253.5,
+  "Z_zielen": 6403.06,
+  "U_nawierzchnie": 5500.19,
+  "hale_obrysy": 12167.36,
+  "zadaszone_poza_halami": 395.94,
+  "dzialka": 25289.68,
+  "w_sciance_P": 20415.05
+ },
+ "warianty": {
+  "A": {
+   "wykop_m3": {
+    "H": {
+     "Ia": 2447.247,
+     "IIa": 119.092,
+     "IIb": 3252.276,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 415.621,
+     "IVb": 2080.638,
+     "IVc": 15403.958,
+     "IVd": 3343.797
+    },
+    "O": {
+     "Ia": 0.084,
+     "IIa": 0.093,
+     "IIb": 0.633,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.017,
+     "IVc": 13.502,
+     "IVd": 0.416
+    },
+    "R": {
+     "Ia": 19.517,
+     "IIa": 10.637,
+     "IIb": 16.69,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 4.222,
+     "IVb": 59.687,
+     "IVc": 228.646,
+     "IVd": 28.107
+    },
+    "Z": {
+     "Ia": 351.571,
+     "IIa": 30.456,
+     "IIb": 277.485,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 70.307,
+     "IVb": 384.189,
+     "IVc": 2661.026,
+     "IVd": 595.071
+    },
+    "U": {
+     "Ia": 94.843,
+     "IIa": 18.846,
+     "IIb": 291.025,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 30.789,
+     "IVb": 116.238,
+     "IVc": 1313.276,
+     "IVd": 219.191
+    }
+   },
+   "masa_t": {
+    "H": {
+     "piaski": 11311.309,
+     "gliny": 44759.183
+    },
+    "O": {
+     "piaski": 1.59,
+     "gliny": 29.293
+    },
+    "R": {
+     "piaski": 87.93,
+     "gliny": 672.514
+    },
+    "Z": {
+     "piaski": 1265.722,
+     "gliny": 7817.665
+    },
+    "U": {
+     "piaski": 792.935,
+     "gliny": 3537.565
+    }
+   },
+   "zapotrzebowanie": {
+    "humus_warstwa_Z": {
+     "wykop": 700.422,
+     "poza_wykopem_w_sciance": 348.469,
+     "poza_wykopem_poza_scianka": 531.427
+    },
+    "rodzimy_Z": {
+     "wykop": 8686.964,
+     "poza_wykopem_w_sciance": 2172.68,
+     "poza_wykopem_poza_scianka": 1768.045
+    },
+    "rodzimy_U": {
+     "wykop": 3616.434,
+     "poza_wykopem_w_sciance": 1551.216,
+     "poza_wykopem_poza_scianka": 681.955
+    },
+    "rodzimy_R": {
+     "wykop": 0.0,
+     "poza_wykopem_w_sciance": 62.048,
+     "poza_wykopem_poza_scianka": 17.167
+    },
+    "niewysadzinowy_U": {
+     "wykop": 728.844,
+     "poza_wykopem_w_sciance": 810.985,
+     "poza_wykopem_poza_scianka": 1120.424
+    }
+   },
+   "konflikty": {
+    "Z_humus_ponad_grunt": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 24.015,
+      "m2": 131.38
+     }
+    },
+    "U_konstrukcja_w_gruncie": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 2.272,
+      "m2": 8.56
+     }
+    },
+    "U_grunt_rodzimy_w_strefie_przemarzania": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.015,
+      "m2": 0.31
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 89.826,
+      "m2": 512.25
+     }
+    },
+    "O_pustka_pod_ogrodem": {
+     "wykop": {
+      "m3": 52.578,
+      "m2": 19.62
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 0.0,
+      "m2": 0.0
+     }
+    }
+   },
+   "pola_wykopu": {
+    "H": 12579.19,
+    "O": 19.62,
+    "R": 376.31,
+    "Z": 2801.69,
+    "U": 1457.69
+   },
+   "pole_wykopu_razem": 17234.5,
+   "wykop_poza_dzialka": {
+    "m2": 0.0,
+    "m3": 0.0
+   },
+   "glebokosc_sr": 1.967
+  },
+  "B": {
+   "wykop_m3": {
+    "H": {
+     "Ia": 2447.247,
+     "IIa": 119.092,
+     "IIb": 3252.276,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 415.621,
+     "IVb": 2080.638,
+     "IVc": 15403.958,
+     "IVd": 3343.797
+    },
+    "O": {
+     "Ia": 5.015,
+     "IIa": 21.785,
+     "IIb": 40.711,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 36.824,
+     "IVc": 423.547,
+     "IVd": 32.998
+    },
+    "R": {
+     "Ia": 70.065,
+     "IIa": 26.509,
+     "IIb": 57.992,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 15.155,
+     "IVb": 140.644,
+     "IVc": 760.027,
+     "IVd": 149.834
+    },
+    "Z": {
+     "Ia": 753.348,
+     "IIa": 73.39,
+     "IIb": 476.601,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 136.611,
+     "IVb": 692.06,
+     "IVc": 5937.754,
+     "IVd": 1546.861
+    },
+    "U": {
+     "Ia": 281.599,
+     "IIa": 66.709,
+     "IIb": 694.481,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 74.844,
+     "IVb": 382.49,
+     "IVc": 4321.668,
+     "IVd": 843.219
+    }
+   },
+   "masa_t": {
+    "H": {
+     "piaski": 11311.309,
+     "gliny": 44759.183
+    },
+    "O": {
+     "piaski": 129.072,
+     "gliny": 1036.708
+    },
+    "R": {
+     "piaski": 294.351,
+     "gliny": 2242.091
+    },
+    "Z": {
+     "piaski": 2499.273,
+     "gliny": 17539.313
+    },
+    "U": {
+     "piaski": 2034.019,
+     "gliny": 11850.781
+    }
+   },
+   "zapotrzebowanie": {
+    "humus_warstwa_Z": {
+     "wykop": 1074.234,
+     "poza_wykopem_w_sciance": 0.0,
+     "poza_wykopem_poza_scianka": 506.083
+    },
+    "rodzimy_Z": {
+     "wykop": 16238.761,
+     "poza_wykopem_w_sciance": 0.0,
+     "poza_wykopem_poza_scianka": 1635.449
+    },
+    "rodzimy_U": {
+     "wykop": 9870.266,
+     "poza_wykopem_w_sciance": 0.0,
+     "poza_wykopem_poza_scianka": 560.127
+    },
+    "rodzimy_R": {
+     "wykop": 924.806,
+     "poza_wykopem_w_sciance": 0.0,
+     "poza_wykopem_poza_scianka": 7.129
+    },
+    "niewysadzinowy_U": {
+     "wykop": 1673.312,
+     "poza_wykopem_w_sciance": 0.0,
+     "poza_wykopem_poza_scianka": 986.955
+    }
+   },
+   "konflikty": {
+    "Z_humus_ponad_grunt": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 24.015,
+      "m2": 131.38
+     }
+    },
+    "U_konstrukcja_w_gruncie": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 2.272,
+      "m2": 8.56
+     }
+    },
+    "U_grunt_rodzimy_w_strefie_przemarzania": {
+     "wykop": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 89.826,
+      "m2": 512.25
+     }
+    },
+    "O_pustka_pod_ogrodem": {
+     "wykop": {
+      "m3": 1037.588,
+      "m2": 253.5
+     },
+     "poza_wykopem_w_sciance": {
+      "m3": 0.0,
+      "m2": 0.0
+     },
+     "poza_wykopem_poza_scianka": {
+      "m3": 0.0,
+      "m2": 0.0
+     }
+    }
+   },
+   "pola_wykopu": {
+    "H": 12579.19,
+    "O": 253.5,
+    "R": 544.81,
+    "Z": 4296.94,
+    "U": 3346.62
+   },
+   "pole_wykopu_razem": 21021.06,
+   "wykop_poza_dzialka": {
+    "m2": 0.0,
+    "m3": 0.0
+   },
+   "glebokosc_sr": 2.147
+  }
+ },
+ "humus_m3": 15274.147,
+ "nasyp_m3": 259.347,
+ "humus_sr_grubosc": 0.604,
+ "teren_sr": {
+  "dzialka": 124.729,
+  "w_sciance": 124.651
+ },
+ "za_scianka_komorek": {
+  "H": 0,
+  "R": 0
+ },
+ "fundamenty": {
+  "elementy": {
+   "pogrubienie 3,40×4,40 (d.k. −4,34)": {
+    "wymiary": [
+     3.4,
+     4.4
+    ],
+    "dk": -4.34,
+    "glebokosc_ponizej_otoczenia": 0.3,
+    "objetosc_szt": 5.757
+   },
+   "pogrubienie 3,40×4,40 (d.k. −4,54)": {
+    "wymiary": [
+     3.4,
+     4.4
+    ],
+    "dk": -4.54,
+    "glebokosc_ponizej_otoczenia": 0.5,
+    "objetosc_szt": 9.596
+   },
+   "pogrubienie 4,40×6,54 (d.k. −4,34)": {
+    "wymiary": [
+     4.4,
+     6.54
+    ],
+    "dk": -4.34,
+    "glebokosc_ponizej_otoczenia": 0.3,
+    "objetosc_szt": 10.372
+   },
+   "pogrubienie 4,40×6,59 (d.k. −4,34)": {
+    "wymiary": [
+     4.4,
+     6.59
+    ],
+    "dk": -4.34,
+    "glebokosc_ponizej_otoczenia": 0.3,
+    "objetosc_szt": 10.446
+   },
+   "rdzeń 7,48×8,57 (d.k. −4,34)": {
+    "wymiary": [
+     7.48,
+     8.57
+    ],
+    "dk": -4.34,
+    "glebokosc_ponizej_otoczenia": 0.3,
+    "objetosc_szt": 21.738
+   },
+   "rdzeń 8,57×9,48 (d.k. −4,34)": {
+    "wymiary": [
+     8.57,
+     9.48
+    ],
+    "dk": -4.34,
+    "glebokosc_ponizej_otoczenia": 0.3,
+    "objetosc_szt": 27.18
+   },
+   "szyb windy 2,09×2,96 (d.k. −4,93)": {
+    "wymiary": [
+     2.09,
+     2.96
+    ],
+    "dk": -4.93,
+    "glebokosc_ponizej_otoczenia": 0.59,
+    "objetosc_szt": 5.334
+   },
+   "studzienka 2,00×3,00 (d.k. −6,00)": {
+    "wymiary": [
+     2.0,
+     3.0
+    ],
+    "dk": -6.0,
+    "glebokosc_ponizej_otoczenia": 1.96,
+    "objetosc_szt": 17.304
+   },
+   "studzienka 1,455×1,80 (d.k. −5,83)": {
+    "wymiary": [
+     1.455,
+     1.8
+    ],
+    "dk": -5.83,
+    "glebokosc_ponizej_otoczenia": 1.79,
+    "objetosc_szt": 8.196
+   },
+   "studzienka 1,50×1,80 (d.k. −5,40)": {
+    "wymiary": [
+     1.5,
+     1.8
+    ],
+    "dk": -5.4,
+    "glebokosc_ponizej_otoczenia": 1.36,
+    "objetosc_szt": 6.368
+   }
+  },
+  "budynki": {
+   "1A": {
+    "m3": 156.815,
+    "klasy_m3": {
+     "Ia": 0.879,
+     "IIa": 0.0,
+     "IIb": 18.432,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 20.911,
+     "IVc": 54.044,
+     "IVd": 62.548
+    },
+    "masa_t": {
+     "piaski": 38.535,
+     "gliny": 292.404
+    }
+   },
+   "2C": {
+    "m3": 168.225,
+    "klasy_m3": {
+     "Ia": 0.05,
+     "IIa": 0.0,
+     "IIb": 36.822,
+     "IIc": 0.0,
+     "IIIa": 1.417,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 51.564,
+     "IVc": 15.79,
+     "IVd": 62.582
+    },
+    "masa_t": {
+     "piaski": 76.644,
+     "gliny": 274.98
+    }
+   },
+   "3A": {
+    "m3": 150.447,
+    "klasy_m3": {
+     "Ia": 4.758,
+     "IIa": 0.0,
+     "IIb": 13.449,
+     "IIc": 0.0,
+     "IIIa": 12.129,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.396,
+     "IVc": 17.832,
+     "IVd": 101.882
+    },
+    "masa_t": {
+     "piaski": 60.804,
+     "gliny": 259.853
+    }
+   },
+   "4B": {
+    "m3": 183.464,
+    "klasy_m3": {
+     "Ia": 5.705,
+     "IIa": 0.0,
+     "IIb": 47.868,
+     "IIc": 0.0,
+     "IIIa": 0.754,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.0,
+     "IVc": 4.039,
+     "IVd": 125.097
+    },
+    "masa_t": {
+     "piaski": 108.121,
+     "gliny": 280.569
+    }
+   },
+   "5A": {
+    "m3": 150.447,
+    "klasy_m3": {
+     "Ia": 7.521,
+     "IIa": 0.0,
+     "IIb": 3.723,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.0,
+     "IVc": 15.685,
+     "IVd": 123.517
+    },
+    "masa_t": {
+     "piaski": 21.736,
+     "gliny": 301.589
+    }
+   },
+   "6A": {
+    "m3": 151.058,
+    "klasy_m3": {
+     "Ia": 0.18,
+     "IIa": 0.0,
+     "IIb": 2.607,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.0,
+     "IVc": 9.618,
+     "IVd": 138.653
+    },
+    "masa_t": {
+     "piaski": 5.489,
+     "gliny": 321.767
+    }
+   },
+   "7A": {
+    "m3": 150.447,
+    "klasy_m3": {
+     "Ia": 0.0,
+     "IIa": 0.0,
+     "IIb": 5.335,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": 0.0,
+     "IVc": 69.999,
+     "IVd": 75.113
+    },
+    "masa_t": {
+     "piaski": 10.613,
+     "gliny": 310.368
+    }
+   },
+   "8B": {
+    "m3": 183.464,
+    "klasy_m3": {
+     "Ia": 0.0,
+     "IIa": 0.0,
+     "IIb": 1.419,
+     "IIc": 0.0,
+     "IIIa": 0.0,
+     "IIIb": 0.0,
+     "IVa": 0.0,
+     "IVb": -0.0,
+     "IVc": 153.283,
+     "IVd": 28.761
+    },
+    "masa_t": {
+     "piaski": 2.839,
+     "gliny": 384.45
+    }
+   }
+  },
+  "razem_m3": 1294.365,
+  "klasy_m3": {
+   "Ia": 19.094,
+   "IIa": 0.0,
+   "IIb": 129.656,
+   "IIc": 0.0,
+   "IIIa": 14.3,
+   "IIIb": 0.0,
+   "IVa": 0.0,
+   "IVb": 72.871,
+   "IVc": 340.291,
+   "IVd": 718.153
+  },
+  "masa_t": {
+   "piaski": 324.781,
+   "gliny": 2425.979
+  }
+ }
+}

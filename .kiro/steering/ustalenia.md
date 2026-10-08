@@ -113,6 +113,17 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 7. Ogrody deszczowe (253,00 m²): poza opracowaniem, dedykowany substrat jak na halach (w bilansie jak hale, bez gruntu z odkładu).
 8. Rzut zabezpieczenia wykopu (PDF) i przekrój B-B budynku 2C są zbędne i usunięte z repo. Zastępują je pliki `*_checked` oraz rysunek „Przekroje terenowe z naniesionym średnim poziomem wody gruntowej" (wrócił do repo). Podbeton C8/10 min. 10 cm potwierdzają rzuty fundamentów (zob. pkt 7).
 
-**Otwarte:** brak. Jeśli dokumentacja wykaże niejasność, zapytaj użytkownika.
+**Decyzje z 8.10.2026 (odpowiedzi na pytania z `prace/WERYFIKACJA_raport.md`):**
+11. Geometria: DXF `siatka_10m_dz190_checked_v2.dxf` – hale, granica i ścianka okazały się **takie same jak w v1** (pomniejszone o 0,37%). Obowiązuje geometria **przeliczona do PZT** (skala 1,003663; `prace/dane/geometria.json`, nowy podkład `wyniki/PODKLAD_dz190_v3.dxf`): granica 25 289,68 m², hale 12 167,36 m².
+12. Od południa **nie ma ścianki** – wykop ze skarpą 1:1,5 (w A i w B). W wariancie B podnóże skarpy = prosty odcinek między końcami ścianki, poszerzony o hale 7 i 8 z przestrzenią roboczą 1,0 m. Za ścianką (W, N, E) nie kopiemy.
+13. Dno wykopu **121,86**; fundamenty głębsze (pogrubienia, rdzenie, szyby wind, studzienki) liczone **osobno** (wywóz).
+14. Wariant A: przestrzeń robocza 1,0 m i skarpa 1:1,5 (obcięte do ścianki).
+15. Zieleń: wszystkie grunty rodzime z wykopu poza glebą i nasypem nadają się do zasypu. Nawierzchnie: **strefa przemarzania 1,00 m** – od 0,50 do 1,00 m pod nawierzchnią **dowożony grunt niewysadzinowy**, poniżej 1,00 m grunt rodzimy z odkładu.
+16. Gęstości z tabeli 8 DGI (piaski wg wilgotności z kart, gliny – średnia z zakresu); gleba 1,60 i nasyp 1,80 t/m³ (brak w tabeli 8); spulchnienie (humus 1,25, nasyp 1,25, gliny 1,30, piaski 1,15) tylko informacyjnie.
+17. Zieleń na stropie = **3 975,11 m²** (PZT wektorowy: 3 979,48 m²; DXF v2 użytkownika ma 3 572,61 m² – brakuje ok. 370 m²). Strefy brane z wypełnień wektorowego PZT. Woda wg otworów DGI (nie 124,30). Otwór 12: E = 6 433 688,2. Analiza tylko otworów 2–24 z działki 1/90 + CPTU 10, 12, 18, 21, 24 (CPTU uśrednione z otworem w tym samym miejscu).
+
+**Założenia robocze z 8.10 (do potwierdzenia przez użytkownika):** rampy (4 pochylnie, ok. 554 m²) i zadaszone dojazdy poza obrysami hal (zieleń na stropie, ok. 396 m²) liczone jak część garażu (w A wykop z przestrzenią roboczą i skarpą); spód wykopu pod rampą = powierzchnia rampy − 0,71 m; ogrody deszczowe w wariancie B – pod nimi bez zasypu (dosłownie wg pkt 7); nasyp wg stref z mapy 4.3.
+
+**Otwarte:** patrz pytania w `wyniki/CZYTAJ_NAJPIERW.md`.
 9. Użytkownik usunął z repo MDCP, PZT garaże, rzuty fundamentów PW_*, mapy 1–4.8 (poza 4.1), CPTU i analizy laboratoryjne, bo wszystko naniósł na DXF. **Weryfikacja (sesja z 7.10) wykazała wyjątki:** rzuty fundamentów (poziomy płyty i głębsze elementy) i zestawienie F (wilgotność, IL, gęstość) niosą dane, których nie ma w DXF – ich wyciąg jest w `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. Rzędne terenu z MDCP nie trafiły do DXF (rzędne w DXF to stare wstępne).
 10. Hala 2 (6 wierzchołków) jest poprawna. Ścianka jest obrysem otwartym; hala przecięta linią zamykającą nie jest błędem.

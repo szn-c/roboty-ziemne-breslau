@@ -1,0 +1,64 @@
+{
+ "ciagi_piesze": {
+  "widoczne": 2321.02,
+  "pelne": 2321.06,
+  "widoczne_w_halach": 865.75,
+  "widoczne_poza_halami": 1455.27
+ },
+ "ciagi_pieszo_jezdne": {
+  "widoczne": 2354.05,
+  "pelne": 2354.06,
+  "widoczne_w_halach": 179.7,
+  "widoczne_poza_halami": 2174.35
+ },
+ "geokrata": {
+  "widoczne": 972.81,
+  "pelne": 972.81,
+  "widoczne_w_halach": 0.03,
+  "widoczne_poza_halami": 972.79
+ },
+ "ogrody_deszczowe": {
+  "widoczne": 253.03,
+  "pelne": 253.03,
+  "widoczne_w_halach": 0.0,
+  "widoczne_poza_halami": 253.03
+ },
+ "plac_uslugowy": {
+  "widoczne": 817.6,
+  "pelne": 817.6,
+  "widoczne_w_halach": 413.41,
+  "widoczne_poza_halami": 404.19
+ },
+ "plac_zabaw": {
+  "widoczne": 59.52,
+  "pelne": 59.52,
+  "widoczne_w_halach": 22.41,
+  "widoczne_poza_halami": 37.11
+ },
+ "sciany_pochylni": {
+  "widoczne": 144.0,
+  "pelne": 144.0,
+  "widoczne_w_halach": 19.52,
+  "widoczne_poza_halami": 124.48
+ },
+ "zielen_grunt": {
+  "widoczne": 6417.54,
+  "pelne": 6670.73,
+  "widoczne_w_halach": 9.24,
+  "widoczne_poza_halami": 6408.3
+ },
+ "zielen_strop": {
+  "widoczne": 3979.48,
+  "pelne": 3979.48,
+  "widoczne_w_halach": 3583.5,
+  "widoczne_poza_halami": 395.98
+ },
+ "ZIELEN-NA-GRUNCIE": {
+  "uzytk_po_korekcie": 6310.02,
+  "uzytk_bez_korekty": 6264.04
+ },
+ "ZIELEN-NA-STROPIE": {
+  "uzytk_po_korekcie": 3598.83,
+  "uzytk_bez_korekty": 3572.61
+ }
+}

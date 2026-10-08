@@ -1,0 +1,522 @@
+{
+ "10": {
+  "przy_otworze": 10,
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.5,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": ""
+   },
+   {
+    "strop": 0.5,
+    "spag": 1.1,
+    "kat": "P",
+    "symbol": "Ps//Gp",
+    "warstwa": "IIa"
+   },
+   {
+    "strop": 1.1,
+    "spag": 1.6,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.6,
+    "spag": 2.25,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   },
+   {
+    "strop": 2.25,
+    "spag": 2.95,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 2.95,
+    "spag": 4.45,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.45,
+    "spag": 4.8,
+    "kat": "P",
+    "symbol": "Pd",
+    "warstwa": "Ia"
+   },
+   {
+    "strop": 4.8,
+    "spag": 5.25,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 5.25,
+    "spag": 7.25,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 7.25,
+    "spag": 7.9,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 7.9,
+    "spag": 9.1,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 9.1,
+    "spag": 10.0,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   }
+  ],
+  "zrodlo": "DGI zał. 7 – tabela interpretacji CPTU-10"
+ },
+ "12": {
+  "przy_otworze": 12,
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": ""
+   },
+   {
+    "strop": 0.6,
+    "spag": 1.65,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.65,
+    "spag": 2.35,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.35,
+    "spag": 2.7,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 2.7,
+    "spag": 3.15,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 3.15,
+    "spag": 4.0,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.0,
+    "spag": 4.95,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.95,
+    "spag": 5.65,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 5.65,
+    "spag": 6.25,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 6.25,
+    "spag": 7.55,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 7.55,
+    "spag": 8.05,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 8.05,
+    "spag": 8.7,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 8.7,
+    "spag": 9.05,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   },
+   {
+    "strop": 9.05,
+    "spag": 10.0,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   }
+  ],
+  "zrodlo": "DGI zał. 7 – tabela interpretacji CPTU-12"
+ },
+ "18": {
+  "przy_otworze": 18,
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.55,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": ""
+   },
+   {
+    "strop": 0.55,
+    "spag": 1.2,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.2,
+    "spag": 1.45,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.45,
+    "spag": 1.9,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVa"
+   },
+   {
+    "strop": 1.9,
+    "spag": 2.4,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.4,
+    "spag": 2.8,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.8,
+    "spag": 3.35,
+    "kat": "G",
+    "symbol": "Gp+Pr",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 3.35,
+    "spag": 4.5,
+    "kat": "G",
+    "symbol": "Gpz",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.5,
+    "spag": 4.7,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   },
+   {
+    "strop": 4.7,
+    "spag": 6.3,
+    "kat": "G",
+    "symbol": "Gpz",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 6.3,
+    "spag": 8.15,
+    "kat": "P",
+    "symbol": "Ps/Pd",
+    "warstwa": "IIc"
+   }
+  ],
+  "zrodlo": "DGI zał. 7 – tabela interpretacji CPTU-18"
+ },
+ "21": {
+  "przy_otworze": 21,
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.6,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": ""
+   },
+   {
+    "strop": 0.6,
+    "spag": 2.15,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.15,
+    "spag": 2.65,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.65,
+    "spag": 3.05,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 3.05,
+    "spag": 3.35,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 3.35,
+    "spag": 3.85,
+    "kat": "P",
+    "symbol": "Pd+Ż",
+    "warstwa": "Ia"
+   },
+   {
+    "strop": 3.85,
+    "spag": 4.45,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.45,
+    "spag": 5.1,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 5.1,
+    "spag": 6.9,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 6.9,
+    "spag": 7.25,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 7.25,
+    "spag": 8.85,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 8.85,
+    "spag": 9.7,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 9.7,
+    "spag": 10.0,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   }
+  ],
+  "zrodlo": "DGI zał. 7 – tabela interpretacji CPTU-21"
+ },
+ "24": {
+  "przy_otworze": 24,
+  "warstwy": [
+   {
+    "strop": 0.0,
+    "spag": 0.65,
+    "kat": "H",
+    "symbol": "Gb",
+    "warstwa": ""
+   },
+   {
+    "strop": 0.65,
+    "spag": 0.9,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVa"
+   },
+   {
+    "strop": 0.9,
+    "spag": 1.2,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.2,
+    "spag": 1.7,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 1.7,
+    "spag": 2.25,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVa"
+   },
+   {
+    "strop": 2.25,
+    "spag": 2.55,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVc"
+   },
+   {
+    "strop": 2.55,
+    "spag": 3.0,
+    "kat": "G",
+    "symbol": "Gp//Ps",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 3.0,
+    "spag": 3.55,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 3.55,
+    "spag": 4.05,
+    "kat": "G",
+    "symbol": "Gp+Ż",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.05,
+    "spag": 4.3,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   },
+   {
+    "strop": 4.3,
+    "spag": 4.8,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 4.8,
+    "spag": 5.05,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIb"
+   },
+   {
+    "strop": 5.05,
+    "spag": 5.8,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIc"
+   },
+   {
+    "strop": 5.8,
+    "spag": 6.0,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 6.0,
+    "spag": 6.5,
+    "kat": "P",
+    "symbol": "Ps",
+    "warstwa": "IIc"
+   },
+   {
+    "strop": 6.5,
+    "spag": 7.15,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 7.15,
+    "spag": 8.05,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 8.05,
+    "spag": 9.15,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 9.15,
+    "spag": 9.55,
+    "kat": "G",
+    "symbol": "Pi",
+    "warstwa": "IVd"
+   },
+   {
+    "strop": 9.55,
+    "spag": 10.0,
+    "kat": "G",
+    "symbol": "Gp",
+    "warstwa": "IVd"
+   }
+  ],
+  "zrodlo": "DGI zał. 7 – tabela interpretacji CPTU-24"
+ }
+}

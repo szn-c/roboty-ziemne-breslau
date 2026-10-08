@@ -1,0 +1,44 @@
+{
+ "ciągi pieszo-jezdne (kostka 8 cm)": {
+  "pole": 2146.18,
+  "w_dzialce": 2146.17,
+  "w_halach": 40.21,
+  "poza_halami": 2105.96
+ },
+ "ciągi piesze (kostka 6 cm)": {
+  "pole": 2258.62,
+  "w_dzialce": 2258.62,
+  "w_halach": 816.59,
+  "poza_halami": 1442.03
+ },
+ "plac przy lokalach usługowych": {
+  "pole": 817.61,
+  "w_dzialce": 817.6,
+  "w_halach": 413.41,
+  "poza_halami": 404.2
+ },
+ "zieleń na gruncie rodzimym": {
+  "pole": 6671.37,
+  "w_dzialce": 6670.73,
+  "w_halach": 9.38,
+  "poza_halami": 6661.35
+ },
+ "zieleń na stropie garażu": {
+  "pole": 3979.48,
+  "w_dzialce": 3979.48,
+  "w_halach": 3583.5,
+  "poza_halami": 395.98
+ },
+ "geokrata (miejsca postojowe, rowery)": {
+  "pole": 972.81,
+  "w_dzialce": 972.81,
+  "w_halach": 0.03,
+  "poza_halami": 972.79
+ },
+ "ogrody deszczowe": {
+  "pole": 253.03,
+  "w_dzialce": 253.03,
+  "w_halach": 0.0,
+  "poza_halami": 253.03
+ }
+}
