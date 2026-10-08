@@ -30,7 +30,7 @@ REPO = os.path.dirname(os.path.dirname(HERE))
 WY_DXF = os.path.join(REPO, "wyniki", "MAPA_GLEBOKOSCI_dz190.dxf")
 WY_PNG = os.path.join(REPO, "wyniki", "MAPA_GLEBOKOSCI_dz190.png")
 WY_JSON = os.path.join(HERE, "mapa_glebokosci_kontrola.json")
-KRAWEDZIE = [0.02, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 6.0]       # m
+KRAWEDZIE = M.KRAWEDZIE_GLEBOKOSCI                                     # m (te same klasy co kolory trójkątów w MODEL3D)
 KROK = 2                                                                # co 2. komórka rastra = 0,5 m
 
 

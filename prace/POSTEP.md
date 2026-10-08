@@ -54,6 +54,7 @@
 - `prace/obliczenia_v2/przekroje.py` → `wyniki/PRZEKROJE_dz190.dxf` + podgląd PNG; kontrola rzędnych terenu z etykiet rysunku projektanta: T2/T3 RMS 0,10–0,14 m, T1/T4 0,36–0,38 m z pojedynczymi punktami ok. 1 m (raport V10).
 - `prace/obliczenia_v2/mapa_glebokosci.py` → `wyniki/MAPA_GLEBOKOSCI_dz190.dxf` + PNG: głębokość wykopu (A 34 264 m³, B 45 202 m³, maks. 3,1 m) i grubość wypełnienia do rzędnej projektowej (bez hal).
 - Instrukcja dla użytkownika: `wyniki/MODEL3D_INSTRUKCJA.md`. **Nie otwierano plików w AutoCAD-zie, GstarCAD-zie ani Civil 3D.**
+- Trójkąty wariantów A i B w `MODEL3D_dz190.dxf` pokolorowane wg głębokości wykopu (te same klasy co `MAPA_GLEBOKOSCI`), legenda w `3D_OPISY`; podgląd `wyniki/MODEL3D_podglad.png`. Powód: w Civil 3D (LandXML, wiele powierzchni naraz, widok z góry) siatka trójkątów była nieczytelna.
 - Fundamentów głębszych nie ma w modelu (brak położeń w danych).
 - Odtworzenie: `cd prace/obliczenia_v2 && python silnik.py && python model3d.py && python kontrola_modelu3d.py && python przekroje.py && python mapa_glebokosci.py` (linie przekrojów: `python prace/weryfikacja/linie_przekrojow.py`).
 - Obrazy w tej sesji: 5 (plan lokalizacji, wycinek T1, podgląd 3D, przekroje, mapy) – łącznie z poprzednimi 10/15, każdy ≤ 1500 px.

@@ -7,6 +7,7 @@ Model jest zrobiony z tych samych danych co bilans (arkusz `BILANS_ROBOT_ZIEMNYC
 |---|---|
 | `MODEL3D_dz190.dxf` | model 3D do AutoCAD-a i GstarCAD-a (siatki trójkątów 3DFACE, linie 3D, opisy). Około 19 MB. |
 | `MODEL3D_dz190_LandXML.xml` | te same 5 powierzchni jako TIN do **Civil 3D** (import LandXML). |
+| `MODEL3D_podglad.png` | podgląd wariantów A i B w widoku izometrycznym (kolor = głębokość wykopu). |
 | `PRZEKROJE_dz190.dxf` | przekroje T1–T4 (2D) z warstwami gruntu z DGI. Podgląd: `PRZEKROJE_dz190_podglad.png`. |
 | `MAPA_GLEBOKOSCI_dz190.dxf` | mapy 2D: głębokość wykopu i grubość wypełnienia (A i B). Podgląd: `MAPA_GLEBOKOSCI_dz190.png`. |
 
@@ -35,8 +36,9 @@ Zaznaczone linie 3D:
 ## AutoCAD / GstarCAD
 1. Otwórz `MODEL3D_dz190.dxf`, wpisz `ZOOM` → `E`.
 2. Widok 3D: `3DORBIT` albo widok SW Isometric. Styl wizualny: `VSCURRENT` → `C` (Conceptual) lub `S` (Shaded).
-3. Pokaż etapy po kolei: zostaw włączoną tylko jedną z warstw `3D_1…` do `3D_4…`. Żeby porównać dwa etapy, włącz dwie naraz (np. `3D_2…` i `3D_3B…`).
-4. Pomiary: `DIST` w widoku 3D, rzędne dna – punkty linii `3D_LINIA_*_DNO`.
+3. **Kolory.** Trójkąty na warstwach `3D_3A_WYKOP_A` i `3D_3B_WYKOP_B` są pokolorowane według głębokości wykopu (jasnoszary = poza wykopem). Legenda jest na prawo od działki, w warstwie `3D_OPISY`. Te same klasy i kolory są na mapach głębokości. W Civil 3D (LandXML) kolorów nie ma – tam użyj stylu typu *Elevation Banding (3D)* albo powierzchni objętościowej ze stylem *Cut and Fill Banding*.
+4. Pokaż etapy po kolei: zostaw włączoną tylko jedną z warstw `3D_1…` do `3D_4…`. Żeby porównać dwa etapy, włącz dwie naraz (np. `3D_2…` i `3D_3B…`).
+5. Pomiary: `DIST` w widoku 3D, rzędne dna – punkty linii `3D_LINIA_*_DNO`.
 
 ## Civil 3D (LandXML)
 1. Nowy rysunek (metryczny). Najlepiej ustaw układ współrzędnych **ETRF2000-PL / CS2000/18** (EPSG 2177). W pliku nie ma układu, więc możesz też zostawić rysunek bez układu.

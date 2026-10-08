@@ -30,8 +30,26 @@ REPO = os.path.dirname(os.path.dirname(HERE))
 WY_DXF = os.path.join(REPO, "wyniki", "MODEL3D_dz190.dxf")
 WY_XML = os.path.join(REPO, "wyniki", "MODEL3D_dz190_LandXML.xml")
 WY_KONTROLA = os.path.join(HERE, "model3d_kontrola.json")
+WY_PNG = os.path.join(REPO, "wyniki", "MODEL3D_podglad.png")
 TOL = 0.01          # dopuszczalny błąd pionowy TIN względem rastra 0,25 m [m] (poza bezpośrednim sąsiedztwem uskoków)
 FAKTOR_USKOKU = 0.25  # dodatkowa tolerancja = ułamek lokalnego przewyższenia rastra (komórka 0,25 m)
+
+KRAWEDZIE_GLEBOKOSCI = [0.02, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 6.0]      # m – klasy głębokości wykopu (też w mapa_glebokosci.py)
+KOLOR_POZA_WYKOPEM = (215, 215, 215)
+
+
+def paleta(cmap, n):
+    from matplotlib import colormaps
+    cm = colormaps[cmap]
+    return [tuple(int(255 * v) for v in cm(0.15 + 0.8 * i / (n - 1))[:3]) for i in range(n)]
+
+
+def kolory_scian(glebokosc):
+    """Kolor (RGB) każdej ściany wg głębokości wykopu; poza wykopem – jasnoszary."""
+    pal = paleta("YlOrBr", len(KRAWEDZIE_GLEBOKOSCI) - 1)
+    idx = np.digitize(glebokosc, KRAWEDZIE_GLEBOKOSCI) - 1
+    return [KOLOR_POZA_WYKOPEM if i < 0 else pal[min(i, len(pal) - 1)] for i in idx], idx
+
 
 POWIERZCHNIE = [   # klucz, nazwa w Civil 3D, warstwa DXF, kolor ACI, opis
     ("ist", "1_TEREN_ISTNIEJACY", "3D_1_TEREN_ISTNIEJACY", 8, "teren istniejący (PZT + otwory)"),
@@ -222,14 +240,26 @@ def main():
         kontrola["objetosci"][nm] = round(float(d[mm].sum() * A), 3)
         print("humus + nasyp (ist - hum) z TIN: %.3f m3 (bilans: %.3f + %.3f)" % (kontrola["objetosci"][nm], w["humus_m3"], w["nasyp_m3"]))
     # --- DXF
+    TIN_KOLOR = {}
     doc = ezdxf.new("R2010")
     doc.header["$INSUNITS"] = 6
     msp = doc.modelspace()
+    fzs0 = interpolator(xs, ys, Z2["hum"])
+    kontrola["kolory_scian_wg_glebokosci"] = {}
     for klucz, nazwa, warstwa, kol, opis in POWIERZCHNIE:
         doc.layers.add(warstwa, color=kol).description = opis
         P, F = TIN[klucz]
-        for a, b, c in F:
-            msp.add_3dface([tuple(P[a]), tuple(P[b]), tuple(P[c]), tuple(P[c])], dxfattribs={"layer": warstwa})
+        if klucz in ("A", "B"):                       # kolor trójkąta = głębokość wykopu w jego środku (jak na mapach głębokości)
+            cen = P[F].mean(1)
+            gleb = np.clip(fzs0(np.column_stack([cen[:, 1], cen[:, 0]])) - interpolator(xs, ys, Z2[klucz])(np.column_stack([cen[:, 1], cen[:, 0]])), 0, None)
+            rgb, idx = kolory_scian(gleb)
+            kontrola["kolory_scian_wg_glebokosci"][klucz] = {str(i): int((idx == i).sum()) for i in range(-1, len(KRAWEDZIE_GLEBOKOSCI) - 1)}
+            for (a, b, c), col in zip(F, rgb):
+                msp.add_3dface([tuple(P[a]), tuple(P[b]), tuple(P[c]), tuple(P[c])], dxfattribs={"layer": warstwa, "true_color": ezdxf.colors.rgb2int(col)})
+            TIN_KOLOR[klucz] = rgb
+        else:
+            for a, b, c in F:
+                msp.add_3dface([tuple(P[a]), tuple(P[b]), tuple(P[c]), tuple(P[c])], dxfattribs={"layer": warstwa})
     LIN = {"3D_LINIA_GRANICA": (7, "granica działki na terenie istniejącym"),
            "3D_LINIA_HALE_DNO": (1, "obrysy hal (garaży) na dnie wykopu 121,86"),
            "3D_LINIA_HALE_GORA": (6, "obrysy hal na rzędnej projektowej"),
@@ -345,6 +375,14 @@ def main():
                  dxfattribs={"layer": "3D_OPISY", "insert": (x0, y0 - 3, 0)})
     msp.add_text("Fundamenty głębsze (pogrubienia, rdzenie, studzienki) nie są w modelu – w bilansie są osobną pozycją (liczba sztuk, bez położeń).", height=1.0,
                  dxfattribs={"layer": "3D_OPISY", "insert": (x0, y0 - 5, 0)})
+    msp.add_text("Kolor trójkątów na warstwach 3D_3A_WYKOP_A i 3D_3B_WYKOP_B = głębokość wykopu (teren po zdjęciu humusu − powierzchnia po wykopie); szary = poza wykopem.", height=1.0,
+                 dxfattribs={"layer": "3D_OPISY", "insert": (x0, y0 - 7, 0)})
+    pal = paleta("YlOrBr", len(KRAWEDZIE_GLEBOKOSCI) - 1)
+    etyk = ["%.1f–%.1f m" % (p_, q_) if q_ < 6 else "ponad %.1f m" % p_ for p_, q_ in zip(KRAWEDZIE_GLEBOKOSCI[:-1], KRAWEDZIE_GLEBOKOSCI[1:])]
+    for i, (rgb, tx) in enumerate([(KOLOR_POZA_WYKOPEM, "poza wykopem")] + list(zip(pal, etyk))):
+        yy = y0 - 10 - 2.6 * i
+        msp.add_3dface([(x0, yy, 0), (x0 + 3, yy, 0), (x0 + 3, yy + 2, 0), (x0, yy + 2, 0)], dxfattribs={"layer": "3D_OPISY", "true_color": ezdxf.colors.rgb2int(rgb)})
+        msp.add_text(tx, height=1.0, dxfattribs={"layer": "3D_OPISY", "insert": (x0 + 4, yy + 0.4, 0)})
     doc.header["$LASTSAVEDBY"] = "bilans_v2"
     doc.saveas(WY_DXF)
     print("zapisano", WY_DXF, "%.1f MB" % (os.path.getsize(WY_DXF) / 1e6), "(%.0f s)" % (time.time() - t0))
@@ -352,8 +390,37 @@ def main():
     zapisz_landxml(WY_XML, [(nazwa, opis, *TIN[klucz]) for klucz, nazwa, warstwa, kol, opis in POWIERZCHNIE], "Bilans robot ziemnych dz. 1/90 Wojszyce")
     print("zapisano", WY_XML, "%.1f MB" % (os.path.getsize(WY_XML) / 1e6))
     json.dump(kontrola, open(WY_KONTROLA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
-    # zwróć dane dla innych modułów
+    podglad_png(TIN, TIN_KOLOR)
     return TIN, kontrola
+
+
+def podglad_png(TIN, kolory):
+    """Podgląd wariantów A i B w widoku izometrycznym (kolor = głębokość wykopu); przewyższenie ×3."""
+    import matplotlib
+    matplotlib.use("Agg")
+    import matplotlib.pyplot as plt
+    from mpl_toolkits.mplot3d.art3d import Poly3DCollection
+    fig = plt.figure(figsize=(15, 8))
+    for i, k in enumerate(("A", "B")):
+        P, F = TIN[k]
+        ax = fig.add_subplot(1, 2, i + 1, projection="3d")
+        E0, N0 = P[:, 0].min(), P[:, 1].min()
+        poly = [[(P[v, 0] - E0, P[v, 1] - N0, P[v, 2]) for v in f] for f in F]
+        col = [tuple(c / 255 for c in rgb) for rgb in kolory[k]]
+        ax.add_collection3d(Poly3DCollection(poly, facecolors=col, edgecolors="none"))
+        W, H = P[:, 0].max() - E0, P[:, 1].max() - N0
+        ax.set_xlim(0, W); ax.set_ylim(0, H); ax.set_zlim(118, 134)
+        ax.set_box_aspect((W, H, 16 * 3))
+        ax.view_init(elev=38, azim=-62)
+        ax.set_title("Wariant %s – powierzchnia po wykopie (kolor = głębokość wykopu, pion ×3)" % k, fontsize=10)
+        ax.tick_params(labelsize=6)
+    pal = paleta("YlOrBr", len(KRAWEDZIE_GLEBOKOSCI) - 1)
+    etyk = ["%.1f–%.1f m" % (p_, q_) if q_ < 6 else "ponad %.1f m" % p_ for p_, q_ in zip(KRAWEDZIE_GLEBOKOSCI[:-1], KRAWEDZIE_GLEBOKOSCI[1:])]
+    hand = [plt.Rectangle((0, 0), 1, 1, color=tuple(c / 255 for c in rgb)) for rgb in [KOLOR_POZA_WYKOPEM] + pal]
+    fig.legend(hand, ["poza wykopem"] + etyk, loc="lower center", ncol=6, fontsize=7)
+    fig.tight_layout(rect=(0, 0.04, 1, 1))
+    fig.savefig(WY_PNG, dpi=85)
+    print("zapisano", WY_PNG)
 
 
 if __name__ == "__main__":
