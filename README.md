@@ -31,6 +31,7 @@ archiwum/                         stary pakiet Civil 3D (nieaktualny)
 ```
 
 ## Stan prac
+- **8.10.2026: gotowy bilans v2** – `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx`, podkład `wyniki/PODKLAD_dz190_v3.dxf`, opis i pytania `wyniki/CZYTAJ_NAJPIERW.md`. Obliczenia: `prace/obliczenia_v2/`, dane: `prace/dane/`.
 - Wersja 1 obliczeń (`prace/obliczenia_v1/`) powstała przy **innych założeniach** (jeden wariant, bez podziału na strefy, zaokrąglenia do 100 m³). Wyniki tej wersji są **nieaktualne**. Zachowano skrypty, które można wykorzystać: odtwarzanie geometrii z PDF, model terenu, silnik rastra.
 - Nowe założenia (dwa warianty A i B, strefy hale / zieleń / nawierzchnie, grunty przydatne i nieprzydatne, decyzja o dowozie po stronie użytkownika, dokładność 0,00 m² i 0,000 m³): patrz `USTALENIA.md`.
 - Dokumenty (PDF) użytkownik wgrał bezpośrednio do repo; nowa sesja ma je znaleźć i opisać w `prace/MAPA_DOKUMENTOW.md`. Teksty są w `prace/ekstrakty_tekstu/`.

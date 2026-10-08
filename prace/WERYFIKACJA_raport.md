@@ -77,3 +77,14 @@ Skrypty kontroli i wyniki: `prace/weryfikacja/` (karty otworów, geometria, PZT 
 5. **Grunty przydatne:** pod zieleń – wszystkie grunty rodzime z wykopu poza glebą i nasypem (PG s. 12: zasypy niebudowlane z gruntu rodzimego); pod nawierzchnie (poniżej 0,50 m konstrukcji) – tylko piaski i pospółki (Ia, IIb, IIc, IIIa, IIIb), bo gliny są wysadzinowe, a przemarzanie 0,80 m sięga poniżej konstrukcji. *Propozycja: tak.*
 6. **Gęstości i spulchnienie:** w dokumentach brak gęstości gleby i nasypu oraz brak spulchnienia. *Propozycja:* objętości w stanie rodzimym; tony z gęstości DGI dla warstw, dla gleby 1,60 i nasypu 1,80 t/m³ (założenie); spulchnienie jako żółte pola informacyjne (1,25 / 1,25 / 1,30 / 1,15 jak w v1).
 7. **Drobne (wystarczy „tak"):** (a) zieleń na stropie = 3 975,11 m²; (b) woda do oceny gruntu wg dokumentacji geologicznej (otwory), nie 124,30 architekta; (c) otwór 12: E = 6 433 688,2, otwór 17 wg tabeli; (d) otwory z opinii tylko pomocniczo.
+
+## Aneks 8.10.2026 – kontrola DXF v2 i stref (po odpowiedziach użytkownika)
+| Nr | Wynik | Dowód |
+|---|---|---|
+| V1 | **NIEZGODNE** | `siatka_10m_dz190_checked_v2.dxf`: hale, granica i ścianka mają wierzchołki identyczne z v1 (maks. 0,7 mm) – korekta skali 0,37% nie została naniesiona. Usunięto tylko 3-wierzchołkową pozostałość ścianki. Do obliczeń użyto geometrii przeliczonej do PZT (`prace/dane/geometria.json`). Skrypt: `prace/weryfikacja/kontrola_dxf_v2.py`. |
+| V2 | **NIEZGODNE** | `ZIELEN-NA-GRUNCIE` (23 polilinie, z łukami): 6 264,04 m²; jedna polilinia (5,89 m²) leży w drugiej, 9,3 m² w hali 6. Wobec wypełnienia PZT (6 417,55 m²; Bilans 6 443,06): brakuje ok. 358 m² (głównie przy halach 1, 2, 5 i w pasie SE), dodane są ogrody deszczowe (ok. 229 m²). |
+| V3 | **NIEZGODNE** | `ZIELEN-NA-STROPIE` (38 polilinii): 3 572,61 m², jedna polilinia samoprzecinająca się. PZT: **3 979,48 m²** (potwierdza 3 975,11 z domknięcia Bilansu; 3 575,11 w tabeli to literówka). Brakuje ok. 369 m² (pasy przy halach 1, 2, 5, 6, 7, 8 i zadaszony dojazd przy hali 1). `prace/weryfikacja/pzt_strefy_widoczne.py`. |
+| V4 | informacja | Zieleń na stropie poza obrysami hal (396 m²) = zadaszone dojazdy do 4 pochylni (5,0 × 25,0 m) między halami 1/5, 3/4, 5/6 i 7/8 – obiekty podziemne. |
+| V5 | informacja | Wypełnienie (152,152,152) to wiaty (144,00 m² ≈ 143,15 z Bilansu), nie mury pochylni. |
+| V6 | **ZGODNE** (korekta R3) | Fundamenty głębsze z rzutów PW (`fundamenty_glebsze.py`): 143 etykiety d.k. −4,34 to 135 pogrubień + 8 rdzeni (nie 143 pogrubienia 4,40 × 3,40 jak w R3). Razem 137 pogrubień (w tym 6 szt. 4,40 × 6,54 w 2C, 4 szt. 4,40 × 6,59 w 4B i 8B oraz 2 szt. d.k. −4,54 w 2C), 8 rdzeni z szybami wind, 20 studzienek; objętość wszystkich obniżeń 1 294,323 m³ (bryły ze skosem 0,50 m – w R3 szacowano tylko pogrubienia, ok. 640 m³). |
+| V7 | **ZGODNE** | Nasyp z mapy 4.3 (georeferencja na 27 symbolach otworów, rms 0,76 m): strefy przy otworach 17+20 i 5 – zgodnie z kartami. |

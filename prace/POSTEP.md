@@ -32,7 +32,9 @@
 
 - [x] T4: dane w `prace/dane/` (`prace/obliczenia_v2/dane.py`): geometria po korekcie do PZT, strefy z PZT wektorowego, 17 otworów + 5 CPTU, nasyp z mapy 4.3, teren (PZT + otwory), projekt (PZT).
 - [x] T5–T7: silnik `prace/obliczenia_v2/silnik.py` (raster 0,25 m) → `wyniki.json`; wrażliwość `niepewnosc.py` → `niepewnosc.json`. Wyniki bazowe: humus 15 274 m³, nasyp 259 m³; wykop gruntu rodzimego A 33 899 m³, B 45 125 m³ (w tym spod hal 27 063 m³ – wywóz); fundamenty głębsze 1 294 m³; deficyt gruntu do zasypu ok. 11 735 m³ (A i B); grunt niewysadzinowy (strefa przemarzania) 2 660 m³.
-- [ ] T8: arkusz Excel `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` (`prace/obliczenia_v2/arkusz.py`), podkład DXF `wyniki/PODKLAD_dz190_v3.dxf`, `wyniki/CZYTAJ_NAJPIERW.md`.
+- [x] T8: arkusz `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` (`prace/obliczenia_v2/arkusz.py`: 156 formuł z zapisanymi wartościami; kontrola niezależna `kontrola_arkusza.py`: 36 pozycji, różnica 0,000 m³; kontrole bilansu = 0), podkład `wyniki/PODKLAD_dz190_v3.dxf` (`podklad_dxf.py`, audyt DXF bez błędów), `wyniki/CZYTAJ_NAJPIERW.md`. Obrazy w sesji: 5 (schematy stref i wykopów, 2 wycinki PW_1A).
+- [ ] Czekam na odpowiedzi na 5 pytań z `wyniki/CZYTAJ_NAJPIERW.md` (grunt spod hal do zasypu, rampy, ogrody deszczowe w B, strefa przemarzania poza wykopem, podnóże skarpy w B).
+- Odtworzenie wyników: `cd prace/obliczenia_v2 && python dane.py && python silnik.py && python niepewnosc.py && python arkusz.py && python podklad_dxf.py` (wymaga `prace/_odzyskane/` – skrypty w `prace/weryfikacja/` same odzyskują PZT z gita; PW_* i 4.3 – komenda w `prace/MAPA_DOKUMENTOW.md`).
 
 ## Uwagi
 - Rzędne w warstwach DXF użytkownika są stare i wstępne – teren brać z tekstu PZT i otworów.

@@ -23,6 +23,17 @@ Plik jest wektorowy – nie renderuj go dużym zoomem (użyj `renderuj_pdf.py`).
 | `dokumentacja/04_projekt_zagospodarowania_i_architektura/8. Przekroje terenowe z naniesionym średnim poziomem wody gruntowej.pdf` | rzędne i poziom wody | tak | wektorowy, strona 4252×1684 pt |
 | `prace/dane_wejsciowe_uzytkownika/*_checked.txt` i `siatka_10m_dz190_checked.dxf` | **obrysy użytkownika (obowiązujące)** | – | patrz README tego folderu |
 
+## Wyniki i dane (od 8.10.2026)
+| Plik | Zawartość |
+|---|---|
+| `wyniki/BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` | bilans A i B (WYNIK, ZALOZENIA, OBLICZENIA, FUNDAMENTY, GRUNTY, STREFY, NIEPEWNOSC, KONTROLE) |
+| `wyniki/PODKLAD_dz190_v3.dxf` | podkład GstarCAD: geometria przeliczona do PZT + warstwy `BILANS_*` |
+| `wyniki/CZYTAJ_NAJPIERW.md` | krótki opis wyników i pytania |
+| `prace/dane/` | dane wejściowe ze źródłami (geometria, strefy, otwory, CPTU, nasyp, teren, projekt) |
+| `prace/obliczenia_v2/` | `dane.py`, `silnik.py`, `niepewnosc.py`, `arkusz.py`, `kontrola_arkusza.py`, `podklad_dxf.py` |
+
+Odzysk wszystkich rzutów PW (nazwy z polskimi znakami): `git -c core.quotepath=off ls-tree -r --name-only 851b25a | grep PW_` i `git show 851b25a:"<ścieżka>" > prace/_odzyskane/PW_xx.pdf` (tak robi skrypt w sesji 8.10).
+
 ## Usunięte przez użytkownika – decyzja i uwagi z weryfikacji
 | Usunięte | Czy potrzebne? | Gdzie jest informacja |
 |---|---|---|
