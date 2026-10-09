@@ -134,6 +134,11 @@ Gdy w rozmowie jest **ponad 20 obrazów**, każdy obraz (także stary) musi mie�
 26. Wymiary studzienek z rzutu 1A przyjęte dla wszystkich budynków – **zostaje**, chyba że analiza pozostałych rzutów pokaże błąd.
 Nasyp niekontrolowany wg stref z mapy 4.3 DGI (otwory 5, 17, 20) – bez uwag.
 
+**Decyzje – model 3D (po zamknięciu bilansu):**
+27. Wizualizacja robót ziemnych: warianty **A i B**, w etapach (teren istniejący → po zdjęciu humusu i nasypu → po wykopie → stan końcowy); zaznaczone rampy, ścianka i obrysy hal. Użytkownik ma Civil 3D i AutoCAD (plik LandXML dla Civil 3D, DXF dla AutoCAD-a i GstarCAD-a).
+28. Powierzchnie docelowe (stan końcowy) z projektowego PZT. Przekroje: linie T1–T4 z rysunku Z-04 „Przekroje terenowe" (repo; użytkownik przesłał też jego lekką wersję), grunt na przekrojach z DGI.
+29. Fundamenty głębsze nie są w modelu 3D (w bilansie są liczone z liczby sztuk i wymiarów, bez położeń). Pliki: `wyniki/MODEL3D_*`, `wyniki/PRZEKROJE_*`, `wyniki/MAPA_GLEBOKOSCI_*`; skrypty: `prace/obliczenia_v2/model3d.py`, `kontrola_modelu3d.py`, `przekroje.py`, `mapa_glebokosci.py`, `prace/weryfikacja/linie_przekrojow.py`.
+
 **Pozostałe ustalenia:**
 9. Użytkownik usunął z repo MDCP, PZT garaże, rzuty fundamentów PW_*, mapy 1–4.8 (poza 4.1), CPTU i analizy laboratoryjne, bo wszystko naniósł na DXF. **Weryfikacja (sesja z 7.10) wykazała wyjątki:** rzuty fundamentów (poziomy płyty i głębsze elementy) i zestawienie F (wilgotność, IL, gęstość) niosą dane, których nie ma w DXF – ich wyciąg jest w `prace/FAKTY_Z_USUNIETYCH_DOKUMENTOW.md`. Rzędne terenu z MDCP nie trafiły do DXF (rzędne w DXF to stare wstępne).
 10. Hala 2 (6 wierzchołków) jest poprawna. Ścianka jest obrysem otwartym; hala przecięta linią zamykającą nie jest błędem.

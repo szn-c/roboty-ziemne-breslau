@@ -45,6 +45,20 @@
 - DXF v3: nowe warstwy `BILANS_WYMIANA_PRZEMARZANIE_A`/`_B`; opis dna A z rampami; audyt bez błędów.
 - Obrazy w sesji: 0 nowych (łącznie 5/15).
 
+## Sesja – model 3D wykopu, przekroje T1–T4 i mapy 2D (ustalenia 27–29)
+- Zlecenie: wizualizacja robót ziemnych (warianty A i B, etapy, zaznaczone rampy/ścianka/obrysy hal), plik dla Civil 3D (użytkownik ma Civil 3D i AutoCAD), przekroje T1–T4 z rysunku Z-04 (użytkownik przesłał jego lekką wersję; ten sam rysunek jest w `dokumentacja/04_.../8. Przekroje terenowe...pdf`), grunt na przekrojach z DGI, stan końcowy z PZT.
+- `silnik.py`: `licz(zapisz_geometrie=True)` zwraca też rastry (`geom["_siatka"]`); `wyniki.json` bez zmian (sprawdzone).
+- `prace/weryfikacja/linie_przekrojow.py` → `prace/dane/linie_przekrojow.json`: linie T1–T4 z kropkowanych linii planu lokalizacji (kolejność rysowania kropek), plan dopasowany do PL-2000 po niebieskich obrysach garaży (rms 0,20 m, obrót −7,37°). T1 ma przesunięcie linii (ok. 17 m), które na rysunku nie wlicza się do odległości.
+- `prace/obliczenia_v2/model3d.py` → `wyniki/MODEL3D_dz190.dxf` (3DFACE na warstwach 3D_*, linie 3D, pionowe płaszczyzny ścianki) i `wyniki/MODEL3D_dz190_LandXML.xml` (5 powierzchni TIN). TIN adaptacyjny z rastra 0,25 m; **ważne: Delaunay liczyć na współrzędnych lokalnych** (PL-2000 ~6,4·10⁶ psuje precyzję Qhull – dawało dziury i błędy rzędu 2 m).
+- `prace/obliczenia_v2/kontrola_modelu3d.py`: niezależna kontrola zapisanych plików (struktura, DXF = LandXML, brak dziur, objętości z plików): wykop A 34 269,266 m³ (bilans 34 264,887; +0,013%), B 45 208,577 m³ (bilans 45 202,425; +0,014%), humus + nasyp 15 536,149 m³ (bilans 15 533,494), audyt DXF 0 błędów.
+- `prace/obliczenia_v2/przekroje.py` → `wyniki/PRZEKROJE_dz190.dxf` + podgląd PNG; kontrola rzędnych terenu z etykiet rysunku projektanta: T2/T3 RMS 0,10–0,14 m, T1/T4 0,36–0,38 m z pojedynczymi punktami ok. 1 m (raport V10).
+- `prace/obliczenia_v2/mapa_glebokosci.py` → `wyniki/MAPA_GLEBOKOSCI_dz190.dxf` + PNG: głębokość wykopu (A 34 264 m³, B 45 202 m³, maks. 3,1 m) i grubość wypełnienia do rzędnej projektowej (bez hal).
+- Instrukcja dla użytkownika: `wyniki/MODEL3D_INSTRUKCJA.md`. **Nie otwierano plików w AutoCAD-zie, GstarCAD-zie ani Civil 3D.**
+- Trójkąty wariantów A i B w `MODEL3D_dz190.dxf` pokolorowane wg głębokości wykopu (te same klasy co `MAPA_GLEBOKOSCI`), legenda w `3D_OPISY`; podgląd `wyniki/MODEL3D_podglad.png`. Powód: w Civil 3D (LandXML, wiele powierzchni naraz, widok z góry) siatka trójkątów była nieczytelna.
+- Fundamentów głębszych nie ma w modelu (brak położeń w danych).
+- Odtworzenie: `cd prace/obliczenia_v2 && python silnik.py && python model3d.py && python kontrola_modelu3d.py && python przekroje.py && python mapa_glebokosci.py` (linie przekrojów: `python prace/weryfikacja/linie_przekrojow.py`).
+- Obrazy w tej sesji: 5 (plan lokalizacji, wycinek T1, podgląd 3D, przekroje, mapy) – łącznie z poprzednimi 10/15, każdy ≤ 1500 px.
+
 ## Uwagi
 - Rzędne w warstwach DXF użytkownika są stare i wstępne – teren brać z tekstu PZT i otworów.
 - Poprzednie wyniki (`prace/obliczenia_v1/`) obowiązywały przy innych założeniach.

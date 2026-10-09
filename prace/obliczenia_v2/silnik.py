@@ -246,8 +246,10 @@ def licz(p=None, zapisz_geometrie=False):
     wynik["teren_sr"] = {"dzialka": round(float(zt[inG].mean()), 3), "w_sciance": round(float(zt[inG & inP].mean()), 3)}
     wynik["za_scianka_komorek"] = za_scianka
     geom = {}
+    siatka = {}
     for nazwa, ze in (("A", zeA), ("B", zeB)):
         dz0 = np.nan_to_num(np.where(inG, np.clip(zs - ze, 0, None), 0.0), posinf=0.0)
+        ze0 = ze.copy()                               # powierzchnia wykopu bez wymiany w strefie przemarzania
         if p["wymiana_mrozu"]:
             wym = mK & (zs > zp - p["przemarzanie"])
             ze = np.where(wym, np.minimum(ze, zp - p["przemarzanie"]), ze)
@@ -295,11 +297,14 @@ def licz(p=None, zapisz_geometrie=False):
         # skład do kontroli: piaski/gliny
         wynik["warianty"][nazwa] = res
         if zapisz_geometrie:
+            siatka[nazwa] = {"ze0": ze0, "ze": ze.copy()}
             geom[nazwa] = maska_na_wielokaty((dz0 > 1e-9).reshape(shape), xs, ys, cell)
             geom[nazwa + "_wymiana"] = maska_na_wielokaty(((dz - dz0) > 1e-9).reshape(shape), xs, ys, cell)
     # --- fundamenty głębsze (osobno, pod halami)
     wynik["fundamenty"] = fundamenty(HALE, x, y, inG, zs, sklad, p)
     if zapisz_geometrie:
+        geom["_siatka"] = dict(xs=xs, ys=ys, shape=shape, cell=cell, zt=zt, zs=zs, zp=zp, hh=hh, hn=hn, inG=inG, inP=inP, Ddom=Ddom,
+                              mH=mH, mR=mR, mO=mO, mZ=mZ, mU=mU, mK=mK, z_rampa=z_rampa, **siatka)
         return wynik, geom
     return wynik
 
