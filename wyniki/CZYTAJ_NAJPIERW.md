@@ -4,6 +4,7 @@
 - `BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` – arkusz z wynikiem. Zacznij od zakładki **WYNIK** (warianty A i B obok siebie). Żółte pola to Twoje decyzje – możesz je zmieniać, arkusz przeliczy się sam. Zakładka **WARIANT_A** pokazuje krok po kroku, jak powstaje wykop A.
 - `PODKLAD_dz190_v3.dxf` – podkład do GstarCAD (opis warstw niżej).
 - `MODEL3D_dz190.dxf` i `MODEL3D_dz190_LandXML.xml` – model 3D wykopu w etapach (teren istniejący → po zdjęciu humusu → po wykopie A i B → stan końcowy), do AutoCAD-a, GstarCAD-a i Civil 3D. Instrukcja i kontrola: `MODEL3D_INSTRUKCJA.md`.
+- `MODEL3D_dz190_podglad.html` – model 3D do oglądania w przeglądarce (etapy do wyboru, garaże, ścianka szczelna, woda, otwory i CPTU z DGI). Pobierz i kliknij dwa razy.
 - `PRZEKROJE_dz190.dxf` (podgląd: `PRZEKROJE_dz190_podglad.png`) – przekroje T1–T4 z warstwami gruntu z DGI.
 - `MAPA_GLEBOKOSCI_dz190.dxf` (podgląd: `MAPA_GLEBOKOSCI_dz190.png`) – mapy głębokości wykopu i grubości wypełnienia.
 

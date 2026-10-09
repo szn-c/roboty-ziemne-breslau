@@ -8,6 +8,7 @@ Model jest zrobiony z tych samych danych co bilans (arkusz `BILANS_ROBOT_ZIEMNYC
 | `MODEL3D_dz190.dxf` | model 3D do AutoCAD-a i GstarCAD-a (siatki trójkątów 3DFACE, linie 3D, opisy). Około 19 MB. |
 | `MODEL3D_dz190_LandXML.xml` | te same 5 powierzchni jako TIN do **Civil 3D** (import LandXML). |
 | `MODEL3D_podglad.png` | podgląd wariantów A i B w widoku izometrycznym (kolor = głębokość wykopu). |
+| `MODEL3D_dz190_podglad.html` | **podgląd 3D w przeglądarce** (jeden plik, bez instalacji i bez internetu) – opis niżej. |
 | `PRZEKROJE_dz190.dxf` | przekroje T1–T4 (2D) z warstwami gruntu z DGI. Podgląd: `PRZEKROJE_dz190_podglad.png`. |
 | `MAPA_GLEBOKOSCI_dz190.dxf` | mapy 2D: głębokość wykopu i grubość wypełnienia (A i B). Podgląd: `MAPA_GLEBOKOSCI_dz190.png`. |
 
@@ -32,6 +33,23 @@ Zaznaczone linie 3D:
 - górna krawędź i dno wykopu A i B (`3D_LINIA_A_*`, `3D_LINIA_B_*`),
 - granica działki (`3D_LINIA_GRANICA`),
 - pionowe płaszczyzny ścianki (`3D_SCIANKA_A`, `3D_SCIANKA_B`).
+
+## Podgląd w przeglądarce (`MODEL3D_dz190_podglad.html`)
+1. Pobierz plik na dysk (GitHub: otwórz plik → przycisk *Download raw file*) i kliknij go dwa razy. Otworzy się w Chrome, Edge albo Firefox. Internet nie jest potrzebny – biblioteka Three.js jest w pliku.
+2. Mysz: lewy przycisk – obrót, prawy – przesuw, kółko – zoom. Przyciski: izometria, z góry, od południa, od zachodu.
+3. **Etapy:** zaznacz, które powierzchnie pokazać (można kilka), albo „Pokaż tylko: 1 / 2 / 3A / 3B / 4”. Kolor: wykop według głębokości (te same klasy co w DXF i na mapach), według rzędnej albo jednolity. Siatka trójkątów i przezroczystość – do włączenia.
+4. **Garaże i zabezpieczenie:** bryły hal i zadaszonych dojazdów, rampy, ścianka szczelna z grodzic, odcinek bez ścianki (skarpa od południa), górne krawędzie wykopów A i B, granica działki.
+5. **Woda i badania (DGI):** płaszczyzna wody (domyślnie średnie zwierciadło ustabilizowane 123,39 m npm, suwak w zakresie DGI 122,90–124,10), zwierciadło zmierzone w otworach (niebieskie krążki), profile 17 otworów i 5 sondowań CPTU w kolorach warstw. Profile są w gruncie – zwiększ przezroczystość albo zaznacz „otwory widoczne przez powierzchnie”.
+6. **Przewyższenie pionowe** ×1–×6 (domyślnie ×2). Etykiety można wyłączyć.
+7. **Kliknięcie w model** pokazuje w tym miejscu: współrzędne E, N, rzędne wszystkich etapów, grubość humusu i nasypu, głębokość wykopu A i B. Kliknięcie w otwór lub CPTU pokazuje jego profil (warstwy, rzędne, woda) z DGI.
+
+Uproszczenia w podglądzie:
+- Bryła garażu: od spodu płyty fundamentowej 121,96 do rzędnej terenu projektowanego nad garażem (strop razem z warstwą zieleni). Rzędnej stropu nie ma w danych bilansu.
+- Ścianka szczelna: przebieg z obliczeń bilansu (430,9 m, bez strony południowej), od terenu istniejącego w dół na 8,0 m. Projekt geotechniczny (s. 10) podaje „do maksymalnej głębokości około 8,0 m ppt”; dokładna głębokość będzie ustalona później.
+- Sondowania CPTU są narysowane 2,2 m na wschód od otworu, w którym je wykonano (w rzeczywistości są w tym samym miejscu).
+- Fundamentów głębszych nie ma (brak położeń w danych).
+
+Sprawdzenie: plik otworzyłem w przeglądarce Chromium bez okna (headless). Ładuje się bez błędów JavaScript, rysuje model, a przyciski i przełączniki działają. Rzędne po kliknięciu zgadzają się z obliczeniami bilansu (do 0,01 m). Nie sprawdzałem w Twojej przeglądarce ani na słabszym komputerze.
 
 ## AutoCAD / GstarCAD
 1. Otwórz `MODEL3D_dz190.dxf`, wpisz `ZOOM` → `E`.
