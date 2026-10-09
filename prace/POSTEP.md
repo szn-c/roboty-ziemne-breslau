@@ -59,6 +59,13 @@
 - Odtworzenie: `cd prace/obliczenia_v2 && python silnik.py && python model3d.py && python kontrola_modelu3d.py && python przekroje.py && python mapa_glebokosci.py` (linie przekrojów: `python prace/weryfikacja/linie_przekrojow.py`).
 - Obrazy w tej sesji: 5 (plan lokalizacji, wycinek T1, podgląd 3D, przekroje, mapy) – łącznie z poprzednimi 10/15, każdy ≤ 1500 px.
 
+## Sesja – podgląd 3D w przeglądarce (ustalenie 30)
+- `prace/obliczenia_v2/podglad_html.py` → `wyniki/MODEL3D_dz190_podglad.html` (2,0 MB): Three.js r147 wbudowany (`prace/obliczenia_v2/_vendor/three-0.147.0/`, licencja MIT), powierzchnie z pliku LandXML, garaże (bryły 121,96 – teren projektowany), rampy, ścianka szczelna (grodzice 8,0 m ppt, PG s. 10), woda 123,39 (suwak 122,90–124,10), otwory i CPTU z DGI, klik = rzędne etapów / profil otworu.
+- Test: Chromium headless (`agent-browser`): brak błędów JS, WebGL rysuje, przyciski działają, rzędne po kliknięciu = silnik (hala 7: 124,80 / 124,22 / 121,86 / 121,86 / 125,98).
+- Uwaga techniczna: `agent-browser` traci stronę między osobnymi wywołaniami powłoki – `open`, `eval` i `screenshot` w jednym poleceniu; `set viewport` przed `open`.
+- npm w piaskownicy: uruchamiać z `NODE_OPTIONS=` (domyślny NODE_OPTIONS wskazuje nieistniejący plik).
+- Obrazy w sesji: 3 (zrzuty podglądu, w tym 1 pusty) – razem z poprzednimi ok. 13/15.
+
 ## Uwagi
 - Rzędne w warstwach DXF użytkownika są stare i wstępne – teren brać z tekstu PZT i otworów.
 - Poprzednie wyniki (`prace/obliczenia_v1/`) obowiązywały przy innych założeniach.
