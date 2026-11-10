@@ -1,6 +1,8 @@
 # Bilans robót ziemnych – działka 1/90 (stan po ustaleniach 18–23)
 
 ## Pliki
+- `AUDYT_BILANSU_I_OPTYMALIZACJI.md` – niezależne sprawdzenie obliczeń i założeń, lista ryzyk oraz możliwości ograniczenia kosztów.
+- `MODEL_ROBOT_ZIEMNYCH_AUDYT.html` – nowy, samodzielny model 3D z przełączaniem A/B, pulpitem bilansu, ryzykami, kalkulatorem kosztowym i kontrolami. Działa bez internetu; pobierz plik i otwórz go dwuklikiem w przeglądarce.
 - `BILANS_ROBOT_ZIEMNYCH_dz190_v2.xlsx` – arkusz z wynikiem. Zacznij od zakładki **WYNIK** (warianty A i B obok siebie). Żółte pola to Twoje decyzje – możesz je zmieniać, arkusz przeliczy się sam. Zakładka **WARIANT_A** pokazuje krok po kroku, jak powstaje wykop A.
 - `PODKLAD_dz190_v3.dxf` – podkład do GstarCAD (opis warstw niżej).
 - `OPIS_WYLICZEN.md` – opis wyliczeń w punktach: dane, metoda, zasady, wyniki, kontrola, niepewność, założenia.
